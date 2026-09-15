@@ -1,0 +1,16 @@
+{
+  "kind": "youtube#channelListResponse",
+  "items": [
+    {
+      "id": "UCQgWpmt02UtJkyO32HGUASQ",
+      "snippet": {
+        "title": "Thinkerview"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUQgWpmt02UtJkyO32HGUASQ"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "nextPageToken": "PAGE_2",
+  "items": [
+    {
+      "contentDetails": {
+        "videoId": "bbbbbbbbbbb"
+      },
+      "snippet": {
+        "resourceId": {
+          "videoId": "bbbbbbbbbbb"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "contentDetails": {
+        "videoId": "ddddddddddd"
+      },
+      "snippet": {
+        "resourceId": {
+          "videoId": "ddddddddddd"
+        }
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    }
+  ]
+}

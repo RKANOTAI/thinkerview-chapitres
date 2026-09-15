@@ -1,0 +1,84 @@
+{
+  "kind": "youtube#videoListResponse",
+  "items": [
+    {
+      "id": "aaaaaaaaaaa",
+      "snippet": {
+        "title": "Entretien standard",
+        "description": "Description de la vidéo standard",
+        "publishedAt": "2025-02-01T10:00:00Z",
+        "liveBroadcastContent": "none",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aaaaaaaaaaa/default.jpg"
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aaaaaaaaaaa/hqdefault.jpg"
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aaaaaaaaaaa/maxresdefault.jpg"
+          }
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H3M4S"
+      },
+      "status": {
+        "embeddable": true
+      }
+    },
+    {
+      "id": "bbbbbbbbbbb",
+      "snippet": {
+        "title": "Ancien direct",
+        "description": "Ce direct est désormais disponible en replay",
+        "publishedAt": "2025-03-01T10:00:00Z",
+        "liveBroadcastContent": "none",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bbbbbbbbbbb/default.jpg"
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bbbbbbbbbbb/hqdefault.jpg"
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bbbbbbbbbbb/sddefault.jpg"
+          }
+        }
+      },
+      "contentDetails": {
+        "duration": "PT45M"
+      },
+      "status": {
+        "embeddable": false
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-03-01T10:00:00Z",
+        "actualEndTime": "2025-03-01T10:45:00Z"
+      }
+    },
+    {
+      "id": "ccccccccccc",
+      "snippet": {
+        "title": "Direct programmé",
+        "description": "Une prochaine émission",
+        "publishedAt": "2025-02-01T10:00:00Z",
+        "liveBroadcastContent": "upcoming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ccccccccccc/default.jpg"
+          }
+        }
+      },
+      "contentDetails": {
+        "duration": "PT0S"
+      },
+      "status": {
+        "embeddable": true
+      },
+      "liveStreamingDetails": {
+        "scheduledStartTime": "2026-01-01T20:00:00Z"
+      }
+    }
+  ]
+}

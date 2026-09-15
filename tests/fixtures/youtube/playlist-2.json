@@ -1,0 +1,31 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "items": [
+    {
+      "contentDetails": {
+        "videoId": "ccccccccccc"
+      },
+      "snippet": {
+        "resourceId": {
+          "videoId": "ccccccccccc"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "contentDetails": {
+        "videoId": "aaaaaaaaaaa"
+      },
+      "snippet": {
+        "resourceId": {
+          "videoId": "aaaaaaaaaaa"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ]
+}
