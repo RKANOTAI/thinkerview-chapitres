@@ -16,6 +16,36 @@ function installFakeApi(): void {
   } as unknown as typeof YT
 }
 
+function installControllableApi() {
+  const player = {
+    cueVideoById: vi.fn(),
+    loadVideoById: vi.fn(),
+    seekTo: vi.fn(),
+    playVideo: vi.fn(),
+    getCurrentTime: vi.fn(() => 812.4),
+    getPlayerState: vi.fn(() => 1 as YT.PlayerState),
+    destroy: vi.fn(),
+  }
+  let options: YT.PlayerOptions | undefined
+  const Player = vi.fn(function (_element: HTMLElement | string, playerOptions: YT.PlayerOptions) {
+    options = playerOptions
+    queueMicrotask(() => playerOptions.events?.onReady?.({ target: player as unknown as YT.Player }))
+    return player
+  })
+  window.YT = {
+    Player: Player as unknown as typeof YT.Player,
+    PlayerState: {
+      UNSTARTED: -1,
+      ENDED: 0,
+      PLAYING: 1,
+      PAUSED: 2,
+      BUFFERING: 3,
+      CUED: 5,
+    },
+  } as typeof YT
+  return { Player, player, getOptions: () => options }
+}
+
 describe('loadYouTubeIframeApi', () => {
   beforeEach(() => {
     vi.resetModules()
@@ -259,5 +289,108 @@ describe('loadYouTubeIframeApi', () => {
 
     expect(settled).toHaveBeenCalledWith('resolved')
     expect(window.onYouTubeIframeAPIReady).toBe(existingReadyCallback)
+  })
+
+  it('creates a privacy-enhanced controller and cues a selection without autoplay', async () => {
+    const { Player, player, getOptions } = installControllableApi()
+    const { YouTubeController } = await import('./youtubeIframe')
+    const mount = document.createElement('div')
+
+    const controller = new YouTubeController(mount)
+    await controller.cue('aaaaaaaaaaa', 305)
+
+    expect(Player).toHaveBeenCalledWith(mount, expect.objectContaining({
+      host: 'https://www.youtube-nocookie.com',
+      playerVars: {
+        enablejsapi: 1,
+        origin: window.location.origin,
+        playsinline: 1,
+      },
+    }))
+    expect(getOptions()).toBeDefined()
+    expect(player.cueVideoById).toHaveBeenCalledWith('aaaaaaaaaaa', 305)
+    expect(player.playVideo).not.toHaveBeenCalled()
+  })
+
+  it('loads, seeks and plays an explicit chapter while exposing playback state', async () => {
+    const { player } = installControllableApi()
+    const { YouTubeController } = await import('./youtubeIframe')
+    const controller = new YouTubeController(document.createElement('div'))
+
+    await controller.playAt('aaaaaaaaaaa', 720)
+
+    expect(player.loadVideoById).toHaveBeenCalledWith('aaaaaaaaaaa', 720)
+    expect(player.seekTo).toHaveBeenCalledWith(720, true)
+    expect(player.playVideo).toHaveBeenCalledOnce()
+    expect(controller.getCurrentTime()).toBe(812.4)
+    expect(controller.getPlayerState()).toBe(1)
+
+    controller.destroy()
+    expect(player.destroy).toHaveBeenCalledOnce()
+  })
+
+  it('forwards player state and errors to the interface', async () => {
+    const { player, getOptions } = installControllableApi()
+    const onStateChange = vi.fn()
+    const onError = vi.fn()
+    const { YouTubeController } = await import('./youtubeIframe')
+    const controller = new YouTubeController(document.createElement('div'), {
+      onStateChange,
+      onError,
+    })
+    await controller.cue('aaaaaaaaaaa', 0)
+
+    getOptions()?.events?.onStateChange?.({
+      target: player as unknown as YT.Player,
+      data: 1,
+    })
+    getOptions()?.events?.onError?.({
+      target: player as unknown as YT.Player,
+      data: 101,
+    })
+
+    expect(onStateChange).toHaveBeenCalledWith(1)
+    expect(onError).toHaveBeenCalledWith(expect.objectContaining({
+      message: 'Erreur du lecteur YouTube (101)',
+    }))
+  })
+
+  it('destroys a player that becomes ready after the controller was unmounted', async () => {
+    const player = {
+      cueVideoById: vi.fn(),
+      loadVideoById: vi.fn(),
+      seekTo: vi.fn(),
+      playVideo: vi.fn(),
+      getCurrentTime: vi.fn(() => 0),
+      getPlayerState: vi.fn(() => -1 as YT.PlayerState),
+      destroy: vi.fn(),
+    }
+    let options: YT.PlayerOptions | undefined
+    const Player = vi.fn(function (_element: HTMLElement | string, nextOptions: YT.PlayerOptions) {
+      options = nextOptions
+      return player
+    })
+    window.YT = {
+      Player: Player as unknown as typeof YT.Player,
+      PlayerState: {
+        UNSTARTED: -1,
+        ENDED: 0,
+        PLAYING: 1,
+        PAUSED: 2,
+        BUFFERING: 3,
+        CUED: 5,
+      },
+    } as typeof YT
+    const { YouTubeController } = await import('./youtubeIframe')
+    const controller = new YouTubeController(document.createElement('div'))
+    const cue = controller.cue('aaaaaaaaaaa', 0)
+    await Promise.resolve()
+
+    controller.destroy()
+    options?.events?.onReady?.({ target: player as unknown as YT.Player })
+    await cue
+
+    expect(player.destroy).toHaveBeenCalledOnce()
+    expect(player.cueVideoById).not.toHaveBeenCalled()
   })
 })

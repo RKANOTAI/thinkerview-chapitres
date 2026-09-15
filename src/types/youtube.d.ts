@@ -18,6 +18,10 @@ declare namespace YT {
     data: number
   }
 
+  interface OnStateChangeEvent extends PlayerEvent {
+    data: PlayerState
+  }
+
   interface PlayerOptions {
     host?: string
     playerVars?: {
@@ -28,6 +32,7 @@ declare namespace YT {
     events?: {
       onReady?: (event: PlayerEvent) => void
       onError?: (event: OnErrorEvent) => void
+      onStateChange?: (event: OnStateChangeEvent) => void
     }
   }
 

@@ -1,146 +1,116 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 
 import './App.css'
-import type { CatalogVideo } from './domain/catalog'
-import { filterVideos, type VideoFilter } from './domain/filterVideos'
+import { Header } from './components/Header'
+import { PlayerPanel } from './components/PlayerPanel'
+import { SearchToolbar } from './components/SearchToolbar'
 import { previewVideos } from './data/previewVideos'
+import { StatusNotice } from './components/StatusNotice'
+import { VideoList } from './components/VideoList'
+import { parseCatalog, type Catalog } from './domain/catalog'
+import { filterVideos, type VideoFilter, type VideoOrder } from './domain/filterVideos'
 import { parsePlayerUrl, replacePlayerUrl } from './lib/urlState'
 
-const availableFilters = [
-  { value: 'all', label: 'Tout' },
-  { value: 'with-chapters', label: 'Chapitrés' },
-  { value: 'without-chapters', label: 'À enrichir' },
-] satisfies ReadonlyArray<{ value: VideoFilter; label: string }>
-
-function formatDuration(totalSeconds: number): string {
-  const hours = Math.floor(totalSeconds / 3_600)
-  const minutes = Math.floor((totalSeconds % 3_600) / 60)
-  return `${hours} h ${minutes.toString().padStart(2, '0')}`
-}
-
-function formatTimestamp(totalSeconds: number): string {
-  const hours = Math.floor(totalSeconds / 3_600)
-  const minutes = Math.floor((totalSeconds % 3_600) / 60)
-  const seconds = totalSeconds % 60
-  return hours > 0
-    ? `${hours}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`
-    : `${minutes}:${seconds.toString().padStart(2, '0')}`
-}
-
-function formatPublishedAt(value: string): string {
-  return new Intl.DateTimeFormat('fr-FR', {
-    day: '2-digit',
-    month: 'short',
-    year: 'numeric',
-  }).format(new Date(value))
-}
-
-function getInitialSelection(): { videoId: string; startSeconds: number } {
-  const urlState = parsePlayerUrl(window.location.search)
-  const selectedVideo = previewVideos.find((video) => video.id === urlState.videoId)
-  return selectedVideo === undefined
-    ? { videoId: previewVideos[0].id, startSeconds: 0 }
-    : { videoId: selectedVideo.id, startSeconds: urlState.startSeconds }
-}
-
-function getEmbedUrl(videoId: string, startSeconds: number, autoplay: boolean): string {
-  const parameters = new URLSearchParams({
-    autoplay: autoplay ? '1' : '0',
-    rel: '0',
-    playsinline: '1',
-    start: String(startSeconds),
-  })
-  return `https://www.youtube-nocookie.com/embed/${videoId}?${parameters}`
-}
-
-function getYouTubeUrl(videoId: string, startSeconds: number): string {
-  const url = new URL('https://www.youtube.com/watch')
-  url.searchParams.set('v', videoId)
-  if (startSeconds > 0) {
-    url.searchParams.set('t', `${startSeconds}s`)
-  }
-  return url.href
-}
-
-function VideoCard({
-  video,
-  selected,
-  onSelect,
-}: {
-  video: CatalogVideo
-  selected: boolean
-  onSelect: (videoId: string) => void
-}) {
-  return (
-    <button
-      className="video-card"
-      data-selected={selected}
-      type="button"
-      aria-pressed={selected}
-      onClick={() => onSelect(video.id)}
-    >
-      <span className="thumbnail-wrap">
-        <img src={video.thumbnailUrl} alt="" loading="lazy" />
-        <span className="duration">{formatDuration(video.durationSeconds)}</span>
-      </span>
-      <span className="card-copy">
-        <span className="card-kicker">
-          {formatPublishedAt(video.publishedAt)}
-          <span aria-hidden="true">·</span>
-          {video.chapterStatus === 'ready' ? 'Chapitres disponibles' : 'Chapitres à venir'}
-        </span>
-        <strong>{video.title}</strong>
-        <span>{video.descriptionExcerpt}</span>
-      </span>
-      <span className="card-arrow" aria-hidden="true">↗</span>
-    </button>
-  )
-}
+type CatalogLoadState =
+  | { status: 'loading' }
+  | { status: 'error' }
+  | { status: 'ready'; catalog: Catalog }
 
 function App() {
-  const [initialSelection] = useState(getInitialSelection)
+  const [initialSelection] = useState(() => parsePlayerUrl(window.location.search))
+  const [loadAttempt, setLoadAttempt] = useState(0)
+  const [catalogState, setCatalogState] = useState<CatalogLoadState>({ status: 'loading' })
   const [selectedVideoId, setSelectedVideoId] = useState(initialSelection.videoId)
   const [startSeconds, setStartSeconds] = useState(initialSelection.startSeconds)
-  const [autoplay, setAutoplay] = useState(false)
   const [query, setQuery] = useState('')
   const [activeFilter, setActiveFilter] = useState<VideoFilter>('all')
+  const [activeOrder, setActiveOrder] = useState<VideoOrder>('recent')
 
-  const selectedVideo = previewVideos.find((video) => video.id === selectedVideoId)
-    ?? previewVideos[0]
+  useEffect(() => {
+    let active = true
+
+    void fetch(`${import.meta.env.BASE_URL}data/catalog.json`)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`Catalogue indisponible (${response.status})`)
+        }
+        return response.json() as Promise<unknown>
+      })
+      .then((input) => {
+        if (active) {
+          setCatalogState({ status: 'ready', catalog: parseCatalog(input) })
+        }
+      })
+      .catch(() => {
+        if (active) {
+          setCatalogState({ status: 'error' })
+        }
+      })
+
+    return () => {
+      active = false
+    }
+  }, [loadAttempt])
+
+  const videos = useMemo(() => {
+    if (catalogState.status !== 'ready') {
+      return []
+    }
+    const source = catalogState.catalog.videos.length > 0
+      ? catalogState.catalog.videos
+      : previewVideos
+    return filterVideos(source, { query: '', filter: 'all', order: 'recent' })
+  }, [catalogState])
+  const selectedVideoFromUrl = videos.find((video) => video.id === selectedVideoId)
+  const selectedVideo = selectedVideoFromUrl ?? videos[0]
+  const selectedStartSeconds = selectedVideoFromUrl === undefined ? 0 : startSeconds
   const visibleVideos = useMemo(
-    () => filterVideos(previewVideos, {
+    () => filterVideos(videos, {
       query,
       filter: activeFilter,
-      order: 'recent',
+      order: activeOrder,
     }),
-    [activeFilter, query],
+    [activeFilter, activeOrder, query, videos],
   )
 
   const selectVideo = (videoId: string) => {
     setSelectedVideoId(videoId)
     setStartSeconds(0)
-    setAutoplay(false)
     replacePlayerUrl({ videoId, startSeconds: 0 })
   }
 
-  const playChapter = (chapterStartSeconds: number) => {
-    setStartSeconds(chapterStartSeconds)
-    setAutoplay(true)
-    replacePlayerUrl({ videoId: selectedVideo.id, startSeconds: chapterStartSeconds })
+  if (catalogState.status === 'loading') {
+    return <StatusNotice kind="loading" />
   }
+
+  if (catalogState.status === 'error') {
+    return (
+      <StatusNotice
+        kind="error"
+        onRetry={() => {
+          setCatalogState({ status: 'loading' })
+          setLoadAttempt((attempt) => attempt + 1)
+        }}
+      />
+    )
+  }
+
+  const previewMode = catalogState.catalog.videos.length === 0
 
   return (
     <div className="site-shell">
-      <header className="topbar">
-        <a className="brand" href="./" aria-label="Accueil de Chapitres libres">
-          <span className="brand-mark" aria-hidden="true">C//</span>
-          <span>Chapitres libres</span>
-        </a>
-        <span className="preview-badge">Aperçu V1</span>
-        <a className="channel-link" href="https://www.youtube.com/@thinkerview" target="_blank" rel="noreferrer">
-          Chaîne originale <span aria-hidden="true">↗</span>
-        </a>
-      </header>
+      <Header
+        totalVideos={videos.length}
+        channelUrl={catalogState.catalog.channel.url}
+        previewMode={previewMode}
+      />
+
+      {previewMode && (
+        <div className="preview-notice" role="status">
+          <strong>Mode aperçu</strong>
+          <span>Le catalogue public est vide : cette sélection réduite permet de tester le parcours.</span>
+        </div>
+      )}
 
       <main>
         <section className="intro">
@@ -150,128 +120,70 @@ function App() {
             Une première version légère pour rechercher, choisir et ouvrir directement un sujet
             dans un entretien Thinkerview.
           </p>
-          <div className="intro-meta" aria-label="Contenu de l’aperçu">
-            <span><strong>{previewVideos.length}</strong> entretiens</span>
-            <span><strong>1</strong> chapitré</span>
+          <div className="intro-meta" aria-label="Contenu du catalogue">
+            <span><strong>{videos.length}</strong> entretiens</span>
+            <span><strong>{videos.filter((video) => video.chapterStatus === 'ready').length}</strong> chapitrés</span>
             <span><strong>1</strong> lecteur unique</span>
           </div>
         </section>
 
-        <section className="player-section" aria-label="Lecture en cours">
-          <div className="player-frame">
-            <iframe
-              src={getEmbedUrl(selectedVideo.id, startSeconds, autoplay)}
-              title="Lecteur YouTube"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerPolicy="strict-origin-when-cross-origin"
-              allowFullScreen
+        <div className="content-layout">
+          <div className="player-sticky">
+            <PlayerPanel
+              video={selectedVideo}
+              startSeconds={selectedStartSeconds}
             />
           </div>
 
-          <div className="player-copy">
-            <p className="eyebrow">Lecture en cours</p>
-            <h2>{selectedVideo.title}</h2>
-            <p>{selectedVideo.descriptionExcerpt}</p>
-            <div className="player-actions">
-              <span>{formatDuration(selectedVideo.durationSeconds)}</span>
-              <a
-                href={getYouTubeUrl(selectedVideo.id, startSeconds)}
-                target="_blank"
-                rel="noreferrer"
-              >
-                Ouvrir sur YouTube ↗
-              </a>
-            </div>
-          </div>
-
-          <aside className="chapters-panel" aria-label="Chapitres">
-            <div className="chapters-heading">
-              <p className="eyebrow">Navigation</p>
-              <span>{selectedVideo.chapters.length || '—'}</span>
-            </div>
-            {selectedVideo.chapterStatus === 'ready' ? (
-              <>
-                <p className="chapter-provenance">Repères générés depuis la transcription · à vérifier</p>
-                <ol>
-                  {selectedVideo.chapters.map((chapter, index) => (
-                    <li key={chapter.startSeconds}>
-                      <button
-                        type="button"
-                        data-active={
-                          chapter.startSeconds <= startSeconds
-                          && (selectedVideo.chapters[index + 1]?.startSeconds ?? Infinity) > startSeconds
-                        }
-                        onClick={() => playChapter(chapter.startSeconds)}
-                      >
-                        <span>{formatTimestamp(chapter.startSeconds)}</span>
-                        {chapter.title}
-                      </button>
-                    </li>
-                  ))}
-                </ol>
-              </>
-            ) : (
-              <div className="chapters-empty">
-                <span aria-hidden="true">⌁</span>
-                <p>Les chapitres de cet entretien seront ajoutés après validation.</p>
-              </div>
-            )}
-          </aside>
-        </section>
-
-        <section className="catalog-section" aria-labelledby="catalog-title">
+          <section className="catalog-section" aria-labelledby="catalog-title">
           <div className="catalog-heading">
             <div>
-              <p className="eyebrow">Sélection de démonstration</p>
+              <p className="eyebrow">{previewMode ? 'Sélection de démonstration' : 'Catalogue public'}</p>
               <h2 id="catalog-title">Explorer les entretiens</h2>
             </div>
             <span>{visibleVideos.length.toString().padStart(2, '0')} résultat{visibleVideos.length > 1 ? 's' : ''}</span>
           </div>
 
-          <div className="catalog-tools">
-            <label className="search-field">
-              <span aria-hidden="true">⌕</span>
-              <input
-                type="search"
-                aria-label="Rechercher"
-                value={query}
-                placeholder="Rechercher un invité, un thème…"
-                onChange={(event) => setQuery(event.target.value)}
-              />
-            </label>
-            <div className="filter-list" aria-label="Filtrer les entretiens">
-              {availableFilters.map((filter) => (
-                <button
-                  key={filter.value}
-                  type="button"
-                  data-active={activeFilter === filter.value}
-                  onClick={() => setActiveFilter(filter.value)}
-                >
-                  {filter.label}
-                </button>
-              ))}
-            </div>
-          </div>
+          <SearchToolbar
+            query={query}
+            filter={activeFilter}
+            order={activeOrder}
+            onQueryChange={setQuery}
+            onFilterChange={setActiveFilter}
+            onOrderChange={setActiveOrder}
+          />
 
-          <div className="video-list">
-            {visibleVideos.map((video) => (
-              <VideoCard
-                key={video.id}
-                video={video}
-                selected={video.id === selectedVideo.id}
-                onSelect={selectVideo}
-              />
-            ))}
-            {visibleVideos.length === 0 && (
-              <p className="no-results">Aucun entretien ne correspond à cette recherche.</p>
-            )}
-          </div>
-        </section>
+            <VideoList
+              videos={visibleVideos}
+              selectedVideoId={selectedVideo.id}
+              onSelect={selectVideo}
+              pageKey={`${query}\u0000${activeFilter}\u0000${activeOrder}`}
+            />
+          </section>
+        </div>
       </main>
 
       <footer>
-        <p>Projet indépendant, sans affiliation avec Thinkerview.</p>
-        <p>Les vidéos restent hébergées et publiées par leur auteur original.</p>
+        <p>Projet indépendant non affilié à Thinkerview.</p>
+        <nav aria-label="Liens et mentions">
+          <a href={catalogState.catalog.channel.url} target="_blank" rel="noreferrer">
+            Source vidéo · YouTube
+          </a>
+          <a
+            href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Données · CC BY-NC-SA 4.0
+          </a>
+          <a
+            href="https://github.com/RKANOTAI/thinkerview-chapitres"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Code source · GitHub
+          </a>
+        </nav>
       </footer>
     </div>
   )

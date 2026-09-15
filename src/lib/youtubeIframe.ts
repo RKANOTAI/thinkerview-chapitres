@@ -130,3 +130,79 @@ export function loadYouTubeIframeApi(): Promise<typeof YT> {
 
   return attemptPromise
 }
+
+export interface YouTubeControllerOptions {
+  onStateChange?: (state: YT.PlayerState) => void
+  onError?: (error: Error) => void
+}
+
+export class YouTubeController {
+  private readonly playerPromise: Promise<YT.Player | null>
+  private player: YT.Player | null = null
+  private destroyed = false
+
+  constructor(element: HTMLElement, options: YouTubeControllerOptions = {}) {
+    this.playerPromise = loadYouTubeIframeApi()
+      .then((api) => new Promise<YT.Player | null>((resolve) => {
+        new api.Player(element, {
+          host: 'https://www.youtube-nocookie.com',
+          playerVars: {
+            enablejsapi: 1,
+            origin: window.location.origin,
+            playsinline: 1,
+          },
+          events: {
+            onReady: (event) => {
+              if (this.destroyed) {
+                event.target.destroy()
+                resolve(null)
+                return
+              }
+              this.player = event.target
+              resolve(event.target)
+            },
+            onStateChange: (event) => options.onStateChange?.(event.data),
+            onError: (event) => {
+              options.onError?.(new Error(`Erreur du lecteur YouTube (${event.data})`))
+            },
+          },
+        })
+      }))
+      .catch((reason: unknown) => {
+        const error = reason instanceof Error
+          ? reason
+          : new Error('Le lecteur YouTube est indisponible')
+        options.onError?.(error)
+        throw error
+      })
+  }
+
+  async cue(videoId: string, startSeconds: number): Promise<void> {
+    const player = await this.playerPromise
+    player?.cueVideoById(videoId, startSeconds)
+  }
+
+  async playAt(videoId: string, startSeconds: number): Promise<void> {
+    const player = await this.playerPromise
+    if (player === null) {
+      return
+    }
+    player.loadVideoById(videoId, startSeconds)
+    player.seekTo(startSeconds, true)
+    player.playVideo()
+  }
+
+  getCurrentTime(): number {
+    return this.player?.getCurrentTime() ?? 0
+  }
+
+  getPlayerState(): YT.PlayerState {
+    return this.player?.getPlayerState() ?? -1
+  }
+
+  destroy(): void {
+    this.destroyed = true
+    this.player?.destroy()
+    this.player = null
+  }
+}

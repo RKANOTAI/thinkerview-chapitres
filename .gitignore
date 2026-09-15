@@ -15,7 +15,6 @@ dist-ssr
 coverage/
 playwright-report/
 test-results/
-public/data/catalog.json
 .env
 .env.*
 !.env.example
