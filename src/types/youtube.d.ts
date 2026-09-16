@@ -36,10 +36,15 @@ declare namespace YT {
     }
   }
 
+  interface VideoByIdOptions {
+    videoId: string
+    startSeconds?: number
+  }
+
   class Player {
     constructor(element: HTMLElement | string, options: PlayerOptions)
     cueVideoById(videoId: string, startSeconds?: number): void
-    loadVideoById(videoId: string, startSeconds?: number): void
+    loadVideoById(options: VideoByIdOptions): void
     seekTo(seconds: number, allowSeekAhead: boolean): void
     playVideo(): void
     getCurrentTime(): number

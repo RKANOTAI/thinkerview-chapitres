@@ -113,20 +113,6 @@ function App() {
       )}
 
       <main>
-        <section className="intro">
-          <p className="eyebrow">Regarder moins au hasard. Comprendre plus vite.</p>
-          <h1>Les longs entretiens,<br /><em>enfin navigables.</em></h1>
-          <p className="intro-copy">
-            Une première version légère pour rechercher, choisir et ouvrir directement un sujet
-            dans un entretien Thinkerview.
-          </p>
-          <div className="intro-meta" aria-label="Contenu du catalogue">
-            <span><strong>{videos.length}</strong> entretiens</span>
-            <span><strong>{videos.filter((video) => video.chapterStatus === 'ready').length}</strong> chapitrés</span>
-            <span><strong>1</strong> lecteur unique</span>
-          </div>
-        </section>
-
         <div className="content-layout">
           <div className="player-sticky">
             <PlayerPanel

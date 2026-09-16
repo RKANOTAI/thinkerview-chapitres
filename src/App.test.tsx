@@ -73,6 +73,20 @@ describe('catalogue V1', () => {
     expect(screen.queryByText('Mode aperçu')).not.toBeInTheDocument()
   })
 
+  it('ouvre directement le lecteur et le catalogue sans bloc introductif', async () => {
+    vi.stubGlobal(
+      'fetch',
+      vi.fn().mockResolvedValue(Response.json(makeCatalog([makeVideo()]))),
+    )
+
+    render(<App />)
+
+    expect(await screen.findByRole('region', { name: 'Lecture en cours' }))
+      .toBeInTheDocument()
+    expect(document.querySelector('.intro')).not.toBeInTheDocument()
+    expect(screen.queryByText('Les longs entretiens,')).not.toBeInTheDocument()
+  })
+
   it('permet de réessayer puis annonce le mode aperçu si le catalogue est vide', async () => {
     const user = userEvent.setup()
     const fetchMock = vi.fn()

@@ -187,9 +187,7 @@ export class YouTubeController {
     if (player === null) {
       return
     }
-    player.loadVideoById(videoId, startSeconds)
-    player.seekTo(startSeconds, true)
-    player.playVideo()
+    player.loadVideoById({ videoId, startSeconds })
   }
 
   getCurrentTime(): number {

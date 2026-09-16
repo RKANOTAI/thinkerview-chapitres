@@ -312,16 +312,19 @@ describe('loadYouTubeIframeApi', () => {
     expect(player.playVideo).not.toHaveBeenCalled()
   })
 
-  it('loads, seeks and plays an explicit chapter while exposing playback state', async () => {
+  it('loads an explicit chapter without resetting its requested start time', async () => {
     const { player } = installControllableApi()
     const { YouTubeController } = await import('./youtubeIframe')
     const controller = new YouTubeController(document.createElement('div'))
 
     await controller.playAt('aaaaaaaaaaa', 720)
 
-    expect(player.loadVideoById).toHaveBeenCalledWith('aaaaaaaaaaa', 720)
-    expect(player.seekTo).toHaveBeenCalledWith(720, true)
-    expect(player.playVideo).toHaveBeenCalledOnce()
+    expect(player.loadVideoById).toHaveBeenCalledWith({
+      videoId: 'aaaaaaaaaaa',
+      startSeconds: 720,
+    })
+    expect(player.seekTo).not.toHaveBeenCalled()
+    expect(player.playVideo).not.toHaveBeenCalled()
     expect(controller.getCurrentTime()).toBe(812.4)
     expect(controller.getPlayerState()).toBe(1)
 
