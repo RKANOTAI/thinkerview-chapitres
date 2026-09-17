@@ -2307,9 +2307,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Jean-Marc Jancovici : Polytechnicien, ingénieur et président The Shift Project.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et formation de Jean-Marc Jancovici"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Les énergies fossiles fondent la société industrielle"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Les flux physiques structurent l’économie moderne"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Dépendances énergétiques de l’Allemagne et choix français"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Entreprises et déclin des gisements pétroliers"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "La décarbonation comme stratégie de sauvegarde"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Le sevrage énergétique européen depuis 2007"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Contraction énergétique et tensions sociales en Europe"
+        },
+        {
+          "startSeconds": 2745,
+          "title": "Croissance, dette et partage des contraintes énergétiques"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Risques d’implosion et recherche d’un projet commun"
+        },
+        {
+          "startSeconds": 3195,
+          "title": "Pourquoi Jancovici refuse une candidature politique"
+        },
+        {
+          "startSeconds": 3690,
+          "title": "Uranium, surgénération et avenir du nucléaire"
+        },
+        {
+          "startSeconds": 3960,
+          "title": "Le Moyen-Orient reste une zone de tension pétrolière"
+        },
+        {
+          "startSeconds": 4095,
+          "title": "Chocs pétroliers, PIB et vulnérabilité européenne"
+        },
+        {
+          "startSeconds": 4590,
+          "title": "Le système nord-américain face aux sanctions russes"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Valeurs morales et intérêts énergétiques européens"
+        },
+        {
+          "startSeconds": 5040,
+          "title": "Pression américaine sur la Chine et dépendance européenne"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Coopération européenne face à la puissance américaine"
+        },
+        {
+          "startSeconds": 5625,
+          "title": "Transition énergétique, décroissance et risques de chaos"
+        },
+        {
+          "startSeconds": 6030,
+          "title": "Convention citoyenne et renouvellement démocratique"
+        },
+        {
+          "startSeconds": 6435,
+          "title": "Construire un monde moins dépendant du pétrole"
+        },
+        {
+          "startSeconds": 6570,
+          "title": "Réduire le pétrole et sécuriser l’approvisionnement en uranium"
+        },
+        {
+          "startSeconds": 6840,
+          "title": "Coût du nucléaire et temps long énergétique"
+        },
+        {
+          "startSeconds": 7110,
+          "title": "Limites de la croissance et impact de l’intelligence artificielle"
+        },
+        {
+          "startSeconds": 7470,
+          "title": "Démographie, natalité et allocation des soins"
+        },
+        {
+          "startSeconds": 7740,
+          "title": "Engrais, hydrogène et sobriété industrielle"
+        },
+        {
+          "startSeconds": 8100,
+          "title": "Exposition énergétique de la France et limites électriques"
+        },
+        {
+          "startSeconds": 8415,
+          "title": "Relancer le nucléaire de quatrième génération"
+        },
+        {
+          "startSeconds": 8640,
+          "title": "Adapter l’agriculture aux contraintes énergétiques"
+        },
+        {
+          "startSeconds": 8865,
+          "title": "Lectures recommandées et conseils pour agir"
+        }
+      ]
     },
     {
       "id": "A1P2v_Q_C7Y",
@@ -2321,9 +2442,78 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Mohammad Amin Nejad, Ambassadeur d'Iran en France.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de l’ambassadeur et contexte de la guerre"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Expulsion diplomatique et accusations contre l’Iran"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Bilan des morts et frais d’enterrement contestés"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Infrastructures régionales et détroit d’Ormuz"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Hamas, Hezbollah et la notion de proxy"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Drones et missiles dans la stratégie de défense"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Programme nucléaire et traité de non-prolifération"
+        },
+        {
+          "startSeconds": 2115,
+          "title": "Énergie régionale et posture militaire française"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Relations de l’Iran avec la Russie et la Chine"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Changement de régime et éventuel soutien kurde"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Questions en ligne sur les manifestations et le pétrole"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Soutien iranien au Hamas et relations européennes"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Anticipation de la guerre et précédents américains"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Médiation et conditions d’une paix régionale"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Négociations nucléaires et accord de 2015"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Questions finales et références à la littérature iranienne"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Conseil aux jeunes et principes de dignité humaine"
+        }
+      ]
     },
     {
       "id": "UrTlfksV5mI",
@@ -2335,9 +2525,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Sarah Knafo, Députée européenne et candidate à la Mairie de Paris.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Sarah Knafo et candidature à Paris"
+        },
+        {
+          "startSeconds": 45,
+          "title": "Dette de Paris et financement du logement social"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Vente du parc social et accès à la propriété"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Contrôle budgétaire et économies annoncées pour Paris"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Stationnement et pouvoir d’achat des Parisiens"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Dette publique et dépenses de l’État"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Services publics et effectifs municipaux à Paris"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Réduction des effectifs et secteurs prioritaires"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Sécurité à Paris et armement de la police municipale"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Présence policière et lutte contre les trafics"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Accueil des migrants et responsabilité municipale"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Logements vacants et encadrement des loyers"
+        },
+        {
+          "startSeconds": 3015,
+          "title": "Effets comparés de l’encadrement des loyers"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "Subventions municipales et contrôle des associations"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Associations politisées et économies pour Paris"
+        },
+        {
+          "startSeconds": 4095,
+          "title": "Ville heureuse et identité parisienne"
+        },
+        {
+          "startSeconds": 4365,
+          "title": "Débats électoraux et démocratie locale"
+        },
+        {
+          "startSeconds": 4680,
+          "title": "Référendums parisiens et exercice du pouvoir"
+        },
+        {
+          "startSeconds": 4995,
+          "title": "Taxation du patrimoine et dette publique"
+        },
+        {
+          "startSeconds": 5265,
+          "title": "Réduire les dépenses pour baisser les impôts"
+        },
+        {
+          "startSeconds": 5535,
+          "title": "Sécurité du périscolaire parisien"
+        },
+        {
+          "startSeconds": 5760,
+          "title": "Contrôle des animateurs et présence des grands-parents"
+        },
+        {
+          "startSeconds": 5895,
+          "title": "Réseaux sociaux jeux vidéo et autorité parentale"
+        },
+        {
+          "startSeconds": 6210,
+          "title": "Convictions politiques et influence des sondages"
+        },
+        {
+          "startSeconds": 6390,
+          "title": "Parcours personnel et modèles de gouvernance"
+        },
+        {
+          "startSeconds": 6705,
+          "title": "Réouverture des voies sur berges et coût du projet"
+        },
+        {
+          "startSeconds": 6930,
+          "title": "Logement parisien et règles d’urbanisme"
+        },
+        {
+          "startSeconds": 7155,
+          "title": "Souveraineté énergétique et avenir de la France"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Vidéosurveillance algorithmique et libertés publiques"
+        },
+        {
+          "startSeconds": 7470,
+          "title": "Livres recommandés et conseils aux jeunes"
+        }
+      ]
     },
     {
       "id": "zdcr-svz0u4",

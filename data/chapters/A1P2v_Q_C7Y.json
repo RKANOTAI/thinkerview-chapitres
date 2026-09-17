@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "videoId": "A1P2v_Q_C7Y",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T12:38:08Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de l’ambassadeur et contexte de la guerre"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Expulsion diplomatique et accusations contre l’Iran"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Bilan des morts et frais d’enterrement contestés"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Infrastructures régionales et détroit d’Ormuz"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Hamas, Hezbollah et la notion de proxy"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Drones et missiles dans la stratégie de défense"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Programme nucléaire et traité de non-prolifération"
+    },
+    {
+      "startSeconds": 2115,
+      "title": "Énergie régionale et posture militaire française"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Relations de l’Iran avec la Russie et la Chine"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Changement de régime et éventuel soutien kurde"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Questions en ligne sur les manifestations et le pétrole"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Soutien iranien au Hamas et relations européennes"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Anticipation de la guerre et précédents américains"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Médiation et conditions d’une paix régionale"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Négociations nucléaires et accord de 2015"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Questions finales et références à la littérature iranienne"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Conseil aux jeunes et principes de dignité humaine"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "UrTlfksV5mI",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T12:38:08Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Sarah Knafo et candidature à Paris"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Dette de Paris et financement du logement social"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Vente du parc social et accès à la propriété"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Contrôle budgétaire et économies annoncées pour Paris"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Stationnement et pouvoir d’achat des Parisiens"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Dette publique et dépenses de l’État"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Services publics et effectifs municipaux à Paris"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Réduction des effectifs et secteurs prioritaires"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Sécurité à Paris et armement de la police municipale"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Présence policière et lutte contre les trafics"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Accueil des migrants et responsabilité municipale"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Logements vacants et encadrement des loyers"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "Effets comparés de l’encadrement des loyers"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "Subventions municipales et contrôle des associations"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Associations politisées et économies pour Paris"
+    },
+    {
+      "startSeconds": 4095,
+      "title": "Ville heureuse et identité parisienne"
+    },
+    {
+      "startSeconds": 4365,
+      "title": "Débats électoraux et démocratie locale"
+    },
+    {
+      "startSeconds": 4680,
+      "title": "Référendums parisiens et exercice du pouvoir"
+    },
+    {
+      "startSeconds": 4995,
+      "title": "Taxation du patrimoine et dette publique"
+    },
+    {
+      "startSeconds": 5265,
+      "title": "Réduire les dépenses pour baisser les impôts"
+    },
+    {
+      "startSeconds": 5535,
+      "title": "Sécurité du périscolaire parisien"
+    },
+    {
+      "startSeconds": 5760,
+      "title": "Contrôle des animateurs et présence des grands-parents"
+    },
+    {
+      "startSeconds": 5895,
+      "title": "Réseaux sociaux jeux vidéo et autorité parentale"
+    },
+    {
+      "startSeconds": 6210,
+      "title": "Convictions politiques et influence des sondages"
+    },
+    {
+      "startSeconds": 6390,
+      "title": "Parcours personnel et modèles de gouvernance"
+    },
+    {
+      "startSeconds": 6705,
+      "title": "Réouverture des voies sur berges et coût du projet"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Logement parisien et règles d’urbanisme"
+    },
+    {
+      "startSeconds": 7155,
+      "title": "Souveraineté énergétique et avenir de la France"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Vidéosurveillance algorithmique et libertés publiques"
+    },
+    {
+      "startSeconds": 7470,
+      "title": "Livres recommandés et conseils aux jeunes"
+    }
+  ]
+}

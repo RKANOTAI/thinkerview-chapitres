@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "JmByobw2YWA",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T12:38:08Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et formation de Jean-Marc Jancovici"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Les énergies fossiles fondent la société industrielle"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Les flux physiques structurent l’économie moderne"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Dépendances énergétiques de l’Allemagne et choix français"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Entreprises et déclin des gisements pétroliers"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "La décarbonation comme stratégie de sauvegarde"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Le sevrage énergétique européen depuis 2007"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Contraction énergétique et tensions sociales en Europe"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Croissance, dette et partage des contraintes énergétiques"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Risques d’implosion et recherche d’un projet commun"
+    },
+    {
+      "startSeconds": 3195,
+      "title": "Pourquoi Jancovici refuse une candidature politique"
+    },
+    {
+      "startSeconds": 3690,
+      "title": "Uranium, surgénération et avenir du nucléaire"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Le Moyen-Orient reste une zone de tension pétrolière"
+    },
+    {
+      "startSeconds": 4095,
+      "title": "Chocs pétroliers, PIB et vulnérabilité européenne"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Le système nord-américain face aux sanctions russes"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Valeurs morales et intérêts énergétiques européens"
+    },
+    {
+      "startSeconds": 5040,
+      "title": "Pression américaine sur la Chine et dépendance européenne"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Coopération européenne face à la puissance américaine"
+    },
+    {
+      "startSeconds": 5625,
+      "title": "Transition énergétique, décroissance et risques de chaos"
+    },
+    {
+      "startSeconds": 6030,
+      "title": "Convention citoyenne et renouvellement démocratique"
+    },
+    {
+      "startSeconds": 6435,
+      "title": "Construire un monde moins dépendant du pétrole"
+    },
+    {
+      "startSeconds": 6570,
+      "title": "Réduire le pétrole et sécuriser l’approvisionnement en uranium"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Coût du nucléaire et temps long énergétique"
+    },
+    {
+      "startSeconds": 7110,
+      "title": "Limites de la croissance et impact de l’intelligence artificielle"
+    },
+    {
+      "startSeconds": 7470,
+      "title": "Démographie, natalité et allocation des soins"
+    },
+    {
+      "startSeconds": 7740,
+      "title": "Engrais, hydrogène et sobriété industrielle"
+    },
+    {
+      "startSeconds": 8100,
+      "title": "Exposition énergétique de la France et limites électriques"
+    },
+    {
+      "startSeconds": 8415,
+      "title": "Relancer le nucléaire de quatrième génération"
+    },
+    {
+      "startSeconds": 8640,
+      "title": "Adapter l’agriculture aux contraintes énergétiques"
+    },
+    {
+      "startSeconds": 8865,
+      "title": "Lectures recommandées et conseils pour agir"
+    }
+  ]
+}
