@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "videoId": "5zlUi58u3ek",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:14:52Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de l’enquête sur l’élevage"
+    },
+    {
+      "startSeconds": 900,
+      "title": "La norme salmonelle dans les élevages bio"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Concurrence internationale des élevages"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Subventions et coûts de l’agriculture"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Incitations commerciales dans les coopératives"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Données sur les suicides et choix des consommateurs"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Concentration des fermes et automatisation"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Études d’installation et prévisions de revenus"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "Prix du lait et stratégie de Lactalis"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Passion familiale et endettement des éleveurs"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Partenariat entre le Crédit Agricole et la FNSEA"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Rémunération agricole et choix des consommateurs"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Recul de l’élevage bovin français"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Information politique et colère agricoles"
+    },
+    {
+      "startSeconds": 4725,
+      "title": "Pouvoir des agriculteurs et lois Egalim"
+    },
+    {
+      "startSeconds": 5085,
+      "title": "Neutralité revendiquée du journaliste"
+    },
+    {
+      "startSeconds": 5355,
+      "title": "Modèle industriel et maltraitance animale"
+    },
+    {
+      "startSeconds": 5580,
+      "title": "Circuits courts et information des consommateurs"
+    },
+    {
+      "startSeconds": 5850,
+      "title": "Convergence entre agriculteurs et consommateurs"
+    },
+    {
+      "startSeconds": 5985,
+      "title": "Origine des aliments et habitudes de consommation"
+    },
+    {
+      "startSeconds": 6300,
+      "title": "Prix juste, traçabilité et protection des sources"
+    },
+    {
+      "startSeconds": 6525,
+      "title": "Résilience des fermes face aux aléas"
+    },
+    {
+      "startSeconds": 6750,
+      "title": "Productions paysannes et miel local"
+    },
+    {
+      "startSeconds": 6885,
+      "title": "Valorisation des sous-produits animaux"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Trois livres recommandés par l’invité"
+    },
+    {
+      "startSeconds": 7515,
+      "title": "Réflexion finale sur les clivages"
+    }
+  ]
+}

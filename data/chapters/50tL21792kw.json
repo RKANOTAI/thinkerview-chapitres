@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "50tL21792kw",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:14:52Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Populisme, Macron et État profond"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Nominations entre institutions publiques"
+    },
+    {
+      "startSeconds": 135,
+      "title": "La technocratie française comme problème systémique"
+    }
+  ]
+}

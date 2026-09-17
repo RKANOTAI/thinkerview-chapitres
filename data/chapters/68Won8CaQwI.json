@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "68Won8CaQwI",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:14:52Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Conservatisme de la recherche et enseignement"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Capture directe du CO2 et crédits carbone"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Biodiversité comme levier systémique de l’action"
+    }
+  ]
+}
