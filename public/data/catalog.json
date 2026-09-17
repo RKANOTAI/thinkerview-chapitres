@@ -5275,9 +5275,126 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Marc Touati : Économiste, président du cabinet ACDEFI.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Marc Touati et diagnostic économique"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Confiance, baisse des impôts et réduction des dépenses"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Défiance des investisseurs et détention étrangère de la dette"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Crises russe et grecque face au surendettement"
+        },
+        {
+          "startSeconds": 1665,
+          "title": "Notation de la France et hausse des taux d’intérêt"
+        },
+        {
+          "startSeconds": 2115,
+          "title": "Croissance mondiale et soutenabilité de la dette"
+        },
+        {
+          "startSeconds": 2385,
+          "title": "Dollar américain, contrôles des capitaux et krach obligataire"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Dette française, obligations et conséquences économiques"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Faillites d’entreprises, fraude et sécurité publique"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Confiance politique et réformes économiques en France"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Comptes bancaires fermés et contrôles fiscaux"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Usurpation en ligne et faux investissements"
+        },
+        {
+          "startSeconds": 4455,
+          "title": "Retrait d’une invitation et témoignage de pressions"
+        },
+        {
+          "startSeconds": 4770,
+          "title": "Stagflation et risques liés aux droits de douane"
+        },
+        {
+          "startSeconds": 4950,
+          "title": "Chine, concurrence commerciale et normes européennes"
+        },
+        {
+          "startSeconds": 5220,
+          "title": "Vote de confiance et critiques des contrebudgets"
+        },
+        {
+          "startSeconds": 5490,
+          "title": "Financement des retraites et baisse du nombre d’actifs"
+        },
+        {
+          "startSeconds": 5985,
+          "title": "Démographie, éducation et pression énergétique"
+        },
+        {
+          "startSeconds": 6210,
+          "title": "Épargne privée, fiscalité et choix de retraite"
+        },
+        {
+          "startSeconds": 6705,
+          "title": "Limites écologiques, industrie chinoise et réindustrialisation"
+        },
+        {
+          "startSeconds": 6840,
+          "title": "Crédit Lombard, marchés financiers et prudence"
+        },
+        {
+          "startSeconds": 7290,
+          "title": "Sortie de l’euro et fragilité financière française"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Pauvreté, déclassement et climat insurrectionnel"
+        },
+        {
+          "startSeconds": 7560,
+          "title": "Courbe de Laffer et débat sur les retraites"
+        },
+        {
+          "startSeconds": 7695,
+          "title": "Crise grecque et limites de la zone euro"
+        },
+        {
+          "startSeconds": 7965,
+          "title": "Éducation nationale, enseignants et intervention du FMI"
+        },
+        {
+          "startSeconds": 8190,
+          "title": "Bible, Keynes et références de lecture économique"
+        },
+        {
+          "startSeconds": 8370,
+          "title": "Cryptomonnaies et incertitude des marchés financiers"
+        },
+        {
+          "startSeconds": 8505,
+          "title": "Valeur du travail et message aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "K3UBNnpvxpw",
@@ -5289,9 +5406,126 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Rima Hassan, Députée européenne.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation, origine palestinienne et statut d’apatride"
+        },
+        {
+          "startSeconds": 225,
+          "title": "Spiritualité et éthique du halal"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Dette française et économie européenne"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Crise institutionnelle et défiance démocratique"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Attaques médiatiques, accusations et transparence financière"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Influence étrangère, terrorisme et contexte palestinien"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Judaïsme, sionisme et discriminations en Israël"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Lutte armée et qualification juridique des violences"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "Exil palestinien et vie dans les camps"
+        },
+        {
+          "startSeconds": 3870,
+          "title": "Hamas, fragmentation palestinienne et diversité religieuse"
+        },
+        {
+          "startSeconds": 4590,
+          "title": "Colonisation, armements occidentaux et fragmentation palestinienne"
+        },
+        {
+          "startSeconds": 5220,
+          "title": "Normalisation arabe et continuité de la colonisation"
+        },
+        {
+          "startSeconds": 5490,
+          "title": "Expulsions de 1948, histoire familiale et apatridie"
+        },
+        {
+          "startSeconds": 5985,
+          "title": "Lutte armée, terrorisme et pertes civiles à Gaza"
+        },
+        {
+          "startSeconds": 6615,
+          "title": "Propagande, reconnaissance et sanctions internationales"
+        },
+        {
+          "startSeconds": 6885,
+          "title": "Empathie, radicalité et liberté d’expression"
+        },
+        {
+          "startSeconds": 7560,
+          "title": "Islamophobie, voile et représentation musulmane"
+        },
+        {
+          "startSeconds": 7965,
+          "title": "Jésus, identité palestinienne et projet du Grand Israël"
+        },
+        {
+          "startSeconds": 8370,
+          "title": "Risque de génocide et responsabilité européenne"
+        },
+        {
+          "startSeconds": 8730,
+          "title": "Répression des mobilisations et harcèlement judiciaire"
+        },
+        {
+          "startSeconds": 9045,
+          "title": "Deux poids deux mesures, aide humanitaire et reconnaissance"
+        },
+        {
+          "startSeconds": 9360,
+          "title": "CPI, responsabilité française et déplacement forcé"
+        },
+        {
+          "startSeconds": 9900,
+          "title": "Droit international, occupation et qualification des attaques"
+        },
+        {
+          "startSeconds": 10350,
+          "title": "Alerte avant le 7 octobre, otages et prisonniers"
+        },
+        {
+          "startSeconds": 10935,
+          "title": "Sanctions, boycott et mobilisation citoyenne"
+        },
+        {
+          "startSeconds": 11070,
+          "title": "Flottille pour Gaza et financement de la coalition"
+        },
+        {
+          "startSeconds": 11430,
+          "title": "Flottille, interception maritime et détention en Israël"
+        },
+        {
+          "startSeconds": 11925,
+          "title": "Apartheid, ethnocratie et État binational"
+        },
+        {
+          "startSeconds": 12195,
+          "title": "Flottille, livres et appel à l’engagement"
+        }
+      ]
     },
     {
       "id": "wMCaq5I4PJ0",
@@ -5303,9 +5537,122 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Juan Branco, Avocat et docteur en droit. Candidat à la présidentielle 2027.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et contexte de la crise congolaise"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Symptômes en vol et hospitalisation à Kinshasa"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Incertitude médicale et précédentes menaces"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Contacts suspects avant le départ"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Traitements reçus et rumeurs en ligne"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Réaction diplomatique et hypothèses d’intimidation"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Protection et interrogatoires des services congolais"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Expériences de terrain et calcul des risques"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Défense d’un jeune informaticien détenu"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "Séquelles médicales et sécurité personnelle"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Pressions contre la justice pénale internationale"
+        },
+        {
+          "startSeconds": 3825,
+          "title": "Représentation des victimes palestiniennes à Gaza"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Dénucléarisation et risques de changement de régime"
+        },
+        {
+          "startSeconds": 4455,
+          "title": "Sanctions européennes et recul des droits de la défense"
+        },
+        {
+          "startSeconds": 4680,
+          "title": "Position française face aux conflits contemporains"
+        },
+        {
+          "startSeconds": 4950,
+          "title": "Critique de la politique étrangère d’Emmanuel Macron"
+        },
+        {
+          "startSeconds": 5130,
+          "title": "Présidentielle française et construction d’une force politique"
+        },
+        {
+          "startSeconds": 5445,
+          "title": "Rima Hassan et la portée politique de la flottille"
+        },
+        {
+          "startSeconds": 5715,
+          "title": "Programme d’Aurore et transformation institutionnelle"
+        },
+        {
+          "startSeconds": 5895,
+          "title": "Souveraineté informationnelle et régulation numérique"
+        },
+        {
+          "startSeconds": 6030,
+          "title": "Stratégie politique d’Aurore et procédures disciplinaires"
+        },
+        {
+          "startSeconds": 6255,
+          "title": "Perspectives géopolitiques pour la France"
+        },
+        {
+          "startSeconds": 6615,
+          "title": "Iran, Moyen-Orient et rivalités régionales"
+        },
+        {
+          "startSeconds": 7020,
+          "title": "Renouvellement politique de l’Iran et avenir de l’Asie"
+        },
+        {
+          "startSeconds": 7290,
+          "title": "Inde, tensions identitaires et lecture géopolitique"
+        },
+        {
+          "startSeconds": 7470,
+          "title": "Alliances politiques, loyauté et indépendance"
+        },
+        {
+          "startSeconds": 7695,
+          "title": "Lectures recommandées et rôle de la langue"
+        },
+        {
+          "startSeconds": 7965,
+          "title": "Conseils aux jeunes et reconstruction sociale"
+        }
+      ]
     },
     {
       "id": "0Nc9VHlw_Sg",

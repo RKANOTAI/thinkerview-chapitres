@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "videoId": "K3UBNnpvxpw",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:42:05Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation, origine palestinienne et statut d’apatride"
+    },
+    {
+      "startSeconds": 225,
+      "title": "Spiritualité et éthique du halal"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Dette française et économie européenne"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Crise institutionnelle et défiance démocratique"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Attaques médiatiques, accusations et transparence financière"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Influence étrangère, terrorisme et contexte palestinien"
+    },
+    {
+      "startSeconds": 2565,
+      "title": "Judaïsme, sionisme et discriminations en Israël"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Lutte armée et qualification juridique des violences"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "Exil palestinien et vie dans les camps"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Hamas, fragmentation palestinienne et diversité religieuse"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Colonisation, armements occidentaux et fragmentation palestinienne"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Normalisation arabe et continuité de la colonisation"
+    },
+    {
+      "startSeconds": 5490,
+      "title": "Expulsions de 1948, histoire familiale et apatridie"
+    },
+    {
+      "startSeconds": 5985,
+      "title": "Lutte armée, terrorisme et pertes civiles à Gaza"
+    },
+    {
+      "startSeconds": 6615,
+      "title": "Propagande, reconnaissance et sanctions internationales"
+    },
+    {
+      "startSeconds": 6885,
+      "title": "Empathie, radicalité et liberté d’expression"
+    },
+    {
+      "startSeconds": 7560,
+      "title": "Islamophobie, voile et représentation musulmane"
+    },
+    {
+      "startSeconds": 7965,
+      "title": "Jésus, identité palestinienne et projet du Grand Israël"
+    },
+    {
+      "startSeconds": 8370,
+      "title": "Risque de génocide et responsabilité européenne"
+    },
+    {
+      "startSeconds": 8730,
+      "title": "Répression des mobilisations et harcèlement judiciaire"
+    },
+    {
+      "startSeconds": 9045,
+      "title": "Deux poids deux mesures, aide humanitaire et reconnaissance"
+    },
+    {
+      "startSeconds": 9360,
+      "title": "CPI, responsabilité française et déplacement forcé"
+    },
+    {
+      "startSeconds": 9900,
+      "title": "Droit international, occupation et qualification des attaques"
+    },
+    {
+      "startSeconds": 10350,
+      "title": "Alerte avant le 7 octobre, otages et prisonniers"
+    },
+    {
+      "startSeconds": 10935,
+      "title": "Sanctions, boycott et mobilisation citoyenne"
+    },
+    {
+      "startSeconds": 11070,
+      "title": "Flottille pour Gaza et financement de la coalition"
+    },
+    {
+      "startSeconds": 11430,
+      "title": "Flottille, interception maritime et détention en Israël"
+    },
+    {
+      "startSeconds": 11925,
+      "title": "Apartheid, ethnocratie et État binational"
+    },
+    {
+      "startSeconds": 12195,
+      "title": "Flottille, livres et appel à l’engagement"
+    }
+  ]
+}

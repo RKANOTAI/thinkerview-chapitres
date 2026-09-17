@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "videoId": "wMCaq5I4PJ0",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:42:05Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et contexte de la crise congolaise"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Symptômes en vol et hospitalisation à Kinshasa"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Incertitude médicale et précédentes menaces"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Contacts suspects avant le départ"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Traitements reçus et rumeurs en ligne"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Réaction diplomatique et hypothèses d’intimidation"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Protection et interrogatoires des services congolais"
+    },
+    {
+      "startSeconds": 2565,
+      "title": "Expériences de terrain et calcul des risques"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Défense d’un jeune informaticien détenu"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "Séquelles médicales et sécurité personnelle"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Pressions contre la justice pénale internationale"
+    },
+    {
+      "startSeconds": 3825,
+      "title": "Représentation des victimes palestiniennes à Gaza"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Dénucléarisation et risques de changement de régime"
+    },
+    {
+      "startSeconds": 4455,
+      "title": "Sanctions européennes et recul des droits de la défense"
+    },
+    {
+      "startSeconds": 4680,
+      "title": "Position française face aux conflits contemporains"
+    },
+    {
+      "startSeconds": 4950,
+      "title": "Critique de la politique étrangère d’Emmanuel Macron"
+    },
+    {
+      "startSeconds": 5130,
+      "title": "Présidentielle française et construction d’une force politique"
+    },
+    {
+      "startSeconds": 5445,
+      "title": "Rima Hassan et la portée politique de la flottille"
+    },
+    {
+      "startSeconds": 5715,
+      "title": "Programme d’Aurore et transformation institutionnelle"
+    },
+    {
+      "startSeconds": 5895,
+      "title": "Souveraineté informationnelle et régulation numérique"
+    },
+    {
+      "startSeconds": 6030,
+      "title": "Stratégie politique d’Aurore et procédures disciplinaires"
+    },
+    {
+      "startSeconds": 6255,
+      "title": "Perspectives géopolitiques pour la France"
+    },
+    {
+      "startSeconds": 6615,
+      "title": "Iran, Moyen-Orient et rivalités régionales"
+    },
+    {
+      "startSeconds": 7020,
+      "title": "Renouvellement politique de l’Iran et avenir de l’Asie"
+    },
+    {
+      "startSeconds": 7290,
+      "title": "Inde, tensions identitaires et lecture géopolitique"
+    },
+    {
+      "startSeconds": 7470,
+      "title": "Alliances politiques, loyauté et indépendance"
+    },
+    {
+      "startSeconds": 7695,
+      "title": "Lectures recommandées et rôle de la langue"
+    },
+    {
+      "startSeconds": 7965,
+      "title": "Conseils aux jeunes et reconstruction sociale"
+    }
+  ]
+}

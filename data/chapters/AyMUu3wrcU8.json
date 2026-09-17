@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "videoId": "AyMUu3wrcU8",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:42:05Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Marc Touati et diagnostic économique"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Confiance, baisse des impôts et réduction des dépenses"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Défiance des investisseurs et détention étrangère de la dette"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Crises russe et grecque face au surendettement"
+    },
+    {
+      "startSeconds": 1665,
+      "title": "Notation de la France et hausse des taux d’intérêt"
+    },
+    {
+      "startSeconds": 2115,
+      "title": "Croissance mondiale et soutenabilité de la dette"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Dollar américain, contrôles des capitaux et krach obligataire"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Dette française, obligations et conséquences économiques"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Faillites d’entreprises, fraude et sécurité publique"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Confiance politique et réformes économiques en France"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Comptes bancaires fermés et contrôles fiscaux"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Usurpation en ligne et faux investissements"
+    },
+    {
+      "startSeconds": 4455,
+      "title": "Retrait d’une invitation et témoignage de pressions"
+    },
+    {
+      "startSeconds": 4770,
+      "title": "Stagflation et risques liés aux droits de douane"
+    },
+    {
+      "startSeconds": 4950,
+      "title": "Chine, concurrence commerciale et normes européennes"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Vote de confiance et critiques des contrebudgets"
+    },
+    {
+      "startSeconds": 5490,
+      "title": "Financement des retraites et baisse du nombre d’actifs"
+    },
+    {
+      "startSeconds": 5985,
+      "title": "Démographie, éducation et pression énergétique"
+    },
+    {
+      "startSeconds": 6210,
+      "title": "Épargne privée, fiscalité et choix de retraite"
+    },
+    {
+      "startSeconds": 6705,
+      "title": "Limites écologiques, industrie chinoise et réindustrialisation"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Crédit Lombard, marchés financiers et prudence"
+    },
+    {
+      "startSeconds": 7290,
+      "title": "Sortie de l’euro et fragilité financière française"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Pauvreté, déclassement et climat insurrectionnel"
+    },
+    {
+      "startSeconds": 7560,
+      "title": "Courbe de Laffer et débat sur les retraites"
+    },
+    {
+      "startSeconds": 7695,
+      "title": "Crise grecque et limites de la zone euro"
+    },
+    {
+      "startSeconds": 7965,
+      "title": "Éducation nationale, enseignants et intervention du FMI"
+    },
+    {
+      "startSeconds": 8190,
+      "title": "Bible, Keynes et références de lecture économique"
+    },
+    {
+      "startSeconds": 8370,
+      "title": "Cryptomonnaies et incertitude des marchés financiers"
+    },
+    {
+      "startSeconds": 8505,
+      "title": "Valeur du travail et message aux jeunes générations"
+    }
+  ]
+}
