@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "eRA5EdgvTQg",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:33:03Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation du spécialiste des épidémies"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Naissance des pandémies et mécanismes historiques"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Origine du sida et nouveaux mécanismes pandémiques"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Conquête des Amériques et effondrement démographique"
+    },
+    {
+      "startSeconds": 1485,
+      "title": "Variole et conquête des empires aztèque et inca"
+    },
+    {
+      "startSeconds": 1755,
+      "title": "Peuplement ancien de l’Amazonie révélé par le lidar"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Écatombes démographiques et récits coloniaux"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Colonies anglaises et récits de Thanksgiving"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Guerre de Pontiac et armes biologiques"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Variole et guerre d’indépendance américaine"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Révolution haïtienne, maladies tropicales et expansion américaine"
+    },
+    {
+      "startSeconds": 3465,
+      "title": "Géographie des maladies et colonisation de l’Océanie"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Réchauffement climatique et mondialisation des moustiques"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Dogmes médicaux, choléra et preuves scientifiques"
+    },
+    {
+      "startSeconds": 4635,
+      "title": "Récits concurrents autour de la peste de Marseille"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Récits politiques du sida et du choléra"
+    },
+    {
+      "startSeconds": 5265,
+      "title": "Enquêtes indépendantes sur l’origine du Covid"
+    },
+    {
+      "startSeconds": 5535,
+      "title": "Recherches sur les coronavirus et gains de fonction"
+    },
+    {
+      "startSeconds": 5805,
+      "title": "Gestion du Covid et incohérences des mesures sanitaires"
+    },
+    {
+      "startSeconds": 6345,
+      "title": "Site furine et débat scientifique sur l’origine du Covid"
+    },
+    {
+      "startSeconds": 6885,
+      "title": "ADN, virus synthétiques et accidents de laboratoire"
+    },
+    {
+      "startSeconds": 7290,
+      "title": "Guerre biologique et risques de la biologie synthétique"
+    },
+    {
+      "startSeconds": 7560,
+      "title": "Histoire de la vaccination et du mouvement antivaccin"
+    },
+    {
+      "startSeconds": 8100,
+      "title": "Masques, vaccins et défiance pendant le Covid"
+    },
+    {
+      "startSeconds": 8955,
+      "title": "Mpox et réponse vaccinale en Afrique"
+    },
+    {
+      "startSeconds": 9315,
+      "title": "Biologie synthétique et nouveaux risques sanitaires"
+    },
+    {
+      "startSeconds": 9990,
+      "title": "ONG, financement et réponses internationales"
+    },
+    {
+      "startSeconds": 10260,
+      "title": "Contrôle des laboratoires et rôle de l’OMS"
+    },
+    {
+      "startSeconds": 10530,
+      "title": "Prise en charge du Covid et préparation aux crises"
+    },
+    {
+      "startSeconds": 11025,
+      "title": "Cocoliztli, lectures et conseils aux jeunes générations"
+    }
+  ]
+}

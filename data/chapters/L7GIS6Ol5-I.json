@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "L7GIS6Ol5-I",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:33:03Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Maurice Gourdault-Montagne et repères historiques"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Émergence chinoise et monde multipolaire"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Origines de la guerre russo-ukrainienne"
+    },
+    {
+      "startSeconds": 765,
+      "title": "Extension de l’OTAN et préoccupations de sécurité russes"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Projet français de sécurité pour l’Ukraine"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "De l’adhésion à l’OTAN au conflit du Donbass"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Expérience russe et mémoire collective des peuples"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Diplomatie, valeurs et faits internationaux"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Voix de la France et dialogue avec les puissances"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Renseignement humain et circulation de l’information"
+    },
+    {
+      "startSeconds": 2610,
+      "title": "Ultimatum russe et prévention de la guerre"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Négociation du programme nucléaire iranien"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "Mémoire et expérience dans le métier diplomatique"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Affaiblissement de l’État et fin des corps diplomatiques"
+    },
+    {
+      "startSeconds": 3285,
+      "title": "Plan chinois 2025 et rivalité technologique"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Travail, individualisme et esprit collectif français"
+    },
+    {
+      "startSeconds": 3555,
+      "title": "Alerte stratégique, ruse et rapport de force"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Guerre cyber et négociations de Minsk"
+    },
+    {
+      "startSeconds": 4005,
+      "title": "Invasion russe et conditions de négociation"
+    },
+    {
+      "startSeconds": 4230,
+      "title": "Drones ukrainiens et évolution du rapport de force"
+    },
+    {
+      "startSeconds": 4410,
+      "title": "Paix en Ukraine, réarmement et contrôle des armements"
+    },
+    {
+      "startSeconds": 4815,
+      "title": "Mémoire de la guerre et transmission générationnelle"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Sanctions internationales et dédollarisation"
+    },
+    {
+      "startSeconds": 5805,
+      "title": "Négociations russo-américaines et sécurité européenne"
+    },
+    {
+      "startSeconds": 6030,
+      "title": "Division européenne et recherche d’une politique de paix"
+    },
+    {
+      "startSeconds": 6435,
+      "title": "Avancée russe et hypothèse des liens familiaux"
+    },
+    {
+      "startSeconds": 6705,
+      "title": "Désengagement français et perte de l’Afrique occidentale"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Singularité française et désindustrialisation"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Fragilité financière et union bancaire européenne"
+    },
+    {
+      "startSeconds": 7335,
+      "title": "Lectures recommandées et conseil aux jeunes"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "videoId": "0yIVUAptUAg",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:33:03Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et projet présidentiel"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Diagnostic économique, démographique et numérique"
+    },
+    {
+      "startSeconds": 1305,
+      "title": "Nucléaire, hydroélectricité et souveraineté énergétique"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Guerre énergétique et déclassement européen"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Alliances, influence et souveraineté française"
+    },
+    {
+      "startSeconds": 2610,
+      "title": "Éducation, instruction et retour aux fondamentaux"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "Énergie française et rapport de force avec l’Allemagne"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Dette publique, impôts et dépenses de l’État"
+    },
+    {
+      "startSeconds": 4410,
+      "title": "Réindustrialisation et électricité bon marché"
+    },
+    {
+      "startSeconds": 4545,
+      "title": "Dissuasion nucléaire et crédibilité militaire"
+    },
+    {
+      "startSeconds": 4815,
+      "title": "Renseignement, prospective et responsabilité des décideurs"
+    },
+    {
+      "startSeconds": 5625,
+      "title": "Ressources minières et indépendance nationale"
+    },
+    {
+      "startSeconds": 5805,
+      "title": "Paix, puissance et ambition spatiale"
+    },
+    {
+      "startSeconds": 6075,
+      "title": "Technologies de surveillance et garanties judiciaires"
+    },
+    {
+      "startSeconds": 6750,
+      "title": "Délinquance des mineurs, prisons et sanctions"
+    },
+    {
+      "startSeconds": 6885,
+      "title": "Avenir démocratique et efficacité de l’État"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Intelligence artificielle, libertés et vie privée"
+    },
+    {
+      "startSeconds": 7650,
+      "title": "Chiffrement et lutte contre la criminalité"
+    },
+    {
+      "startSeconds": 7785,
+      "title": "Retraites, capitalisation et dette publique"
+    },
+    {
+      "startSeconds": 7965,
+      "title": "Inflation, émeutes et rétablissement de l’ordre"
+    },
+    {
+      "startSeconds": 8370,
+      "title": "Narcotrafic, blanchiment et coopération internationale"
+    },
+    {
+      "startSeconds": 8595,
+      "title": "Immigration, titres de séjour et maîtrise des frontières"
+    },
+    {
+      "startSeconds": 8955,
+      "title": "Souveraineté et redressement face au FMI"
+    },
+    {
+      "startSeconds": 9270,
+      "title": "Crise institutionnelle et légitimité présidentielle"
+    },
+    {
+      "startSeconds": 9630,
+      "title": "Lectures, littérature et formation personnelle"
+    },
+    {
+      "startSeconds": 9945,
+      "title": "Conseils aux jeunes et indépendance"
+    }
+  ]
+}

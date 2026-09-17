@@ -6009,9 +6009,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Maurice Gourdault-Montagne : Ex-Ambassadeur de France au Japon, Chine et Grande-Bretagne.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Maurice Gourdault-Montagne et repères historiques"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Émergence chinoise et monde multipolaire"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Origines de la guerre russo-ukrainienne"
+        },
+        {
+          "startSeconds": 765,
+          "title": "Extension de l’OTAN et préoccupations de sécurité russes"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Projet français de sécurité pour l’Ukraine"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "De l’adhésion à l’OTAN au conflit du Donbass"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Expérience russe et mémoire collective des peuples"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Diplomatie, valeurs et faits internationaux"
+        },
+        {
+          "startSeconds": 2025,
+          "title": "Voix de la France et dialogue avec les puissances"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Renseignement humain et circulation de l’information"
+        },
+        {
+          "startSeconds": 2610,
+          "title": "Ultimatum russe et prévention de la guerre"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Négociation du programme nucléaire iranien"
+        },
+        {
+          "startSeconds": 3015,
+          "title": "Mémoire et expérience dans le métier diplomatique"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Affaiblissement de l’État et fin des corps diplomatiques"
+        },
+        {
+          "startSeconds": 3285,
+          "title": "Plan chinois 2025 et rivalité technologique"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Travail, individualisme et esprit collectif français"
+        },
+        {
+          "startSeconds": 3555,
+          "title": "Alerte stratégique, ruse et rapport de force"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Guerre cyber et négociations de Minsk"
+        },
+        {
+          "startSeconds": 4005,
+          "title": "Invasion russe et conditions de négociation"
+        },
+        {
+          "startSeconds": 4230,
+          "title": "Drones ukrainiens et évolution du rapport de force"
+        },
+        {
+          "startSeconds": 4410,
+          "title": "Paix en Ukraine, réarmement et contrôle des armements"
+        },
+        {
+          "startSeconds": 4815,
+          "title": "Mémoire de la guerre et transmission générationnelle"
+        },
+        {
+          "startSeconds": 5220,
+          "title": "Sanctions internationales et dédollarisation"
+        },
+        {
+          "startSeconds": 5805,
+          "title": "Négociations russo-américaines et sécurité européenne"
+        },
+        {
+          "startSeconds": 6030,
+          "title": "Division européenne et recherche d’une politique de paix"
+        },
+        {
+          "startSeconds": 6435,
+          "title": "Avancée russe et hypothèse des liens familiaux"
+        },
+        {
+          "startSeconds": 6705,
+          "title": "Désengagement français et perte de l’Afrique occidentale"
+        },
+        {
+          "startSeconds": 6930,
+          "title": "Singularité française et désindustrialisation"
+        },
+        {
+          "startSeconds": 7200,
+          "title": "Fragilité financière et union bancaire européenne"
+        },
+        {
+          "startSeconds": 7335,
+          "title": "Lectures recommandées et conseil aux jeunes"
+        }
+      ]
     },
     {
       "id": "0yIVUAptUAg",
@@ -6023,9 +6144,114 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "David Lisnard : Maire de Cannes, Président de Nouvelle Energie.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et projet présidentiel"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Diagnostic économique, démographique et numérique"
+        },
+        {
+          "startSeconds": 1305,
+          "title": "Nucléaire, hydroélectricité et souveraineté énergétique"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Guerre énergétique et déclassement européen"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Alliances, influence et souveraineté française"
+        },
+        {
+          "startSeconds": 2610,
+          "title": "Éducation, instruction et retour aux fondamentaux"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "Énergie française et rapport de force avec l’Allemagne"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Dette publique, impôts et dépenses de l’État"
+        },
+        {
+          "startSeconds": 4410,
+          "title": "Réindustrialisation et électricité bon marché"
+        },
+        {
+          "startSeconds": 4545,
+          "title": "Dissuasion nucléaire et crédibilité militaire"
+        },
+        {
+          "startSeconds": 4815,
+          "title": "Renseignement, prospective et responsabilité des décideurs"
+        },
+        {
+          "startSeconds": 5625,
+          "title": "Ressources minières et indépendance nationale"
+        },
+        {
+          "startSeconds": 5805,
+          "title": "Paix, puissance et ambition spatiale"
+        },
+        {
+          "startSeconds": 6075,
+          "title": "Technologies de surveillance et garanties judiciaires"
+        },
+        {
+          "startSeconds": 6750,
+          "title": "Délinquance des mineurs, prisons et sanctions"
+        },
+        {
+          "startSeconds": 6885,
+          "title": "Avenir démocratique et efficacité de l’État"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Intelligence artificielle, libertés et vie privée"
+        },
+        {
+          "startSeconds": 7650,
+          "title": "Chiffrement et lutte contre la criminalité"
+        },
+        {
+          "startSeconds": 7785,
+          "title": "Retraites, capitalisation et dette publique"
+        },
+        {
+          "startSeconds": 7965,
+          "title": "Inflation, émeutes et rétablissement de l’ordre"
+        },
+        {
+          "startSeconds": 8370,
+          "title": "Narcotrafic, blanchiment et coopération internationale"
+        },
+        {
+          "startSeconds": 8595,
+          "title": "Immigration, titres de séjour et maîtrise des frontières"
+        },
+        {
+          "startSeconds": 8955,
+          "title": "Souveraineté et redressement face au FMI"
+        },
+        {
+          "startSeconds": 9270,
+          "title": "Crise institutionnelle et légitimité présidentielle"
+        },
+        {
+          "startSeconds": 9630,
+          "title": "Lectures, littérature et formation personnelle"
+        },
+        {
+          "startSeconds": 9945,
+          "title": "Conseils aux jeunes et indépendance"
+        }
+      ]
     },
     {
       "id": "eRA5EdgvTQg",
@@ -6037,9 +6263,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Renaud Piarroux : Biologiste spécialiste des maladies infectieuses et des maladies tropicales.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation du spécialiste des épidémies"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Naissance des pandémies et mécanismes historiques"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Origine du sida et nouveaux mécanismes pandémiques"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Conquête des Amériques et effondrement démographique"
+        },
+        {
+          "startSeconds": 1485,
+          "title": "Variole et conquête des empires aztèque et inca"
+        },
+        {
+          "startSeconds": 1755,
+          "title": "Peuplement ancien de l’Amazonie révélé par le lidar"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Écatombes démographiques et récits coloniaux"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Colonies anglaises et récits de Thanksgiving"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Guerre de Pontiac et armes biologiques"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Variole et guerre d’indépendance américaine"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Révolution haïtienne, maladies tropicales et expansion américaine"
+        },
+        {
+          "startSeconds": 3465,
+          "title": "Géographie des maladies et colonisation de l’Océanie"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Réchauffement climatique et mondialisation des moustiques"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Dogmes médicaux, choléra et preuves scientifiques"
+        },
+        {
+          "startSeconds": 4635,
+          "title": "Récits concurrents autour de la peste de Marseille"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Récits politiques du sida et du choléra"
+        },
+        {
+          "startSeconds": 5265,
+          "title": "Enquêtes indépendantes sur l’origine du Covid"
+        },
+        {
+          "startSeconds": 5535,
+          "title": "Recherches sur les coronavirus et gains de fonction"
+        },
+        {
+          "startSeconds": 5805,
+          "title": "Gestion du Covid et incohérences des mesures sanitaires"
+        },
+        {
+          "startSeconds": 6345,
+          "title": "Site furine et débat scientifique sur l’origine du Covid"
+        },
+        {
+          "startSeconds": 6885,
+          "title": "ADN, virus synthétiques et accidents de laboratoire"
+        },
+        {
+          "startSeconds": 7290,
+          "title": "Guerre biologique et risques de la biologie synthétique"
+        },
+        {
+          "startSeconds": 7560,
+          "title": "Histoire de la vaccination et du mouvement antivaccin"
+        },
+        {
+          "startSeconds": 8100,
+          "title": "Masques, vaccins et défiance pendant le Covid"
+        },
+        {
+          "startSeconds": 8955,
+          "title": "Mpox et réponse vaccinale en Afrique"
+        },
+        {
+          "startSeconds": 9315,
+          "title": "Biologie synthétique et nouveaux risques sanitaires"
+        },
+        {
+          "startSeconds": 9990,
+          "title": "ONG, financement et réponses internationales"
+        },
+        {
+          "startSeconds": 10260,
+          "title": "Contrôle des laboratoires et rôle de l’OMS"
+        },
+        {
+          "startSeconds": 10530,
+          "title": "Prise en charge du Covid et préparation aux crises"
+        },
+        {
+          "startSeconds": 11025,
+          "title": "Cocoliztli, lectures et conseils aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "3CtQSvy5558",
