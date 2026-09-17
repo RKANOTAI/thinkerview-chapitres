@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "videoId": "V34Y_fONxjI",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:00:54Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation, parcours et projet des Ruches"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Groenland, Venezuela et affaiblissement européen"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Uber et souveraineté économique française"
+    },
+    {
+      "startSeconds": 765,
+      "title": "Venezuela, pétrole et recomposition des puissances"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Antilles françaises, Haïti et perte d'emprise étatique"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Piratage du ministère et infiltration de l'État"
+    },
+    {
+      "startSeconds": 2115,
+      "title": "Blanchiment, argent criminel et corruption institutionnelle"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Cartel de Sinaloa et cohabitation avec l'État"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Drogues et banalisation dans les élites"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "France et Europe face aux blocs géopolitiques"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "France, Allemagne et stratégie face à la Russie"
+    },
+    {
+      "startSeconds": 4365,
+      "title": "Russie et Chine : réalités sociales et contrôle"
+    },
+    {
+      "startSeconds": 5085,
+      "title": "Relance française, industrie et souveraineté énergétique"
+    },
+    {
+      "startSeconds": 5490,
+      "title": "Énergie, euro et coût de la dévaluation"
+    },
+    {
+      "startSeconds": 6030,
+      "title": "Agriculture, industrie et rattrapage technologique"
+    },
+    {
+      "startSeconds": 6435,
+      "title": "Dévaluation, pouvoir d'achat et cohésion sociale"
+    },
+    {
+      "startSeconds": 6750,
+      "title": "Autorité publique, justice et réseaux de solidarité"
+    },
+    {
+      "startSeconds": 7020,
+      "title": "Reconstruction de l'État et mobilisation souverainiste"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Coup d'État légal et candidature présidentielle"
+    },
+    {
+      "startSeconds": 7650,
+      "title": "Trump, le RN et les financements politiques"
+    },
+    {
+      "startSeconds": 7920,
+      "title": "Justice française et indépendance des juges"
+    },
+    {
+      "startSeconds": 8055,
+      "title": "Territoires ultramarins et projection française"
+    },
+    {
+      "startSeconds": 8280,
+      "title": "Réforme institutionnelle et contrôle monétaire"
+    },
+    {
+      "startSeconds": 8685,
+      "title": "Immigration, frontières et coopération bilatérale"
+    },
+    {
+      "startSeconds": 8910,
+      "title": "Réputation, engagement et lien social"
+    },
+    {
+      "startSeconds": 9450,
+      "title": "Références culturelles, guerre et humanité"
+    }
+  ]
+}

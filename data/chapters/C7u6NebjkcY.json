@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "videoId": "C7u6NebjkcY",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:00:54Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Parcours d’Alain Juillet et ouverture de l’entretien"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Couloirs aériens autour de Kaliningrad"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Drones civils et incidents autour des aéroports"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Guerre des drones et transformation des armées"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Financement de la défense et préparation militaire"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Élargissement de l’OTAN et lignes rouges russes"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Révolution de Maïdan et orientation de l’Ukraine"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Stratégies américaines et négociations de paix"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Reconstruction de l’Ukraine et rôle militaire européen"
+    },
+    {
+      "startSeconds": 2610,
+      "title": "Usines à trolls et guerre cyber"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Économie de guerre russe et isolement européen"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Enquête de terrain et rencontre avec Lavrov"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Risque nucléaire et objectifs russes en Ukraine"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Course aux armements et technologies russes"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Dette, croissance faible et crise européenne"
+    },
+    {
+      "startSeconds": 4275,
+      "title": "Gaz russe, Nord Stream et coût énergétique"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Renseignement économique et préparation du conflit"
+    },
+    {
+      "startSeconds": 5265,
+      "title": "Guerre hybride, influence et désinformation"
+    },
+    {
+      "startSeconds": 6165,
+      "title": "Palantir et souveraineté technologique française"
+    },
+    {
+      "startSeconds": 6390,
+      "title": "Vulnérabilités diplomatiques et recul du réseau français"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Objets volants non identifiés et sécurité nationale"
+    },
+    {
+      "startSeconds": 7605,
+      "title": "Enquêtes américaines et cas inexpliqués"
+    },
+    {
+      "startSeconds": 8055,
+      "title": "Recherches secrètes et méthodes clandestines"
+    },
+    {
+      "startSeconds": 8460,
+      "title": "OVNI autour des bases et hypothèses de propulsion"
+    },
+    {
+      "startSeconds": 9000,
+      "title": "Suicides dans la police et la DGSI"
+    },
+    {
+      "startSeconds": 9180,
+      "title": "Influence néoconservatrice en Europe"
+    },
+    {
+      "startSeconds": 9450,
+      "title": "Avenir de la guerre en Ukraine et recherche de paix"
+    },
+    {
+      "startSeconds": 9855,
+      "title": "Disparitions, suicides et prudence dans l’enquête"
+    },
+    {
+      "startSeconds": 10080,
+      "title": "Livres conseillés et opportunités pour les jeunes"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "GzAA9i8DkjM",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:00:54Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et des enjeux nationaux"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Europe, délocalisations et désindustrialisation française"
+    },
+    {
+      "startSeconds": 225,
+      "title": "Rôle du Sénat et limites de la prospective"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Avenir des jeunes et réarmement démographique"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Prix de l'électricité et maintien des entreprises"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Origines européennes de la souveraineté énergétique"
+    },
+    {
+      "startSeconds": 1035,
+      "title": "Dépendance énergétique et hausse des factures"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Énergies intermittentes, subventions et coûts de raccordement"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Compétitivité industrielle et coût de l'énergie"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Normes nucléaires et surtransposition française"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Décisions politiques et recul de la filière nucléaire"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Politique énergétique allemande et souveraineté française"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "Contrôle parlementaire et défense des intérêts français"
+    },
+    {
+      "startSeconds": 3465,
+      "title": "Approvisionnement en uranium et cycle du combustible"
+    },
+    {
+      "startSeconds": 4095,
+      "title": "Modulation nucléaire et ordre de mérite électrique"
+    },
+    {
+      "startSeconds": 4770,
+      "title": "Matières premières et limites de la prospective"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Prévisions de RTE et planification à long terme"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "Cabinets ministériels, dette d'EDF et liberté de débat"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Experts et cabinets ministériels dans la décision publique"
+    },
+    {
+      "startSeconds": 7560,
+      "title": "Stratégie de l'État et crise agricole"
+    },
+    {
+      "startSeconds": 8010,
+      "title": "Importations ukrainiennes et crise des agriculteurs"
+    },
+    {
+      "startSeconds": 8640,
+      "title": "Relations germano-américaines et nucléaire français"
+    },
+    {
+      "startSeconds": 9000,
+      "title": "Commerce européen et réindustrialisation française"
+    },
+    {
+      "startSeconds": 9450,
+      "title": "Mémoire de guerre et nouvelles formes de conflit"
+    },
+    {
+      "startSeconds": 9720,
+      "title": "Souveraineté des réseaux électriques européens"
+    },
+    {
+      "startSeconds": 10350,
+      "title": "Interconnexions européennes et gestion des surplus électriques"
+    },
+    {
+      "startSeconds": 10890,
+      "title": "Factures d'électricité et coût des réseaux"
+    },
+    {
+      "startSeconds": 11160,
+      "title": "Précarité énergétique et mobilisation agricole"
+    },
+    {
+      "startSeconds": 11700,
+      "title": "Plan Mesmer, ressources et protection commerciale"
+    },
+    {
+      "startSeconds": 12375,
+      "title": "Lectures conseillées et message aux jeunes générations"
+    }
+  ]
+}
