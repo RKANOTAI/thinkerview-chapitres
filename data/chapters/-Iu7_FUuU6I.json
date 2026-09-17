@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "videoId": "-Iu7_FUuU6I",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T12:53:34Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et des thèmes abordés"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Astroturfing et fabrication de fausses foules"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Censure numérique et régulation européenne des plateformes"
+    },
+    {
+      "startSeconds": 585,
+      "title": "Logiciels d’animation de profils et cybernétique"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Économie comportementale, identité numérique et cartographie des populations"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Prédiction sociale et déshumanisation des populations"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Émotions, autocensure et individus agentiques"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Palo Alto, hypnose et ingénierie sociale"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Extrême centre, déni collectif et absence de plan"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Démotivation politique après les crises récentes"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Énergie bon marché, liberté et contrôle des mobilités"
+    },
+    {
+      "startSeconds": 4230,
+      "title": "Flux migratoires, démographie et marché du travail"
+    },
+    {
+      "startSeconds": 4410,
+      "title": "Complotisme, étiquettes politiques et parole dissidente"
+    },
+    {
+      "startSeconds": 5850,
+      "title": "Éducation aux médias et réseaux sociaux des mineurs"
+    },
+    {
+      "startSeconds": 6660,
+      "title": "Fin de vie, euthanasie et soins palliatifs"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Affaire Epstein et premières sources publiques"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Documents Epstein, compromat et interrogations judiciaires"
+    },
+    {
+      "startSeconds": 7920,
+      "title": "Transhumanisme et projet de l’homme nouveau"
+    },
+    {
+      "startSeconds": 8370,
+      "title": "Couverture médiatique de l’affaire et place des victimes"
+    },
+    {
+      "startSeconds": 8865,
+      "title": "Débat sur la sexualisation des enfants"
+    },
+    {
+      "startSeconds": 9315,
+      "title": "Organisation collective et immunité face aux manipulations"
+    },
+    {
+      "startSeconds": 10080,
+      "title": "Alliance populaire, projet PIC et humour politique"
+    },
+    {
+      "startSeconds": 10665,
+      "title": "Démocratie représentative et méthodes délibératives"
+    },
+    {
+      "startSeconds": 11430,
+      "title": "Projet PIC et démocratie référendaire"
+    },
+    {
+      "startSeconds": 12195,
+      "title": "Souveraineté économique et choix stratégiques"
+    },
+    {
+      "startSeconds": 12330,
+      "title": "Lectures conseillées et conseils aux jeunes"
+    }
+  ]
+}

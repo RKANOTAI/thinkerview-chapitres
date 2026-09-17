@@ -3013,9 +3013,114 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Alexis Poulin : Entrepreneur et Journaliste. Fondateur du média le Monde Moderne.\nFrédéric Bascuñana : Analyste stratégique.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation des invités et des thèmes abordés"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Astroturfing et fabrication de fausses foules"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Censure numérique et régulation européenne des plateformes"
+        },
+        {
+          "startSeconds": 585,
+          "title": "Logiciels d’animation de profils et cybernétique"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Économie comportementale, identité numérique et cartographie des populations"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Prédiction sociale et déshumanisation des populations"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Émotions, autocensure et individus agentiques"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Palo Alto, hypnose et ingénierie sociale"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Extrême centre, déni collectif et absence de plan"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Démotivation politique après les crises récentes"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Énergie bon marché, liberté et contrôle des mobilités"
+        },
+        {
+          "startSeconds": 4230,
+          "title": "Flux migratoires, démographie et marché du travail"
+        },
+        {
+          "startSeconds": 4410,
+          "title": "Complotisme, étiquettes politiques et parole dissidente"
+        },
+        {
+          "startSeconds": 5850,
+          "title": "Éducation aux médias et réseaux sociaux des mineurs"
+        },
+        {
+          "startSeconds": 6660,
+          "title": "Fin de vie, euthanasie et soins palliatifs"
+        },
+        {
+          "startSeconds": 6840,
+          "title": "Affaire Epstein et premières sources publiques"
+        },
+        {
+          "startSeconds": 7200,
+          "title": "Documents Epstein, compromat et interrogations judiciaires"
+        },
+        {
+          "startSeconds": 7920,
+          "title": "Transhumanisme et projet de l’homme nouveau"
+        },
+        {
+          "startSeconds": 8370,
+          "title": "Couverture médiatique de l’affaire et place des victimes"
+        },
+        {
+          "startSeconds": 8865,
+          "title": "Débat sur la sexualisation des enfants"
+        },
+        {
+          "startSeconds": 9315,
+          "title": "Organisation collective et immunité face aux manipulations"
+        },
+        {
+          "startSeconds": 10080,
+          "title": "Alliance populaire, projet PIC et humour politique"
+        },
+        {
+          "startSeconds": 10665,
+          "title": "Démocratie représentative et méthodes délibératives"
+        },
+        {
+          "startSeconds": 11430,
+          "title": "Projet PIC et démocratie référendaire"
+        },
+        {
+          "startSeconds": 12195,
+          "title": "Souveraineté économique et choix stratégiques"
+        },
+        {
+          "startSeconds": 12330,
+          "title": "Lectures conseillées et conseils aux jeunes"
+        }
+      ]
     },
     {
       "id": "BGVJW7lMey0",
@@ -3027,9 +3132,122 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Jon de Lorraine : Citoyen engagé pour la liberté. Ancien cadre en finance internationale.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et engagement pour les intérêts français"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Fonctionnement des partis et obstacles à l'engagement"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Réseaux sociaux visibilité et liberté de parole"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Authentification en ligne et protection des enfants"
+        },
+        {
+          "startSeconds": 1485,
+          "title": "Dette publique et dépenses sociales françaises"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Immigration et limites des infrastructures d'accueil"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Taux bas et énergie bon marché soutiennent les politiques"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Endettement et menace sur les actifs stratégiques français"
+        },
+        {
+          "startSeconds": 2385,
+          "title": "Méthodes de prospective et pilotage de la trésorerie"
+        },
+        {
+          "startSeconds": 2745,
+          "title": "Dette française normes et contraintes européennes"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Rester en France pour mener une bataille culturelle"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "Fiscalité énergie nucléaire et souveraineté européenne"
+        },
+        {
+          "startSeconds": 3645,
+          "title": "Solutions politiques et candidatures sans étiquette"
+        },
+        {
+          "startSeconds": 4005,
+          "title": "Ressources mondiales et soutenabilité industrielle"
+        },
+        {
+          "startSeconds": 4230,
+          "title": "Parc nucléaire fiscalité et réindustrialisation française"
+        },
+        {
+          "startSeconds": 4410,
+          "title": "Dérapages budgétaires et responsabilité politique"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Réformes économiques et accompagnement vers l'emploi"
+        },
+        {
+          "startSeconds": 5220,
+          "title": "Mobiliser le public entre viralité et travail parlementaire"
+        },
+        {
+          "startSeconds": 5490,
+          "title": "Comprendre le parcours démocratique des lois"
+        },
+        {
+          "startSeconds": 5760,
+          "title": "Systèmes financiers alternatifs et flux de liquidité"
+        },
+        {
+          "startSeconds": 5895,
+          "title": "Candidature politique et projet souverainiste collectif"
+        },
+        {
+          "startSeconds": 6075,
+          "title": "Divisions de la droite souverainiste et convergences"
+        },
+        {
+          "startSeconds": 6390,
+          "title": "Redressement politique et renégociation des traités européens"
+        },
+        {
+          "startSeconds": 6660,
+          "title": "Identité collective et refus des clivages politiques"
+        },
+        {
+          "startSeconds": 6930,
+          "title": "Foi chrétienne et liberté de conscience"
+        },
+        {
+          "startSeconds": 7155,
+          "title": "Attaques contre les églises et visibilité du fait chrétien"
+        },
+        {
+          "startSeconds": 7290,
+          "title": "Mémoire transmission et trace politique"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Conseils aux jeunes pour apprendre et croire en soi"
+        }
+      ]
     },
     {
       "id": "w8vV6GsVe6s",
@@ -3041,9 +3259,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Jean Messiha : haut fonctionnaire, éditorialiste, homme politique et polémiste.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et parcours de Jean Messiha"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Débat autour de l'étiquette arabe de service"
+        },
+        {
+          "startSeconds": 855,
+          "title": "Assimilation et immigration depuis les années 1980"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Vision du déclin de la France et de la perte d'identité"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Critique du Rassemblement national et de l'islam"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Immigration, asile et évolution démographique"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Naturalisation, francité et loyauté nationale"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Proposition d'une immigration zéro"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Clandestins, aides sociales et priorité aux Français"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Les cercles concentriques de la remigration"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Renvoi vers les pays d'origine ou tiers"
+        },
+        {
+          "startSeconds": 3285,
+          "title": "Pause et questions de la communauté"
+        },
+        {
+          "startSeconds": 3510,
+          "title": "Rétention administrative et liberté d'expression"
+        },
+        {
+          "startSeconds": 3825,
+          "title": "Wokisme et revendications des identités minoritaires"
+        },
+        {
+          "startSeconds": 3960,
+          "title": "Comparaison avec les revendications identitaires au Maroc"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Assimilation, intégration et rapport aux religions"
+        },
+        {
+          "startSeconds": 4410,
+          "title": "Remigration et conditions de séjour des immigrés légaux"
+        },
+        {
+          "startSeconds": 4770,
+          "title": "Parcours familial, naturalisation et identité chrétienne"
+        },
+        {
+          "startSeconds": 5040,
+          "title": "Souveraineté française entre les puissances et l'Europe"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Projet de reconquête et risque de guerre civile"
+        },
+        {
+          "startSeconds": 5625,
+          "title": "Métiers essentiels, salaires et emploi immigré"
+        },
+        {
+          "startSeconds": 5850,
+          "title": "Légitimité de son discours sur l'immigration"
+        },
+        {
+          "startSeconds": 5985,
+          "title": "Menace existentielle et irréversibilité identitaire"
+        },
+        {
+          "startSeconds": 6120,
+          "title": "Identité française, culture et assimilation"
+        },
+        {
+          "startSeconds": 6345,
+          "title": "Assimilation, discriminations et devoirs civiques"
+        },
+        {
+          "startSeconds": 6795,
+          "title": "Défense d'une France une et indivisible"
+        },
+        {
+          "startSeconds": 6975,
+          "title": "Maintien dans l'euro et renégociation européenne"
+        },
+        {
+          "startSeconds": 7335,
+          "title": "Risques monétaires et protection de l'épargne"
+        },
+        {
+          "startSeconds": 7650,
+          "title": "Déclin économique et responsabilité politique"
+        },
+        {
+          "startSeconds": 7920,
+          "title": "Lectures fondatrices et message aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "GzAA9i8DkjM",

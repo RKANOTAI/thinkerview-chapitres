@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "w8vV6GsVe6s",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T12:53:34Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et parcours de Jean Messiha"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Débat autour de l'étiquette arabe de service"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Assimilation et immigration depuis les années 1980"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Vision du déclin de la France et de la perte d'identité"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Critique du Rassemblement national et de l'islam"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Immigration, asile et évolution démographique"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Naturalisation, francité et loyauté nationale"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Proposition d'une immigration zéro"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Clandestins, aides sociales et priorité aux Français"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Les cercles concentriques de la remigration"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Renvoi vers les pays d'origine ou tiers"
+    },
+    {
+      "startSeconds": 3285,
+      "title": "Pause et questions de la communauté"
+    },
+    {
+      "startSeconds": 3510,
+      "title": "Rétention administrative et liberté d'expression"
+    },
+    {
+      "startSeconds": 3825,
+      "title": "Wokisme et revendications des identités minoritaires"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Comparaison avec les revendications identitaires au Maroc"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Assimilation, intégration et rapport aux religions"
+    },
+    {
+      "startSeconds": 4410,
+      "title": "Remigration et conditions de séjour des immigrés légaux"
+    },
+    {
+      "startSeconds": 4770,
+      "title": "Parcours familial, naturalisation et identité chrétienne"
+    },
+    {
+      "startSeconds": 5040,
+      "title": "Souveraineté française entre les puissances et l'Europe"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Projet de reconquête et risque de guerre civile"
+    },
+    {
+      "startSeconds": 5625,
+      "title": "Métiers essentiels, salaires et emploi immigré"
+    },
+    {
+      "startSeconds": 5850,
+      "title": "Légitimité de son discours sur l'immigration"
+    },
+    {
+      "startSeconds": 5985,
+      "title": "Menace existentielle et irréversibilité identitaire"
+    },
+    {
+      "startSeconds": 6120,
+      "title": "Identité française, culture et assimilation"
+    },
+    {
+      "startSeconds": 6345,
+      "title": "Assimilation, discriminations et devoirs civiques"
+    },
+    {
+      "startSeconds": 6795,
+      "title": "Défense d'une France une et indivisible"
+    },
+    {
+      "startSeconds": 6975,
+      "title": "Maintien dans l'euro et renégociation européenne"
+    },
+    {
+      "startSeconds": 7335,
+      "title": "Risques monétaires et protection de l'épargne"
+    },
+    {
+      "startSeconds": 7650,
+      "title": "Déclin économique et responsabilité politique"
+    },
+    {
+      "startSeconds": 7920,
+      "title": "Lectures fondatrices et message aux jeunes générations"
+    }
+  ]
+}

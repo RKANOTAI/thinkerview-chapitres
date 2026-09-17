@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "videoId": "BGVJW7lMey0",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T12:53:34Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et engagement pour les intérêts français"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Fonctionnement des partis et obstacles à l'engagement"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Réseaux sociaux visibilité et liberté de parole"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Authentification en ligne et protection des enfants"
+    },
+    {
+      "startSeconds": 1485,
+      "title": "Dette publique et dépenses sociales françaises"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Immigration et limites des infrastructures d'accueil"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Taux bas et énergie bon marché soutiennent les politiques"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Endettement et menace sur les actifs stratégiques français"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Méthodes de prospective et pilotage de la trésorerie"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Dette française normes et contraintes européennes"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Rester en France pour mener une bataille culturelle"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "Fiscalité énergie nucléaire et souveraineté européenne"
+    },
+    {
+      "startSeconds": 3645,
+      "title": "Solutions politiques et candidatures sans étiquette"
+    },
+    {
+      "startSeconds": 4005,
+      "title": "Ressources mondiales et soutenabilité industrielle"
+    },
+    {
+      "startSeconds": 4230,
+      "title": "Parc nucléaire fiscalité et réindustrialisation française"
+    },
+    {
+      "startSeconds": 4410,
+      "title": "Dérapages budgétaires et responsabilité politique"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Réformes économiques et accompagnement vers l'emploi"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Mobiliser le public entre viralité et travail parlementaire"
+    },
+    {
+      "startSeconds": 5490,
+      "title": "Comprendre le parcours démocratique des lois"
+    },
+    {
+      "startSeconds": 5760,
+      "title": "Systèmes financiers alternatifs et flux de liquidité"
+    },
+    {
+      "startSeconds": 5895,
+      "title": "Candidature politique et projet souverainiste collectif"
+    },
+    {
+      "startSeconds": 6075,
+      "title": "Divisions de la droite souverainiste et convergences"
+    },
+    {
+      "startSeconds": 6390,
+      "title": "Redressement politique et renégociation des traités européens"
+    },
+    {
+      "startSeconds": 6660,
+      "title": "Identité collective et refus des clivages politiques"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Foi chrétienne et liberté de conscience"
+    },
+    {
+      "startSeconds": 7155,
+      "title": "Attaques contre les églises et visibilité du fait chrétien"
+    },
+    {
+      "startSeconds": 7290,
+      "title": "Mémoire transmission et trace politique"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Conseils aux jeunes pour apprendre et croire en soi"
+    }
+  ]
+}
