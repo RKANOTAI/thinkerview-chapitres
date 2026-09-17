@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "LRnJeLC8EI8",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:17:02Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Mayotte et de ses enjeux stratégiques"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Menaces hybrides et saturation des services publics"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Reconstruction après le cyclone Chido"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Une nouvelle étape de la décolonisation ultramarine"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Mayotte stratégique dans le canal du Mozambique"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Ports comoriens et reconstruction du port de Mayotte"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Rôle stratégique des outre-mer pour la France"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "La corruption invoquée contre la reconstruction"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Autonomie et mémoire politique des outre-mer"
+    },
+    {
+      "startSeconds": 3465,
+      "title": "Ressources et instabilités dans l’océan Indien"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Désinformation et violences liées à la guerre hybride"
+    },
+    {
+      "startSeconds": 4230,
+      "title": "Intervention de l’État contre les bidonvilles"
+    },
+    {
+      "startSeconds": 4545,
+      "title": "Refus de l’abandon et attachement à la France"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Reconstruction et dignité du pacte républicain"
+    },
+    {
+      "startSeconds": 5130,
+      "title": "Ministère des outre-mer et chantiers institutionnels"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Ressources ultramarines et avenir économique de la France"
+    },
+    {
+      "startSeconds": 5670,
+      "title": "Partis politiques et administration ultramarine"
+    },
+    {
+      "startSeconds": 6210,
+      "title": "Accès aux droits et défi judiciaire à Mayotte"
+    },
+    {
+      "startSeconds": 6435,
+      "title": "Indépendance, autonomie et trajectoires ultramarines"
+    },
+    {
+      "startSeconds": 6705,
+      "title": "Solutions systémiques pour l’eau et la reconstruction"
+    },
+    {
+      "startSeconds": 7020,
+      "title": "Coopération militaire avec les Comores contestée"
+    },
+    {
+      "startSeconds": 7245,
+      "title": "Indices publics de l’ingérence russe"
+    },
+    {
+      "startSeconds": 7470,
+      "title": "Défense de la population et risque de milices"
+    },
+    {
+      "startSeconds": 7785,
+      "title": "Contradictions dans le financement de la reconstruction"
+    },
+    {
+      "startSeconds": 7920,
+      "title": "Frontières politiques et proximité comorienne"
+    },
+    {
+      "startSeconds": 8190,
+      "title": "Accès aux soins et débat sur la position de l’ONU"
+    },
+    {
+      "startSeconds": 8460,
+      "title": "Menaces contre l’élue et refus de l’autodéfense"
+    },
+    {
+      "startSeconds": 8595,
+      "title": "Lectures conseillées et hommage à Mayotte"
+    },
+    {
+      "startSeconds": 9000,
+      "title": "Patrimoine naturel et richesse du lagon"
+    },
+    {
+      "startSeconds": 9360,
+      "title": "Conseils aux jeunes générations et conclusion"
+    }
+  ]
+}

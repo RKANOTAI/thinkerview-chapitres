@@ -4144,9 +4144,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Estelle Youssouffa : Députée de la 1ère circonscription de Mayotte, membre du groupe LIOT.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Mayotte et de ses enjeux stratégiques"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Menaces hybrides et saturation des services publics"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Reconstruction après le cyclone Chido"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Une nouvelle étape de la décolonisation ultramarine"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Mayotte stratégique dans le canal du Mozambique"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Ports comoriens et reconstruction du port de Mayotte"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Rôle stratégique des outre-mer pour la France"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "La corruption invoquée contre la reconstruction"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Autonomie et mémoire politique des outre-mer"
+        },
+        {
+          "startSeconds": 3465,
+          "title": "Ressources et instabilités dans l’océan Indien"
+        },
+        {
+          "startSeconds": 3960,
+          "title": "Désinformation et violences liées à la guerre hybride"
+        },
+        {
+          "startSeconds": 4230,
+          "title": "Intervention de l’État contre les bidonvilles"
+        },
+        {
+          "startSeconds": 4545,
+          "title": "Refus de l’abandon et attachement à la France"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Reconstruction et dignité du pacte républicain"
+        },
+        {
+          "startSeconds": 5130,
+          "title": "Ministère des outre-mer et chantiers institutionnels"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Ressources ultramarines et avenir économique de la France"
+        },
+        {
+          "startSeconds": 5670,
+          "title": "Partis politiques et administration ultramarine"
+        },
+        {
+          "startSeconds": 6210,
+          "title": "Accès aux droits et défi judiciaire à Mayotte"
+        },
+        {
+          "startSeconds": 6435,
+          "title": "Indépendance, autonomie et trajectoires ultramarines"
+        },
+        {
+          "startSeconds": 6705,
+          "title": "Solutions systémiques pour l’eau et la reconstruction"
+        },
+        {
+          "startSeconds": 7020,
+          "title": "Coopération militaire avec les Comores contestée"
+        },
+        {
+          "startSeconds": 7245,
+          "title": "Indices publics de l’ingérence russe"
+        },
+        {
+          "startSeconds": 7470,
+          "title": "Défense de la population et risque de milices"
+        },
+        {
+          "startSeconds": 7785,
+          "title": "Contradictions dans le financement de la reconstruction"
+        },
+        {
+          "startSeconds": 7920,
+          "title": "Frontières politiques et proximité comorienne"
+        },
+        {
+          "startSeconds": 8190,
+          "title": "Accès aux soins et débat sur la position de l’ONU"
+        },
+        {
+          "startSeconds": 8460,
+          "title": "Menaces contre l’élue et refus de l’autodéfense"
+        },
+        {
+          "startSeconds": 8595,
+          "title": "Lectures conseillées et hommage à Mayotte"
+        },
+        {
+          "startSeconds": 9000,
+          "title": "Patrimoine naturel et richesse du lagon"
+        },
+        {
+          "startSeconds": 9360,
+          "title": "Conseils aux jeunes générations et conclusion"
+        }
+      ]
     },
     {
       "id": "RYAL1TSFq2U",
@@ -4158,9 +4279,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Natacha Polony : Directrice de la revue l’Audace. Journaliste. Essayiste.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et projet de la revue L'Audace"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Scandale de la BBC et confiance médiatique"
+        },
+        {
+          "startSeconds": 585,
+          "title": "Crise française et enjeux de souveraineté"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Covid, Ukraine et dépendances énergétiques"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Comité Orwell et souveraineté monétaire"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Citoyens, gilets jaunes et démocratie"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "Surveillance numérique et fédéralisme européen"
+        },
+        {
+          "startSeconds": 2745,
+          "title": "Allemagne, réarmement et modèle économique"
+        },
+        {
+          "startSeconds": 3195,
+          "title": "Aides d'État et intérêts français en Europe"
+        },
+        {
+          "startSeconds": 3510,
+          "title": "Technocratie, patriotisme et désindustrialisation"
+        },
+        {
+          "startSeconds": 3870,
+          "title": "Mobilisation autour des idées de L'Audace"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Démocratie, bonheur et identité française"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Censure numérique et stratégie de résistance"
+        },
+        {
+          "startSeconds": 4770,
+          "title": "Offre politique, éducation et République"
+        },
+        {
+          "startSeconds": 5355,
+          "title": "Transition électrique et filières industrielles"
+        },
+        {
+          "startSeconds": 5715,
+          "title": "Intelligence économique et protection industrielle"
+        },
+        {
+          "startSeconds": 6300,
+          "title": "Industrie de défense et exercice du pouvoir"
+        },
+        {
+          "startSeconds": 6615,
+          "title": "Emmanuel Macron, mondialisation et intérêts transnationaux"
+        },
+        {
+          "startSeconds": 7065,
+          "title": "Constitution et affaiblissement des contre-pouvoirs"
+        },
+        {
+          "startSeconds": 7470,
+          "title": "Ingérences étrangères et diplomatie française"
+        },
+        {
+          "startSeconds": 8145,
+          "title": "Indépendance française et néoconservatisme américain"
+        },
+        {
+          "startSeconds": 9135,
+          "title": "Inflation, monnaie et accès au logement"
+        },
+        {
+          "startSeconds": 9405,
+          "title": "Transmission culturelle, famille et laïcité"
+        },
+        {
+          "startSeconds": 9855,
+          "title": "Engagement politique et projet de L'Audace"
+        },
+        {
+          "startSeconds": 10215,
+          "title": "Municipales et démocratie locale"
+        },
+        {
+          "startSeconds": 10620,
+          "title": "Médias, intelligence artificielle et réseaux sociaux"
+        },
+        {
+          "startSeconds": 11295,
+          "title": "Journalisme, faits et interprétation"
+        },
+        {
+          "startSeconds": 11655,
+          "title": "Journalisme, carrière et transmission"
+        },
+        {
+          "startSeconds": 12150,
+          "title": "Lectures recommandées et conseil final"
+        },
+        {
+          "startSeconds": 12375,
+          "title": "Conseil final sur lucidité et volonté"
+        }
+      ]
     },
     {
       "id": "KbbDd8GAOBU",
@@ -4172,9 +4414,94 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Javier Blas, journaliste d'investigation pour Bloomberg.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation du journaliste et du négoce pétrolier"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Les États comprennent mal les marchés des matières premières"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Registre et transparence des marchés pétroliers"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Résilience russe et préparation européenne aux sanctions"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Difficultés journalistiques face à la guerre commerciale"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Objectifs incertains de la guerre commerciale"
+        },
+        {
+          "startSeconds": 2025,
+          "title": "Décalage entre opinion publique et marchés"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Complexité des chaînes d'approvisionnement quotidiennes"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Contraintes industrielles du renouveau nucléaire"
+        },
+        {
+          "startSeconds": 2655,
+          "title": "Élections et pluralité des sources d'information"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Origine du livre sur les négociants"
+        },
+        {
+          "startSeconds": 3015,
+          "title": "Influence historique et actuelle des traders"
+        },
+        {
+          "startSeconds": 3375,
+          "title": "Pressions des traders sur les marchés céréaliers"
+        },
+        {
+          "startSeconds": 3555,
+          "title": "Absence de délit d'initié et corruption"
+        },
+        {
+          "startSeconds": 3690,
+          "title": "Fragmentation stratégique de l'Europe"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Choix énergétiques de l'industrie allemande"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Détachement moral des négociants en zone de guerre"
+        },
+        {
+          "startSeconds": 4455,
+          "title": "Transparence et rentabilité des négociants"
+        },
+        {
+          "startSeconds": 4680,
+          "title": "Accessibilité économique de la transition énergétique"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Ouvrages recommandés sur les matières premières"
+        },
+        {
+          "startSeconds": 4950,
+          "title": "Lire des opinions contraires aux siennes"
+        }
+      ]
     },
     {
       "id": "Itc4VqlP1PY",

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "videoId": "KbbDd8GAOBU",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:17:02Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation du journaliste et du négoce pétrolier"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Les États comprennent mal les marchés des matières premières"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Registre et transparence des marchés pétroliers"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Résilience russe et préparation européenne aux sanctions"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Difficultés journalistiques face à la guerre commerciale"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Objectifs incertains de la guerre commerciale"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Décalage entre opinion publique et marchés"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Complexité des chaînes d'approvisionnement quotidiennes"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Contraintes industrielles du renouveau nucléaire"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Élections et pluralité des sources d'information"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Origine du livre sur les négociants"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "Influence historique et actuelle des traders"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Pressions des traders sur les marchés céréaliers"
+    },
+    {
+      "startSeconds": 3555,
+      "title": "Absence de délit d'initié et corruption"
+    },
+    {
+      "startSeconds": 3690,
+      "title": "Fragmentation stratégique de l'Europe"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Choix énergétiques de l'industrie allemande"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Détachement moral des négociants en zone de guerre"
+    },
+    {
+      "startSeconds": 4455,
+      "title": "Transparence et rentabilité des négociants"
+    },
+    {
+      "startSeconds": 4680,
+      "title": "Accessibilité économique de la transition énergétique"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Ouvrages recommandés sur les matières premières"
+    },
+    {
+      "startSeconds": 4950,
+      "title": "Lire des opinions contraires aux siennes"
+    }
+  ]
+}

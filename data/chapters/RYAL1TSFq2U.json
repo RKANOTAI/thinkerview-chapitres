@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "RYAL1TSFq2U",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:17:02Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et projet de la revue L'Audace"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Scandale de la BBC et confiance médiatique"
+    },
+    {
+      "startSeconds": 585,
+      "title": "Crise française et enjeux de souveraineté"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Covid, Ukraine et dépendances énergétiques"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Comité Orwell et souveraineté monétaire"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Citoyens, gilets jaunes et démocratie"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Surveillance numérique et fédéralisme européen"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Allemagne, réarmement et modèle économique"
+    },
+    {
+      "startSeconds": 3195,
+      "title": "Aides d'État et intérêts français en Europe"
+    },
+    {
+      "startSeconds": 3510,
+      "title": "Technocratie, patriotisme et désindustrialisation"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Mobilisation autour des idées de L'Audace"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Démocratie, bonheur et identité française"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Censure numérique et stratégie de résistance"
+    },
+    {
+      "startSeconds": 4770,
+      "title": "Offre politique, éducation et République"
+    },
+    {
+      "startSeconds": 5355,
+      "title": "Transition électrique et filières industrielles"
+    },
+    {
+      "startSeconds": 5715,
+      "title": "Intelligence économique et protection industrielle"
+    },
+    {
+      "startSeconds": 6300,
+      "title": "Industrie de défense et exercice du pouvoir"
+    },
+    {
+      "startSeconds": 6615,
+      "title": "Emmanuel Macron, mondialisation et intérêts transnationaux"
+    },
+    {
+      "startSeconds": 7065,
+      "title": "Constitution et affaiblissement des contre-pouvoirs"
+    },
+    {
+      "startSeconds": 7470,
+      "title": "Ingérences étrangères et diplomatie française"
+    },
+    {
+      "startSeconds": 8145,
+      "title": "Indépendance française et néoconservatisme américain"
+    },
+    {
+      "startSeconds": 9135,
+      "title": "Inflation, monnaie et accès au logement"
+    },
+    {
+      "startSeconds": 9405,
+      "title": "Transmission culturelle, famille et laïcité"
+    },
+    {
+      "startSeconds": 9855,
+      "title": "Engagement politique et projet de L'Audace"
+    },
+    {
+      "startSeconds": 10215,
+      "title": "Municipales et démocratie locale"
+    },
+    {
+      "startSeconds": 10620,
+      "title": "Médias, intelligence artificielle et réseaux sociaux"
+    },
+    {
+      "startSeconds": 11295,
+      "title": "Journalisme, faits et interprétation"
+    },
+    {
+      "startSeconds": 11655,
+      "title": "Journalisme, carrière et transmission"
+    },
+    {
+      "startSeconds": 12150,
+      "title": "Lectures recommandées et conseil final"
+    },
+    {
+      "startSeconds": 12375,
+      "title": "Conseil final sur lucidité et volonté"
+    }
+  ]
+}
