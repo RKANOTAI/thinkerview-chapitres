@@ -8436,9 +8436,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Nicolas Dupont-Aignan : président de Debout la France, ex-Député de l'Essonne.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et lecture souverainiste"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Réarmement européen et dissuasion française"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Guerre économique et sécurité européenne"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Hiérarchie des menaces pour la France"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Discours présidentiels sur la guerre et le Covid"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Débat public et liberté de penser"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Dissuasion française et défense européenne"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Conditions d’un compromis de paix en Ukraine"
+        },
+        {
+          "startSeconds": 2655,
+          "title": "Démocratie, indépendance nationale et énergie"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Souveraineté française et projet de Frexit collectif"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Rassemblement souverainiste et ressources stratégiques"
+        },
+        {
+          "startSeconds": 3510,
+          "title": "Afrique et valorisation des matières premières"
+        },
+        {
+          "startSeconds": 3870,
+          "title": "Déclin politique, écologie et justice sociale"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Dette française et possibilités de redressement"
+        },
+        {
+          "startSeconds": 4455,
+          "title": "Crise de la dette et épargne française"
+        },
+        {
+          "startSeconds": 4680,
+          "title": "Russie, Chine et priorités stratégiques"
+        },
+        {
+          "startSeconds": 4995,
+          "title": "Développement africain, frontières et immigration"
+        },
+        {
+          "startSeconds": 5355,
+          "title": "Rapport de force avec l’Algérie"
+        },
+        {
+          "startSeconds": 5535,
+          "title": "Intérêts français face à la Chine et Taïwan"
+        },
+        {
+          "startSeconds": 5715,
+          "title": "Souveraineté nationale et priorités françaises"
+        },
+        {
+          "startSeconds": 6075,
+          "title": "Économies budgétaires et choix géopolitiques"
+        },
+        {
+          "startSeconds": 6480,
+          "title": "Redressement économique, école et justice"
+        },
+        {
+          "startSeconds": 6840,
+          "title": "Opposition à la guerre et politique étrangère"
+        },
+        {
+          "startSeconds": 7110,
+          "title": "Vie quotidienne et confiance sociale"
+        },
+        {
+          "startSeconds": 7245,
+          "title": "Électrochoc démocratique et ordre public"
+        },
+        {
+          "startSeconds": 7695,
+          "title": "Stratégie de défense et bilan du pouvoir"
+        },
+        {
+          "startSeconds": 7875,
+          "title": "Traitements du Covid et liberté de soin"
+        },
+        {
+          "startSeconds": 8190,
+          "title": "Livres, films et références recommandés"
+        },
+        {
+          "startSeconds": 8370,
+          "title": "Prospective, peur et responsabilité politique"
+        },
+        {
+          "startSeconds": 8505,
+          "title": "Ne pas avoir peur et éveiller les consciences"
+        }
+      ]
     },
     {
       "id": "4VeVU5tG_pg",
@@ -8450,9 +8571,102 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "François Ecalle, Président de FIPECO, conseiller maître honoraire à la Cour des comptes.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et diagnostic initial des finances publiques"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Dette publique, marchés financiers et souveraineté"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Absence de consensus sur les solutions budgétaires"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Méthodes des prévisionnistes économiques"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Prévisions internationales et scénarios de rupture"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Prévisions officielles et objectifs européens de déficit"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Contraintes politiques de la réduction du déficit"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Réduire l'État et rechercher des gains de productivité"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Réforme des retraites et âge effectif de départ"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Dépenses de santé et train de vie de l'État"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Réformes budgétaires sous la pression des marchés"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Dépenses allemandes et croissance européenne"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Spread franco-allemand et confiance des marchés"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Actifs publics et limites de leur cession"
+        },
+        {
+          "startSeconds": 3735,
+          "title": "Épargne personnelle et risques du bitcoin"
+        },
+        {
+          "startSeconds": 3870,
+          "title": "Agencification de l'État et définition des agences"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Autorités indépendantes et concurrence ferroviaire"
+        },
+        {
+          "startSeconds": 4230,
+          "title": "Tournant de la Cour des comptes sur la dette"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Loyauté des fonctionnaires et parole publique"
+        },
+        {
+          "startSeconds": 4635,
+          "title": "Notation de la dette française et risque de déclassement"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Inquiétudes géopolitiques et stratégie américaine"
+        },
+        {
+          "startSeconds": 5085,
+          "title": "Lectures conseillées et espoir pour les jeunes générations"
+        },
+        {
+          "startSeconds": 5265,
+          "title": "Réchauffement climatique et stratégie énergétique européenne"
+        }
+      ]
     },
     {
       "id": "hRa2qFpuUwQ",
@@ -8464,9 +8678,114 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Charles de Courson : Député, Conseiller à la Cour des comptes, Rapporteur général à la Commission des finances, de l'économie générale et du contrôle budgétaire.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Charles de Courson et finances publiques"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Dégradation budgétaire et enquête parlementaire"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Marchés financiers, dette et redressement public"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Travailleurs modestes et vote Rassemblement national"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Immigration, identité et vote rural"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Défiance envers les élus et probité personnelle"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Compétitivité française et limites du protectionnisme"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Nucléaire et indépendance électrique française"
+        },
+        {
+          "startSeconds": 2115,
+          "title": "Voitures électriques et transition européenne"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Zones à faibles émissions et inégalités sociales"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Gilets jaunes, Parlement et démocratie"
+        },
+        {
+          "startSeconds": 2745,
+          "title": "Cumul des mandats et ancrage territorial"
+        },
+        {
+          "startSeconds": 3015,
+          "title": "Niveau et comportement des parlementaires"
+        },
+        {
+          "startSeconds": 3375,
+          "title": "Dossiers stratégiques et travail parlementaire"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Capacités militaires françaises et guerre en Ukraine"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Sécurité numérique des élus et intelligence artificielle"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Risques financiers, militaires et sociaux"
+        },
+        {
+          "startSeconds": 4365,
+          "title": "Pic pétrolier, uranium et ressources énergétiques"
+        },
+        {
+          "startSeconds": 4590,
+          "title": "Marché européen de l’électricité et échanges transfrontaliers"
+        },
+        {
+          "startSeconds": 4680,
+          "title": "Flux migratoires, démographie et immigration choisie"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Natalité, logement et choix familiaux"
+        },
+        {
+          "startSeconds": 5085,
+          "title": "Rémunération des enseignants et temps scolaire"
+        },
+        {
+          "startSeconds": 5175,
+          "title": "Dissuasion nucléaire et défense européenne"
+        },
+        {
+          "startSeconds": 5265,
+          "title": "Fin de la guerre en Ukraine et soutien russe"
+        },
+        {
+          "startSeconds": 5580,
+          "title": "Lectures recommandées et regard sur l’humanité"
+        },
+        {
+          "startSeconds": 5805,
+          "title": "Espérance et message aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "gzlHOiqeQCY",

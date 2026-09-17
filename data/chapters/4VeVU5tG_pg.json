@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "videoId": "4VeVU5tG_pg",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:48:34Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et diagnostic initial des finances publiques"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Dette publique, marchés financiers et souveraineté"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Absence de consensus sur les solutions budgétaires"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Méthodes des prévisionnistes économiques"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Prévisions internationales et scénarios de rupture"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Prévisions officielles et objectifs européens de déficit"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Contraintes politiques de la réduction du déficit"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Réduire l'État et rechercher des gains de productivité"
+    },
+    {
+      "startSeconds": 2565,
+      "title": "Réforme des retraites et âge effectif de départ"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Dépenses de santé et train de vie de l'État"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Réformes budgétaires sous la pression des marchés"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Dépenses allemandes et croissance européenne"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Spread franco-allemand et confiance des marchés"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Actifs publics et limites de leur cession"
+    },
+    {
+      "startSeconds": 3735,
+      "title": "Épargne personnelle et risques du bitcoin"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Agencification de l'État et définition des agences"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Autorités indépendantes et concurrence ferroviaire"
+    },
+    {
+      "startSeconds": 4230,
+      "title": "Tournant de la Cour des comptes sur la dette"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Loyauté des fonctionnaires et parole publique"
+    },
+    {
+      "startSeconds": 4635,
+      "title": "Notation de la dette française et risque de déclassement"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Inquiétudes géopolitiques et stratégie américaine"
+    },
+    {
+      "startSeconds": 5085,
+      "title": "Lectures conseillées et espoir pour les jeunes générations"
+    },
+    {
+      "startSeconds": 5265,
+      "title": "Réchauffement climatique et stratégie énergétique européenne"
+    }
+  ]
+}

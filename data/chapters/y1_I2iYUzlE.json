@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "y1_I2iYUzlE",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:48:34Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et lecture souverainiste"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Réarmement européen et dissuasion française"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Guerre économique et sécurité européenne"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Hiérarchie des menaces pour la France"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Discours présidentiels sur la guerre et le Covid"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Débat public et liberté de penser"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Dissuasion française et défense européenne"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Conditions d’un compromis de paix en Ukraine"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Démocratie, indépendance nationale et énergie"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Souveraineté française et projet de Frexit collectif"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Rassemblement souverainiste et ressources stratégiques"
+    },
+    {
+      "startSeconds": 3510,
+      "title": "Afrique et valorisation des matières premières"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Déclin politique, écologie et justice sociale"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Dette française et possibilités de redressement"
+    },
+    {
+      "startSeconds": 4455,
+      "title": "Crise de la dette et épargne française"
+    },
+    {
+      "startSeconds": 4680,
+      "title": "Russie, Chine et priorités stratégiques"
+    },
+    {
+      "startSeconds": 4995,
+      "title": "Développement africain, frontières et immigration"
+    },
+    {
+      "startSeconds": 5355,
+      "title": "Rapport de force avec l’Algérie"
+    },
+    {
+      "startSeconds": 5535,
+      "title": "Intérêts français face à la Chine et Taïwan"
+    },
+    {
+      "startSeconds": 5715,
+      "title": "Souveraineté nationale et priorités françaises"
+    },
+    {
+      "startSeconds": 6075,
+      "title": "Économies budgétaires et choix géopolitiques"
+    },
+    {
+      "startSeconds": 6480,
+      "title": "Redressement économique, école et justice"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Opposition à la guerre et politique étrangère"
+    },
+    {
+      "startSeconds": 7110,
+      "title": "Vie quotidienne et confiance sociale"
+    },
+    {
+      "startSeconds": 7245,
+      "title": "Électrochoc démocratique et ordre public"
+    },
+    {
+      "startSeconds": 7695,
+      "title": "Stratégie de défense et bilan du pouvoir"
+    },
+    {
+      "startSeconds": 7875,
+      "title": "Traitements du Covid et liberté de soin"
+    },
+    {
+      "startSeconds": 8190,
+      "title": "Livres, films et références recommandés"
+    },
+    {
+      "startSeconds": 8370,
+      "title": "Prospective, peur et responsabilité politique"
+    },
+    {
+      "startSeconds": 8505,
+      "title": "Ne pas avoir peur et éveiller les consciences"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "videoId": "hRa2qFpuUwQ",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:48:34Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Charles de Courson et finances publiques"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Dégradation budgétaire et enquête parlementaire"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Marchés financiers, dette et redressement public"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Travailleurs modestes et vote Rassemblement national"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Immigration, identité et vote rural"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Défiance envers les élus et probité personnelle"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Compétitivité française et limites du protectionnisme"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Nucléaire et indépendance électrique française"
+    },
+    {
+      "startSeconds": 2115,
+      "title": "Voitures électriques et transition européenne"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Zones à faibles émissions et inégalités sociales"
+    },
+    {
+      "startSeconds": 2565,
+      "title": "Gilets jaunes, Parlement et démocratie"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Cumul des mandats et ancrage territorial"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "Niveau et comportement des parlementaires"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Dossiers stratégiques et travail parlementaire"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Capacités militaires françaises et guerre en Ukraine"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Sécurité numérique des élus et intelligence artificielle"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Risques financiers, militaires et sociaux"
+    },
+    {
+      "startSeconds": 4365,
+      "title": "Pic pétrolier, uranium et ressources énergétiques"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Marché européen de l’électricité et échanges transfrontaliers"
+    },
+    {
+      "startSeconds": 4680,
+      "title": "Flux migratoires, démographie et immigration choisie"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Natalité, logement et choix familiaux"
+    },
+    {
+      "startSeconds": 5085,
+      "title": "Rémunération des enseignants et temps scolaire"
+    },
+    {
+      "startSeconds": 5175,
+      "title": "Dissuasion nucléaire et défense européenne"
+    },
+    {
+      "startSeconds": 5265,
+      "title": "Fin de la guerre en Ukraine et soutien russe"
+    },
+    {
+      "startSeconds": 5580,
+      "title": "Lectures recommandées et regard sur l’humanité"
+    },
+    {
+      "startSeconds": 5805,
+      "title": "Espérance et message aux jeunes générations"
+    }
+  ]
+}
