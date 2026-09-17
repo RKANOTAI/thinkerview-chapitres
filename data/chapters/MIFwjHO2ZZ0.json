@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "MIFwjHO2ZZ0",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:23:48Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Conflit en Ukraine et séparation de l’Europe et de la Russie"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Alliance russe et combat pour l’avenir de la France"
+    },
+    {
+      "startSeconds": 90,
+      "title": "La France face au projet européen et à Emmanuel Macron"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "UBItQuEGldk",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:23:48Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Idéologie du marché chez les dirigeants européens"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Liens entre les dirigeants et le grand patronat"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Idéologie et pression sur le projet de loi de finances"
+    }
+  ]
+}

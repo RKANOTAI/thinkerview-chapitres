@@ -7883,9 +7883,22 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "David Guiraud : Député LFI de la 8ème circonscription du Nord\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Idéologie du marché chez les dirigeants européens"
+        },
+        {
+          "startSeconds": 45,
+          "title": "Liens entre les dirigeants et le grand patronat"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Idéologie et pression sur le projet de loi de finances"
+        }
+      ]
     },
     {
       "id": "MIFwjHO2ZZ0",
@@ -7897,9 +7910,22 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Nicolas Dupont-Aignan : président de Debout la France, ex-Député de l'Essonne.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Conflit en Ukraine et séparation de l’Europe et de la Russie"
+        },
+        {
+          "startSeconds": 45,
+          "title": "Alliance russe et combat pour l’avenir de la France"
+        },
+        {
+          "startSeconds": 90,
+          "title": "La France face au projet européen et à Emmanuel Macron"
+        }
+      ]
     },
     {
       "id": "vq-3IVnohx0",
@@ -7925,9 +7951,22 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "SOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview\nPOSEZ VOS QUESTIONS EN DIRECT : ▶️ https://discord.gg/Ey3pBWV",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Démocratie, mouvements et solutions aux fractures sociales"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Créativité française et blocages bureaucratiques"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Question sur la sortie de la France de l'Europe"
+        }
+      ]
     },
     {
       "id": "CdXy78uzHr4",
