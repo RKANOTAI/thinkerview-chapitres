@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "kdHR9M97tL4",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:04:46Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Détresse et pressions sur les agriculteurs"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Acteurs de la filière et prix imposés aux éleveurs"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Prix du lait, ventes à perte et veaux dévalorisés"
+    }
+  ]
+}

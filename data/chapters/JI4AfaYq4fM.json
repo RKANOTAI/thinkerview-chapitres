@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "JI4AfaYq4fM",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:04:46Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Caroline Galactéros et thèmes de l'émission"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Blocage européen face aux négociations sur l'Ukraine"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Stratégie d'usure et résistance économique russe"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Bascule du monde et nouveaux partenariats russes"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Expérience des Balkans et nouvel ordre international"
+    },
+    {
+      "startSeconds": 1485,
+      "title": "Endiguement de la Russie et équilibre de la guerre froide"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Nouvelle guerre froide et déficit stratégique européen"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Reconstruction de la Russie depuis les années 2000"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Souveraineté nationale et autonomie stratégique européenne"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Attente du retour démocrate et prolongation de la guerre"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Déclin français et intégrité stratégique"
+    },
+    {
+      "startSeconds": 3195,
+      "title": "Hypothèses occidentales sur les objectifs russes"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Blocage des négociations et perception de la victoire russe"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Objectivité et politisation du renseignement"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Accès direct aux analystes et décision politique"
+    },
+    {
+      "startSeconds": 4365,
+      "title": "Médias, désinformation et récits sur la guerre"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Déclin européen et essor de la multipolarité"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Souveraineté nationale et montée des partis populistes"
+    },
+    {
+      "startSeconds": 5490,
+      "title": "Pensée stratégique et cohérence de l'analyse"
+    },
+    {
+      "startSeconds": 5670,
+      "title": "Groenland et stratégie économique américaine"
+    },
+    {
+      "startSeconds": 6075,
+      "title": "Accusations de financement et programmes d'influence"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Communication politique et éthique militaire"
+    },
+    {
+      "startSeconds": 7065,
+      "title": "Crimes de guerre et débat sur la cible militaire"
+    },
+    {
+      "startSeconds": 7290,
+      "title": "Réconciliation ukraino-russe et arrêt des combats"
+    },
+    {
+      "startSeconds": 7785,
+      "title": "Guerre économique, Nord Stream et question iranienne"
+    },
+    {
+      "startSeconds": 8100,
+      "title": "Décès d'opposants russes et prudence sur les preuves"
+    },
+    {
+      "startSeconds": 8325,
+      "title": "Chronologie du conflit et guerre hybride"
+    },
+    {
+      "startSeconds": 8550,
+      "title": "Guerre par proxy et relations franco-algériennes"
+    },
+    {
+      "startSeconds": 8685,
+      "title": "Neutralité de l'Ukraine et élargissement de l'OTAN"
+    },
+    {
+      "startSeconds": 9000,
+      "title": "Lectures et conseils pour les jeunes générations"
+    }
+  ]
+}

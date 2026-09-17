@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "2-J9d2VbA6o",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:04:46Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Dignité et précarité des exploitants agricoles"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Les subventions absorbées par l’amont et l’aval"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Les aides publiques ne restent pas aux agriculteurs"
+    }
+  ]
+}
