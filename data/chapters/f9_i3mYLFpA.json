@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "f9_i3mYLFpA",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:34:42Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et enjeux de l'industrie"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Euro, dévaluations et compétitivité industrielle"
+    },
+    {
+      "startSeconds": 630,
+      "title": "L'Europe face à la montée industrielle chinoise"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Modération salariale et modèle exportateur allemand"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Rattrapage chinois et déclin automobile allemand"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Infrastructures chinoises et dépendance énergétique européenne"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Nord Stream et montée des prix énergétiques"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Planification chinoise et maîtrise des chaînes de valeur"
+    },
+    {
+      "startSeconds": 2205,
+      "title": "Désindustrialisation française et dépendance aux importations"
+    },
+    {
+      "startSeconds": 2610,
+      "title": "Consommation, services et perte d'industrie"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Énergie, dette et limites des modèles économiques"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Choix sociaux français et financement des retraites"
+    },
+    {
+      "startSeconds": 3465,
+      "title": "Dette chinoise et soutenabilité de la croissance"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Déficits extérieurs et risque de stagnation française"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Dévaluation compétitive et austérité européenne"
+    },
+    {
+      "startSeconds": 4455,
+      "title": "Guerre économique et sécurisation des approvisionnements"
+    },
+    {
+      "startSeconds": 4635,
+      "title": "Fragilités du modèle chinois et crise immobilière"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Fiscalité immobilière et risques d'un krach"
+    },
+    {
+      "startSeconds": 5490,
+      "title": "Monnaie numérique et stratégie économique chinoise"
+    },
+    {
+      "startSeconds": 5670,
+      "title": "Poids mondial de la Chine et stratégie exportatrice"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "Défense industrielle et protection commerciale européenne"
+    },
+    {
+      "startSeconds": 6570,
+      "title": "Marché européen et politique industrielle américaine"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Concurrence intra-européenne et intérêts allemands"
+    },
+    {
+      "startSeconds": 7290,
+      "title": "Stagnation européenne et rapports de force commerciaux"
+    },
+    {
+      "startSeconds": 7605,
+      "title": "Réaction allemande face à la concurrence chinoise"
+    },
+    {
+      "startSeconds": 8235,
+      "title": "Charbon chinois et taxe carbone aux frontières"
+    },
+    {
+      "startSeconds": 8685,
+      "title": "Modèles nordiques et situation industrielle française"
+    },
+    {
+      "startSeconds": 9000,
+      "title": "Métaux critiques et industrie automobile européenne"
+    },
+    {
+      "startSeconds": 9360,
+      "title": "Intérêts nationaux et implantation industrielle en Europe"
+    },
+    {
+      "startSeconds": 9540,
+      "title": "Origines de l'euro et conclusion de l'émission"
+    }
+  ]
+}

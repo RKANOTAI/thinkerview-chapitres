@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "videoId": "BwisLTtzSik",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:26:32Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de l’invité et de son mouvement"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Parrainages électoraux et préparation à un conflit armé"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Inflation, récession et choix budgétaires"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Réarmement européen et tensions géopolitiques"
+    },
+    {
+      "startSeconds": 765,
+      "title": "Guerre en Iran et recomposition régionale"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Guerre au Yémen et rôle militaire français"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Projection régionale d’Israël et contrôle des détroits"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Alertes sécuritaires et responsabilités avant le 7 octobre"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Position européenne face aux guerres régionales"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Pressions politiques sur l’Espagne et contrôle des détroits"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Guerre en Ukraine et préparation militaire"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Coût énergétique et économique du soutien à l’Ukraine"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Sélection des élites et capacité à gouverner"
+    },
+    {
+      "startSeconds": 3510,
+      "title": "Intelligence artificielle et transformation du travail"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Mistral et stratégie française dans l’intelligence artificielle"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Robotique industrielle et investissements publics chinois"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Modèles locaux et dépendance technologique européenne"
+    },
+    {
+      "startSeconds": 4995,
+      "title": "Bulle financière et concurrence autour de l’intelligence artificielle"
+    },
+    {
+      "startSeconds": 5355,
+      "title": "Réunification allemande et montée du vote AfD"
+    },
+    {
+      "startSeconds": 5850,
+      "title": "Pressions judiciaires et mobilisation des institutions"
+    },
+    {
+      "startSeconds": 6210,
+      "title": "Affaire Liana et responsabilité de la magistrature"
+    },
+    {
+      "startSeconds": 6525,
+      "title": "Élevage, abattage des troupeaux et normes européennes"
+    },
+    {
+      "startSeconds": 6750,
+      "title": "Gestion du Covid et dégradation des services publics"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Candidats présidentiels et continuité des élites politiques"
+    },
+    {
+      "startSeconds": 7560,
+      "title": "Épreuves judiciaires et expérience du pouvoir"
+    },
+    {
+      "startSeconds": 7920,
+      "title": "Oligarchie médiatique et rapport de force"
+    },
+    {
+      "startSeconds": 8055,
+      "title": "Recommandations culturelles et défense de l’exigence"
+    },
+    {
+      "startSeconds": 8325,
+      "title": "Conseils aux jeunes générations et exigence intellectuelle"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "videoId": "KK09dYN-YtI",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:34:42Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de l'expert et enjeux énergétiques mondiaux"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Blocage d'Ormuz et pression sur les exportations pétrolières"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Crise énergétique mondiale et risques de pénurie"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Ralentissement économique et risque de crise financière"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Accord provisoire et négociations sur le nucléaire iranien"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Réouverture d'Ormuz et projet de contrôle iranien"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Attaques iraniennes contre les infrastructures énergétiques du Golfe"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Reprise du trafic maritime et sécurité des méthaniers"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Relations des monarchies du Golfe avec Washington"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Routes de contournement et diversification des exportations"
+    },
+    {
+      "startSeconds": 3510,
+      "title": "Nouveaux fournisseurs et diversification des approvisionnements"
+    },
+    {
+      "startSeconds": 3735,
+      "title": "Répercussions économiques et politiques dans le Golfe"
+    },
+    {
+      "startSeconds": 4230,
+      "title": "Facture énergétique et fragilité de l'économie européenne"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Protocole d'accord et faiblesse diplomatique européenne"
+    },
+    {
+      "startSeconds": 4815,
+      "title": "Dépendance allemande au gaz russe et Nord Stream"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Diversification gazière européenne et rôle de la Norvège"
+    },
+    {
+      "startSeconds": 5670,
+      "title": "Anticipation énergétique et conséquences sociales en Europe"
+    },
+    {
+      "startSeconds": 6030,
+      "title": "Ressources énergétiques, uranium et progrès technologique"
+    },
+    {
+      "startSeconds": 6300,
+      "title": "Questions du public sur l'énergie et le Sahel"
+    },
+    {
+      "startSeconds": 6795,
+      "title": "Perspectives d'approvisionnement pétrolier et gazier européen"
+    },
+    {
+      "startSeconds": 7335,
+      "title": "Chocs pétroliers et préparation des acteurs énergétiques"
+    },
+    {
+      "startSeconds": 7605,
+      "title": "Réserves saoudiennes et vulnérabilité du système pétrolier"
+    },
+    {
+      "startSeconds": 8010,
+      "title": "Renseignement ouvert et analyse des enjeux énergétiques"
+    },
+    {
+      "startSeconds": 8280,
+      "title": "Exploration pétrolière offshore en Guyane et limites législatives"
+    },
+    {
+      "startSeconds": 8730,
+      "title": "Bénéfices de Saudi Aramco et valeur des infrastructures"
+    },
+    {
+      "startSeconds": 8955,
+      "title": "Investissements renouvelables et décarbonation de l'économie"
+    },
+    {
+      "startSeconds": 9270,
+      "title": "Place durable du pétrole dans l'économie mondiale"
+    },
+    {
+      "startSeconds": 9540,
+      "title": "Sources d'information et carrières dans l'énergie"
+    }
+  ]
+}

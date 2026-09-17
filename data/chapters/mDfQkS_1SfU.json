@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "videoId": "mDfQkS_1SfU",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:26:32Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Parcours du pharmacologue et sélection des médicaments"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Essais cliniques et risques cardiovasculaires des coxibs"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Influence industrielle sur les experts médicaux"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Industrie pharmaceutique et gestion politique de la pandémie"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Passeport sanitaire et transmission du Covid"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Vaccins à ARN messager et limites des essais"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Désaccords médicaux et marginalisation médiatique"
+    },
+    {
+      "startSeconds": 2610,
+      "title": "Tests du Covid, financements et recommandations"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Réactions internationales au début de la pandémie"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Transmission aérienne et cohérence des mesures sanitaires"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Confinement espagnol et mesures de ventilation"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Origines de la pharmacovigilance et rôle de l’OMS"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Pharmacovigilance et maladies fréquentes liées aux traitements"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Bilan institutionnel de la pandémie et responsabilités européennes"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Médecine, santé publique et libertés individuelles"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Essais cliniques et communication avec les patients"
+    },
+    {
+      "startSeconds": 5985,
+      "title": "Euthanasie, intelligence artificielle et confiance médicale"
+    },
+    {
+      "startSeconds": 6255,
+      "title": "Marché du médicament et responsabilités partagées"
+    },
+    {
+      "startSeconds": 6390,
+      "title": "Diagnostic génétique et recherche de traitements"
+    },
+    {
+      "startSeconds": 6570,
+      "title": "Guérison de l’hépatite C et modèle économique"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Société intoxiquée et effets indésirables"
+    },
+    {
+      "startSeconds": 7065,
+      "title": "Statines, bénéfices et effets indésirables"
+    },
+    {
+      "startSeconds": 7470,
+      "title": "Hydroxychloroquine et qualité des essais cliniques"
+    },
+    {
+      "startSeconds": 7605,
+      "title": "Livres recommandés sur la médecine et la société"
+    },
+    {
+      "startSeconds": 8235,
+      "title": "Conseils de santé et facteurs de risque cardiovasculaire"
+    }
+  ]
+}

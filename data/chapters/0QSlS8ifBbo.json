@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "videoId": "0QSlS8ifBbo",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:26:32Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de l'invité et ouverture de l'entretien"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Erreur de recettes et redressement des comptes publics"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Réaction économique face à la pandémie"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Accords internationaux et expérience diplomatique"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Responsabilité politique et perception des Français"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Dépenses sociales et transformation de l'État"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Écriture musique classique et culture occidentale"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Responsabilité économique et réindustrialisation"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Guerre en Ukraine et logique du pouvoir russe"
+    },
+    {
+      "startSeconds": 3645,
+      "title": "Agriculture filière laitière et rapport de force"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Souveraineté alimentaire face au climat et aux échanges"
+    },
+    {
+      "startSeconds": 4095,
+      "title": "Relance du nucléaire et formation industrielle"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Dépenses publiques et réforme du modèle social"
+    },
+    {
+      "startSeconds": 4680,
+      "title": "Référendum et respect de la volonté populaire"
+    },
+    {
+      "startSeconds": 4950,
+      "title": "Crise agricole et colère des producteurs"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Transparence polarisation et principes républicains"
+    },
+    {
+      "startSeconds": 5445,
+      "title": "Liberté identité française et opérations extérieures"
+    },
+    {
+      "startSeconds": 5715,
+      "title": "Authentification en ligne et protection des mineurs"
+    },
+    {
+      "startSeconds": 6165,
+      "title": "Semi-conducteurs et autonomie stratégique européenne"
+    },
+    {
+      "startSeconds": 6435,
+      "title": "Protection européenne et rapport de force technologique"
+    },
+    {
+      "startSeconds": 7065,
+      "title": "Cohésion européenne et souveraineté énergétique"
+    },
+    {
+      "startSeconds": 7290,
+      "title": "Dette française taux d'intérêt et risque de dépendance"
+    },
+    {
+      "startSeconds": 7740,
+      "title": "Réarmement européen et capacités de défense"
+    },
+    {
+      "startSeconds": 8055,
+      "title": "Incendies solidarité nationale et adaptation climatique"
+    },
+    {
+      "startSeconds": 8145,
+      "title": "Lectures culture européenne et service politique"
+    }
+  ]
+}

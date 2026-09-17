@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "videoId": "Mls6_9KOpqI",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:26:32Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et stratégie américaine face à la Chine"
+    },
+    {
+      "startSeconds": 358,
+      "title": "Quelle stratégie européenne face à la puissance chinoise ?"
+    },
+    {
+      "startSeconds": 962,
+      "title": "Diaspora chinoise, influence et contrôle"
+    },
+    {
+      "startSeconds": 1662,
+      "title": "Intelligence artificielle et course technologique"
+    },
+    {
+      "startSeconds": 2653,
+      "title": "Le regard des puissances sur l'Europe"
+    },
+    {
+      "startSeconds": 3013,
+      "title": "Technocratie, infrastructures et guerre économique"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Investissements étrangers et dépendances industrielles"
+    },
+    {
+      "startSeconds": 4747,
+      "title": "Crédit social et surveillance numérique"
+    },
+    {
+      "startSeconds": 5399,
+      "title": "Désindustrialisation française et souveraineté"
+    },
+    {
+      "startSeconds": 6000,
+      "title": "Retrouver un projet d'avenir en Europe"
+    }
+  ]
+}

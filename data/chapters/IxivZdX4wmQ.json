@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "videoId": "IxivZdX4wmQ",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:34:42Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et sujet de l’émission"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Guerre en Ukraine et décentralisation de la défense"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Démocratie et centralisation de la régulation numérique"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Censure des plateformes et pouvoir de la presse"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Presse propagande et circulation de l’information"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Chat Control et surveillance des communications"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Palantir et le remplacement de l’État"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Comptabilité publique et dépendance aux prestataires"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Dérisquage bancaire et autonomie monétaire"
+    },
+    {
+      "startSeconds": 4275,
+      "title": "Euro numérique et fracture de l’éducation numérique"
+    },
+    {
+      "startSeconds": 4770,
+      "title": "Euro numérique face aux cryptomonnaies"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Vote anonyme avec les pièces d’identité"
+    },
+    {
+      "startSeconds": 5580,
+      "title": "Sécurité des passeports et confiance électorale"
+    },
+    {
+      "startSeconds": 6030,
+      "title": "Limites techniques et influence dans le vote électronique"
+    },
+    {
+      "startSeconds": 6480,
+      "title": "Compromis du vote et consultations locales"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Délibération démocratique et vérification des faits"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Référendum d’initiative citoyenne et logiciel libre"
+    },
+    {
+      "startSeconds": 7695,
+      "title": "Outils décentralisés et éducation au numérique"
+    },
+    {
+      "startSeconds": 8100,
+      "title": "Identité numérique européenne et centralisation"
+    },
+    {
+      "startSeconds": 8730,
+      "title": "Éducation technique et protection des citoyens"
+    },
+    {
+      "startSeconds": 9000,
+      "title": "Lectures sur la démocratie et Bitcoin"
+    },
+    {
+      "startSeconds": 9225,
+      "title": "Anonymat pseudonymisation et conseils aux jeunes"
+    }
+  ]
+}
