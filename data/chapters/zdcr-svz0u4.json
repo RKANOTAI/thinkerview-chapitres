@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "videoId": "zdcr-svz0u4",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T12:46:24Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Ouverture et présentation des invités"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Le DSA et la modération des plateformes"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Le marché des idées face à la censure"
+    },
+    {
+      "startSeconds": 1305,
+      "title": "Standards européens et portée extraterritoriale du DSA"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Thierry Breton et le conflit autour de X"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Ingérences étrangères et désinformation commerciale"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "La guerre culturelle et le paléoconservatisme américain"
+    },
+    {
+      "startSeconds": 3105,
+      "title": "Surveillance de masse et projet Chat Control"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Fuites de données et sécurité des infrastructures"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Surveillance algorithmique et société future"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Réseaux sociaux des mineurs et vérification d'âge"
+    },
+    {
+      "startSeconds": 4770,
+      "title": "Rééquilibrage du DSA et avenir des plateformes"
+    },
+    {
+      "startSeconds": 4950,
+      "title": "Le portail américain, les VPN et la décentralisation"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Le portail comme outil d'influence culturelle"
+    },
+    {
+      "startSeconds": 5625,
+      "title": "Vers une société postlibérale"
+    },
+    {
+      "startSeconds": 5760,
+      "title": "Le Groenland et la stratégie arctique"
+    },
+    {
+      "startSeconds": 6300,
+      "title": "Le débat sur les leçons américaines"
+    },
+    {
+      "startSeconds": 6480,
+      "title": "Trump, médias et rôle de la justice"
+    },
+    {
+      "startSeconds": 6975,
+      "title": "Mobilisation contre la censure et le DSA"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Livres conseillés et engagement civique"
+    }
+  ]
+}

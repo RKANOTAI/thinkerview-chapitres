@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "zjWxDU0o43U",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T12:46:24Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Patrick Martin et du MEDEF"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Menaces sur les entreprises françaises"
+    },
+    {
+      "startSeconds": 225,
+      "title": "Prospective économique et souveraineté du MEDEF"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Protection des entreprises face aux menaces cyber"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Rachats étrangers et financement de la souveraineté"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Énergie, rentabilité et choix européens"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Transparence des ONG et influence à Bruxelles"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Industries stratégiques et retard numérique"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Stratégie industrielle et décision publique"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Prix de l’électricité et risque pour les PME"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Cotisations, fiscalité et compétitivité des entreprises"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Décarbonation, investissement et logement"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Confiance dans les entreprises et rôle patronal"
+    },
+    {
+      "startSeconds": 3195,
+      "title": "PPE3, demande électrique et contraintes budgétaires"
+    },
+    {
+      "startSeconds": 3510,
+      "title": "Dette publique et responsabilité politique"
+    },
+    {
+      "startSeconds": 3690,
+      "title": "Défiance politique et responsabilités des entreprises"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Dépendance financière et perte d’influence française"
+    },
+    {
+      "startSeconds": 4275,
+      "title": "Retraites et défiance sociale des jeunes"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Emploi, apprentissage et formation des jeunes"
+    },
+    {
+      "startSeconds": 4905,
+      "title": "Données, cybersécurité et souveraineté numérique"
+    },
+    {
+      "startSeconds": 5175,
+      "title": "Financement européen et stratégie industrielle"
+    },
+    {
+      "startSeconds": 5580,
+      "title": "Préparation des entreprises au risque de guerre"
+    },
+    {
+      "startSeconds": 5850,
+      "title": "Chaînes d’approvisionnement et ressources stratégiques"
+    },
+    {
+      "startSeconds": 6390,
+      "title": "Position du MEDEF sur l’intégration européenne"
+    },
+    {
+      "startSeconds": 6615,
+      "title": "Énergie, croissance et efficience énergétique"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Concentration des médias et pluralité de l’information"
+    },
+    {
+      "startSeconds": 7065,
+      "title": "Classe politique et simplification de l’action publique"
+    },
+    {
+      "startSeconds": 7245,
+      "title": "Aides publiques et prélèvements sur les entreprises"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Entrepreneuriat, emploi et représentativité du MEDEF"
+    },
+    {
+      "startSeconds": 7515,
+      "title": "Livres, cinéma et conseil aux jeunes"
+    }
+  ]
+}

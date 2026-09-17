@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "videoId": "jN7FOk2lt2w",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T12:46:24Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et parcours de l'invité"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Mythes et évolution historique du numérique"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Surveillance émotionnelle et accumulation des données"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Prédiction médicale et risques de manipulation"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Propagande numérique et rapports de pouvoir"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Éducation et esprit critique face aux propagandes"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Empires, financiarisation et dépendance des médias"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Religion, argent et question du sens"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Immortalité, conscience et société numérique"
+    },
+    {
+      "startSeconds": 3645,
+      "title": "Histoire et géopolitique des câbles sous-marins"
+    },
+    {
+      "startSeconds": 4095,
+      "title": "Entreprises françaises et vulnérabilité des câbles"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Chiffrement et points stratégiques des câbles"
+    },
+    {
+      "startSeconds": 4905,
+      "title": "Câble cubain et souveraineté maritime française"
+    },
+    {
+      "startSeconds": 5265,
+      "title": "Infrastructures uniques et responsabilité régalienne"
+    },
+    {
+      "startSeconds": 5535,
+      "title": "Téléphone et réduction des délais d'urgence"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "Fragilité numérique et souveraineté des paiements"
+    },
+    {
+      "startSeconds": 6165,
+      "title": "Lanceurs d'alerte et régulation des usages numériques"
+    },
+    {
+      "startSeconds": 6435,
+      "title": "IA générative et risques de comportements programmés"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Souveraineté des télécoms face aux constellations satellitaires"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Souveraineté spatiale et compétition européenne"
+    },
+    {
+      "startSeconds": 7920,
+      "title": "Souveraineté économique et choix européens"
+    },
+    {
+      "startSeconds": 8280,
+      "title": "Données collectées par les opérateurs télécoms"
+    },
+    {
+      "startSeconds": 8910,
+      "title": "Intoxication des données et limites de l'IA générative"
+    },
+    {
+      "startSeconds": 9540,
+      "title": "Complexité numérique et perte de compréhension"
+    },
+    {
+      "startSeconds": 10035,
+      "title": "Accès au savoir et responsabilité face à la surveillance"
+    },
+    {
+      "startSeconds": 10260,
+      "title": "Recommandations de lecture sur la guerre et la société"
+    },
+    {
+      "startSeconds": 11025,
+      "title": "Conseil de remise en question permanente"
+    }
+  ]
+}

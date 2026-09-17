@@ -2660,9 +2660,90 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Bluetouff : Cofondateur de \"Reflets\" et spécialiste \"Infosec\"\nNicolas Conquer : Militant politique franco-américain",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Ouverture et présentation des invités"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Le DSA et la modération des plateformes"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Le marché des idées face à la censure"
+        },
+        {
+          "startSeconds": 1305,
+          "title": "Standards européens et portée extraterritoriale du DSA"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Thierry Breton et le conflit autour de X"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Ingérences étrangères et désinformation commerciale"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "La guerre culturelle et le paléoconservatisme américain"
+        },
+        {
+          "startSeconds": 3105,
+          "title": "Surveillance de masse et projet Chat Control"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Fuites de données et sécurité des infrastructures"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Surveillance algorithmique et société future"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Réseaux sociaux des mineurs et vérification d'âge"
+        },
+        {
+          "startSeconds": 4770,
+          "title": "Rééquilibrage du DSA et avenir des plateformes"
+        },
+        {
+          "startSeconds": 4950,
+          "title": "Le portail américain, les VPN et la décentralisation"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Le portail comme outil d'influence culturelle"
+        },
+        {
+          "startSeconds": 5625,
+          "title": "Vers une société postlibérale"
+        },
+        {
+          "startSeconds": 5760,
+          "title": "Le Groenland et la stratégie arctique"
+        },
+        {
+          "startSeconds": 6300,
+          "title": "Le débat sur les leçons américaines"
+        },
+        {
+          "startSeconds": 6480,
+          "title": "Trump, médias et rôle de la justice"
+        },
+        {
+          "startSeconds": 6975,
+          "title": "Mobilisation contre la censure et le DSA"
+        },
+        {
+          "startSeconds": 7200,
+          "title": "Livres conseillés et engagement civique"
+        }
+      ]
     },
     {
       "id": "zjWxDU0o43U",
@@ -2674,9 +2755,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Patrick Martin : Chef d'entreprise et président du MEDEF (Mouvement des entreprises de France).\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Patrick Martin et du MEDEF"
+        },
+        {
+          "startSeconds": 45,
+          "title": "Menaces sur les entreprises françaises"
+        },
+        {
+          "startSeconds": 225,
+          "title": "Prospective économique et souveraineté du MEDEF"
+        },
+        {
+          "startSeconds": 495,
+          "title": "Protection des entreprises face aux menaces cyber"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Rachats étrangers et financement de la souveraineté"
+        },
+        {
+          "startSeconds": 855,
+          "title": "Énergie, rentabilité et choix européens"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Transparence des ONG et influence à Bruxelles"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Industries stratégiques et retard numérique"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Stratégie industrielle et décision publique"
+        },
+        {
+          "startSeconds": 2025,
+          "title": "Prix de l’électricité et risque pour les PME"
+        },
+        {
+          "startSeconds": 2385,
+          "title": "Cotisations, fiscalité et compétitivité des entreprises"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Décarbonation, investissement et logement"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Confiance dans les entreprises et rôle patronal"
+        },
+        {
+          "startSeconds": 3195,
+          "title": "PPE3, demande électrique et contraintes budgétaires"
+        },
+        {
+          "startSeconds": 3510,
+          "title": "Dette publique et responsabilité politique"
+        },
+        {
+          "startSeconds": 3690,
+          "title": "Défiance politique et responsabilités des entreprises"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Dépendance financière et perte d’influence française"
+        },
+        {
+          "startSeconds": 4275,
+          "title": "Retraites et défiance sociale des jeunes"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Emploi, apprentissage et formation des jeunes"
+        },
+        {
+          "startSeconds": 4905,
+          "title": "Données, cybersécurité et souveraineté numérique"
+        },
+        {
+          "startSeconds": 5175,
+          "title": "Financement européen et stratégie industrielle"
+        },
+        {
+          "startSeconds": 5580,
+          "title": "Préparation des entreprises au risque de guerre"
+        },
+        {
+          "startSeconds": 5850,
+          "title": "Chaînes d’approvisionnement et ressources stratégiques"
+        },
+        {
+          "startSeconds": 6390,
+          "title": "Position du MEDEF sur l’intégration européenne"
+        },
+        {
+          "startSeconds": 6615,
+          "title": "Énergie, croissance et efficience énergétique"
+        },
+        {
+          "startSeconds": 6930,
+          "title": "Concentration des médias et pluralité de l’information"
+        },
+        {
+          "startSeconds": 7065,
+          "title": "Classe politique et simplification de l’action publique"
+        },
+        {
+          "startSeconds": 7245,
+          "title": "Aides publiques et prélèvements sur les entreprises"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Entrepreneuriat, emploi et représentativité du MEDEF"
+        },
+        {
+          "startSeconds": 7515,
+          "title": "Livres, cinéma et conseil aux jeunes"
+        }
+      ]
     },
     {
       "id": "jN7FOk2lt2w",
@@ -2688,9 +2890,118 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Sébastien Crozier : Entrepreneur digital chez Orange. Président du syndicat CFECGCOrange.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et parcours de l'invité"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Mythes et évolution historique du numérique"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Surveillance émotionnelle et accumulation des données"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Prédiction médicale et risques de manipulation"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Propagande numérique et rapports de pouvoir"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Éducation et esprit critique face aux propagandes"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Empires, financiarisation et dépendance des médias"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Religion, argent et question du sens"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Immortalité, conscience et société numérique"
+        },
+        {
+          "startSeconds": 3645,
+          "title": "Histoire et géopolitique des câbles sous-marins"
+        },
+        {
+          "startSeconds": 4095,
+          "title": "Entreprises françaises et vulnérabilité des câbles"
+        },
+        {
+          "startSeconds": 4590,
+          "title": "Chiffrement et points stratégiques des câbles"
+        },
+        {
+          "startSeconds": 4905,
+          "title": "Câble cubain et souveraineté maritime française"
+        },
+        {
+          "startSeconds": 5265,
+          "title": "Infrastructures uniques et responsabilité régalienne"
+        },
+        {
+          "startSeconds": 5535,
+          "title": "Téléphone et réduction des délais d'urgence"
+        },
+        {
+          "startSeconds": 5940,
+          "title": "Fragilité numérique et souveraineté des paiements"
+        },
+        {
+          "startSeconds": 6165,
+          "title": "Lanceurs d'alerte et régulation des usages numériques"
+        },
+        {
+          "startSeconds": 6435,
+          "title": "IA générative et risques de comportements programmés"
+        },
+        {
+          "startSeconds": 6840,
+          "title": "Souveraineté des télécoms face aux constellations satellitaires"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Souveraineté spatiale et compétition européenne"
+        },
+        {
+          "startSeconds": 7920,
+          "title": "Souveraineté économique et choix européens"
+        },
+        {
+          "startSeconds": 8280,
+          "title": "Données collectées par les opérateurs télécoms"
+        },
+        {
+          "startSeconds": 8910,
+          "title": "Intoxication des données et limites de l'IA générative"
+        },
+        {
+          "startSeconds": 9540,
+          "title": "Complexité numérique et perte de compréhension"
+        },
+        {
+          "startSeconds": 10035,
+          "title": "Accès au savoir et responsabilité face à la surveillance"
+        },
+        {
+          "startSeconds": 10260,
+          "title": "Recommandations de lecture sur la guerre et la société"
+        },
+        {
+          "startSeconds": 11025,
+          "title": "Conseil de remise en question permanente"
+        }
+      ]
     },
     {
       "id": "-Iu7_FUuU6I",
