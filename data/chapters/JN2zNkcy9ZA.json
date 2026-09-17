@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "JN2zNkcy9ZA",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:32:33Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et diagnostic du déclin français"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Erreurs politiques ayant affaibli le nucléaire français"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Science et compétences pour relancer le nucléaire"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Influences antinucléaires et stratégie énergétique allemande"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Dette publique et réforme de l'État français"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Éducation, recrutement et crise des élites"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Gouvernance d'entreprise et court-termisme financier"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Dette, retraites et sources des déficits"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Dérive de l'Assemblée nationale et sanctions"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "État, entreprises et désindustrialisation"
+    },
+    {
+      "startSeconds": 3465,
+      "title": "Industrie automobile et transition énergétique européenne"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Principe de précaution et réglementation environnementale"
+    },
+    {
+      "startSeconds": 4095,
+      "title": "Réformes politiques et avenir de l'Europe"
+    },
+    {
+      "startSeconds": 4545,
+      "title": "Rencontres politiques et recommandations énergétiques"
+    },
+    {
+      "startSeconds": 4770,
+      "title": "Construction du modèle énergétique et service public français"
+    },
+    {
+      "startSeconds": 5265,
+      "title": "Concurrence européenne et désintégration d'EDF"
+    },
+    {
+      "startSeconds": 5625,
+      "title": "Défaillances de l'État et abandon d'Astrid"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "Responsabilités politiques dans le recul du nucléaire"
+    },
+    {
+      "startSeconds": 6165,
+      "title": "Conception et coût des futurs EPR2"
+    },
+    {
+      "startSeconds": 6435,
+      "title": "Coopération nucléaire avec la Chine et perte d'avance"
+    },
+    {
+      "startSeconds": 6705,
+      "title": "Prolongation du parc et besoins électriques futurs"
+    },
+    {
+      "startSeconds": 7155,
+      "title": "Information et intérêts économiques des renouvelables"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Flexibilité nucléaire et valorisation du surplus électrique"
+    },
+    {
+      "startSeconds": 7560,
+      "title": "Réformer l'Europe de l'énergie"
+    },
+    {
+      "startSeconds": 7830,
+      "title": "Atouts français, dette et dépenses publiques"
+    },
+    {
+      "startSeconds": 8190,
+      "title": "Affaire Alstom et responsabilité politique"
+    },
+    {
+      "startSeconds": 8370,
+      "title": "Livres conseillés et situation géopolitique"
+    },
+    {
+      "startSeconds": 8775,
+      "title": "Vieillissement, retraites et épargne des Français"
+    },
+    {
+      "startSeconds": 9090,
+      "title": "Dissuasion nucléaire, livres et traités européens"
+    },
+    {
+      "startSeconds": 9225,
+      "title": "Conseils aux jeunes générations"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "videoId": "ZL-XxW8VTx8",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:32:33Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et des thèmes abordés"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Cyberharcèlement et fraudes visant les particuliers"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Chat Control et surveillance des communications"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Souveraineté numérique et choix des messageries"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Vie privée et protection des données professionnelles"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Profilage numérique et personnalisation de l'information"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Failles des chatbots et attaques contre les modèles d'IA"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Agents IA dans la finance et risques de marché"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "DSA et architecture européenne de la modération"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Liberté d'expression données biométriques et cancel culture"
+    },
+    {
+      "startSeconds": 4455,
+      "title": "Jeunes générations réseaux sociaux et esprit critique"
+    },
+    {
+      "startSeconds": 5265,
+      "title": "Hacking éthique tests d'intrusion et bug bounty"
+    },
+    {
+      "startSeconds": 5670,
+      "title": "Communautés hacker et rôle politique du numérique"
+    },
+    {
+      "startSeconds": 5985,
+      "title": "ANSSI WannaCry et professionnalisation de la cybersécurité"
+    },
+    {
+      "startSeconds": 6660,
+      "title": "BitLocker et limites des enquêtes numériques"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Dialogue entre hackers et institutions politiques"
+    },
+    {
+      "startSeconds": 7335,
+      "title": "Guerre et souveraineté numérique française"
+    },
+    {
+      "startSeconds": 8145,
+      "title": "Ingérences étrangères et armes numériques étatiques"
+    },
+    {
+      "startSeconds": 8550,
+      "title": "Questions du public sur VPN et fuites de données"
+    },
+    {
+      "startSeconds": 8955,
+      "title": "Fuites de données et responsabilité des prestataires"
+    },
+    {
+      "startSeconds": 9450,
+      "title": "IA faux profils et théorie de l'internet mort"
+    },
+    {
+      "startSeconds": 9675,
+      "title": "Hygiène informationnelle et esprit critique"
+    },
+    {
+      "startSeconds": 9855,
+      "title": "Conseils finaux lectures et communications sécurisées"
+    }
+  ]
+}

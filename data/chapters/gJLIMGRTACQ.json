@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "videoId": "gJLIMGRTACQ",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:32:33Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et critique de la méritocratie"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Respect des élections et reconnexion des élites"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Fessenheim et souveraineté énergétique française"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Uranium et avenir du cycle nucléaire"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Renseignement énergétique et information parlementaire"
+    },
+    {
+      "startSeconds": 2115,
+      "title": "Souveraineté agricole et dépendance aux engrais"
+    },
+    {
+      "startSeconds": 2565,
+      "title": "Dépendances stratégiques et pénuries de médicaments"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Souveraineté française face aux tensions géopolitiques"
+    },
+    {
+      "startSeconds": 3285,
+      "title": "Réindustrialisation et stratégie industrielle française"
+    },
+    {
+      "startSeconds": 3690,
+      "title": "Commission parlementaire sur les ingérences étrangères"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Financement politique et ingérences électorales"
+    },
+    {
+      "startSeconds": 4635,
+      "title": "Guerre économique et influence des États-Unis"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Affaire Alstom et entrée en politique"
+    },
+    {
+      "startSeconds": 5805,
+      "title": "Démantèlement d’Alstom et actifs publics"
+    },
+    {
+      "startSeconds": 5985,
+      "title": "Clé USB et récit du cambriolage"
+    },
+    {
+      "startSeconds": 6390,
+      "title": "Agression ciblée et diffusion du téléphone"
+    },
+    {
+      "startSeconds": 6795,
+      "title": "Alstom, Frédéric Pierucci et responsabilités françaises"
+    },
+    {
+      "startSeconds": 7065,
+      "title": "Dette française et risque de dégradation"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Défiance populaire et référendum européen"
+    },
+    {
+      "startSeconds": 7560,
+      "title": "Régulation numérique et pouvoir des multinationales"
+    },
+    {
+      "startSeconds": 7830,
+      "title": "Appauvrissement du journalisme français"
+    },
+    {
+      "startSeconds": 7965,
+      "title": "Condamnation de Marine Le Pen et souveraineté monétaire"
+    },
+    {
+      "startSeconds": 8145,
+      "title": "Leadership politique et exil fiscal"
+    },
+    {
+      "startSeconds": 8415,
+      "title": "Sanctions économiques et conséquences géopolitiques"
+    },
+    {
+      "startSeconds": 8910,
+      "title": "Livres de référence et vision historique"
+    },
+    {
+      "startSeconds": 9180,
+      "title": "Démographie, liberté des femmes et parentalité"
+    },
+    {
+      "startSeconds": 9495,
+      "title": "Humanités, curiosité et autonomie intellectuelle"
+    }
+  ]
+}

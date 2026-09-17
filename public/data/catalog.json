@@ -4910,9 +4910,102 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Bluetouff : Cofondateur de \"Reflets\" et spécialiste \"Infosec\"\nFabrice Epelboin : Enseignant et entrepreneur",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation des invités et des thèmes abordés"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Cyberharcèlement et fraudes visant les particuliers"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Chat Control et surveillance des communications"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Souveraineté numérique et choix des messageries"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Vie privée et protection des données professionnelles"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Profilage numérique et personnalisation de l'information"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Failles des chatbots et attaques contre les modèles d'IA"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Agents IA dans la finance et risques de marché"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "DSA et architecture européenne de la modération"
+        },
+        {
+          "startSeconds": 3870,
+          "title": "Liberté d'expression données biométriques et cancel culture"
+        },
+        {
+          "startSeconds": 4455,
+          "title": "Jeunes générations réseaux sociaux et esprit critique"
+        },
+        {
+          "startSeconds": 5265,
+          "title": "Hacking éthique tests d'intrusion et bug bounty"
+        },
+        {
+          "startSeconds": 5670,
+          "title": "Communautés hacker et rôle politique du numérique"
+        },
+        {
+          "startSeconds": 5985,
+          "title": "ANSSI WannaCry et professionnalisation de la cybersécurité"
+        },
+        {
+          "startSeconds": 6660,
+          "title": "BitLocker et limites des enquêtes numériques"
+        },
+        {
+          "startSeconds": 6840,
+          "title": "Dialogue entre hackers et institutions politiques"
+        },
+        {
+          "startSeconds": 7335,
+          "title": "Guerre et souveraineté numérique française"
+        },
+        {
+          "startSeconds": 8145,
+          "title": "Ingérences étrangères et armes numériques étatiques"
+        },
+        {
+          "startSeconds": 8550,
+          "title": "Questions du public sur VPN et fuites de données"
+        },
+        {
+          "startSeconds": 8955,
+          "title": "Fuites de données et responsabilité des prestataires"
+        },
+        {
+          "startSeconds": 9450,
+          "title": "IA faux profils et théorie de l'internet mort"
+        },
+        {
+          "startSeconds": 9675,
+          "title": "Hygiène informationnelle et esprit critique"
+        },
+        {
+          "startSeconds": 9855,
+          "title": "Conseils finaux lectures et communications sécurisées"
+        }
+      ]
     },
     {
       "id": "JN2zNkcy9ZA",
@@ -4924,9 +5017,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Henri Proglio : Dirigeant d'entreprise français et ancien directeur général d'EDF\nBernard Accoyer : Homme politique, ex secrétaire général des Républicains (2017)",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et diagnostic du déclin français"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Erreurs politiques ayant affaibli le nucléaire français"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Science et compétences pour relancer le nucléaire"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Influences antinucléaires et stratégie énergétique allemande"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Dette publique et réforme de l'État français"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Éducation, recrutement et crise des élites"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Gouvernance d'entreprise et court-termisme financier"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Dette, retraites et sources des déficits"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Dérive de l'Assemblée nationale et sanctions"
+        },
+        {
+          "startSeconds": 3015,
+          "title": "État, entreprises et désindustrialisation"
+        },
+        {
+          "startSeconds": 3465,
+          "title": "Industrie automobile et transition énergétique européenne"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Principe de précaution et réglementation environnementale"
+        },
+        {
+          "startSeconds": 4095,
+          "title": "Réformes politiques et avenir de l'Europe"
+        },
+        {
+          "startSeconds": 4545,
+          "title": "Rencontres politiques et recommandations énergétiques"
+        },
+        {
+          "startSeconds": 4770,
+          "title": "Construction du modèle énergétique et service public français"
+        },
+        {
+          "startSeconds": 5265,
+          "title": "Concurrence européenne et désintégration d'EDF"
+        },
+        {
+          "startSeconds": 5625,
+          "title": "Défaillances de l'État et abandon d'Astrid"
+        },
+        {
+          "startSeconds": 5940,
+          "title": "Responsabilités politiques dans le recul du nucléaire"
+        },
+        {
+          "startSeconds": 6165,
+          "title": "Conception et coût des futurs EPR2"
+        },
+        {
+          "startSeconds": 6435,
+          "title": "Coopération nucléaire avec la Chine et perte d'avance"
+        },
+        {
+          "startSeconds": 6705,
+          "title": "Prolongation du parc et besoins électriques futurs"
+        },
+        {
+          "startSeconds": 7155,
+          "title": "Information et intérêts économiques des renouvelables"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Flexibilité nucléaire et valorisation du surplus électrique"
+        },
+        {
+          "startSeconds": 7560,
+          "title": "Réformer l'Europe de l'énergie"
+        },
+        {
+          "startSeconds": 7830,
+          "title": "Atouts français, dette et dépenses publiques"
+        },
+        {
+          "startSeconds": 8190,
+          "title": "Affaire Alstom et responsabilité politique"
+        },
+        {
+          "startSeconds": 8370,
+          "title": "Livres conseillés et situation géopolitique"
+        },
+        {
+          "startSeconds": 8775,
+          "title": "Vieillissement, retraites et épargne des Français"
+        },
+        {
+          "startSeconds": 9090,
+          "title": "Dissuasion nucléaire, livres et traités européens"
+        },
+        {
+          "startSeconds": 9225,
+          "title": "Conseils aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "gJLIMGRTACQ",
@@ -4938,9 +5152,118 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Jean-Philippe Tanguy : député français.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et critique de la méritocratie"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Respect des élections et reconnexion des élites"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Fessenheim et souveraineté énergétique française"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Uranium et avenir du cycle nucléaire"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Renseignement énergétique et information parlementaire"
+        },
+        {
+          "startSeconds": 2115,
+          "title": "Souveraineté agricole et dépendance aux engrais"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Dépendances stratégiques et pénuries de médicaments"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Souveraineté française face aux tensions géopolitiques"
+        },
+        {
+          "startSeconds": 3285,
+          "title": "Réindustrialisation et stratégie industrielle française"
+        },
+        {
+          "startSeconds": 3690,
+          "title": "Commission parlementaire sur les ingérences étrangères"
+        },
+        {
+          "startSeconds": 3960,
+          "title": "Financement politique et ingérences électorales"
+        },
+        {
+          "startSeconds": 4635,
+          "title": "Guerre économique et influence des États-Unis"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Affaire Alstom et entrée en politique"
+        },
+        {
+          "startSeconds": 5805,
+          "title": "Démantèlement d’Alstom et actifs publics"
+        },
+        {
+          "startSeconds": 5985,
+          "title": "Clé USB et récit du cambriolage"
+        },
+        {
+          "startSeconds": 6390,
+          "title": "Agression ciblée et diffusion du téléphone"
+        },
+        {
+          "startSeconds": 6795,
+          "title": "Alstom, Frédéric Pierucci et responsabilités françaises"
+        },
+        {
+          "startSeconds": 7065,
+          "title": "Dette française et risque de dégradation"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Défiance populaire et référendum européen"
+        },
+        {
+          "startSeconds": 7560,
+          "title": "Régulation numérique et pouvoir des multinationales"
+        },
+        {
+          "startSeconds": 7830,
+          "title": "Appauvrissement du journalisme français"
+        },
+        {
+          "startSeconds": 7965,
+          "title": "Condamnation de Marine Le Pen et souveraineté monétaire"
+        },
+        {
+          "startSeconds": 8145,
+          "title": "Leadership politique et exil fiscal"
+        },
+        {
+          "startSeconds": 8415,
+          "title": "Sanctions économiques et conséquences géopolitiques"
+        },
+        {
+          "startSeconds": 8910,
+          "title": "Livres de référence et vision historique"
+        },
+        {
+          "startSeconds": 9180,
+          "title": "Démographie, liberté des femmes et parentalité"
+        },
+        {
+          "startSeconds": 9495,
+          "title": "Humanités, curiosité et autonomie intellectuelle"
+        }
+      ]
     },
     {
       "id": "AyMUu3wrcU8",
