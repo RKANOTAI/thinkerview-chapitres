@@ -8797,9 +8797,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Marc Endeweld, journaliste d'investigation.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Marc Endeweld et départ de Marianne"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Changement éditorial annoncé chez Marianne"
+        },
+        {
+          "startSeconds": 1035,
+          "title": "Enquête sur l’affaire MSC et les conflits d’intérêts"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Rapport policier réécrit et relance de l’enquête"
+        },
+        {
+          "startSeconds": 2385,
+          "title": "Clauses de conscience et de cession des journalistes"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Fortunes des armateurs et liens avec l’État"
+        },
+        {
+          "startSeconds": 3645,
+          "title": "Vente des activités africaines de Bolloré à MSC"
+        },
+        {
+          "startSeconds": 4005,
+          "title": "Rapprochement entre Bolloré et l’Élysée"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Dépêche Reuters et conflit entre Bolloré et l’Élysée"
+        },
+        {
+          "startSeconds": 4950,
+          "title": "Prise de contrôle du Journal du Dimanche"
+        },
+        {
+          "startSeconds": 5175,
+          "title": "Frédéric Michel et la communication politique à l’Élysée"
+        },
+        {
+          "startSeconds": 5580,
+          "title": "Privatisation de TF1 et rapports de force politiques"
+        },
+        {
+          "startSeconds": 6210,
+          "title": "Investissements croisés dans les médias audiovisuels"
+        },
+        {
+          "startSeconds": 6480,
+          "title": "Pluralisme audiovisuel et sélection des invités"
+        },
+        {
+          "startSeconds": 6840,
+          "title": "Difficultés industrielles de la filière nucléaire"
+        },
+        {
+          "startSeconds": 6975,
+          "title": "Mise à l’écart des enquêtes dans les médias"
+        },
+        {
+          "startSeconds": 7740,
+          "title": "Émissions d’enquête et relais des investigations"
+        },
+        {
+          "startSeconds": 7965,
+          "title": "Atos, Thierry Breton et le projet de scission"
+        },
+        {
+          "startSeconds": 8190,
+          "title": "Atos, cybersécurité et souveraineté informatique"
+        },
+        {
+          "startSeconds": 8685,
+          "title": "Supercalculateurs, défense et intelligence artificielle"
+        },
+        {
+          "startSeconds": 9090,
+          "title": "Souveraineté européenne et stratégie de défense"
+        },
+        {
+          "startSeconds": 9450,
+          "title": "Conseillers présidentiels et risques d’ingérence"
+        },
+        {
+          "startSeconds": 9720,
+          "title": "Habilitations secrètes et sécurité de l’Élysée"
+        },
+        {
+          "startSeconds": 9900,
+          "title": "Pegasus et analyse du téléphone présidentiel"
+        },
+        {
+          "startSeconds": 10395,
+          "title": "Royaume-Uni, États-Unis et autonomie stratégique"
+        },
+        {
+          "startSeconds": 11205,
+          "title": "Dissuasion nucléaire et équilibre stratégique"
+        },
+        {
+          "startSeconds": 11790,
+          "title": "Prolifération nucléaire et mémorandum de Budapest"
+        },
+        {
+          "startSeconds": 12465,
+          "title": "Responsabilité française dans les programmes nucléaires"
+        },
+        {
+          "startSeconds": 12645,
+          "title": "Europe périphérique et recul du parapluie américain"
+        },
+        {
+          "startSeconds": 13230,
+          "title": "Histoire de la corruption et conseils de lecture"
+        }
+      ]
     },
     {
       "id": "5Ls70LOPBLc",
@@ -8811,9 +8932,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Antoine Armand : député, ex-Ministre de l'Économie, des Finances et de l'Industrie.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation d’Antoine Armand et responsabilités publiques"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Prospective économique et horizons industriels"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Lucidité, matérialité et ordres de grandeur"
+        },
+        {
+          "startSeconds": 1305,
+          "title": "Vitesse d’exécution et décision publique"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Prévisions de déficit et responsabilité budgétaire"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Renseignement économique et anticipation géopolitique"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Alerte sur le déficit et décisions interministérielles"
+        },
+        {
+          "startSeconds": 3105,
+          "title": "Choix nucléaires et fermeture de Fessenheim"
+        },
+        {
+          "startSeconds": 3285,
+          "title": "Uranium, recyclage et quatrième génération"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Uranium de retraitement russe et trajectoire climatique"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Automobile européenne et avenir industriel"
+        },
+        {
+          "startSeconds": 4410,
+          "title": "Succès électoral de Trump et lecture politique"
+        },
+        {
+          "startSeconds": 4770,
+          "title": "Industrie allemande et fragilité européenne"
+        },
+        {
+          "startSeconds": 4950,
+          "title": "Sanctions contre la Russie et réponses européennes"
+        },
+        {
+          "startSeconds": 5355,
+          "title": "Désaccords européens autour du nucléaire"
+        },
+        {
+          "startSeconds": 5535,
+          "title": "Russie, Chine et États-Unis dans l’ordre mondial"
+        },
+        {
+          "startSeconds": 5805,
+          "title": "Scénarios de souveraineté pour la France"
+        },
+        {
+          "startSeconds": 6030,
+          "title": "Dette européenne et financement du réarmement"
+        },
+        {
+          "startSeconds": 6480,
+          "title": "Stagflation et risques bancaires"
+        },
+        {
+          "startSeconds": 6705,
+          "title": "Refinancement de la dette et consentement fiscal"
+        },
+        {
+          "startSeconds": 7110,
+          "title": "Dépenses publiques, fonctionnaires et tabous"
+        },
+        {
+          "startSeconds": 7290,
+          "title": "Patriotisme, travail et argent en France"
+        },
+        {
+          "startSeconds": 7560,
+          "title": "Évasion fiscale et coopération internationale"
+        },
+        {
+          "startSeconds": 7785,
+          "title": "Marché européen de l’électricité et prix français"
+        },
+        {
+          "startSeconds": 8055,
+          "title": "Patrimoine personnel et zones à faibles émissions"
+        },
+        {
+          "startSeconds": 8280,
+          "title": "Déficit public, précarité et politique du logement"
+        },
+        {
+          "startSeconds": 8505,
+          "title": "Logement social et mal-logement en France"
+        },
+        {
+          "startSeconds": 8730,
+          "title": "Détention de la dette et indépendance politique"
+        },
+        {
+          "startSeconds": 9135,
+          "title": "Ukraine, langage public et lectures"
+        },
+        {
+          "startSeconds": 9315,
+          "title": "Transition énergétique, ressources et jeunesse"
+        }
+      ]
     },
     {
       "id": "vbM_QE_l0PU",
@@ -8825,9 +9067,22 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Philippe Pujol : Journaliste et écrivain, Prix Albert Londres pour \"Quartiers Shit\"\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Illusion de l'argent facile et promotion du collecteur"
+        },
+        {
+          "startSeconds": 45,
+          "title": "Dette imposée, violence et cavalerie entre réseaux"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Expansion territoriale par l'avance de stupéfiants"
+        }
+      ]
     },
     {
       "id": "ewt9Gml0IPU",

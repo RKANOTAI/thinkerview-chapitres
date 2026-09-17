@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "gzlHOiqeQCY",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:56:44Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Marc Endeweld et départ de Marianne"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Changement éditorial annoncé chez Marianne"
+    },
+    {
+      "startSeconds": 1035,
+      "title": "Enquête sur l’affaire MSC et les conflits d’intérêts"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Rapport policier réécrit et relance de l’enquête"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Clauses de conscience et de cession des journalistes"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Fortunes des armateurs et liens avec l’État"
+    },
+    {
+      "startSeconds": 3645,
+      "title": "Vente des activités africaines de Bolloré à MSC"
+    },
+    {
+      "startSeconds": 4005,
+      "title": "Rapprochement entre Bolloré et l’Élysée"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Dépêche Reuters et conflit entre Bolloré et l’Élysée"
+    },
+    {
+      "startSeconds": 4950,
+      "title": "Prise de contrôle du Journal du Dimanche"
+    },
+    {
+      "startSeconds": 5175,
+      "title": "Frédéric Michel et la communication politique à l’Élysée"
+    },
+    {
+      "startSeconds": 5580,
+      "title": "Privatisation de TF1 et rapports de force politiques"
+    },
+    {
+      "startSeconds": 6210,
+      "title": "Investissements croisés dans les médias audiovisuels"
+    },
+    {
+      "startSeconds": 6480,
+      "title": "Pluralisme audiovisuel et sélection des invités"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Difficultés industrielles de la filière nucléaire"
+    },
+    {
+      "startSeconds": 6975,
+      "title": "Mise à l’écart des enquêtes dans les médias"
+    },
+    {
+      "startSeconds": 7740,
+      "title": "Émissions d’enquête et relais des investigations"
+    },
+    {
+      "startSeconds": 7965,
+      "title": "Atos, Thierry Breton et le projet de scission"
+    },
+    {
+      "startSeconds": 8190,
+      "title": "Atos, cybersécurité et souveraineté informatique"
+    },
+    {
+      "startSeconds": 8685,
+      "title": "Supercalculateurs, défense et intelligence artificielle"
+    },
+    {
+      "startSeconds": 9090,
+      "title": "Souveraineté européenne et stratégie de défense"
+    },
+    {
+      "startSeconds": 9450,
+      "title": "Conseillers présidentiels et risques d’ingérence"
+    },
+    {
+      "startSeconds": 9720,
+      "title": "Habilitations secrètes et sécurité de l’Élysée"
+    },
+    {
+      "startSeconds": 9900,
+      "title": "Pegasus et analyse du téléphone présidentiel"
+    },
+    {
+      "startSeconds": 10395,
+      "title": "Royaume-Uni, États-Unis et autonomie stratégique"
+    },
+    {
+      "startSeconds": 11205,
+      "title": "Dissuasion nucléaire et équilibre stratégique"
+    },
+    {
+      "startSeconds": 11790,
+      "title": "Prolifération nucléaire et mémorandum de Budapest"
+    },
+    {
+      "startSeconds": 12465,
+      "title": "Responsabilité française dans les programmes nucléaires"
+    },
+    {
+      "startSeconds": 12645,
+      "title": "Europe périphérique et recul du parapluie américain"
+    },
+    {
+      "startSeconds": 13230,
+      "title": "Histoire de la corruption et conseils de lecture"
+    }
+  ]
+}

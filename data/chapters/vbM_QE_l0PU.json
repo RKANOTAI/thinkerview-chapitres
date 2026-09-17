@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "vbM_QE_l0PU",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:56:44Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Illusion de l'argent facile et promotion du collecteur"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Dette imposée, violence et cavalerie entre réseaux"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Expansion territoriale par l'avance de stupéfiants"
+    }
+  ]
+}
