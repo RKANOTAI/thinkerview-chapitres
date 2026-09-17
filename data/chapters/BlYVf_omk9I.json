@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "videoId": "BlYVf_omk9I",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:28:09Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Manuel sur les guillotines et expérience des gilets jaunes"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Ouverture symbolique d’une porte ministérielle"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Gaz lacrymogène, LBD et revendication de dignité"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Errance et découverte d’un Fenwick dans le quartier ministériel"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "videoId": "woMP81uEtiE",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:28:09Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Dialogue contradictoire et limites de la compétition"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Formation à la coopération entre humains et non humains"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Besoins, ressources et nature partenaire"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Robustesse du vivant et stratégie du parasite"
+    }
+  ]
+}

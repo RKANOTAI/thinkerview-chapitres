@@ -7978,9 +7978,22 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Virginie Joron : Députée européenne, Rassemblement national.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Chèque de 80 millions d’euros au laboratoire"
+        },
+        {
+          "startSeconds": 45,
+          "title": "Questions sur l’usage des 80 millions d’euros"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Partenaires du laboratoire et récupération des fonds"
+        }
+      ]
     },
     {
       "id": "woMP81uEtiE",
@@ -7992,9 +8005,26 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Olivier Hamant : chercheur en biologie et biophysique.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Dialogue contradictoire et limites de la compétition"
+        },
+        {
+          "startSeconds": 45,
+          "title": "Formation à la coopération entre humains et non humains"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Besoins, ressources et nature partenaire"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Robustesse du vivant et stratégie du parasite"
+        }
+      ]
     },
     {
       "id": "BlYVf_omk9I",
@@ -8006,9 +8036,26 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Juan Branco, avocat.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Manuel sur les guillotines et expérience des gilets jaunes"
+        },
+        {
+          "startSeconds": 45,
+          "title": "Ouverture symbolique d’une porte ministérielle"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Gaz lacrymogène, LBD et revendication de dignité"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Errance et découverte d’un Fenwick dans le quartier ministériel"
+        }
+      ]
     },
     {
       "id": "GNCOl7WAOl0",

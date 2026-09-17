@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "CdXy78uzHr4",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:28:09Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Chèque de 80 millions d’euros au laboratoire"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Questions sur l’usage des 80 millions d’euros"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Partenaires du laboratoire et récupération des fonds"
+    }
+  ]
+}
