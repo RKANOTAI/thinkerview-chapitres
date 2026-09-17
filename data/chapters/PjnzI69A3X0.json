@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "PjnzI69A3X0",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:43:33Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et du débat"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Les effets de l’IA sur les débuts professionnels"
+    },
+    {
+      "startSeconds": 360,
+      "title": "L’angoisse et la contestation autour de l’IA"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Le dépassement cognitif comme choc intime"
+    },
+    {
+      "startSeconds": 720,
+      "title": "De l’outil à une nouvelle espèce intelligente"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "La morale des intelligences artificielles privées"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Les relations affectives avec les intelligences artificielles"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Robots sexuels et isolement des jeunes"
+    },
+    {
+      "startSeconds": 1755,
+      "title": "Médecine et risques liés à l’autonomie des IA"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Longévité, rajeunissement et superintelligence"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Le débat entre accélération et ralentissement"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Choisir d’avoir des enfants à l’ère de l’IA"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "La sélection embryonnaire et ses conséquences sociales"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "La course à l’augmentation face au déclassement"
+    },
+    {
+      "startSeconds": 3465,
+      "title": "La concentration du pouvoir technologique"
+    },
+    {
+      "startSeconds": 3690,
+      "title": "Transhumanisme et accès aux technologies d’augmentation"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Hybridation de l’humain avec l’intelligence artificielle"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "La militarisation de l’intelligence artificielle"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Armes autonomes et contrôle des décisions létales"
+    },
+    {
+      "startSeconds": 4950,
+      "title": "Surveillance, sécurité et dérive autoritaire"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Le fossé intergénérationnel face à l’IA"
+    },
+    {
+      "startSeconds": 5625,
+      "title": "Bunkers et peur d’une contre-révolution de l’IA"
+    },
+    {
+      "startSeconds": 5760,
+      "title": "Le transfert de conscience vers les ordinateurs"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "Le posthumanisme et l’abandon du corps"
+    },
+    {
+      "startSeconds": 6165,
+      "title": "La création littéraire face aux intelligences artificielles"
+    },
+    {
+      "startSeconds": 6300,
+      "title": "La paresse intellectuelle et l’usage des résumés"
+    },
+    {
+      "startSeconds": 6570,
+      "title": "L’école à réformer face à l’intelligence artificielle"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Radicalisation, élections et avenir politique"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Bilan du choc intime et politique de l’IA"
+    },
+    {
+      "startSeconds": 7470,
+      "title": "Conseils de lecture et de culture générale"
+    }
+  ]
+}

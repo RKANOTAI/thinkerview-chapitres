@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "videoId": "R6M1sUzsZUk",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:43:33Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Ouverture et présentation des enjeux de l’intelligence artificielle"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Les premiers effets des IA génératives"
+    },
+    {
+      "startSeconds": 900,
+      "title": "L’encyclique Magnifique humanité face à l’IA"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "La perspective d’une rupture anthropologique"
+    },
+    {
+      "startSeconds": 1305,
+      "title": "L’organisation à zéro humain et les humanoïdes"
+    },
+    {
+      "startSeconds": 1665,
+      "title": "Les limites de l’encyclique sur l’intelligence artificielle"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "L’école comme lieu de l’altérité et de l’apprentissage"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Le langage et le risque d’une parole standardisée"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "L’indistinction des images générées"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Le travail face à l’automatisation générative"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "L’automatisation des métiers à haute compétence cognitive"
+    },
+    {
+      "startSeconds": 4410,
+      "title": "Redéfinir le travail autour de la créativité et de la solidarité"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Le décalage entre les faits et les représentations"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "La compromission politique dans la course à l’IA"
+    },
+    {
+      "startSeconds": 5850,
+      "title": "L’influence des experts et des économistes"
+    },
+    {
+      "startSeconds": 6255,
+      "title": "La fascination médiatique pour les acteurs de la tech"
+    },
+    {
+      "startSeconds": 6975,
+      "title": "Le contresommet de l’IA et le retour au concret"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Le témoignage comme outil de compréhension collective"
+    },
+    {
+      "startSeconds": 7785,
+      "title": "La mobilisation des lycéens pour les métiers créatifs"
+    },
+    {
+      "startSeconds": 8010,
+      "title": "Une jeunesse porteuse de modes de vie alternatifs"
+    },
+    {
+      "startSeconds": 8280,
+      "title": "Deux visions de l’humanité face à l’automatisation"
+    },
+    {
+      "startSeconds": 8640,
+      "title": "Les contraintes énergétiques derrière la course à l’IA"
+    },
+    {
+      "startSeconds": 8775,
+      "title": "Mobilisation collective et décisions communes au travail"
+    },
+    {
+      "startSeconds": 8955,
+      "title": "Vers une conscience en acte dans l’école et le travail"
+    },
+    {
+      "startSeconds": 9090,
+      "title": "Questions du public sur l’éducation et les robots"
+    },
+    {
+      "startSeconds": 9360,
+      "title": "Les livres comme apprentissage de l’attention et de la liberté"
+    },
+    {
+      "startSeconds": 9810,
+      "title": "Conclusion et recommandations de lecture"
+    }
+  ]
+}

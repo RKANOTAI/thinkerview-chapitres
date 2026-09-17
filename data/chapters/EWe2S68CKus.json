@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "videoId": "EWe2S68CKus",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:43:33Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de l’invité et de CaféIA"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Des plateformes aux logiques d’addiction"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Culture algorithmique et faiblesse politique américaine"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Biais des plateformes et limites du contrôle public"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Course mondiale et militarisation de l’IA"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Armes autonomes et guerre probabiliste"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Guerre informationnelle et doctrine française"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "De la Silicon Valley inclusive à l’exclusion"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Projet européen, énergie et divisions entre États"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Chaînes européennes et coordination du Covid"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Autonomie européenne et blocages institutionnels"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "Surveillance et évolution politique de la Silicon Valley"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Dark Enlightenment, MAGA et Peter Thiel"
+    },
+    {
+      "startSeconds": 3465,
+      "title": "Palantir, big data et accélérationnisme"
+    },
+    {
+      "startSeconds": 3645,
+      "title": "DeepMind et la promesse de l’intelligence artificielle"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Conscience, calcul et singularité humaine"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Silicium, carbone et projet humaniste européen"
+    },
+    {
+      "startSeconds": 4995,
+      "title": "Mondialisation, capital et travail"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Productivité de l’IA et partage de la valeur"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Économie extractive et recul de l’antitrust"
+    },
+    {
+      "startSeconds": 5895,
+      "title": "Productivité de l’IA et nouvelles utopies politiques"
+    },
+    {
+      "startSeconds": 6030,
+      "title": "Écrans, isolement social et perte du débat"
+    },
+    {
+      "startSeconds": 6210,
+      "title": "Gilets jaunes et fracture entre métropoles et territoires"
+    },
+    {
+      "startSeconds": 6435,
+      "title": "Paradoxe de Fermi et risque d’autodestruction"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Macron, technocratie et absence de récit politique"
+    },
+    {
+      "startSeconds": 7155,
+      "title": "Tarification dynamique et confiance économique"
+    },
+    {
+      "startSeconds": 7425,
+      "title": "Présentation de Machines ou rester vivant"
+    },
+    {
+      "startSeconds": 7785,
+      "title": "Accélération, travail et enjeux de l’intelligence artificielle"
+    },
+    {
+      "startSeconds": 8190,
+      "title": "Lectures recommandées et conseils aux nouvelles générations"
+    }
+  ]
+}
