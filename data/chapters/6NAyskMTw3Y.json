@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "6NAyskMTw3Y",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:23:20Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation d’Olivier Dubois et du projet d’interview"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Arrivée à Gao et absence du traducteur"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Trajet hors de Gao et enlèvement"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Choc, peur et premières heures de captivité"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Première nuit et terreur dans le désert"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Adaptation à la captivité par le sport et l’observation"
+    },
+    {
+      "startSeconds": 1485,
+      "title": "Vie quotidienne du camp et moyens de communication"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Questions aux gardes et soupçons d’espionnage"
+    },
+    {
+      "startSeconds": 2205,
+      "title": "Durcissement de la détention et lettre à l’émir"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Valeur des otages et rivalités entre groupes armés"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Décision de préparer une évasion"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Nouvelles chaînes et repérage autour du camp"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Maladies, traitements improvisés et risques du désert"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Prière, conversion et identité de Zitoun"
+    },
+    {
+      "startSeconds": 4905,
+      "title": "Rencontre avec le codétenu sud-africain en prison"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Projet d’évasion collectif et renforts armés"
+    },
+    {
+      "startSeconds": 5625,
+      "title": "Radio, messages familiaux et repérage du désert"
+    },
+    {
+      "startSeconds": 6255,
+      "title": "Lecture du Coran et débats sur la conversion"
+    },
+    {
+      "startSeconds": 6660,
+      "title": "Rencontre avec le numéro deux et révélations sur RFI"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Stratégies de survie, humour et contrôle en captivité"
+    },
+    {
+      "startSeconds": 7470,
+      "title": "Motivations djihadistes et adaptation aux conditions du désert"
+    },
+    {
+      "startSeconds": 7875,
+      "title": "Stratégie pour obtenir un appel familial"
+    },
+    {
+      "startSeconds": 8010,
+      "title": "Annonce de la libération et promesse d’interview"
+    },
+    {
+      "startSeconds": 8460,
+      "title": "Transfert final, libération et rencontre avec un otage américain"
+    },
+    {
+      "startSeconds": 9045,
+      "title": "Retour en France et débriefing des services français"
+    },
+    {
+      "startSeconds": 9495,
+      "title": "Trahison possible du fixeur et risques du reportage"
+    },
+    {
+      "startSeconds": 10710,
+      "title": "Vocation et idéal du métier de journaliste"
+    },
+    {
+      "startSeconds": 10845,
+      "title": "Précarité et rôle du métier de journaliste"
+    },
+    {
+      "startSeconds": 11295,
+      "title": "Diversité de l’information et éducation au recul critique"
+    },
+    {
+      "startSeconds": 11610,
+      "title": "Lectures, intelligence artificielle et conseils aux jeunes"
+    }
+  ]
+}

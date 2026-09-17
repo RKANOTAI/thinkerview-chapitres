@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "videoId": "neE5TEMXcv0",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:23:20Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et constat de la désindustrialisation française"
+    },
+    {
+      "startSeconds": 225,
+      "title": "Énergie, outil industriel et compétences à reconstruire"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Apprentissage et lycées professionnels comme filières d'excellence"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Transmission des métiers et formation des ingénieurs"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Planification industrielle et cap collectif pour la France"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Mobiliser les jeunes autour de la reconstruction industrielle"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Raison, science et compréhension des choix techniques"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Recherche française et conditions de l'enseignement supérieur"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Conditions de recherche et liberté d'innover"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Politique énergétique et reconstruction industrielle"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Relance du nucléaire et renouvellement des réacteurs"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Capacité industrielle et besoins réels en électricité"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Batteries, transfert technologique et compétitivité énergétique"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Stabilité du réseau et planification des besoins électriques"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Prix de l'énergie et compétitivité industrielle"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Croissance, innovation et gouvernance de l'Europe"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "Réglementation européenne et avenir de l'industrie automobile"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Coopérations européennes et rapport de force industriel"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Expertise scientifique et décisions énergétiques européennes"
+    },
+    {
+      "startSeconds": 4230,
+      "title": "Réindustrialisation et nouvelle échelle européenne"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Partis politiques, syndicats et expression citoyenne"
+    },
+    {
+      "startSeconds": 4770,
+      "title": "Pouvoir d'achat, industrie et progression des extrêmes"
+    },
+    {
+      "startSeconds": 4995,
+      "title": "Réindustrialisation et santé de la démocratie"
+    },
+    {
+      "startSeconds": 5130,
+      "title": "Rôle des chefs d'entreprise et transmission du goût de produire"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Automatisation, intelligence artificielle et transition des métiers"
+    },
+    {
+      "startSeconds": 5580,
+      "title": "Citoyens et renouvellement de la représentation politique"
+    },
+    {
+      "startSeconds": 5670,
+      "title": "Nucléaire de quatrième génération et souveraineté énergétique"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "Lectures recommandées et conseil aux jeunes générations"
+    }
+  ]
+}

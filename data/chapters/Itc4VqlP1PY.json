@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "videoId": "Itc4VqlP1PY",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:23:20Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et parcours politique de François-Xavier Bellamy"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Bilan de la Commission européenne et opposition à Ursula von der Leyen"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Responsabilité politique après les défaillances publiques"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Nietzsche, la mort de Dieu et la laïcité"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Désindustrialisation, retraites et modèle social français"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Dépendances européennes et risque de dislocation"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Dépendance énergétique, guerre et défense européenne"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Retour des logiques de guerre froide et crise arménienne"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Ingérences étrangères et corruption au Parlement européen"
+    },
+    {
+      "startSeconds": 3285,
+      "title": "Influence du Qatar et lobbying des ONG européennes"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Brexit, euro et avenir de l’Union européenne"
+    },
+    {
+      "startSeconds": 5445,
+      "title": "Nucléaire français, uranium et souveraineté énergétique"
+    },
+    {
+      "startSeconds": 6255,
+      "title": "Démographie française et expérience de la Russie"
+    },
+    {
+      "startSeconds": 6660,
+      "title": "Accélération judiciaire et affaire François Fillon"
+    },
+    {
+      "startSeconds": 6885,
+      "title": "Euro, dette française et réveil allemand"
+    },
+    {
+      "startSeconds": 8145,
+      "title": "Crise du projet européen et clivage gauche-droite"
+    },
+    {
+      "startSeconds": 8685,
+      "title": "Schengen, retours et politique migratoire européenne"
+    },
+    {
+      "startSeconds": 9045,
+      "title": "Marché européen de l’électricité et souveraineté énergétique"
+    },
+    {
+      "startSeconds": 9270,
+      "title": "Déclin français et défiance démocratique"
+    },
+    {
+      "startSeconds": 9900,
+      "title": "Liberté d’expression et autonomie numérique européenne"
+    },
+    {
+      "startSeconds": 10395,
+      "title": "Agriculture, Mercosur et souveraineté alimentaire"
+    },
+    {
+      "startSeconds": 10575,
+      "title": "Philosophie et avenir politique de l’Europe"
+    },
+    {
+      "startSeconds": 10800,
+      "title": "Courage politique, lecture et intelligence artificielle"
+    }
+  ]
+}

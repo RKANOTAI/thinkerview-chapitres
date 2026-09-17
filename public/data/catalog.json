@@ -4513,9 +4513,102 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "François-Xavier Bellamy : Député européen, Vice-président des Républicains.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et parcours politique de François-Xavier Bellamy"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Bilan de la Commission européenne et opposition à Ursula von der Leyen"
+        },
+        {
+          "startSeconds": 855,
+          "title": "Responsabilité politique après les défaillances publiques"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Nietzsche, la mort de Dieu et la laïcité"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Désindustrialisation, retraites et modèle social français"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Dépendances européennes et risque de dislocation"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Dépendance énergétique, guerre et défense européenne"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Retour des logiques de guerre froide et crise arménienne"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Ingérences étrangères et corruption au Parlement européen"
+        },
+        {
+          "startSeconds": 3285,
+          "title": "Influence du Qatar et lobbying des ONG européennes"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Brexit, euro et avenir de l’Union européenne"
+        },
+        {
+          "startSeconds": 5445,
+          "title": "Nucléaire français, uranium et souveraineté énergétique"
+        },
+        {
+          "startSeconds": 6255,
+          "title": "Démographie française et expérience de la Russie"
+        },
+        {
+          "startSeconds": 6660,
+          "title": "Accélération judiciaire et affaire François Fillon"
+        },
+        {
+          "startSeconds": 6885,
+          "title": "Euro, dette française et réveil allemand"
+        },
+        {
+          "startSeconds": 8145,
+          "title": "Crise du projet européen et clivage gauche-droite"
+        },
+        {
+          "startSeconds": 8685,
+          "title": "Schengen, retours et politique migratoire européenne"
+        },
+        {
+          "startSeconds": 9045,
+          "title": "Marché européen de l’électricité et souveraineté énergétique"
+        },
+        {
+          "startSeconds": 9270,
+          "title": "Déclin français et défiance démocratique"
+        },
+        {
+          "startSeconds": 9900,
+          "title": "Liberté d’expression et autonomie numérique européenne"
+        },
+        {
+          "startSeconds": 10395,
+          "title": "Agriculture, Mercosur et souveraineté alimentaire"
+        },
+        {
+          "startSeconds": 10575,
+          "title": "Philosophie et avenir politique de l’Europe"
+        },
+        {
+          "startSeconds": 10800,
+          "title": "Courage politique, lecture et intelligence artificielle"
+        }
+      ]
     },
     {
       "id": "neE5TEMXcv0",
@@ -4527,9 +4620,122 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Yves Bréchet : ancien haut-commissaire à l'énergie atomique, membre de l'Académie des sciences, professeur et spécialiste des matériaux.\nLouis Gallois: Dirigeant d'entreprises; Snecma, Aérospatiale, SNCF...",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation des invités et constat de la désindustrialisation française"
+        },
+        {
+          "startSeconds": 225,
+          "title": "Énergie, outil industriel et compétences à reconstruire"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Apprentissage et lycées professionnels comme filières d'excellence"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Transmission des métiers et formation des ingénieurs"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Planification industrielle et cap collectif pour la France"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Mobiliser les jeunes autour de la reconstruction industrielle"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Raison, science et compréhension des choix techniques"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Recherche française et conditions de l'enseignement supérieur"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Conditions de recherche et liberté d'innover"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Politique énergétique et reconstruction industrielle"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Relance du nucléaire et renouvellement des réacteurs"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Capacité industrielle et besoins réels en électricité"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Batteries, transfert technologique et compétitivité énergétique"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Stabilité du réseau et planification des besoins électriques"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Prix de l'énergie et compétitivité industrielle"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Croissance, innovation et gouvernance de l'Europe"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "Réglementation européenne et avenir de l'industrie automobile"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Coopérations européennes et rapport de force industriel"
+        },
+        {
+          "startSeconds": 3870,
+          "title": "Expertise scientifique et décisions énergétiques européennes"
+        },
+        {
+          "startSeconds": 4230,
+          "title": "Réindustrialisation et nouvelle échelle européenne"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Partis politiques, syndicats et expression citoyenne"
+        },
+        {
+          "startSeconds": 4770,
+          "title": "Pouvoir d'achat, industrie et progression des extrêmes"
+        },
+        {
+          "startSeconds": 4995,
+          "title": "Réindustrialisation et santé de la démocratie"
+        },
+        {
+          "startSeconds": 5130,
+          "title": "Rôle des chefs d'entreprise et transmission du goût de produire"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Automatisation, intelligence artificielle et transition des métiers"
+        },
+        {
+          "startSeconds": 5580,
+          "title": "Citoyens et renouvellement de la représentation politique"
+        },
+        {
+          "startSeconds": 5670,
+          "title": "Nucléaire de quatrième génération et souveraineté énergétique"
+        },
+        {
+          "startSeconds": 5940,
+          "title": "Lectures recommandées et conseil aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "6NAyskMTw3Y",
@@ -4541,9 +4747,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Olivier Dubois, journaliste français, spécialiste du Sahel.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation d’Olivier Dubois et du projet d’interview"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Arrivée à Gao et absence du traducteur"
+        },
+        {
+          "startSeconds": 495,
+          "title": "Trajet hors de Gao et enlèvement"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Choc, peur et premières heures de captivité"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Première nuit et terreur dans le désert"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Adaptation à la captivité par le sport et l’observation"
+        },
+        {
+          "startSeconds": 1485,
+          "title": "Vie quotidienne du camp et moyens de communication"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Questions aux gardes et soupçons d’espionnage"
+        },
+        {
+          "startSeconds": 2205,
+          "title": "Durcissement de la détention et lettre à l’émir"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Valeur des otages et rivalités entre groupes armés"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Décision de préparer une évasion"
+        },
+        {
+          "startSeconds": 3960,
+          "title": "Nouvelles chaînes et repérage autour du camp"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Maladies, traitements improvisés et risques du désert"
+        },
+        {
+          "startSeconds": 4590,
+          "title": "Prière, conversion et identité de Zitoun"
+        },
+        {
+          "startSeconds": 4905,
+          "title": "Rencontre avec le codétenu sud-africain en prison"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Projet d’évasion collectif et renforts armés"
+        },
+        {
+          "startSeconds": 5625,
+          "title": "Radio, messages familiaux et repérage du désert"
+        },
+        {
+          "startSeconds": 6255,
+          "title": "Lecture du Coran et débats sur la conversion"
+        },
+        {
+          "startSeconds": 6660,
+          "title": "Rencontre avec le numéro deux et révélations sur RFI"
+        },
+        {
+          "startSeconds": 7200,
+          "title": "Stratégies de survie, humour et contrôle en captivité"
+        },
+        {
+          "startSeconds": 7470,
+          "title": "Motivations djihadistes et adaptation aux conditions du désert"
+        },
+        {
+          "startSeconds": 7875,
+          "title": "Stratégie pour obtenir un appel familial"
+        },
+        {
+          "startSeconds": 8010,
+          "title": "Annonce de la libération et promesse d’interview"
+        },
+        {
+          "startSeconds": 8460,
+          "title": "Transfert final, libération et rencontre avec un otage américain"
+        },
+        {
+          "startSeconds": 9045,
+          "title": "Retour en France et débriefing des services français"
+        },
+        {
+          "startSeconds": 9495,
+          "title": "Trahison possible du fixeur et risques du reportage"
+        },
+        {
+          "startSeconds": 10710,
+          "title": "Vocation et idéal du métier de journaliste"
+        },
+        {
+          "startSeconds": 10845,
+          "title": "Précarité et rôle du métier de journaliste"
+        },
+        {
+          "startSeconds": 11295,
+          "title": "Diversité de l’information et éducation au recul critique"
+        },
+        {
+          "startSeconds": 11610,
+          "title": "Lectures, intelligence artificielle et conseils aux jeunes"
+        }
+      ]
     },
     {
       "id": "T4ofzhiEkmE",
