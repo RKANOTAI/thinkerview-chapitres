@@ -8135,9 +8135,26 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "SOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview\nPOSEZ VOS QUESTIONS EN DIRECT : ▶️ https://discord.gg/Ey3pBWV",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Accès annuel encadré à Paris"
+        },
+        {
+          "startSeconds": 45,
+          "title": "Critère d’année plutôt que de pollution"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Parkings avec bus et difficultés de sécurité"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Blocage des activités et multiplication des dérogations"
+        }
+      ]
     },
     {
       "id": "fuoooFw-nz0",
@@ -8149,9 +8166,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Alexandre Jardin : Écrivain et réalisateur.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation d'Alexandre Jardin et de son engagement citoyen"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Un père rural empêché de rejoindre ses enfants"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Douze millions de véhicules concernés par les ZFE"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Les études d'impact sous-estiment l'ampleur sociale"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "L'écologie non violente contre l'hypercontrôle social"
+        },
+        {
+          "startSeconds": 1305,
+          "title": "Les maires résistent aux exclusions automobiles"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Le devenir des véhicules interdits hors de France"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "La précarité financière rend la voiture indispensable"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Les travailleurs essentiels ne peuvent pas compter sur les transports"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Motards et artisans se mobilisent contre les ZFE"
+        },
+        {
+          "startSeconds": 2745,
+          "title": "L'écologie devient un instrument de pouvoir"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "L'alliance des gueux avec les élus locaux"
+        },
+        {
+          "startSeconds": 3465,
+          "title": "Les ZFE révèlent un enjeu européen"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Le référendum suisse comme correctif démocratique"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Une histoire de chèvres illustre la déconnexion administrative"
+        },
+        {
+          "startSeconds": 4275,
+          "title": "Les caméras automatisent le contrôle des déplacements"
+        },
+        {
+          "startSeconds": 4635,
+          "title": "La technocratie se prolonge dans le pouvoir financier"
+        },
+        {
+          "startSeconds": 4770,
+          "title": "La France peut se redresser par des choix démocratiques"
+        },
+        {
+          "startSeconds": 5130,
+          "title": "Le modèle européen bureaucratique est remis en cause"
+        },
+        {
+          "startSeconds": 5310,
+          "title": "Les causes multiples de la pollution urbaine"
+        },
+        {
+          "startSeconds": 5445,
+          "title": "La ségrégation spatiale anticipée par la fiction"
+        },
+        {
+          "startSeconds": 5760,
+          "title": "Richesse, dette et énergie bon marché"
+        },
+        {
+          "startSeconds": 6030,
+          "title": "Les changements de pensée transforment l'histoire"
+        },
+        {
+          "startSeconds": 6300,
+          "title": "La voiture comme condition d'accès au travail"
+        },
+        {
+          "startSeconds": 6615,
+          "title": "La désindustrialisation explique une partie de la baisse des émissions"
+        },
+        {
+          "startSeconds": 6885,
+          "title": "Le dialogue politique face au risque électoral"
+        },
+        {
+          "startSeconds": 7200,
+          "title": "Une transformation démocratique pourrait renouveler la culture"
+        },
+        {
+          "startSeconds": 7470,
+          "title": "La décentralisation et la transition automobile"
+        },
+        {
+          "startSeconds": 7740,
+          "title": "La crise sociale et la violence des normes"
+        },
+        {
+          "startSeconds": 8010,
+          "title": "Des livres pour penser et agir"
+        }
+      ]
     },
     {
       "id": "DNKpou9EhaQ",
@@ -8163,9 +8301,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Alexis Roussel : COO de NYM technologies et cofondateur de Bity.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation d’Alexis Roussel et enjeux numériques"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Surveillance autoritaire et répression prédictive"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Passage à l’ère numérique et gouvernance"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Justification sécuritaire de la société surveillée"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Subsidiarité française et démocratie suisse"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Droit à l’intégrité numérique en Suisse"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "École, logiciel libre et autonomie numérique"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Cambridge Analytica et ciblage électoral"
+        },
+        {
+          "startSeconds": 2025,
+          "title": "Influence électorale et chambres d’écho"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Diffusion du droit à l’intégrité numérique"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Vulnérabilité de Wikipédia et des systèmes d’IA"
+        },
+        {
+          "startSeconds": 2655,
+          "title": "Preuve cryptographique et confiance entre pairs"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Collusion entre plateformes et pouvoirs publics"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Surveillance financière et autocensure bancaire"
+        },
+        {
+          "startSeconds": 3375,
+          "title": "Liberté d’expression et modération des contenus"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Éducation numérique et prévention des risques en ligne"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "NIM et anonymisation des communications"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Métadonnées, géolocalisation et hygiène informatique"
+        },
+        {
+          "startSeconds": 4455,
+          "title": "Chiffrement accessible et refus des portes dérobées"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Telegram, Signal et limites du chiffrement"
+        },
+        {
+          "startSeconds": 5040,
+          "title": "Fonctionnement du réseau d’anonymisation NIM"
+        },
+        {
+          "startSeconds": 5220,
+          "title": "Sécurité open source et audits du réseau NIM"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Chelsea Manning et les secrets d’État"
+        },
+        {
+          "startSeconds": 5625,
+          "title": "Données personnelles et modèles géopolitiques"
+        },
+        {
+          "startSeconds": 5895,
+          "title": "Non-captation des données et souveraineté numérique"
+        },
+        {
+          "startSeconds": 5985,
+          "title": "Transformations historiques et espoirs numériques"
+        },
+        {
+          "startSeconds": 6165,
+          "title": "Financement et gouvernance économique de NIM"
+        },
+        {
+          "startSeconds": 6345,
+          "title": "Livres sur les transformations politiques et numériques"
+        },
+        {
+          "startSeconds": 6615,
+          "title": "TrueCrypt, transparence et sécurité open source"
+        },
+        {
+          "startSeconds": 6705,
+          "title": "Conseil final aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "y1_I2iYUzlE",

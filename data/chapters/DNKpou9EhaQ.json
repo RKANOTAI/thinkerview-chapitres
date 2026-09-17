@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "DNKpou9EhaQ",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:39:34Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation d’Alexis Roussel et enjeux numériques"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Surveillance autoritaire et répression prédictive"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Passage à l’ère numérique et gouvernance"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Justification sécuritaire de la société surveillée"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Subsidiarité française et démocratie suisse"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Droit à l’intégrité numérique en Suisse"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "École, logiciel libre et autonomie numérique"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Cambridge Analytica et ciblage électoral"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Influence électorale et chambres d’écho"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Diffusion du droit à l’intégrité numérique"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Vulnérabilité de Wikipédia et des systèmes d’IA"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Preuve cryptographique et confiance entre pairs"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Collusion entre plateformes et pouvoirs publics"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Surveillance financière et autocensure bancaire"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Liberté d’expression et modération des contenus"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Éducation numérique et prévention des risques en ligne"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "NIM et anonymisation des communications"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Métadonnées, géolocalisation et hygiène informatique"
+    },
+    {
+      "startSeconds": 4455,
+      "title": "Chiffrement accessible et refus des portes dérobées"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Telegram, Signal et limites du chiffrement"
+    },
+    {
+      "startSeconds": 5040,
+      "title": "Fonctionnement du réseau d’anonymisation NIM"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Sécurité open source et audits du réseau NIM"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Chelsea Manning et les secrets d’État"
+    },
+    {
+      "startSeconds": 5625,
+      "title": "Données personnelles et modèles géopolitiques"
+    },
+    {
+      "startSeconds": 5895,
+      "title": "Non-captation des données et souveraineté numérique"
+    },
+    {
+      "startSeconds": 5985,
+      "title": "Transformations historiques et espoirs numériques"
+    },
+    {
+      "startSeconds": 6165,
+      "title": "Financement et gouvernance économique de NIM"
+    },
+    {
+      "startSeconds": 6345,
+      "title": "Livres sur les transformations politiques et numériques"
+    },
+    {
+      "startSeconds": 6615,
+      "title": "TrueCrypt, transparence et sécurité open source"
+    },
+    {
+      "startSeconds": 6705,
+      "title": "Conseil final aux jeunes générations"
+    }
+  ]
+}
