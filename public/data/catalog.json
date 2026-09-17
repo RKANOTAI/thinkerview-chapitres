@@ -6775,9 +6775,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Sarah Knafo, députée européenne.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et parcours de Sarah Knafo"
+        },
+        {
+          "startSeconds": 135,
+          "title": "État des services publics et avenir de la France"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Nucléaire français et choix politiques récents"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "L'intérêt de la France comme grille de lecture"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Subventions écologiques et coût des politiques publiques"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Énergie, industrie et désindustrialisation françaises"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "L'Allemagne et la concurrence nucléaire en Europe"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Surtransposition du droit européen en France"
+        },
+        {
+          "startSeconds": 2835,
+          "title": "Dette française face au réarmement allemand"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "Désengagement américain et rôle militaire français"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Compétition sino-américaine pour l'intelligence artificielle"
+        },
+        {
+          "startSeconds": 4185,
+          "title": "Ressources, pic énergétique et choix nucléaires"
+        },
+        {
+          "startSeconds": 5130,
+          "title": "Dépendance numérique et données de santé françaises"
+        },
+        {
+          "startSeconds": 7065,
+          "title": "Souveraineté et engagement politique"
+        },
+        {
+          "startSeconds": 7650,
+          "title": "Légitime défense et protection des forces de l'ordre"
+        },
+        {
+          "startSeconds": 8100,
+          "title": "La lutte contre les gangs au Salvador"
+        },
+        {
+          "startSeconds": 8595,
+          "title": "Souveraineté française au sein de l'Union européenne"
+        },
+        {
+          "startSeconds": 9045,
+          "title": "Le Brexit et ses conséquences politiques"
+        },
+        {
+          "startSeconds": 9405,
+          "title": "OTAN et candidature de Reconquête"
+        },
+        {
+          "startSeconds": 9675,
+          "title": "Aide publique au développement et dépenses françaises"
+        },
+        {
+          "startSeconds": 9990,
+          "title": "Débat scientifique et transparence publique"
+        },
+        {
+          "startSeconds": 10260,
+          "title": "Liberté d'expression et statistiques de délinquance"
+        },
+        {
+          "startSeconds": 10665,
+          "title": "Corruption et influences étrangères au Parlement européen"
+        },
+        {
+          "startSeconds": 10890,
+          "title": "Courage politique et conflit israélo-palestinien"
+        },
+        {
+          "startSeconds": 11070,
+          "title": "Ukraine, Russie et position européenne"
+        },
+        {
+          "startSeconds": 11205,
+          "title": "Euro, dette et réformes économiques"
+        },
+        {
+          "startSeconds": 11655,
+          "title": "Cour des comptes et limites de l'action publique"
+        },
+        {
+          "startSeconds": 12060,
+          "title": "Invitation à l'investiture de Donald Trump"
+        },
+        {
+          "startSeconds": 12510,
+          "title": "Retraites, euthanasie et responsabilité collective"
+        },
+        {
+          "startSeconds": 12915,
+          "title": "Livres conseillés et conseils aux jeunes"
+        }
+      ]
     },
     {
       "id": "OJORL8TtRoc",
@@ -6789,9 +6910,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Juan Branco, Avocat et docteur en droit. Candidat à la présidentielle 2027.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Parcours d’avocat et défense de citoyens poursuivis"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Sources citées et conditions de la recherche publique"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Projet politique et candidature présidentielle en 2027"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Contrôle démocratique de la magistrature"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Plaintes politiques et défense de la liberté d’expression"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "Légitimité présidentielle et critique du pouvoir"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Programme politique et souveraineté énergétique"
+        },
+        {
+          "startSeconds": 3555,
+          "title": "Panne électrique ibérique et vulnérabilité des réseaux"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Révélations d’Assange et responsabilité des médias"
+        },
+        {
+          "startSeconds": 4590,
+          "title": "Restrictions administratives et surveillance des opposants"
+        },
+        {
+          "startSeconds": 4950,
+          "title": "Influence étrangère et souveraineté nationale"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Dépendances énergétiques et risques écologiques"
+        },
+        {
+          "startSeconds": 5625,
+          "title": "Libération des médias et financement citoyen"
+        },
+        {
+          "startSeconds": 6030,
+          "title": "Sortie de l’euro et préparation budgétaire"
+        },
+        {
+          "startSeconds": 6390,
+          "title": "Justice et transformation du gouvernement et des institutions"
+        },
+        {
+          "startSeconds": 6750,
+          "title": "Agriculture et foncier dans la politique monétaire"
+        },
+        {
+          "startSeconds": 7110,
+          "title": "Dissuasion nucléaire et vulnérabilité militaire"
+        },
+        {
+          "startSeconds": 7290,
+          "title": "Souveraineté industrielle et candidature présidentielle"
+        },
+        {
+          "startSeconds": 7650,
+          "title": "Procédures disciplinaires et pression sur les opposants"
+        },
+        {
+          "startSeconds": 8010,
+          "title": "Politique étrangère et rééquilibrage des alliances"
+        },
+        {
+          "startSeconds": 8280,
+          "title": "Responsabilité collective et engagement politique"
+        },
+        {
+          "startSeconds": 8550,
+          "title": "Formation politique et contrôle des élus"
+        },
+        {
+          "startSeconds": 8730,
+          "title": "Asile et nationalité pour l’intégration par le service"
+        },
+        {
+          "startSeconds": 9090,
+          "title": "Narcotrafic et responsabilités étatiques en matière de drogues"
+        },
+        {
+          "startSeconds": 9450,
+          "title": "Protection de l’enfance et contrôle citoyen"
+        },
+        {
+          "startSeconds": 9630,
+          "title": "Recherche publique et stratégie de terrain"
+        },
+        {
+          "startSeconds": 9810,
+          "title": "Parrainages et préparation d’une rupture politique"
+        },
+        {
+          "startSeconds": 10080,
+          "title": "Sincérité politique et blockchain pour la transparence publique"
+        },
+        {
+          "startSeconds": 10620,
+          "title": "Oligarques et corruption de l’espace public"
+        },
+        {
+          "startSeconds": 10800,
+          "title": "Identité française et recommandations finales"
+        }
+      ]
     },
     {
       "id": "JiL-IEDFd6Y",
@@ -6803,9 +7045,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Philippe Charlez : ingénieur des Mines et Docteur en Physique.\nFrancis Perrin : directeur de recherche à l’IRIS, spécialiste des problématiques énergétiques.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et urgence énergétique américaine"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Réaction européenne aux choix énergétiques de Trump"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Course américaine à l'énergie pour l'intelligence artificielle"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Puissance pétrolière et gazière des États-Unis"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "L'énergie comme enjeu stratégique européen"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Contrats gaziers européens et volatilité des prix"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Énergie, développement humain et besoins mondiaux"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Parc nucléaire français et compétitivité industrielle"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Courage politique et objectifs climatiques européens"
+        },
+        {
+          "startSeconds": 2610,
+          "title": "Coût énergétique européen et conseil de défense"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Réindustrialisation française et stratégie américaine"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Automobile européenne et interdiction du thermique"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Projet de taxation des importations chinoises"
+        },
+        {
+          "startSeconds": 4095,
+          "title": "Guerre commerciale sino-américaine et risques européens"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Gaz russe entre économie et géopolitique"
+        },
+        {
+          "startSeconds": 4545,
+          "title": "Relations gazières entre Russie, Chine et Europe"
+        },
+        {
+          "startSeconds": 5085,
+          "title": "Dépendance industrielle européenne envers la Chine"
+        },
+        {
+          "startSeconds": 5310,
+          "title": "Métaux critiques et souveraineté industrielle"
+        },
+        {
+          "startSeconds": 5715,
+          "title": "Mines de lithium et réglementation européenne"
+        },
+        {
+          "startSeconds": 6210,
+          "title": "Rentabilité des hydrocarbures et recul des renouvelables"
+        },
+        {
+          "startSeconds": 6615,
+          "title": "Réseaux électriques européens et surproduction solaire"
+        },
+        {
+          "startSeconds": 7200,
+          "title": "Limites des voitures électriques et pompes à chaleur"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Électrification des usages et calendrier climatique"
+        },
+        {
+          "startSeconds": 7830,
+          "title": "Relance énergétique française et vision de long terme"
+        },
+        {
+          "startSeconds": 8190,
+          "title": "Origines politiques des sorties du nucléaire"
+        },
+        {
+          "startSeconds": 8415,
+          "title": "Décroissance, sobriété et approvisionnement énergétique"
+        },
+        {
+          "startSeconds": 8910,
+          "title": "Prix de l'électricité et marché européen"
+        },
+        {
+          "startSeconds": 9360,
+          "title": "Urgence climatique, adaptation et émissions mondiales"
+        },
+        {
+          "startSeconds": 9900,
+          "title": "Ressources fossiles africaines et souveraineté"
+        },
+        {
+          "startSeconds": 10035,
+          "title": "Livres conseillés et conseils aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "8modwd3AP5s",

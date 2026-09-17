@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "OJORL8TtRoc",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:47:39Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Parcours d’avocat et défense de citoyens poursuivis"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Sources citées et conditions de la recherche publique"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Projet politique et candidature présidentielle en 2027"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Contrôle démocratique de la magistrature"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Plaintes politiques et défense de la liberté d’expression"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Légitimité présidentielle et critique du pouvoir"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Programme politique et souveraineté énergétique"
+    },
+    {
+      "startSeconds": 3555,
+      "title": "Panne électrique ibérique et vulnérabilité des réseaux"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Révélations d’Assange et responsabilité des médias"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Restrictions administratives et surveillance des opposants"
+    },
+    {
+      "startSeconds": 4950,
+      "title": "Influence étrangère et souveraineté nationale"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Dépendances énergétiques et risques écologiques"
+    },
+    {
+      "startSeconds": 5625,
+      "title": "Libération des médias et financement citoyen"
+    },
+    {
+      "startSeconds": 6030,
+      "title": "Sortie de l’euro et préparation budgétaire"
+    },
+    {
+      "startSeconds": 6390,
+      "title": "Justice et transformation du gouvernement et des institutions"
+    },
+    {
+      "startSeconds": 6750,
+      "title": "Agriculture et foncier dans la politique monétaire"
+    },
+    {
+      "startSeconds": 7110,
+      "title": "Dissuasion nucléaire et vulnérabilité militaire"
+    },
+    {
+      "startSeconds": 7290,
+      "title": "Souveraineté industrielle et candidature présidentielle"
+    },
+    {
+      "startSeconds": 7650,
+      "title": "Procédures disciplinaires et pression sur les opposants"
+    },
+    {
+      "startSeconds": 8010,
+      "title": "Politique étrangère et rééquilibrage des alliances"
+    },
+    {
+      "startSeconds": 8280,
+      "title": "Responsabilité collective et engagement politique"
+    },
+    {
+      "startSeconds": 8550,
+      "title": "Formation politique et contrôle des élus"
+    },
+    {
+      "startSeconds": 8730,
+      "title": "Asile et nationalité pour l’intégration par le service"
+    },
+    {
+      "startSeconds": 9090,
+      "title": "Narcotrafic et responsabilités étatiques en matière de drogues"
+    },
+    {
+      "startSeconds": 9450,
+      "title": "Protection de l’enfance et contrôle citoyen"
+    },
+    {
+      "startSeconds": 9630,
+      "title": "Recherche publique et stratégie de terrain"
+    },
+    {
+      "startSeconds": 9810,
+      "title": "Parrainages et préparation d’une rupture politique"
+    },
+    {
+      "startSeconds": 10080,
+      "title": "Sincérité politique et blockchain pour la transparence publique"
+    },
+    {
+      "startSeconds": 10620,
+      "title": "Oligarques et corruption de l’espace public"
+    },
+    {
+      "startSeconds": 10800,
+      "title": "Identité française et recommandations finales"
+    }
+  ]
+}

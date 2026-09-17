@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "2A82fN8ZeUs",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:47:39Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et parcours de Sarah Knafo"
+    },
+    {
+      "startSeconds": 135,
+      "title": "État des services publics et avenir de la France"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Nucléaire français et choix politiques récents"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "L'intérêt de la France comme grille de lecture"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Subventions écologiques et coût des politiques publiques"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Énergie, industrie et désindustrialisation françaises"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "L'Allemagne et la concurrence nucléaire en Europe"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Surtransposition du droit européen en France"
+    },
+    {
+      "startSeconds": 2835,
+      "title": "Dette française face au réarmement allemand"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "Désengagement américain et rôle militaire français"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Compétition sino-américaine pour l'intelligence artificielle"
+    },
+    {
+      "startSeconds": 4185,
+      "title": "Ressources, pic énergétique et choix nucléaires"
+    },
+    {
+      "startSeconds": 5130,
+      "title": "Dépendance numérique et données de santé françaises"
+    },
+    {
+      "startSeconds": 7065,
+      "title": "Souveraineté et engagement politique"
+    },
+    {
+      "startSeconds": 7650,
+      "title": "Légitime défense et protection des forces de l'ordre"
+    },
+    {
+      "startSeconds": 8100,
+      "title": "La lutte contre les gangs au Salvador"
+    },
+    {
+      "startSeconds": 8595,
+      "title": "Souveraineté française au sein de l'Union européenne"
+    },
+    {
+      "startSeconds": 9045,
+      "title": "Le Brexit et ses conséquences politiques"
+    },
+    {
+      "startSeconds": 9405,
+      "title": "OTAN et candidature de Reconquête"
+    },
+    {
+      "startSeconds": 9675,
+      "title": "Aide publique au développement et dépenses françaises"
+    },
+    {
+      "startSeconds": 9990,
+      "title": "Débat scientifique et transparence publique"
+    },
+    {
+      "startSeconds": 10260,
+      "title": "Liberté d'expression et statistiques de délinquance"
+    },
+    {
+      "startSeconds": 10665,
+      "title": "Corruption et influences étrangères au Parlement européen"
+    },
+    {
+      "startSeconds": 10890,
+      "title": "Courage politique et conflit israélo-palestinien"
+    },
+    {
+      "startSeconds": 11070,
+      "title": "Ukraine, Russie et position européenne"
+    },
+    {
+      "startSeconds": 11205,
+      "title": "Euro, dette et réformes économiques"
+    },
+    {
+      "startSeconds": 11655,
+      "title": "Cour des comptes et limites de l'action publique"
+    },
+    {
+      "startSeconds": 12060,
+      "title": "Invitation à l'investiture de Donald Trump"
+    },
+    {
+      "startSeconds": 12510,
+      "title": "Retraites, euthanasie et responsabilité collective"
+    },
+    {
+      "startSeconds": 12915,
+      "title": "Livres conseillés et conseils aux jeunes"
+    }
+  ]
+}
