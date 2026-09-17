@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "videoId": "-Me6_LYcKG0",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:54:32Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "en",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Shane Parrish et de ses activités"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Décisions à fort levier et conseils pratiques"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Le surnom de gourou et le passé de renseignement"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Snowden Chelsea Manning et la divulgation des secrets"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Liberté d’expression et indépendance des médias"
+    },
+    {
+      "startSeconds": 1035,
+      "title": "Régulation des théories du complot et rôle de l’IA"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Gestion de crise et confiance envers les gouvernements"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Transparence publique et limites des divulgations"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Chiffrement et droit à la vie privée"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Diplomatie technologie et coopération internationale"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Le cadrage politique et la polarisation démocratique"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Espoir social opportunité et hausse de la criminalité"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Éducation jugement et apprentissage par l’expérience"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Angles morts et ouverture aux perspectives d’autrui"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "Stress du Covid et stratégies de survie"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Livres conseillés et conseils à la jeune génération"
+    }
+  ]
+}

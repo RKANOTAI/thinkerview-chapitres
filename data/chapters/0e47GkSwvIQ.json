@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "videoId": "0e47GkSwvIQ",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:54:32Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Parcours personnel et intérêt pour les conflits"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Qualité des liens et ouverture spirituelle"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Violence des jeunes et vocabulaire intérieur"
+    },
+    {
+      "startSeconds": 765,
+      "title": "Réponses publiques et prévention de la violence"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Préparer la paix par l’éducation et la concertation"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Sortir de la pensée binaire et des rapports de force"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Prévenir la violence par l’éducation et le lien"
+    },
+    {
+      "startSeconds": 2205,
+      "title": "Enfermements mentaux et culture du malheur"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Créatifs culturels et transformation collective"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Sortir d’une vie subie par petits changements"
+    },
+    {
+      "startSeconds": 3285,
+      "title": "Amour et empathie au service de la paix"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Psychothérapie et découverte des ressources intérieures"
+    },
+    {
+      "startSeconds": 3825,
+      "title": "Intériorité et contemplation au service du sens"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Médiation des conflits et discipline de l’écoute"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Éducation coopérative contre la compétition scolaire"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Intelligence artificielle et conscience humaine"
+    },
+    {
+      "startSeconds": 4770,
+      "title": "La violence comme expression de la frustration"
+    },
+    {
+      "startSeconds": 4995,
+      "title": "Beauté du vivant et niveaux de vie mondiaux"
+    },
+    {
+      "startSeconds": 5310,
+      "title": "Générosité humaine et construction d’une société coopérative"
+    },
+    {
+      "startSeconds": 5670,
+      "title": "Laïcité et intériorité citoyenne"
+    },
+    {
+      "startSeconds": 5850,
+      "title": "Sagesse et ancrage dans la vie intérieure"
+    },
+    {
+      "startSeconds": 5985,
+      "title": "Colère non violente et force protectrice"
+    },
+    {
+      "startSeconds": 6165,
+      "title": "Empathie et désamorçage des conflits"
+    },
+    {
+      "startSeconds": 6345,
+      "title": "Incohérences relationnelles et limites explicites"
+    },
+    {
+      "startSeconds": 6660,
+      "title": "Responsabilité citoyenne et contagion du bien"
+    },
+    {
+      "startSeconds": 6975,
+      "title": "Accompagner les traumatismes par la parole"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Livres fondateurs et communication non violente"
+    },
+    {
+      "startSeconds": 7650,
+      "title": "Cultiver sa vie intérieure et son autonomie"
+    }
+  ]
+}

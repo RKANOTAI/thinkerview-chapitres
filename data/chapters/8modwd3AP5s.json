@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "8modwd3AP5s",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:54:32Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de David Baverez et de son parcours"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Définition de l'économie de guerre"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Le tournant chinois de 2017"
+    },
+    {
+      "startSeconds": 900,
+      "title": "La bataille de la puissance de calcul"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Les transferts de valeur entre l'Europe et les États-Unis"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Vers un nouvel accord monétaire mondial"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "La dette française face au risque souverain"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "La réponse allemande au surendettement européen"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Le mix énergétique et les dépendances chinoises"
+    },
+    {
+      "startSeconds": 2565,
+      "title": "Diversifier ses sources d'information"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Les projets collectifs comme levier de mobilisation"
+    },
+    {
+      "startSeconds": 3105,
+      "title": "L'implosion sociale et la rupture du contrat sociétal"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Renseignement économique et réforme de la gouvernance"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Les conditions suédoises d'une réforme française"
+    },
+    {
+      "startSeconds": 4095,
+      "title": "Retraites, inflation et solidarité familiale"
+    },
+    {
+      "startSeconds": 4680,
+      "title": "La solidarité familiale face aux limites de l'État"
+    },
+    {
+      "startSeconds": 4950,
+      "title": "Goulots d'étranglement et risque de stagflation"
+    },
+    {
+      "startSeconds": 5130,
+      "title": "Nucléaire et dépendances énergétiques"
+    },
+    {
+      "startSeconds": 5445,
+      "title": "Conflit ukrainien et recomposition de l'ordre mondial"
+    },
+    {
+      "startSeconds": 5760,
+      "title": "Hong Kong comme observatoire sino-américain"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "La désindustrialisation comme choix politique"
+    },
+    {
+      "startSeconds": 6255,
+      "title": "Découplage sino-américain et risque autour de Taïwan"
+    },
+    {
+      "startSeconds": 6660,
+      "title": "La stratégie allemande face à ses dépendances"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "La crise immobilière chinoise et les monnaies numériques"
+    },
+    {
+      "startSeconds": 7020,
+      "title": "Les libertés européennes et le marché numérique"
+    },
+    {
+      "startSeconds": 7470,
+      "title": "Le numérique pour réduire l'usage des ressources"
+    },
+    {
+      "startSeconds": 7740,
+      "title": "Le second choc chinois et les entreprises françaises"
+    },
+    {
+      "startSeconds": 7920,
+      "title": "L'Afrique et le Sud global face à la Chine"
+    },
+    {
+      "startSeconds": 8145,
+      "title": "Transition énergétique, intelligence artificielle et avenir européen"
+    },
+    {
+      "startSeconds": 8505,
+      "title": "Lectures conseillées et défense du libre arbitre"
+    }
+  ]
+}
