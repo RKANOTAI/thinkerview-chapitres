@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "QgpvhUMaGUI",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T21:03:50Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Vie en prison et conséquences du grand banditisme"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Violence persistante et fantasme de l’argent facile"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Mythe de Scarface et coût humain du banditisme"
+    }
+  ]
+}

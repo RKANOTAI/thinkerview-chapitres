@@ -9094,9 +9094,126 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Xavier Fontanet, Chef d'entreprise et Essayiste.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Xavier Fontanet et parcours professionnel"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Définition de la stratégie et rôle de l’exécution"
+        },
+        {
+          "startSeconds": 495,
+          "title": "Courbe d’expérience et financement de la croissance au BCG"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Travail de terrain et construction des équipes"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Information collective et culture des marchés étrangers"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Renseignement économique et cybersécurité des entreprises"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Mondialisation industrielle et relations avec les États"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Entrée d’Essilor sur le marché chinois"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Recentrage d’Essilor face aux concurrents"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Histoire de la dette publique française"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Le poids des dépenses publiques sur la compétitivité"
+        },
+        {
+          "startSeconds": 2835,
+          "title": "Protection sociale défense et remboursement de la dette"
+        },
+        {
+          "startSeconds": 3015,
+          "title": "Napoléon et la mobilisation autour d’une stratégie"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Réformes publiques pour financer les priorités nationales"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "Évasion fiscale et concurrence entre systèmes fiscaux"
+        },
+        {
+          "startSeconds": 3555,
+          "title": "Transition énergétique et apprentissage par le jeu"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Électricité nucléaire et réduction des émissions de CO2"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Fusion nucléaire et signaux faibles technologiques"
+        },
+        {
+          "startSeconds": 4005,
+          "title": "Consommation énergétique et nouvelles sources d’énergie"
+        },
+        {
+          "startSeconds": 4095,
+          "title": "Financement de la transition et avenir d’EDF"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "EDF comme leader européen de l’énergie"
+        },
+        {
+          "startSeconds": 4545,
+          "title": "Formation économique des députés et stratégie publique"
+        },
+        {
+          "startSeconds": 4680,
+          "title": "Trump et Musk dans la politique américaine"
+        },
+        {
+          "startSeconds": 4815,
+          "title": "Guerre en Ukraine et stratégie face à la Russie"
+        },
+        {
+          "startSeconds": 5130,
+          "title": "L’État en concurrence avec les autres pays"
+        },
+        {
+          "startSeconds": 5265,
+          "title": "L’Europe comme force industrielle et culturelle"
+        },
+        {
+          "startSeconds": 5490,
+          "title": "Jeu stratégique et détection des talents"
+        },
+        {
+          "startSeconds": 5760,
+          "title": "Confiance économie et histoire dans trois lectures"
+        },
+        {
+          "startSeconds": 5940,
+          "title": "Lecture et transmission aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "LQEBXqft7bg",
@@ -9108,9 +9225,122 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Virginie Joron : Députée européenne, Rassemblement national.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Virginie Joron et de son parcours"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Patriotisme et place de la France au Parlement européen"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Vaccination, responsabilité et accès aux contrats"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Gestion de crise, mesures sanitaires et moyens hospitaliers"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Défiance politique née de la gestion sanitaire"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Commission Covid et auditions des laboratoires"
+        },
+        {
+          "startSeconds": 2385,
+          "title": "Commandes européennes et renégociation des doses vaccinales"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "SMS entre Ursula von der Leyen et Albert Bourla"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Achats de vaccins et transparence de la Commission"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Financement d’ONG pour promouvoir le pacte vert"
+        },
+        {
+          "startSeconds": 4185,
+          "title": "Affaires du Qatar et du Maroc au Parlement européen"
+        },
+        {
+          "startSeconds": 4590,
+          "title": "Missions au Pakistan et observation des élections"
+        },
+        {
+          "startSeconds": 5040,
+          "title": "USAID et financements d’ONG à l’étranger"
+        },
+        {
+          "startSeconds": 5220,
+          "title": "Audition de Sylvie Goulard et rémunération par un think tank"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Pegasus et audit des téléphones parlementaires"
+        },
+        {
+          "startSeconds": 5625,
+          "title": "Fermeture de comptes et retrait du visa américain"
+        },
+        {
+          "startSeconds": 6165,
+          "title": "Conférence rémunérée d’un député européen en Arabie saoudite"
+        },
+        {
+          "startSeconds": 6345,
+          "title": "Contrat CureVac et suivi des fonds européens"
+        },
+        {
+          "startSeconds": 6570,
+          "title": "Stratégie européenne de défense et rivalités nationales"
+        },
+        {
+          "startSeconds": 6930,
+          "title": "Réaction européenne à Trump et relations transatlantiques"
+        },
+        {
+          "startSeconds": 7245,
+          "title": "Discours de JD Vance et identité numérique"
+        },
+        {
+          "startSeconds": 7515,
+          "title": "Assistants parlementaires et travail pour un parti"
+        },
+        {
+          "startSeconds": 7965,
+          "title": "Bouclier européen pour la démocratie et ingérences"
+        },
+        {
+          "startSeconds": 8460,
+          "title": "Élections roumaines et recherche de preuves d’ingérence"
+        },
+        {
+          "startSeconds": 8685,
+          "title": "Cambridge Analytica et encadrement du ciblage politique"
+        },
+        {
+          "startSeconds": 9045,
+          "title": "Twitter Files et liberté d’expression en ligne"
+        },
+        {
+          "startSeconds": 9585,
+          "title": "Agence européenne du médicament et coûts immobiliers"
+        },
+        {
+          "startSeconds": 9810,
+          "title": "Livres conseillés et appel à l’esprit critique"
+        }
+      ]
     },
     {
       "id": "QgpvhUMaGUI",
@@ -9122,9 +9352,22 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Philippe Pujol : Journaliste et écrivain, Prix Albert Londres pour \"Quartiers Shit\"\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Vie en prison et conséquences du grand banditisme"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Violence persistante et fantasme de l’argent facile"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Mythe de Scarface et coût humain du banditisme"
+        }
+      ]
     },
     {
       "id": "XR3FjJrUZrw",

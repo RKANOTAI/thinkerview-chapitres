@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "videoId": "LQEBXqft7bg",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T21:03:50Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Virginie Joron et de son parcours"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Patriotisme et place de la France au Parlement européen"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Vaccination, responsabilité et accès aux contrats"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Gestion de crise, mesures sanitaires et moyens hospitaliers"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Défiance politique née de la gestion sanitaire"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Commission Covid et auditions des laboratoires"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Commandes européennes et renégociation des doses vaccinales"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "SMS entre Ursula von der Leyen et Albert Bourla"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Achats de vaccins et transparence de la Commission"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Financement d’ONG pour promouvoir le pacte vert"
+    },
+    {
+      "startSeconds": 4185,
+      "title": "Affaires du Qatar et du Maroc au Parlement européen"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Missions au Pakistan et observation des élections"
+    },
+    {
+      "startSeconds": 5040,
+      "title": "USAID et financements d’ONG à l’étranger"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Audition de Sylvie Goulard et rémunération par un think tank"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Pegasus et audit des téléphones parlementaires"
+    },
+    {
+      "startSeconds": 5625,
+      "title": "Fermeture de comptes et retrait du visa américain"
+    },
+    {
+      "startSeconds": 6165,
+      "title": "Conférence rémunérée d’un député européen en Arabie saoudite"
+    },
+    {
+      "startSeconds": 6345,
+      "title": "Contrat CureVac et suivi des fonds européens"
+    },
+    {
+      "startSeconds": 6570,
+      "title": "Stratégie européenne de défense et rivalités nationales"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Réaction européenne à Trump et relations transatlantiques"
+    },
+    {
+      "startSeconds": 7245,
+      "title": "Discours de JD Vance et identité numérique"
+    },
+    {
+      "startSeconds": 7515,
+      "title": "Assistants parlementaires et travail pour un parti"
+    },
+    {
+      "startSeconds": 7965,
+      "title": "Bouclier européen pour la démocratie et ingérences"
+    },
+    {
+      "startSeconds": 8460,
+      "title": "Élections roumaines et recherche de preuves d’ingérence"
+    },
+    {
+      "startSeconds": 8685,
+      "title": "Cambridge Analytica et encadrement du ciblage politique"
+    },
+    {
+      "startSeconds": 9045,
+      "title": "Twitter Files et liberté d’expression en ligne"
+    },
+    {
+      "startSeconds": 9585,
+      "title": "Agence européenne du médicament et coûts immobiliers"
+    },
+    {
+      "startSeconds": 9810,
+      "title": "Livres conseillés et appel à l’esprit critique"
+    }
+  ]
+}
