@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "ljbhf_uuZp4",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T12:30:35Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation du film et de ses invités"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Découverte de la violence des négociations commerciales"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Le rapport de force des centrales d’achat"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Mise en scène entre entreprise et ferme"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Négociations commerciales et demandes de compensation"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Prix facial, remises et marges de distribution"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Pouvoir d’achat et justification des prix bas"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Inflation alimentaire et tensions géopolitiques"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Psychologie des négociations et thriller économique"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Histoire politique de la grande distribution"
+    },
+    {
+      "startSeconds": 2565,
+      "title": "Leclerc et la concentration des achats"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Centrales régionales et stratégies des enseignes"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Souverainetés alimentaire, énergétique et militaire"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Choix d’une ferme et représentation des agriculteurs"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Prix du lait et isolement des éleveurs"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Violence des négociations et contrôle de la concurrence"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Libre-échange et concurrence des importations"
+    },
+    {
+      "startSeconds": 4410,
+      "title": "Politique agricole et couverture de la demande"
+    },
+    {
+      "startSeconds": 4680,
+      "title": "Mercosur et importations de viande"
+    },
+    {
+      "startSeconds": 5130,
+      "title": "Chocs énergétiques et risques alimentaires"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Le cinéma comme récit social et économique"
+    },
+    {
+      "startSeconds": 5670,
+      "title": "Inflation, précarité et tensions sociales"
+    },
+    {
+      "startSeconds": 6030,
+      "title": "Éducation populaire et émotions au cinéma"
+    },
+    {
+      "startSeconds": 6390,
+      "title": "Vulgarisation universitaire par le cinéma"
+    },
+    {
+      "startSeconds": 6660,
+      "title": "Coopératives agricoles et circuits locaux"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Prix agricoles et couverture des besoins alimentaires"
+    },
+    {
+      "startSeconds": 7560,
+      "title": "Autosuffisance alimentaire et dépendance aux importations"
+    },
+    {
+      "startSeconds": 8010,
+      "title": "La fiction comme levier de changement"
+    },
+    {
+      "startSeconds": 8370,
+      "title": "Réception du film et silence des distributeurs"
+    },
+    {
+      "startSeconds": 8685,
+      "title": "Lectures conseillées et conseils à la jeunesse"
+    }
+  ]
+}

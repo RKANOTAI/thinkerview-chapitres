@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "eEhCw-GRYHE",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T12:30:35Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Parcours professionnel et entrée en politique"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Portefeuilles ministériels et crises traversées"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Anticipation des crises et action gouvernementale"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Dépendance énergétique et décarbonation"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Fermeture d’une centrale et inertie du nucléaire"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Autonomie stratégique et politique industrielle européenne"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Construction de la filière européenne des batteries"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Tests de robustesse des approvisionnements industriels"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Stocks d’uranium et matières premières critiques"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Hydrogène et critères d’une énergie bas carbone"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "France robuste et pilotabilité du réseau"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Gestion opérationnelle de la crise sanitaire"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Décisions sanitaires et information disponible"
+    },
+    {
+      "startSeconds": 4365,
+      "title": "Guerre en Ukraine et réponse énergétique européenne"
+    },
+    {
+      "startSeconds": 4995,
+      "title": "Approvisionnements industriels et plans de contingence"
+    },
+    {
+      "startSeconds": 5580,
+      "title": "Rôle du ministre et triangulation de l’information"
+    },
+    {
+      "startSeconds": 6210,
+      "title": "Crise iranienne et incertitude géopolitique"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Prix de l’électricité et production décarbonée"
+    },
+    {
+      "startSeconds": 7110,
+      "title": "Carburant, engrais et inflation"
+    },
+    {
+      "startSeconds": 8190,
+      "title": "Sobriété énergétique et rénovation thermique"
+    },
+    {
+      "startSeconds": 8415,
+      "title": "Retraites et difficulté à gouverner"
+    },
+    {
+      "startSeconds": 9000,
+      "title": "Défiance politique et erreurs de communication"
+    },
+    {
+      "startSeconds": 9855,
+      "title": "Accusations publiques et attaques informationnelles"
+    },
+    {
+      "startSeconds": 10170,
+      "title": "Souveraineté alimentaire et adaptation agricole"
+    },
+    {
+      "startSeconds": 10440,
+      "title": "Souveraineté énergétique et industrie française"
+    },
+    {
+      "startSeconds": 10800,
+      "title": "Négociations européennes et rapport de force"
+    },
+    {
+      "startSeconds": 11475,
+      "title": "Colère sociale et écoute du terrain"
+    },
+    {
+      "startSeconds": 12060,
+      "title": "Scénarios pour la France en 2032"
+    },
+    {
+      "startSeconds": 12510,
+      "title": "Signaux du terrain et désaccords gouvernementaux"
+    },
+    {
+      "startSeconds": 12690,
+      "title": "Lectures conseillées et conseil aux jeunes générations"
+    }
+  ]
+}

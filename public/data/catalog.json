@@ -1970,9 +1970,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Agnès Pannier-Runacher : Députée du Pas-de-Calais. Ancienne ministre de la Transition écologique, de la Biodiversité, de la Forêt, de la Mer et de la Pêche.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Parcours professionnel et entrée en politique"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Portefeuilles ministériels et crises traversées"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Anticipation des crises et action gouvernementale"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Dépendance énergétique et décarbonation"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Fermeture d’une centrale et inertie du nucléaire"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Autonomie stratégique et politique industrielle européenne"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Construction de la filière européenne des batteries"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Tests de robustesse des approvisionnements industriels"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Stocks d’uranium et matières premières critiques"
+        },
+        {
+          "startSeconds": 2745,
+          "title": "Hydrogène et critères d’une énergie bas carbone"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "France robuste et pilotabilité du réseau"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Gestion opérationnelle de la crise sanitaire"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Décisions sanitaires et information disponible"
+        },
+        {
+          "startSeconds": 4365,
+          "title": "Guerre en Ukraine et réponse énergétique européenne"
+        },
+        {
+          "startSeconds": 4995,
+          "title": "Approvisionnements industriels et plans de contingence"
+        },
+        {
+          "startSeconds": 5580,
+          "title": "Rôle du ministre et triangulation de l’information"
+        },
+        {
+          "startSeconds": 6210,
+          "title": "Crise iranienne et incertitude géopolitique"
+        },
+        {
+          "startSeconds": 6930,
+          "title": "Prix de l’électricité et production décarbonée"
+        },
+        {
+          "startSeconds": 7110,
+          "title": "Carburant, engrais et inflation"
+        },
+        {
+          "startSeconds": 8190,
+          "title": "Sobriété énergétique et rénovation thermique"
+        },
+        {
+          "startSeconds": 8415,
+          "title": "Retraites et difficulté à gouverner"
+        },
+        {
+          "startSeconds": 9000,
+          "title": "Défiance politique et erreurs de communication"
+        },
+        {
+          "startSeconds": 9855,
+          "title": "Accusations publiques et attaques informationnelles"
+        },
+        {
+          "startSeconds": 10170,
+          "title": "Souveraineté alimentaire et adaptation agricole"
+        },
+        {
+          "startSeconds": 10440,
+          "title": "Souveraineté énergétique et industrie française"
+        },
+        {
+          "startSeconds": 10800,
+          "title": "Négociations européennes et rapport de force"
+        },
+        {
+          "startSeconds": 11475,
+          "title": "Colère sociale et écoute du terrain"
+        },
+        {
+          "startSeconds": 12060,
+          "title": "Scénarios pour la France en 2032"
+        },
+        {
+          "startSeconds": 12510,
+          "title": "Signaux du terrain et désaccords gouvernementaux"
+        },
+        {
+          "startSeconds": 12690,
+          "title": "Lectures conseillées et conseil aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "ljbhf_uuZp4",
@@ -1984,9 +2105,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Anthony Déchaux : Réalisateur de \"la Guerre des Prix\"\nOlivier Mevel : Consultant en stratégie et marketing des filières alimentaires, Maître de Conférences HDR en Science.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation du film et de ses invités"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Découverte de la violence des négociations commerciales"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Le rapport de force des centrales d’achat"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Mise en scène entre entreprise et ferme"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Négociations commerciales et demandes de compensation"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Prix facial, remises et marges de distribution"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Pouvoir d’achat et justification des prix bas"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Inflation alimentaire et tensions géopolitiques"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Psychologie des négociations et thriller économique"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Histoire politique de la grande distribution"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Leclerc et la concentration des achats"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Centrales régionales et stratégies des enseignes"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Souverainetés alimentaire, énergétique et militaire"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Choix d’une ferme et représentation des agriculteurs"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Prix du lait et isolement des éleveurs"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Violence des négociations et contrôle de la concurrence"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Libre-échange et concurrence des importations"
+        },
+        {
+          "startSeconds": 4410,
+          "title": "Politique agricole et couverture de la demande"
+        },
+        {
+          "startSeconds": 4680,
+          "title": "Mercosur et importations de viande"
+        },
+        {
+          "startSeconds": 5130,
+          "title": "Chocs énergétiques et risques alimentaires"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Le cinéma comme récit social et économique"
+        },
+        {
+          "startSeconds": 5670,
+          "title": "Inflation, précarité et tensions sociales"
+        },
+        {
+          "startSeconds": 6030,
+          "title": "Éducation populaire et émotions au cinéma"
+        },
+        {
+          "startSeconds": 6390,
+          "title": "Vulgarisation universitaire par le cinéma"
+        },
+        {
+          "startSeconds": 6660,
+          "title": "Coopératives agricoles et circuits locaux"
+        },
+        {
+          "startSeconds": 7200,
+          "title": "Prix agricoles et couverture des besoins alimentaires"
+        },
+        {
+          "startSeconds": 7560,
+          "title": "Autosuffisance alimentaire et dépendance aux importations"
+        },
+        {
+          "startSeconds": 8010,
+          "title": "La fiction comme levier de changement"
+        },
+        {
+          "startSeconds": 8370,
+          "title": "Réception du film et silence des distributeurs"
+        },
+        {
+          "startSeconds": 8685,
+          "title": "Lectures conseillées et conseils à la jeunesse"
+        }
+      ]
     },
     {
       "id": "RuVHZ4rh4tU",
@@ -1998,9 +2240,62 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Abby Martin : Journaliste américaine, créatrice de The Empire Files, réalisatrice du documentaire \"Earth's Greatest Enemy\". https://earthsgreatestenemy.com/\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation d’Abby Martin et hommage à Michael Rupert"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Défiance américaine envers les médias et le pouvoir"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Pollution militaire américaine et coût environnemental des guerres"
+        },
+        {
+          "startSeconds": 1035,
+          "title": "Fabrication du consentement et éthique journalistique"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Érosion de la presse et essor des médias alternatifs"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Réseaux sociaux et influence américaine en Europe"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "USAID et NED comme instruments de puissance américaine"
+        },
+        {
+          "startSeconds": 2745,
+          "title": "Peter Thiel et l’influence de la droite américaine"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Intelligence artificielle et transformation de la guerre"
+        },
+        {
+          "startSeconds": 3195,
+          "title": "Désinformation numérique et réalisation d’un documentaire"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Contrôle militaire des productions audiovisuelles"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Bases militaires et destruction des écosystèmes"
+        },
+        {
+          "startSeconds": 4545,
+          "title": "Mobilisation collective et conseils à la jeunesse"
+        }
+      ]
     },
     {
       "id": "JmByobw2YWA",

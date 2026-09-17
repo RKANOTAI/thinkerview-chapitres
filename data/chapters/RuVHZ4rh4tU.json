@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "videoId": "RuVHZ4rh4tU",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T12:30:35Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "en",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation d’Abby Martin et hommage à Michael Rupert"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Défiance américaine envers les médias et le pouvoir"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Pollution militaire américaine et coût environnemental des guerres"
+    },
+    {
+      "startSeconds": 1035,
+      "title": "Fabrication du consentement et éthique journalistique"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Érosion de la presse et essor des médias alternatifs"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Réseaux sociaux et influence américaine en Europe"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "USAID et NED comme instruments de puissance américaine"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Peter Thiel et l’influence de la droite américaine"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Intelligence artificielle et transformation de la guerre"
+    },
+    {
+      "startSeconds": 3195,
+      "title": "Désinformation numérique et réalisation d’un documentaire"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Contrôle militaire des productions audiovisuelles"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Bases militaires et destruction des écosystèmes"
+    },
+    {
+      "startSeconds": 4545,
+      "title": "Mobilisation collective et conseils à la jeunesse"
+    }
+  ]
+}
