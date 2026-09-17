@@ -3779,9 +3779,106 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Alexandre del Valle : Géopolitologue, essayiste, chroniqueur. Professeur de géopolitique à l'IPAG. Dernier livre : « Le Nouvel Ordre Post Occidental »\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation d’Alexandre del Valle"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Renseignement, anticipation et intérêt national"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Origines du conflit russo-ukrainien"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Maidan, départ de Yanukovic et nouveau pouvoir"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Crimée, Syrie et accès russe aux mers chaudes"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Intérêt européen et guerre économique en Ukraine"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "L’alliance germano-russe selon George Friedman"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Limites militaires du réarmement européen"
+        },
+        {
+          "startSeconds": 2610,
+          "title": "Énergie européenne et hypothèses autour de Nord Stream"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Désindustrialisation européenne et coût de l’énergie"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Trajectoires sociales et économiques de la France et de l’Europe"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Déclassement industriel et technologique face à la Chine"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Société de consommation et argentinisation de l’Europe"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Conseils énergétiques, migratoires et économiques"
+        },
+        {
+          "startSeconds": 4590,
+          "title": "Adversaires européens de la France"
+        },
+        {
+          "startSeconds": 4815,
+          "title": "Guerre économique américaine et lois extraterritoriales"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Risque nucléaire et rupture de confiance stratégique"
+        },
+        {
+          "startSeconds": 5760,
+          "title": "Échec de la prévision et dérive démocratique"
+        },
+        {
+          "startSeconds": 6255,
+          "title": "L’ordre international libéral et le retrait américain"
+        },
+        {
+          "startSeconds": 6480,
+          "title": "Europe désouverainisée entre plusieurs empires"
+        },
+        {
+          "startSeconds": 7020,
+          "title": "Frontières, souveraineté et politiques migratoires"
+        },
+        {
+          "startSeconds": 7560,
+          "title": "Souverainistes et avenir politique européen"
+        },
+        {
+          "startSeconds": 8100,
+          "title": "Conseils de préparation physique et mentale"
+        },
+        {
+          "startSeconds": 8460,
+          "title": "Réseaux sociaux, information et lecture"
+        }
+      ]
     },
     {
       "id": "kqKxOiZUwXU",
@@ -3793,9 +3890,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Thibault de Montbrial : avocat français, président du CRSI.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Thibault de Montbrial et du débat"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Origines de l'engagement contre l'islamisme"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Violence, islamisme et affaiblissement institutionnel"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Le 7 octobre 2023 comme tournant sécuritaire"
+        },
+        {
+          "startSeconds": 495,
+          "title": "Débat sur la France insoumise et l'islamisme"
+        },
+        {
+          "startSeconds": 765,
+          "title": "Statistiques de violence et essor des homejackings"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Recrutement criminel et ciblage sur les réseaux sociaux"
+        },
+        {
+          "startSeconds": 1035,
+          "title": "Légitime défense face aux intrusions à domicile"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Cadre juridique de la légitime défense"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Doctrine du château et protection du domicile"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Excuse de frayeur et limites de la riposte"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Alerter et secourir après une agression"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Préparation familiale face aux situations dégradées"
+        },
+        {
+          "startSeconds": 2385,
+          "title": "Scénarios de déstabilisation et phénomènes de masse"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Premiers intervenants et brouillard de la guerre"
+        },
+        {
+          "startSeconds": 3015,
+          "title": "Hiérarchie sécuritaire, moyens et remontée des alertes"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Engagement personnel et inquiétude des Français"
+        },
+        {
+          "startSeconds": 3690,
+          "title": "Fractures françaises et rétablissement de l'autorité"
+        },
+        {
+          "startSeconds": 4275,
+          "title": "Force morale et action politique immédiate"
+        },
+        {
+          "startSeconds": 4455,
+          "title": "Risque de violence et scénario d'effondrement"
+        },
+        {
+          "startSeconds": 4770,
+          "title": "Immigration, souveraineté et statistiques de délinquance"
+        },
+        {
+          "startSeconds": 5040,
+          "title": "Préparation à la guerre et devoir d'engagement"
+        },
+        {
+          "startSeconds": 5355,
+          "title": "Sud-américanisation, criminalité organisée et drogues"
+        },
+        {
+          "startSeconds": 5535,
+          "title": "Rêves communs, transcendance et retour de la foi"
+        },
+        {
+          "startSeconds": 5760,
+          "title": "Famille, enfants et engagement au service du pays"
+        },
+        {
+          "startSeconds": 6075,
+          "title": "Tendre la main aux enfants de l'immigration"
+        },
+        {
+          "startSeconds": 6210,
+          "title": "Histoire nationale et transmission des repères"
+        },
+        {
+          "startSeconds": 6345,
+          "title": "Fête des Lumières, police et héritage religieux"
+        },
+        {
+          "startSeconds": 6570,
+          "title": "Conclusion et messages sur l'autorité de l'État"
+        },
+        {
+          "startSeconds": 6750,
+          "title": "Livres conseillés et autonomie pour les jeunes"
+        }
+      ]
     },
     {
       "id": "eNHtKmtlLDM",
@@ -3807,9 +4025,114 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Pierre-Guillaume Mercadal : Éleveur de cochons laineux dans le Tarn-et-Garonne, fondateur de l’association SESAMES.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de l’éleveur et de son exploitation"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Souveraineté alimentaire et menaces européennes"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Coûts de l’alimentation et importations agricoles"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Mercosur, viticulture et débouchés agricoles"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Normes environnementales et production de noisettes"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Chasse, loups, ours et dégâts aux élevages"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Prix, qualité et santé de l’alimentation"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Grande distribution et précarité alimentaire"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Syndicats agricoles et mobilisations paysannes"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Endettement agricole et industrialisation des exploitations"
+        },
+        {
+          "startSeconds": 3375,
+          "title": "Réponse gouvernementale aux mobilisations agricoles"
+        },
+        {
+          "startSeconds": 3960,
+          "title": "Conseils d’achat et circuits courts"
+        },
+        {
+          "startSeconds": 4410,
+          "title": "Organisation collective et blocage national"
+        },
+        {
+          "startSeconds": 4635,
+          "title": "Retour sur la rencontre avec Emmanuel Macron"
+        },
+        {
+          "startSeconds": 5040,
+          "title": "Contrôle aux frontières et installation agricole"
+        },
+        {
+          "startSeconds": 5355,
+          "title": "Rapport de force et médiation politique"
+        },
+        {
+          "startSeconds": 5580,
+          "title": "Apolitisme revendiqué et choix syndicaux"
+        },
+        {
+          "startSeconds": 5940,
+          "title": "Alimentation de qualité pour les classes populaires"
+        },
+        {
+          "startSeconds": 6300,
+          "title": "Souveraineté alimentaire et adaptation climatique"
+        },
+        {
+          "startSeconds": 6660,
+          "title": "Aides agricoles, coopératives et mal-être paysan"
+        },
+        {
+          "startSeconds": 6930,
+          "title": "Abattage, bien-être animal et solutions itinérantes"
+        },
+        {
+          "startSeconds": 7200,
+          "title": "Soutien populaire et partage de l’eau"
+        },
+        {
+          "startSeconds": 7470,
+          "title": "Modèles agricoles, technologie et intelligence artificielle"
+        },
+        {
+          "startSeconds": 7650,
+          "title": "Adaptation climatique, semences et main-d’œuvre"
+        },
+        {
+          "startSeconds": 7920,
+          "title": "Maladies d’élevage et recommandations finales"
+        },
+        {
+          "startSeconds": 8055,
+          "title": "Lectures conseillées et message aux jeunes"
+        }
+      ]
     },
     {
       "id": "LRnJeLC8EI8",

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "videoId": "v-67JVP42bI",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:10:10Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation d’Alexandre del Valle"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Renseignement, anticipation et intérêt national"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Origines du conflit russo-ukrainien"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Maidan, départ de Yanukovic et nouveau pouvoir"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Crimée, Syrie et accès russe aux mers chaudes"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Intérêt européen et guerre économique en Ukraine"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "L’alliance germano-russe selon George Friedman"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Limites militaires du réarmement européen"
+    },
+    {
+      "startSeconds": 2610,
+      "title": "Énergie européenne et hypothèses autour de Nord Stream"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Désindustrialisation européenne et coût de l’énergie"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Trajectoires sociales et économiques de la France et de l’Europe"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Déclassement industriel et technologique face à la Chine"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Société de consommation et argentinisation de l’Europe"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Conseils énergétiques, migratoires et économiques"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Adversaires européens de la France"
+    },
+    {
+      "startSeconds": 4815,
+      "title": "Guerre économique américaine et lois extraterritoriales"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Risque nucléaire et rupture de confiance stratégique"
+    },
+    {
+      "startSeconds": 5760,
+      "title": "Échec de la prévision et dérive démocratique"
+    },
+    {
+      "startSeconds": 6255,
+      "title": "L’ordre international libéral et le retrait américain"
+    },
+    {
+      "startSeconds": 6480,
+      "title": "Europe désouverainisée entre plusieurs empires"
+    },
+    {
+      "startSeconds": 7020,
+      "title": "Frontières, souveraineté et politiques migratoires"
+    },
+    {
+      "startSeconds": 7560,
+      "title": "Souverainistes et avenir politique européen"
+    },
+    {
+      "startSeconds": 8100,
+      "title": "Conseils de préparation physique et mentale"
+    },
+    {
+      "startSeconds": 8460,
+      "title": "Réseaux sociaux, information et lecture"
+    }
+  ]
+}

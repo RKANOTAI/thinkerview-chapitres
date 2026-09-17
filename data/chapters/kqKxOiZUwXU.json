@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "kqKxOiZUwXU",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:10:10Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Thibault de Montbrial et du débat"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Origines de l'engagement contre l'islamisme"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Violence, islamisme et affaiblissement institutionnel"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Le 7 octobre 2023 comme tournant sécuritaire"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Débat sur la France insoumise et l'islamisme"
+    },
+    {
+      "startSeconds": 765,
+      "title": "Statistiques de violence et essor des homejackings"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Recrutement criminel et ciblage sur les réseaux sociaux"
+    },
+    {
+      "startSeconds": 1035,
+      "title": "Légitime défense face aux intrusions à domicile"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Cadre juridique de la légitime défense"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Doctrine du château et protection du domicile"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Excuse de frayeur et limites de la riposte"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Alerter et secourir après une agression"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Préparation familiale face aux situations dégradées"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Scénarios de déstabilisation et phénomènes de masse"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Premiers intervenants et brouillard de la guerre"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "Hiérarchie sécuritaire, moyens et remontée des alertes"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Engagement personnel et inquiétude des Français"
+    },
+    {
+      "startSeconds": 3690,
+      "title": "Fractures françaises et rétablissement de l'autorité"
+    },
+    {
+      "startSeconds": 4275,
+      "title": "Force morale et action politique immédiate"
+    },
+    {
+      "startSeconds": 4455,
+      "title": "Risque de violence et scénario d'effondrement"
+    },
+    {
+      "startSeconds": 4770,
+      "title": "Immigration, souveraineté et statistiques de délinquance"
+    },
+    {
+      "startSeconds": 5040,
+      "title": "Préparation à la guerre et devoir d'engagement"
+    },
+    {
+      "startSeconds": 5355,
+      "title": "Sud-américanisation, criminalité organisée et drogues"
+    },
+    {
+      "startSeconds": 5535,
+      "title": "Rêves communs, transcendance et retour de la foi"
+    },
+    {
+      "startSeconds": 5760,
+      "title": "Famille, enfants et engagement au service du pays"
+    },
+    {
+      "startSeconds": 6075,
+      "title": "Tendre la main aux enfants de l'immigration"
+    },
+    {
+      "startSeconds": 6210,
+      "title": "Histoire nationale et transmission des repères"
+    },
+    {
+      "startSeconds": 6345,
+      "title": "Fête des Lumières, police et héritage religieux"
+    },
+    {
+      "startSeconds": 6570,
+      "title": "Conclusion et messages sur l'autorité de l'État"
+    },
+    {
+      "startSeconds": 6750,
+      "title": "Livres conseillés et autonomie pour les jeunes"
+    }
+  ]
+}

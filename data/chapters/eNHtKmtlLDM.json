@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "videoId": "eNHtKmtlLDM",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T13:10:10Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de l’éleveur et de son exploitation"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Souveraineté alimentaire et menaces européennes"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Coûts de l’alimentation et importations agricoles"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Mercosur, viticulture et débouchés agricoles"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Normes environnementales et production de noisettes"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Chasse, loups, ours et dégâts aux élevages"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Prix, qualité et santé de l’alimentation"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Grande distribution et précarité alimentaire"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Syndicats agricoles et mobilisations paysannes"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Endettement agricole et industrialisation des exploitations"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Réponse gouvernementale aux mobilisations agricoles"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Conseils d’achat et circuits courts"
+    },
+    {
+      "startSeconds": 4410,
+      "title": "Organisation collective et blocage national"
+    },
+    {
+      "startSeconds": 4635,
+      "title": "Retour sur la rencontre avec Emmanuel Macron"
+    },
+    {
+      "startSeconds": 5040,
+      "title": "Contrôle aux frontières et installation agricole"
+    },
+    {
+      "startSeconds": 5355,
+      "title": "Rapport de force et médiation politique"
+    },
+    {
+      "startSeconds": 5580,
+      "title": "Apolitisme revendiqué et choix syndicaux"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "Alimentation de qualité pour les classes populaires"
+    },
+    {
+      "startSeconds": 6300,
+      "title": "Souveraineté alimentaire et adaptation climatique"
+    },
+    {
+      "startSeconds": 6660,
+      "title": "Aides agricoles, coopératives et mal-être paysan"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Abattage, bien-être animal et solutions itinérantes"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Soutien populaire et partage de l’eau"
+    },
+    {
+      "startSeconds": 7470,
+      "title": "Modèles agricoles, technologie et intelligence artificielle"
+    },
+    {
+      "startSeconds": 7650,
+      "title": "Adaptation climatique, semences et main-d’œuvre"
+    },
+    {
+      "startSeconds": 7920,
+      "title": "Maladies d’élevage et recommandations finales"
+    },
+    {
+      "startSeconds": 8055,
+      "title": "Lectures conseillées et message aux jeunes"
+    }
+  ]
+}
