@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "0Nc9VHlw_Sg",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:25:35Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Jérôme Clech et de la prospective"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Temps long et formation prospective"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Lire le présent selon plusieurs temporalités"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Transformation des décideurs face aux surprises"
+    },
+    {
+      "startSeconds": 2115,
+      "title": "Éducation, esprit de défense et incertitude"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Ressources, climat et transition énergétique"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Prospective offensive et travail d’influence"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Économie de guerre et acceptabilité démocratique"
+    },
+    {
+      "startSeconds": 3555,
+      "title": "Mesurer l’incertitude et résister au bruit"
+    },
+    {
+      "startSeconds": 3735,
+      "title": "Former une culture prospective dans les métiers"
+    },
+    {
+      "startSeconds": 4230,
+      "title": "Journalisme, communication et guerre informationnelle"
+    },
+    {
+      "startSeconds": 4410,
+      "title": "Israël, États-Unis et sécurité régionale"
+    },
+    {
+      "startSeconds": 5130,
+      "title": "Objectifs politiques et approche globale des conflits"
+    },
+    {
+      "startSeconds": 5760,
+      "title": "Ukraine et architecture de sécurité européenne"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "Renseignement, lecture du présent et décision"
+    },
+    {
+      "startSeconds": 6300,
+      "title": "Vérité, pragmatisme et construction du réel"
+    },
+    {
+      "startSeconds": 6795,
+      "title": "Europe, démocratie et prospective collaborative"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Intelligence artificielle et équipes pluridisciplinaires"
+    },
+    {
+      "startSeconds": 7830,
+      "title": "Ukraine, aide européenne et enjeu existentiel"
+    },
+    {
+      "startSeconds": 8280,
+      "title": "Intérêts vitaux et ambiguïté nucléaire"
+    },
+    {
+      "startSeconds": 8640,
+      "title": "Épaulement conventionnel et scénarios d’escalade"
+    },
+    {
+      "startSeconds": 9045,
+      "title": "Endiguement et trajectoire de la guerre en Ukraine"
+    },
+    {
+      "startSeconds": 9360,
+      "title": "Doctrine russe et supériorité aérienne"
+    },
+    {
+      "startSeconds": 9675,
+      "title": "Nucléaire et limites de l’escalade"
+    },
+    {
+      "startSeconds": 10080,
+      "title": "Souveraineté européenne et taille critique"
+    },
+    {
+      "startSeconds": 10620,
+      "title": "Évolution anthropologique et futurs du travail"
+    },
+    {
+      "startSeconds": 10845,
+      "title": "Récits mythiques et transmission aux jeunes"
+    },
+    {
+      "startSeconds": 10980,
+      "title": "Lectures sur la prospective et l’incertitude"
+    },
+    {
+      "startSeconds": 11475,
+      "title": "Bibliothèque Mazarine et conseil aux jeunes"
+    },
+    {
+      "startSeconds": 11655,
+      "title": "Art cognitif et reconfiguration du réel"
+    }
+  ]
+}

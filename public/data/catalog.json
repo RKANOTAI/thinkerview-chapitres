@@ -5664,9 +5664,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Jérôme Clech : enseigne la prospective stratégique à Sciences Po Paris. Docteur en mécanique de l'École polytechnique, ingénieur de l'École de l'air et de l'espace, diplômé de Sciences Po Paris, de l'École de Guerre et de l'Académie du renseignement, il a été pilote et officier s",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Jérôme Clech et de la prospective"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Temps long et formation prospective"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Lire le présent selon plusieurs temporalités"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Transformation des décideurs face aux surprises"
+        },
+        {
+          "startSeconds": 2115,
+          "title": "Éducation, esprit de défense et incertitude"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Ressources, climat et transition énergétique"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Prospective offensive et travail d’influence"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Économie de guerre et acceptabilité démocratique"
+        },
+        {
+          "startSeconds": 3555,
+          "title": "Mesurer l’incertitude et résister au bruit"
+        },
+        {
+          "startSeconds": 3735,
+          "title": "Former une culture prospective dans les métiers"
+        },
+        {
+          "startSeconds": 4230,
+          "title": "Journalisme, communication et guerre informationnelle"
+        },
+        {
+          "startSeconds": 4410,
+          "title": "Israël, États-Unis et sécurité régionale"
+        },
+        {
+          "startSeconds": 5130,
+          "title": "Objectifs politiques et approche globale des conflits"
+        },
+        {
+          "startSeconds": 5760,
+          "title": "Ukraine et architecture de sécurité européenne"
+        },
+        {
+          "startSeconds": 5940,
+          "title": "Renseignement, lecture du présent et décision"
+        },
+        {
+          "startSeconds": 6300,
+          "title": "Vérité, pragmatisme et construction du réel"
+        },
+        {
+          "startSeconds": 6795,
+          "title": "Europe, démocratie et prospective collaborative"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Intelligence artificielle et équipes pluridisciplinaires"
+        },
+        {
+          "startSeconds": 7830,
+          "title": "Ukraine, aide européenne et enjeu existentiel"
+        },
+        {
+          "startSeconds": 8280,
+          "title": "Intérêts vitaux et ambiguïté nucléaire"
+        },
+        {
+          "startSeconds": 8640,
+          "title": "Épaulement conventionnel et scénarios d’escalade"
+        },
+        {
+          "startSeconds": 9045,
+          "title": "Endiguement et trajectoire de la guerre en Ukraine"
+        },
+        {
+          "startSeconds": 9360,
+          "title": "Doctrine russe et supériorité aérienne"
+        },
+        {
+          "startSeconds": 9675,
+          "title": "Nucléaire et limites de l’escalade"
+        },
+        {
+          "startSeconds": 10080,
+          "title": "Souveraineté européenne et taille critique"
+        },
+        {
+          "startSeconds": 10620,
+          "title": "Évolution anthropologique et futurs du travail"
+        },
+        {
+          "startSeconds": 10845,
+          "title": "Récits mythiques et transmission aux jeunes"
+        },
+        {
+          "startSeconds": 10980,
+          "title": "Lectures sur la prospective et l’incertitude"
+        },
+        {
+          "startSeconds": 11475,
+          "title": "Bibliothèque Mazarine et conseil aux jeunes"
+        },
+        {
+          "startSeconds": 11655,
+          "title": "Art cognitif et reconfiguration du réel"
+        }
+      ]
     },
     {
       "id": "AAI7N7ipb6Q",
@@ -5678,9 +5799,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Marie Tabarly : Navigatrice.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Marie Tabarly et de ses passions"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Le bateau historique et les inquiétudes du départ"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Beauté du large et navigation dans le Grand Sud"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Une vague couche le bateau dans le Grand Sud"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Pollution invisible et danger des conteneurs"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Météo instable, piraterie et routes maritimes"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Pêche industrielle et entraide entre navigateurs"
+        },
+        {
+          "startSeconds": 1755,
+          "title": "Retour à terre et choc de l’actualité mondiale"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Températures létales et dérèglement climatique"
+        },
+        {
+          "startSeconds": 2115,
+          "title": "Recrutement et organisation de l’équipage"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Athlètes, entreprises et risques de la course au large"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Repères politiques et management des équipes"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Repas et cohésion de l’équipage"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Entretien coûteux du bateau et recherche de partenaires"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Académie Tabarly et transmission maritime"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "Formation pratique et réseau des plaisanciers"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Rêve d’aventure et partage sur les réseaux"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Vie privée, célébrité et surveillance numérique"
+        },
+        {
+          "startSeconds": 3960,
+          "title": "Chaleur extrême et navigation dans le pot-au-noir"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Écriture en mer et construction du livre"
+        },
+        {
+          "startSeconds": 4455,
+          "title": "Rencontres avec les cargos et visions de l’océan"
+        },
+        {
+          "startSeconds": 4725,
+          "title": "Lectures publiques et naissance du livre"
+        },
+        {
+          "startSeconds": 4995,
+          "title": "Temps de parole et traitement médiatique de l’aventure"
+        },
+        {
+          "startSeconds": 5265,
+          "title": "Avenir de la plaisance et gestion des conflits"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Empathie et dialogue dans la vie collective"
+        },
+        {
+          "startSeconds": 5625,
+          "title": "Transition écologique de la plaisance et de la course"
+        },
+        {
+          "startSeconds": 5850,
+          "title": "Communication par satellite et pollution orbitale"
+        },
+        {
+          "startSeconds": 5985,
+          "title": "Lectures maritimes et inspirations culturelles"
+        },
+        {
+          "startSeconds": 6165,
+          "title": "Rhum, cuisine et voyage par les goûts"
+        },
+        {
+          "startSeconds": 6300,
+          "title": "Être soi-même comme conseil aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "OZvBpZdrmaA",
@@ -5692,9 +5934,70 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Mohammad Amin Nejad : Ambassadeur d'Iran en France\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de l’ambassadeur et contexte de l’attaque"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Enrichissement iranien et usages civils du nucléaire"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Renseignement israélien et justification de l’attaque"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Victimes civiles et frappes contre les infrastructures"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Accord nucléaire de 2015 et inspections internationales"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Riposte iranienne et risque d’escalade"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Pression américaine et vulnérabilités intérieures iraniennes"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Hezbollah, Hamas et Houthis selon l’ambassadeur"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Relations avec la Russie et la Chine"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Escalade militaire et position iranienne sur Israël"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Inspection de l’AIEA et questions antérieures"
+        },
+        {
+          "startSeconds": 3690,
+          "title": "Droit de riposte et conditions d’un arrêt des frappes"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Dialogue, hydrocarbures et conflits régionaux"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Détenus français, justice iranienne et peine de mort"
+        },
+        {
+          "startSeconds": 4770,
+          "title": "Littérature persane et message aux jeunes"
+        }
+      ]
     },
     {
       "id": "L7GIS6Ol5-I",

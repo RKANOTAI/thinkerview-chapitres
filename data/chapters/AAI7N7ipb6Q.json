@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "AAI7N7ipb6Q",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:25:35Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Marie Tabarly et de ses passions"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Le bateau historique et les inquiétudes du départ"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Beauté du large et navigation dans le Grand Sud"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Une vague couche le bateau dans le Grand Sud"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Pollution invisible et danger des conteneurs"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Météo instable, piraterie et routes maritimes"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Pêche industrielle et entraide entre navigateurs"
+    },
+    {
+      "startSeconds": 1755,
+      "title": "Retour à terre et choc de l’actualité mondiale"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Températures létales et dérèglement climatique"
+    },
+    {
+      "startSeconds": 2115,
+      "title": "Recrutement et organisation de l’équipage"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Athlètes, entreprises et risques de la course au large"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Repères politiques et management des équipes"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Repas et cohésion de l’équipage"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Entretien coûteux du bateau et recherche de partenaires"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Académie Tabarly et transmission maritime"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "Formation pratique et réseau des plaisanciers"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Rêve d’aventure et partage sur les réseaux"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Vie privée, célébrité et surveillance numérique"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Chaleur extrême et navigation dans le pot-au-noir"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Écriture en mer et construction du livre"
+    },
+    {
+      "startSeconds": 4455,
+      "title": "Rencontres avec les cargos et visions de l’océan"
+    },
+    {
+      "startSeconds": 4725,
+      "title": "Lectures publiques et naissance du livre"
+    },
+    {
+      "startSeconds": 4995,
+      "title": "Temps de parole et traitement médiatique de l’aventure"
+    },
+    {
+      "startSeconds": 5265,
+      "title": "Avenir de la plaisance et gestion des conflits"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Empathie et dialogue dans la vie collective"
+    },
+    {
+      "startSeconds": 5625,
+      "title": "Transition écologique de la plaisance et de la course"
+    },
+    {
+      "startSeconds": 5850,
+      "title": "Communication par satellite et pollution orbitale"
+    },
+    {
+      "startSeconds": 5985,
+      "title": "Lectures maritimes et inspirations culturelles"
+    },
+    {
+      "startSeconds": 6165,
+      "title": "Rhum, cuisine et voyage par les goûts"
+    },
+    {
+      "startSeconds": 6300,
+      "title": "Être soi-même comme conseil aux jeunes générations"
+    }
+  ]
+}

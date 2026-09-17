@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "videoId": "OZvBpZdrmaA",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:25:35Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de l’ambassadeur et contexte de l’attaque"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Enrichissement iranien et usages civils du nucléaire"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Renseignement israélien et justification de l’attaque"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Victimes civiles et frappes contre les infrastructures"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Accord nucléaire de 2015 et inspections internationales"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Riposte iranienne et risque d’escalade"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Pression américaine et vulnérabilités intérieures iraniennes"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Hezbollah, Hamas et Houthis selon l’ambassadeur"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Relations avec la Russie et la Chine"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Escalade militaire et position iranienne sur Israël"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Inspection de l’AIEA et questions antérieures"
+    },
+    {
+      "startSeconds": 3690,
+      "title": "Droit de riposte et conditions d’un arrêt des frappes"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Dialogue, hydrocarbures et conflits régionaux"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Détenus français, justice iranienne et peine de mort"
+    },
+    {
+      "startSeconds": 4770,
+      "title": "Littérature persane et message aux jeunes"
+    }
+  ]
+}
