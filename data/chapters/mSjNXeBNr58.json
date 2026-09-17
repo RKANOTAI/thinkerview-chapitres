@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "mSjNXeBNr58",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:33:27Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Rêve de Marseille et recrutement de jeunes endettés"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Tortures et violences infligées aux personnes endettées"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Jambisation et recours aux personnes vulnérables"
+    }
+  ]
+}

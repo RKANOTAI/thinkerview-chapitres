@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "ET4Cs9nB4Bg",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T20:33:27Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Perte de valeur des véhicules et enjeu social"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Véhicules invendables et fin des reprises automobiles"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Destination des véhicules en Europe et en Afrique"
+    }
+  ]
+}

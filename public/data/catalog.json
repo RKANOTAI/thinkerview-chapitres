@@ -8081,9 +8081,22 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Philippe Pujol : Journaliste et écrivain, Prix Albert Londres pour \"Quartiers Shit\"\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Rêve de Marseille et recrutement de jeunes endettés"
+        },
+        {
+          "startSeconds": 45,
+          "title": "Tortures et violences infligées aux personnes endettées"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Jambisation et recours aux personnes vulnérables"
+        }
+      ]
     },
     {
       "id": "ET4Cs9nB4Bg",
@@ -8095,9 +8108,22 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "SOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview\nPOSEZ VOS QUESTIONS EN DIRECT : ▶️ https://discord.gg/Ey3pBWV",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Perte de valeur des véhicules et enjeu social"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Véhicules invendables et fin des reprises automobiles"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Destination des véhicules en Europe et en Afrique"
+        }
+      ]
     },
     {
       "id": "zS6Wb83C7vY",
