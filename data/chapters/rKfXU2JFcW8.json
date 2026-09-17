@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "rKfXU2JFcW8",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:57:45Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et rôle de la fertilité des sols"
+    },
+    {
+      "startSeconds": 315,
+      "title": "El Niño et incertitude des récoltes"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Déconnexion politique face à la crise alimentaire"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Pétrole, engrais et dépendance alimentaire"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Semis sous couvert et restauration des sols"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Répartition des aides et sécurité alimentaire"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Recommandations nationales pour les sols agricoles"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Mercosur et concurrence agricole brésilienne"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Dépendance géopolitique et déficit agricole français"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Viticulture française et maladies professionnelles"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Politique agricole commune et concentration des aides"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Succession des agriculteurs et permaculture"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Transmission des savoirs et archives agronomiques"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Alimentation, pouvoir d’achat et responsabilité citoyenne"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Gestion politique de la crise agricole"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Agroindustrie, Mercosur et prix alimentaires"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Accords commerciaux et élevage ovin français"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Souveraineté agricole et patrimoine gastronomique"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Cuisine française et transmission des savoirs"
+    },
+    {
+      "startSeconds": 5265,
+      "title": "Méthanisation et concurrence avec l’alimentation"
+    },
+    {
+      "startSeconds": 5535,
+      "title": "Déni, technologie et crise des valeurs"
+    },
+    {
+      "startSeconds": 5850,
+      "title": "Alimentation, santé et rapport à la nature"
+    },
+    {
+      "startSeconds": 6300,
+      "title": "Intelligence artificielle et décisions agricoles"
+    },
+    {
+      "startSeconds": 6480,
+      "title": "Déforestation et facteurs du dérèglement climatique"
+    },
+    {
+      "startSeconds": 6750,
+      "title": "Rupture logistique et vulnérabilité des citadins"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Europe, protectionnisme et techniques sans labour"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Engrais marins et pratiques agricoles bretonnes"
+    },
+    {
+      "startSeconds": 7515,
+      "title": "Bilan sur l’accélération de la crise"
+    },
+    {
+      "startSeconds": 7650,
+      "title": "Goût, repas et relation au lieu"
+    },
+    {
+      "startSeconds": 7965,
+      "title": "Lectures et conseils pour les jeunes générations"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "videoId": "DSxc3eVBwYk",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:57:45Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation d’Akim Omiri et de son spectacle"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Information sur les conflits et écriture humoristique"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Création de La Repost sur Radio Nova"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Humour, liberté d’expression et critique du pouvoir"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Rendre la politique accessible par les blagues"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Information de terrain et critique des médias"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Cancer, distance psychologique et sens de l’engagement"
+    },
+    {
+      "startSeconds": 2610,
+      "title": "Écriture collective et responsabilité de La Repost"
+    },
+    {
+      "startSeconds": 2835,
+      "title": "Religion, maladie et recherche d’une vie utile"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Obstacles médiatiques à l’humour engagé"
+    },
+    {
+      "startSeconds": 3510,
+      "title": "Humour de guerre, médias et politique spectacle"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Propagande de guerre et traitement des civils"
+    },
+    {
+      "startSeconds": 4230,
+      "title": "Éducation critique et lecture historique des conflits"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Objectifs changeants de la guerre et dirigeants politiques"
+    },
+    {
+      "startSeconds": 4725,
+      "title": "Précarité sociale face aux choix énergétiques et fiscaux"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Guerre économique, nucléaire et souveraineté française"
+    },
+    {
+      "startSeconds": 5490,
+      "title": "Monde idéal, dette publique et avenir politique"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "Médias détenus par les milliardaires et critique du capitalisme"
+    },
+    {
+      "startSeconds": 6120,
+      "title": "Projet de théâtre, succès et indépendance artistique"
+    },
+    {
+      "startSeconds": 6345,
+      "title": "Accusations et positionnement face aux extrémismes"
+    },
+    {
+      "startSeconds": 6615,
+      "title": "Inspirations humoristiques et parcours artistique"
+    },
+    {
+      "startSeconds": 6750,
+      "title": "Provocation humoristique et mission d’information"
+    },
+    {
+      "startSeconds": 6885,
+      "title": "Pureté militante et autoritarisme à gauche"
+    },
+    {
+      "startSeconds": 7020,
+      "title": "Recommandations culturelles et conseils aux jeunes"
+    }
+  ]
+}

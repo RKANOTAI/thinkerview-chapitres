@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "videoId": "EzL1_Kod9-w",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:57:45Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et cadre scientifique de l'entretien"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Appel de Dominguez et prédiction des plug stars"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Voyages interstellaires selon le modèle Janus"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Complexité du vivant et rôle de la technologie"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "OVNI et conséquences politiques d'un contact"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Matériaux intelligents et documents techniques"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Cosmologie à vitesse de lumière variable"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Déclassification, censure et preuves scientifiques"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Antigravité et débuts de la magnétohydrodynamique"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Générateur MHD et abandon de la recherche française"
+    },
+    {
+      "startSeconds": 2835,
+      "title": "Énergie future, armement et programmes hypersoniques"
+    },
+    {
+      "startSeconds": 3285,
+      "title": "Métaphysicon et structure en couches de l'univers"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Critiques, publications et crise de la cosmologie"
+    },
+    {
+      "startSeconds": 4455,
+      "title": "Modèle Janus et critique des trous noirs"
+    },
+    {
+      "startSeconds": 4635,
+      "title": "Visiteurs extraterrestres et récits de contact"
+    },
+    {
+      "startSeconds": 5085,
+      "title": "Humanité conflictuelle et perspective du contact"
+    },
+    {
+      "startSeconds": 5490,
+      "title": "Déclassification américaine et expédition au Pérou"
+    },
+    {
+      "startSeconds": 5805,
+      "title": "Expertises génétiques et controverse sur les momies"
+    },
+    {
+      "startSeconds": 6210,
+      "title": "Observation des phénomènes et spectrométrie mobile"
+    },
+    {
+      "startSeconds": 6480,
+      "title": "Noosphère, dieux et intelligence artificielle"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Conscience artificielle et fable du bus"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Enquête texane et services secrets français"
+    },
+    {
+      "startSeconds": 7695,
+      "title": "Questions sur l'univers et sa création"
+    },
+    {
+      "startSeconds": 8055,
+      "title": "Pensée critique, croyances et mécanique quantique"
+    },
+    {
+      "startSeconds": 8280,
+      "title": "Galaxies précoces et prédictions du modèle Janus"
+    },
+    {
+      "startSeconds": 8460,
+      "title": "Conclusion sur la modestie et le devenir humain"
+    },
+    {
+      "startSeconds": 8910,
+      "title": "Bandes dessinées et conseil aux jeunes"
+    }
+  ]
+}

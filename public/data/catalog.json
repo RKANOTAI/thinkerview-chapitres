@@ -1601,9 +1601,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Lydia Bourguignon : Maître en sciences, ex-ingénieure à l'INRA, fondatrice du LAMS : le laboratoire d'analyse microbiologique des sols.\nClaude Bourguignon : ancien assistant de recherche à l'INRA, fondateur du LAMS : le laboratoire d'analyse microbiologique des sols.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et rôle de la fertilité des sols"
+        },
+        {
+          "startSeconds": 315,
+          "title": "El Niño et incertitude des récoltes"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Déconnexion politique face à la crise alimentaire"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Pétrole, engrais et dépendance alimentaire"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Semis sous couvert et restauration des sols"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Répartition des aides et sécurité alimentaire"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Recommandations nationales pour les sols agricoles"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Mercosur et concurrence agricole brésilienne"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Dépendance géopolitique et déficit agricole français"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "Viticulture française et maladies professionnelles"
+        },
+        {
+          "startSeconds": 2655,
+          "title": "Politique agricole commune et concentration des aides"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Succession des agriculteurs et permaculture"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Transmission des savoirs et archives agronomiques"
+        },
+        {
+          "startSeconds": 3375,
+          "title": "Alimentation, pouvoir d’achat et responsabilité citoyenne"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Gestion politique de la crise agricole"
+        },
+        {
+          "startSeconds": 3870,
+          "title": "Agroindustrie, Mercosur et prix alimentaires"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Accords commerciaux et élevage ovin français"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Souveraineté agricole et patrimoine gastronomique"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Cuisine française et transmission des savoirs"
+        },
+        {
+          "startSeconds": 5265,
+          "title": "Méthanisation et concurrence avec l’alimentation"
+        },
+        {
+          "startSeconds": 5535,
+          "title": "Déni, technologie et crise des valeurs"
+        },
+        {
+          "startSeconds": 5850,
+          "title": "Alimentation, santé et rapport à la nature"
+        },
+        {
+          "startSeconds": 6300,
+          "title": "Intelligence artificielle et décisions agricoles"
+        },
+        {
+          "startSeconds": 6480,
+          "title": "Déforestation et facteurs du dérèglement climatique"
+        },
+        {
+          "startSeconds": 6750,
+          "title": "Rupture logistique et vulnérabilité des citadins"
+        },
+        {
+          "startSeconds": 7200,
+          "title": "Europe, protectionnisme et techniques sans labour"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Engrais marins et pratiques agricoles bretonnes"
+        },
+        {
+          "startSeconds": 7515,
+          "title": "Bilan sur l’accélération de la crise"
+        },
+        {
+          "startSeconds": 7650,
+          "title": "Goût, repas et relation au lieu"
+        },
+        {
+          "startSeconds": 7965,
+          "title": "Lectures et conseils pour les jeunes générations"
+        }
+      ]
     },
     {
       "id": "EzL1_Kod9-w",
@@ -1615,9 +1736,118 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Jean-Pierre Petit : Ancien directeur de recherche au CNRS, physicien et astrophysicien.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et cadre scientifique de l'entretien"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Appel de Dominguez et prédiction des plug stars"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Voyages interstellaires selon le modèle Janus"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Complexité du vivant et rôle de la technologie"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "OVNI et conséquences politiques d'un contact"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Matériaux intelligents et documents techniques"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Cosmologie à vitesse de lumière variable"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Déclassification, censure et preuves scientifiques"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Antigravité et débuts de la magnétohydrodynamique"
+        },
+        {
+          "startSeconds": 2655,
+          "title": "Générateur MHD et abandon de la recherche française"
+        },
+        {
+          "startSeconds": 2835,
+          "title": "Énergie future, armement et programmes hypersoniques"
+        },
+        {
+          "startSeconds": 3285,
+          "title": "Métaphysicon et structure en couches de l'univers"
+        },
+        {
+          "startSeconds": 3870,
+          "title": "Critiques, publications et crise de la cosmologie"
+        },
+        {
+          "startSeconds": 4455,
+          "title": "Modèle Janus et critique des trous noirs"
+        },
+        {
+          "startSeconds": 4635,
+          "title": "Visiteurs extraterrestres et récits de contact"
+        },
+        {
+          "startSeconds": 5085,
+          "title": "Humanité conflictuelle et perspective du contact"
+        },
+        {
+          "startSeconds": 5490,
+          "title": "Déclassification américaine et expédition au Pérou"
+        },
+        {
+          "startSeconds": 5805,
+          "title": "Expertises génétiques et controverse sur les momies"
+        },
+        {
+          "startSeconds": 6210,
+          "title": "Observation des phénomènes et spectrométrie mobile"
+        },
+        {
+          "startSeconds": 6480,
+          "title": "Noosphère, dieux et intelligence artificielle"
+        },
+        {
+          "startSeconds": 6930,
+          "title": "Conscience artificielle et fable du bus"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Enquête texane et services secrets français"
+        },
+        {
+          "startSeconds": 7695,
+          "title": "Questions sur l'univers et sa création"
+        },
+        {
+          "startSeconds": 8055,
+          "title": "Pensée critique, croyances et mécanique quantique"
+        },
+        {
+          "startSeconds": 8280,
+          "title": "Galaxies précoces et prédictions du modèle Janus"
+        },
+        {
+          "startSeconds": 8460,
+          "title": "Conclusion sur la modestie et le devenir humain"
+        },
+        {
+          "startSeconds": 8910,
+          "title": "Bandes dessinées et conseil aux jeunes"
+        }
+      ]
     },
     {
       "id": "DSxc3eVBwYk",
@@ -1629,9 +1859,106 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Akim Omiri : humoriste, vidéaste web, chroniqueur, animateur de radio.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation d’Akim Omiri et de son spectacle"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Information sur les conflits et écriture humoristique"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Création de La Repost sur Radio Nova"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Humour, liberté d’expression et critique du pouvoir"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Rendre la politique accessible par les blagues"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Information de terrain et critique des médias"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Cancer, distance psychologique et sens de l’engagement"
+        },
+        {
+          "startSeconds": 2610,
+          "title": "Écriture collective et responsabilité de La Repost"
+        },
+        {
+          "startSeconds": 2835,
+          "title": "Religion, maladie et recherche d’une vie utile"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Obstacles médiatiques à l’humour engagé"
+        },
+        {
+          "startSeconds": 3510,
+          "title": "Humour de guerre, médias et politique spectacle"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Propagande de guerre et traitement des civils"
+        },
+        {
+          "startSeconds": 4230,
+          "title": "Éducation critique et lecture historique des conflits"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Objectifs changeants de la guerre et dirigeants politiques"
+        },
+        {
+          "startSeconds": 4725,
+          "title": "Précarité sociale face aux choix énergétiques et fiscaux"
+        },
+        {
+          "startSeconds": 5220,
+          "title": "Guerre économique, nucléaire et souveraineté française"
+        },
+        {
+          "startSeconds": 5490,
+          "title": "Monde idéal, dette publique et avenir politique"
+        },
+        {
+          "startSeconds": 5940,
+          "title": "Médias détenus par les milliardaires et critique du capitalisme"
+        },
+        {
+          "startSeconds": 6120,
+          "title": "Projet de théâtre, succès et indépendance artistique"
+        },
+        {
+          "startSeconds": 6345,
+          "title": "Accusations et positionnement face aux extrémismes"
+        },
+        {
+          "startSeconds": 6615,
+          "title": "Inspirations humoristiques et parcours artistique"
+        },
+        {
+          "startSeconds": 6750,
+          "title": "Provocation humoristique et mission d’information"
+        },
+        {
+          "startSeconds": 6885,
+          "title": "Pureté militante et autoritarisme à gauche"
+        },
+        {
+          "startSeconds": 7020,
+          "title": "Recommandations culturelles et conseils aux jeunes"
+        }
+      ]
     },
     {
       "id": "eEhCw-GRYHE",
