@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "q3KU2-L0cv4",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:48:43Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et du débat"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Menaces nationales et nécessité de réindustrialiser"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Rééquilibrer les relations avec l'Union européenne"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Dette sociale et crise intergénérationnelle"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Pouvoirs européens et souveraineté juridique"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Balance commerciale et fracture territoriale"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Mobilisation nationale pour reconstruire l'industrie"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Créer de la richesse et des emplois industriels"
+    },
+    {
+      "startSeconds": 2565,
+      "title": "Épargne et commande publique pour l'industrie"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Économie de guerre et résilience industrielle"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Dépendances sectorielles et souveraineté industrielle"
+    },
+    {
+      "startSeconds": 3285,
+      "title": "Identifier les productions essentielles"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Dépendance aux médicaments critiques"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Politiques industrielles sans continuité"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Cessions d'entreprises et perte de contrôle économique"
+    },
+    {
+      "startSeconds": 4185,
+      "title": "Renseignement économique et protection des entreprises"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Réformer l'éducation et relever le niveau scientifique"
+    },
+    {
+      "startSeconds": 4635,
+      "title": "Protectionnisme contre la concurrence déloyale"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Sensibiliser les dirigeants aux risques économiques"
+    },
+    {
+      "startSeconds": 4995,
+      "title": "Cybersécurité et souveraineté numérique"
+    },
+    {
+      "startSeconds": 5175,
+      "title": "Centres de données et composants européens"
+    },
+    {
+      "startSeconds": 5310,
+      "title": "Engagement civique et reconstruction nationale"
+    },
+    {
+      "startSeconds": 5895,
+      "title": "Biotechnologies et départ des innovations"
+    },
+    {
+      "startSeconds": 6030,
+      "title": "Uranium et cycle fermé du nucléaire"
+    },
+    {
+      "startSeconds": 6210,
+      "title": "Compétitivité des EPR2 et rapport de force européen"
+    },
+    {
+      "startSeconds": 6480,
+      "title": "Sixième République et réforme des institutions"
+    },
+    {
+      "startSeconds": 6615,
+      "title": "Permis de construire et crise du logement"
+    },
+    {
+      "startSeconds": 6750,
+      "title": "Fiscalité de la production et choix économiques"
+    },
+    {
+      "startSeconds": 7020,
+      "title": "Livres recommandés sur la France et l'Europe"
+    },
+    {
+      "startSeconds": 7200,
+      "title": "Conseils aux jeunes générations"
+    }
+  ]
+}

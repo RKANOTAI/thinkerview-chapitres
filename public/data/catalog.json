@@ -1200,9 +1200,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Olivier Lluansi : Professeur au Cnam Alumni Polytechnique MINES, expert industrie et énergie.\nArnaud Montebourg : Entrepreneur. Ancien ministre de l’économie.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation des invités et du débat"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Menaces nationales et nécessité de réindustrialiser"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Rééquilibrer les relations avec l'Union européenne"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Dette sociale et crise intergénérationnelle"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Pouvoirs européens et souveraineté juridique"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Balance commerciale et fracture territoriale"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Mobilisation nationale pour reconstruire l'industrie"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Créer de la richesse et des emplois industriels"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Épargne et commande publique pour l'industrie"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Économie de guerre et résilience industrielle"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Dépendances sectorielles et souveraineté industrielle"
+        },
+        {
+          "startSeconds": 3285,
+          "title": "Identifier les productions essentielles"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Dépendance aux médicaments critiques"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Politiques industrielles sans continuité"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Cessions d'entreprises et perte de contrôle économique"
+        },
+        {
+          "startSeconds": 4185,
+          "title": "Renseignement économique et protection des entreprises"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Réformer l'éducation et relever le niveau scientifique"
+        },
+        {
+          "startSeconds": 4635,
+          "title": "Protectionnisme contre la concurrence déloyale"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Sensibiliser les dirigeants aux risques économiques"
+        },
+        {
+          "startSeconds": 4995,
+          "title": "Cybersécurité et souveraineté numérique"
+        },
+        {
+          "startSeconds": 5175,
+          "title": "Centres de données et composants européens"
+        },
+        {
+          "startSeconds": 5310,
+          "title": "Engagement civique et reconstruction nationale"
+        },
+        {
+          "startSeconds": 5895,
+          "title": "Biotechnologies et départ des innovations"
+        },
+        {
+          "startSeconds": 6030,
+          "title": "Uranium et cycle fermé du nucléaire"
+        },
+        {
+          "startSeconds": 6210,
+          "title": "Compétitivité des EPR2 et rapport de force européen"
+        },
+        {
+          "startSeconds": 6480,
+          "title": "Sixième République et réforme des institutions"
+        },
+        {
+          "startSeconds": 6615,
+          "title": "Permis de construire et crise du logement"
+        },
+        {
+          "startSeconds": 6750,
+          "title": "Fiscalité de la production et choix économiques"
+        },
+        {
+          "startSeconds": 7020,
+          "title": "Livres recommandés sur la France et l'Europe"
+        },
+        {
+          "startSeconds": 7200,
+          "title": "Conseils aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "dN6omRcGQP4",
@@ -1214,9 +1335,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Jean-Baptiste Rivoire : Fondateur de Off-investigation.fr https://www.youtube.com/@offinvestigation\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et parcours de Jean-Baptiste Rivoire"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Liberté éditoriale et débuts dans l’audiovisuel"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Censure d’une enquête sur le Crédit Mutuel"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Censure du Crédit Mutuel sur Canal Plus"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Montée de Bolloré au capital de Vivendi"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Prise de contrôle de Canal et des Guignols"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Financement citoyen et refus des subventions publiques"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Éviction des auteurs et pression sur l’investigation"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Controverse éditoriale et enquête sur Matzneff"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Patrimoine de Macron et déclaration d’ISF"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Rôle de Macron dans le rachat de Pfizer"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Conflits d’intérêts et défiance envers la presse"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Responsabilité des citoyens dans le financement des médias"
+        },
+        {
+          "startSeconds": 3960,
+          "title": "Service militaire et refus des contraintes imposées"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Affaire Alstom et enquête sur Robert Boulin"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Menaces avant la mort de Robert Boulin"
+        },
+        {
+          "startSeconds": 4680,
+          "title": "Morts et menaces autour de l’affaire Boulin"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Tirs contre un témoin de l’affaire Boulin"
+        },
+        {
+          "startSeconds": 5040,
+          "title": "Protection d’un témoin et rôle attribué à Pasqua"
+        },
+        {
+          "startSeconds": 5400,
+          "title": "Dépendance de l’audiovisuel public au pouvoir"
+        },
+        {
+          "startSeconds": 5760,
+          "title": "Pluralisme des invités et confrontation des idées"
+        },
+        {
+          "startSeconds": 6075,
+          "title": "Couverture des guerres et contraintes du terrain"
+        },
+        {
+          "startSeconds": 6525,
+          "title": "Journalisme de terrain pendant la guerre d’Algérie"
+        },
+        {
+          "startSeconds": 6840,
+          "title": "Intelligence artificielle et pratiques journalistiques"
+        },
+        {
+          "startSeconds": 6930,
+          "title": "Intérêt du public pour le journalisme d’investigation"
+        },
+        {
+          "startSeconds": 7110,
+          "title": "Autocensure et risques liés aux actionnaires"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Influence des milliardaires sur les médias"
+        },
+        {
+          "startSeconds": 7650,
+          "title": "Financement citoyen et révolution numérique"
+        },
+        {
+          "startSeconds": 7920,
+          "title": "Enquêtes annoncées et soutien aux médias indépendants"
+        },
+        {
+          "startSeconds": 8010,
+          "title": "Conseils de méthode aux jeunes journalistes"
+        }
+      ]
     },
     {
       "id": "95xFL7_nRDk",
@@ -1228,9 +1470,126 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Charles Alloncle : Député et rapporteur commission d’enquête sur l’audiovisuel public.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation du député et de la commission"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Motifs et axes de la commission d’enquête"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Traitement médiatique d’une plainte contre X"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Contributions parlementaires et accusations de corruption"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Sanctions envisagées contre les médias et fragmentation audiovisuelle"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Liberté d’expression et pluralisme des opinions"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Tentative de censure et publication du rapport"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Modifications demandées au rapport et à ses recommandations"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Crédit d’impôt et financement des tournages étrangers"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Transparence des auditions et restrictions médiatiques"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Diète médiatique et publication des recommandations"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Attaques personnelles contre le rapporteur et ses collaborateurs"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Contrats de production et conflits d’intérêts médiatiques"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Accusations visant le rapporteur et sa famille"
+        },
+        {
+          "startSeconds": 5220,
+          "title": "Titre du rapport et objectifs de redressement"
+        },
+        {
+          "startSeconds": 5580,
+          "title": "Audition de Xavier Niel et respect des convocations"
+        },
+        {
+          "startSeconds": 6165,
+          "title": "Auditions refusées et obstacles à l’enquête"
+        },
+        {
+          "startSeconds": 6930,
+          "title": "Conflits d’intérêts et financements de documentaires"
+        },
+        {
+          "startSeconds": 7740,
+          "title": "Soupçon d’emploi fictif et cumul de fonctions publiques"
+        },
+        {
+          "startSeconds": 8190,
+          "title": "Dotations publiques et rémunération des dirigeants"
+        },
+        {
+          "startSeconds": 8640,
+          "title": "Prime de performance et évolution des audiences"
+        },
+        {
+          "startSeconds": 8820,
+          "title": "Contenus de France TV Slash pour les jeunes publics"
+        },
+        {
+          "startSeconds": 9000,
+          "title": "Bilan critique de la commission et des auditions"
+        },
+        {
+          "startSeconds": 9270,
+          "title": "Neutralité du service public et accusations politiques"
+        },
+        {
+          "startSeconds": 9810,
+          "title": "Participation des Français aux choix éditoriaux"
+        },
+        {
+          "startSeconds": 10080,
+          "title": "Avenir des médias et désintermédiation de l’information"
+        },
+        {
+          "startSeconds": 10350,
+          "title": "Fuites du rapport et recommandations communiquées à la presse"
+        },
+        {
+          "startSeconds": 10485,
+          "title": "Lectures recommandées et auteurs marquants"
+        },
+        {
+          "startSeconds": 10935,
+          "title": "Conseil aux jeunes et engagement pour le pays"
+        }
+      ]
     },
     {
       "id": "rKfXU2JFcW8",

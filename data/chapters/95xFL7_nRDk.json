@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "videoId": "95xFL7_nRDk",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:48:43Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation du député et de la commission"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Motifs et axes de la commission d’enquête"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Traitement médiatique d’une plainte contre X"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Contributions parlementaires et accusations de corruption"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Sanctions envisagées contre les médias et fragmentation audiovisuelle"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Liberté d’expression et pluralisme des opinions"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Tentative de censure et publication du rapport"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Modifications demandées au rapport et à ses recommandations"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Crédit d’impôt et financement des tournages étrangers"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Transparence des auditions et restrictions médiatiques"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Diète médiatique et publication des recommandations"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Attaques personnelles contre le rapporteur et ses collaborateurs"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Contrats de production et conflits d’intérêts médiatiques"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Accusations visant le rapporteur et sa famille"
+    },
+    {
+      "startSeconds": 5220,
+      "title": "Titre du rapport et objectifs de redressement"
+    },
+    {
+      "startSeconds": 5580,
+      "title": "Audition de Xavier Niel et respect des convocations"
+    },
+    {
+      "startSeconds": 6165,
+      "title": "Auditions refusées et obstacles à l’enquête"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Conflits d’intérêts et financements de documentaires"
+    },
+    {
+      "startSeconds": 7740,
+      "title": "Soupçon d’emploi fictif et cumul de fonctions publiques"
+    },
+    {
+      "startSeconds": 8190,
+      "title": "Dotations publiques et rémunération des dirigeants"
+    },
+    {
+      "startSeconds": 8640,
+      "title": "Prime de performance et évolution des audiences"
+    },
+    {
+      "startSeconds": 8820,
+      "title": "Contenus de France TV Slash pour les jeunes publics"
+    },
+    {
+      "startSeconds": 9000,
+      "title": "Bilan critique de la commission et des auditions"
+    },
+    {
+      "startSeconds": 9270,
+      "title": "Neutralité du service public et accusations politiques"
+    },
+    {
+      "startSeconds": 9810,
+      "title": "Participation des Français aux choix éditoriaux"
+    },
+    {
+      "startSeconds": 10080,
+      "title": "Avenir des médias et désintermédiation de l’information"
+    },
+    {
+      "startSeconds": 10350,
+      "title": "Fuites du rapport et recommandations communiquées à la presse"
+    },
+    {
+      "startSeconds": 10485,
+      "title": "Lectures recommandées et auteurs marquants"
+    },
+    {
+      "startSeconds": 10935,
+      "title": "Conseil aux jeunes et engagement pour le pays"
+    }
+  ]
+}

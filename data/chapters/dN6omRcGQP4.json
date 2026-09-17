@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "dN6omRcGQP4",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T09:48:43Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et parcours de Jean-Baptiste Rivoire"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Liberté éditoriale et débuts dans l’audiovisuel"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Censure d’une enquête sur le Crédit Mutuel"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Censure du Crédit Mutuel sur Canal Plus"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Montée de Bolloré au capital de Vivendi"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Prise de contrôle de Canal et des Guignols"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Financement citoyen et refus des subventions publiques"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Éviction des auteurs et pression sur l’investigation"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Controverse éditoriale et enquête sur Matzneff"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Patrimoine de Macron et déclaration d’ISF"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Rôle de Macron dans le rachat de Pfizer"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Conflits d’intérêts et défiance envers la presse"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Responsabilité des citoyens dans le financement des médias"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Service militaire et refus des contraintes imposées"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Affaire Alstom et enquête sur Robert Boulin"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Menaces avant la mort de Robert Boulin"
+    },
+    {
+      "startSeconds": 4680,
+      "title": "Morts et menaces autour de l’affaire Boulin"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Tirs contre un témoin de l’affaire Boulin"
+    },
+    {
+      "startSeconds": 5040,
+      "title": "Protection d’un témoin et rôle attribué à Pasqua"
+    },
+    {
+      "startSeconds": 5400,
+      "title": "Dépendance de l’audiovisuel public au pouvoir"
+    },
+    {
+      "startSeconds": 5760,
+      "title": "Pluralisme des invités et confrontation des idées"
+    },
+    {
+      "startSeconds": 6075,
+      "title": "Couverture des guerres et contraintes du terrain"
+    },
+    {
+      "startSeconds": 6525,
+      "title": "Journalisme de terrain pendant la guerre d’Algérie"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Intelligence artificielle et pratiques journalistiques"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Intérêt du public pour le journalisme d’investigation"
+    },
+    {
+      "startSeconds": 7110,
+      "title": "Autocensure et risques liés aux actionnaires"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Influence des milliardaires sur les médias"
+    },
+    {
+      "startSeconds": 7650,
+      "title": "Financement citoyen et révolution numérique"
+    },
+    {
+      "startSeconds": 7920,
+      "title": "Enquêtes annoncées et soutien aux médias indépendants"
+    },
+    {
+      "startSeconds": 8010,
+      "title": "Conseils de méthode aux jeunes journalistes"
+    }
+  ]
+}
