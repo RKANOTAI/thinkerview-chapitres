@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "yBJS9ry3nmc",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:41:50Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et lien entre énergie et monnaie"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Inflation, récession et fragilité de l’euro"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Monopole monétaire et Bitcoin comme porte de sortie"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Critiques médiatiques du Bitcoin et traçabilité des transactions"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Bitcoin comme protection face à la récession"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Fragmentation sociale et comparaison avec le Liban"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Énergie, entropie et bonheur collectif"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Dette comme promesse d’énergie future"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Dette française, dévaluation de l’euro et valeur du Bitcoin"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Or, environnement et comparaison avec Bitcoin"
+    },
+    {
+      "startSeconds": 3105,
+      "title": "Hydrogène vert, subventions et limites économiques"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Lobbying monétaire et politique industrielle du numérique"
+    },
+    {
+      "startSeconds": 3510,
+      "title": "Consommation énergétique des transactions Bitcoin"
+    },
+    {
+      "startSeconds": 3690,
+      "title": "Sécurité de Bitcoin et alternatives moins énergivores"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Surplus nucléaire français et rôle du minage Bitcoin"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Minage Bitcoin et équilibrage des réseaux électriques"
+    },
+    {
+      "startSeconds": 4365,
+      "title": "Blackouts, tempêtes solaires et résilience du réseau"
+    },
+    {
+      "startSeconds": 4635,
+      "title": "Interdiction du Bitcoin et protection des avoirs"
+    },
+    {
+      "startSeconds": 4815,
+      "title": "Perspectives énergétiques européennes et fusion nucléaire"
+    },
+    {
+      "startSeconds": 5265,
+      "title": "Fusion nucléaire, sobriété et risques de surconsommation"
+    },
+    {
+      "startSeconds": 5535,
+      "title": "Fin du monopole monétaire et concurrence des modèles"
+    },
+    {
+      "startSeconds": 5760,
+      "title": "Fusion nucléaire, uranium et ressources énergétiques"
+    },
+    {
+      "startSeconds": 6075,
+      "title": "Opportunité française et avenir du minage Bitcoin"
+    },
+    {
+      "startSeconds": 6345,
+      "title": "Délinquance, prison et sécurité publique"
+    },
+    {
+      "startSeconds": 6705,
+      "title": "Répression des gangs et expérience salvadorienne"
+    },
+    {
+      "startSeconds": 7335,
+      "title": "Risques démocratiques, censure et juridisme"
+    },
+    {
+      "startSeconds": 7875,
+      "title": "Décentralisation politique et critique de l’Union européenne"
+    },
+    {
+      "startSeconds": 8145,
+      "title": "Inégalités de richesse et effet Cantillon"
+    },
+    {
+      "startSeconds": 8640,
+      "title": "Objections au Bitcoin, richesse et justice salvadorienne"
+    },
+    {
+      "startSeconds": 9045,
+      "title": "Lectures recommandées et conseils aux jeunes générations"
+    }
+  ]
+}

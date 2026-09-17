@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "videoId": "3CtQSvy5558",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:41:50Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation d’André Chieng et question de la Chine"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Taïwan, principe d’une seule Chine et statu quo"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Course à l’intelligence artificielle et évolution chinoise"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Surveillance quotidienne et perception française en Chine"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Éducation scientifique et patriotisme chinois"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Loup guerrier et affirmation diplomatique de la Chine"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Explorations chinoises et absence de conquêtes extérieures"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Puissance chinoise et renseignement économique"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Consommation, épargne et culture économique chinoise"
+    },
+    {
+      "startSeconds": 3690,
+      "title": "Cyberattaques, puissance chinoise et dossier taïwanais"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Traditions familiales et changements générationnels en Chine"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Tiananmen, mémoire historique et censure en Chine"
+    },
+    {
+      "startSeconds": 5040,
+      "title": "Ouïghours, Tibet et définition de la Chine"
+    },
+    {
+      "startSeconds": 5490,
+      "title": "Atouts français et stratégie face à la Chine"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "Armes asymétriques et dissuasion face aux États-Unis"
+    },
+    {
+      "startSeconds": 6390,
+      "title": "Puces chinoises, sanctions technologiques et innovation"
+    },
+    {
+      "startSeconds": 6840,
+      "title": "Éducation française et sélection sociale comparées"
+    },
+    {
+      "startSeconds": 7110,
+      "title": "Marxisme chinois et adaptation aux époques"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Condition féminine et transformations des traditions"
+    },
+    {
+      "startSeconds": 7560,
+      "title": "Crise immobilière chinoise et villes fantômes"
+    },
+    {
+      "startSeconds": 7830,
+      "title": "Corée du Nord entre Chine et Russie"
+    },
+    {
+      "startSeconds": 8190,
+      "title": "Systèmes de paiement chinois et hégémonie du dollar"
+    },
+    {
+      "startSeconds": 8640,
+      "title": "Poème chinois, lectures recommandées et conseil final"
+    }
+  ]
+}

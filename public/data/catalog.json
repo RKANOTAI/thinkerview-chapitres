@@ -6398,9 +6398,102 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "André Chieng : Président de l'AEC et Vice-Président du Comité France-Chine\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation d’André Chieng et question de la Chine"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Taïwan, principe d’une seule Chine et statu quo"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Course à l’intelligence artificielle et évolution chinoise"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Surveillance quotidienne et perception française en Chine"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Éducation scientifique et patriotisme chinois"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Loup guerrier et affirmation diplomatique de la Chine"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Explorations chinoises et absence de conquêtes extérieures"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Puissance chinoise et renseignement économique"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Consommation, épargne et culture économique chinoise"
+        },
+        {
+          "startSeconds": 3690,
+          "title": "Cyberattaques, puissance chinoise et dossier taïwanais"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Traditions familiales et changements générationnels en Chine"
+        },
+        {
+          "startSeconds": 4590,
+          "title": "Tiananmen, mémoire historique et censure en Chine"
+        },
+        {
+          "startSeconds": 5040,
+          "title": "Ouïghours, Tibet et définition de la Chine"
+        },
+        {
+          "startSeconds": 5490,
+          "title": "Atouts français et stratégie face à la Chine"
+        },
+        {
+          "startSeconds": 5940,
+          "title": "Armes asymétriques et dissuasion face aux États-Unis"
+        },
+        {
+          "startSeconds": 6390,
+          "title": "Puces chinoises, sanctions technologiques et innovation"
+        },
+        {
+          "startSeconds": 6840,
+          "title": "Éducation française et sélection sociale comparées"
+        },
+        {
+          "startSeconds": 7110,
+          "title": "Marxisme chinois et adaptation aux époques"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Condition féminine et transformations des traditions"
+        },
+        {
+          "startSeconds": 7560,
+          "title": "Crise immobilière chinoise et villes fantômes"
+        },
+        {
+          "startSeconds": 7830,
+          "title": "Corée du Nord entre Chine et Russie"
+        },
+        {
+          "startSeconds": 8190,
+          "title": "Systèmes de paiement chinois et hégémonie du dollar"
+        },
+        {
+          "startSeconds": 8640,
+          "title": "Poème chinois, lectures recommandées et conseil final"
+        }
+      ]
     },
     {
       "id": "yBJS9ry3nmc",
@@ -6412,9 +6505,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Sébastien Gouspillou : Entrepreneur, Co-founder de BigBlock Group.\nPierre Noizat : Entrepreneur, Fondateur de Paymium.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation des invités et lien entre énergie et monnaie"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Inflation, récession et fragilité de l’euro"
+        },
+        {
+          "startSeconds": 495,
+          "title": "Monopole monétaire et Bitcoin comme porte de sortie"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Critiques médiatiques du Bitcoin et traçabilité des transactions"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Bitcoin comme protection face à la récession"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Fragmentation sociale et comparaison avec le Liban"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Énergie, entropie et bonheur collectif"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Dette comme promesse d’énergie future"
+        },
+        {
+          "startSeconds": 2655,
+          "title": "Dette française, dévaluation de l’euro et valeur du Bitcoin"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Or, environnement et comparaison avec Bitcoin"
+        },
+        {
+          "startSeconds": 3105,
+          "title": "Hydrogène vert, subventions et limites économiques"
+        },
+        {
+          "startSeconds": 3375,
+          "title": "Lobbying monétaire et politique industrielle du numérique"
+        },
+        {
+          "startSeconds": 3510,
+          "title": "Consommation énergétique des transactions Bitcoin"
+        },
+        {
+          "startSeconds": 3690,
+          "title": "Sécurité de Bitcoin et alternatives moins énergivores"
+        },
+        {
+          "startSeconds": 3870,
+          "title": "Surplus nucléaire français et rôle du minage Bitcoin"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Minage Bitcoin et équilibrage des réseaux électriques"
+        },
+        {
+          "startSeconds": 4365,
+          "title": "Blackouts, tempêtes solaires et résilience du réseau"
+        },
+        {
+          "startSeconds": 4635,
+          "title": "Interdiction du Bitcoin et protection des avoirs"
+        },
+        {
+          "startSeconds": 4815,
+          "title": "Perspectives énergétiques européennes et fusion nucléaire"
+        },
+        {
+          "startSeconds": 5265,
+          "title": "Fusion nucléaire, sobriété et risques de surconsommation"
+        },
+        {
+          "startSeconds": 5535,
+          "title": "Fin du monopole monétaire et concurrence des modèles"
+        },
+        {
+          "startSeconds": 5760,
+          "title": "Fusion nucléaire, uranium et ressources énergétiques"
+        },
+        {
+          "startSeconds": 6075,
+          "title": "Opportunité française et avenir du minage Bitcoin"
+        },
+        {
+          "startSeconds": 6345,
+          "title": "Délinquance, prison et sécurité publique"
+        },
+        {
+          "startSeconds": 6705,
+          "title": "Répression des gangs et expérience salvadorienne"
+        },
+        {
+          "startSeconds": 7335,
+          "title": "Risques démocratiques, censure et juridisme"
+        },
+        {
+          "startSeconds": 7875,
+          "title": "Décentralisation politique et critique de l’Union européenne"
+        },
+        {
+          "startSeconds": 8145,
+          "title": "Inégalités de richesse et effet Cantillon"
+        },
+        {
+          "startSeconds": 8640,
+          "title": "Objections au Bitcoin, richesse et justice salvadorienne"
+        },
+        {
+          "startSeconds": 9045,
+          "title": "Lectures recommandées et conseils aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "4cECbyta92Y",
@@ -6426,9 +6640,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "André Merlin : fondateur et ancien président de RTE.\nVincent Delahaye : sénateur de l'#Essonne, commissions d'enquêtes concessions autoroutières et électricité.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation des invités et du réseau électrique"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Blackout ibérique et enquête sur le réseau"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Futur du mix électrique français"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Coût des renouvelables intermittentes"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Électrification des usages et choix du mix"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Influence européenne sur la politique énergétique"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Relance nucléaire et réindustrialisation française"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Disponibilité de l’uranium et réacteurs de quatrième génération"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Plan européen compétences et délais nucléaires"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Prix de l’électricité et compétitivité industrielle"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Réseaux électriques et coût complet des projets"
+        },
+        {
+          "startSeconds": 3690,
+          "title": "Fiscalité de l’électricité et propositions du Sénat"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Prospective et rôle du Parlement dans les choix énergétiques"
+        },
+        {
+          "startSeconds": 4230,
+          "title": "Gaz russe corrosion nucléaire et réserves thermiques"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Fermetures nucléaires et prévisions de demande"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Décroissance croissance et sobriété énergétique"
+        },
+        {
+          "startSeconds": 5580,
+          "title": "Prix de l’électricité et désindustrialisation française"
+        },
+        {
+          "startSeconds": 5760,
+          "title": "Redressement économique et rigueur budgétaire"
+        },
+        {
+          "startSeconds": 6120,
+          "title": "Intelligence artificielle et consommation électrique"
+        },
+        {
+          "startSeconds": 6300,
+          "title": "Concessions hydroélectriques et stockage par pompage"
+        },
+        {
+          "startSeconds": 6525,
+          "title": "Réseaux intelligents projet Hercule et complexité du système"
+        },
+        {
+          "startSeconds": 6795,
+          "title": "PPE données de consommation et suivi des rapports"
+        },
+        {
+          "startSeconds": 7020,
+          "title": "Nucléaire français prolongation et financements européens"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Modulation du nucléaire refroidissement et levier européen"
+        },
+        {
+          "startSeconds": 7650,
+          "title": "Coûts des réacteurs et besoins en cuivre"
+        },
+        {
+          "startSeconds": 7830,
+          "title": "Surplus électriques Bitcoin et hydrogène"
+        },
+        {
+          "startSeconds": 8100,
+          "title": "Institutions hydrogène naturel et principe de précaution"
+        },
+        {
+          "startSeconds": 8415,
+          "title": "Rendement des EPR et conditions de construction"
+        },
+        {
+          "startSeconds": 8550,
+          "title": "Contraintes carbone et impact social"
+        },
+        {
+          "startSeconds": 8640,
+          "title": "Fusion lectures et conseils aux jeunes"
+        }
+      ]
     },
     {
       "id": "2A82fN8ZeUs",

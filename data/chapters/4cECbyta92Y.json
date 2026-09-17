@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "4cECbyta92Y",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-17T19:41:50Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et du réseau électrique"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Blackout ibérique et enquête sur le réseau"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Futur du mix électrique français"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Coût des renouvelables intermittentes"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Électrification des usages et choix du mix"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Influence européenne sur la politique énergétique"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Relance nucléaire et réindustrialisation française"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Disponibilité de l’uranium et réacteurs de quatrième génération"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Plan européen compétences et délais nucléaires"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Prix de l’électricité et compétitivité industrielle"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Réseaux électriques et coût complet des projets"
+    },
+    {
+      "startSeconds": 3690,
+      "title": "Fiscalité de l’électricité et propositions du Sénat"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Prospective et rôle du Parlement dans les choix énergétiques"
+    },
+    {
+      "startSeconds": 4230,
+      "title": "Gaz russe corrosion nucléaire et réserves thermiques"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Fermetures nucléaires et prévisions de demande"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Décroissance croissance et sobriété énergétique"
+    },
+    {
+      "startSeconds": 5580,
+      "title": "Prix de l’électricité et désindustrialisation française"
+    },
+    {
+      "startSeconds": 5760,
+      "title": "Redressement économique et rigueur budgétaire"
+    },
+    {
+      "startSeconds": 6120,
+      "title": "Intelligence artificielle et consommation électrique"
+    },
+    {
+      "startSeconds": 6300,
+      "title": "Concessions hydroélectriques et stockage par pompage"
+    },
+    {
+      "startSeconds": 6525,
+      "title": "Réseaux intelligents projet Hercule et complexité du système"
+    },
+    {
+      "startSeconds": 6795,
+      "title": "PPE données de consommation et suivi des rapports"
+    },
+    {
+      "startSeconds": 7020,
+      "title": "Nucléaire français prolongation et financements européens"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Modulation du nucléaire refroidissement et levier européen"
+    },
+    {
+      "startSeconds": 7650,
+      "title": "Coûts des réacteurs et besoins en cuivre"
+    },
+    {
+      "startSeconds": 7830,
+      "title": "Surplus électriques Bitcoin et hydrogène"
+    },
+    {
+      "startSeconds": 8100,
+      "title": "Institutions hydrogène naturel et principe de précaution"
+    },
+    {
+      "startSeconds": 8415,
+      "title": "Rendement des EPR et conditions de construction"
+    },
+    {
+      "startSeconds": 8550,
+      "title": "Contraintes carbone et impact social"
+    },
+    {
+      "startSeconds": 8640,
+      "title": "Fusion lectures et conseils aux jeunes"
+    }
+  ]
+}
