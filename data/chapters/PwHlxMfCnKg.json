@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "videoId": "PwHlxMfCnKg",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T10:34:28Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Parcours et interventions militaires"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Financement des interventions militaires"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Financement européen des opérations africaines"
+    },
+    {
+      "startSeconds": 405,
+      "title": "OTAN et opération en Libye"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Intérêts divergents des interventions"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Objectifs américains de la guerre en Irak"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Hypothèses sur la stratégie américaine"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Unipolarité bipolarité et multipolarité"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Europe de la défense face à la Chine"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Choix européen entre les ordres mondiaux"
+    },
+    {
+      "startSeconds": 1305,
+      "title": "Scénario de crise pour l’Europe"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Choix européens et autonomie de pensée"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Allemagne NSA et Brexit"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Femmes universitaires et discrimination professionnelle"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Conseil aux nouvelles générations"
+    }
+  ]
+}

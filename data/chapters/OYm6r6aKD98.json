@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "videoId": "OYm6r6aKD98",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T03:54:51.150658029Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de l'avocat et du dossier Bluetooth"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Google et l'enquête dans le dossier"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Épreuve judiciaire et écrits sur des affaires sensibles"
+    },
+    {
+      "startSeconds": 585,
+      "title": "Loi de programmation militaire et surveillance administrative"
+    },
+    {
+      "startSeconds": 765,
+      "title": "Garanties des citoyens face à la surveillance"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Modèle économique et surveillance des populations"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Confiance économique après le programme Prism"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Conséquences sociales de la défiance numérique"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Identité numérique et outils alternatifs"
+    }
+  ]
+}

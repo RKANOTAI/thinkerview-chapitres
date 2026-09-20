@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "videoId": "AQN8AYVzXqs",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T14:11:58Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "La France face à ses moyens diplomatiques"
+    },
+    {
+      "startSeconds": 450,
+      "title": "La diplomatie religieuse de l’Arabie saoudite"
+    },
+    {
+      "startSeconds": 720,
+      "title": "La contestation de la légitimité saoudienne par Daesh"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Les interventions occidentales et l’éclatement des États"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Les ambiguïtés occidentales face au régime syrien"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "La révolution technologique dans les affaires militaires"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Les limites de la stratégie du zéro mort"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "La pénétration salafiste et le renseignement en France"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "La Ligue islamique mondiale et le communautarisme"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "La formation des imams et les limites de la laïcité"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Les doubles standards de la politique extérieure"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Les différences entre salafisme et wahhabisme"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "La montée des radicalismes en miroir"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "La crise démocratique et le rejet du système"
+    },
+    {
+      "startSeconds": 3465,
+      "title": "Les valeurs occidentales confrontées aux autres sociétés"
+    },
+    {
+      "startSeconds": 3735,
+      "title": "Le droit administratif face aux réalités contemporaines"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Droits de l’homme, surveillance et dangerosité"
+    },
+    {
+      "startSeconds": 4095,
+      "title": "Le besoin d’un temps politique et d’hommes d’État"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "videoId": "_-N7_V5aK5M",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T04:47:59Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Ouverture sur les risques mondiaux"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Armes chimiques enfouies et risques maritimes"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Secret et méconnaissance du danger"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Anthrax militarisé et recherches biologiques"
+    },
+    {
+      "startSeconds": 585,
+      "title": "Anthrax au Zimbabwe et aux États-Unis"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Parcours commun des deux documentaristes"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Armes de destruction massive et guerre en Irak"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "David Kelly et le scandale britannique"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Guerre contre le terrorisme et surveillance"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Ennemis désignés et militarisation des États"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Conseils aux jeunes pour vérifier les informations"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Technologie et changement social"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "videoId": "507HStKtw-I",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T15:03:34Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de DataGueule et de son équipe"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Complosphère, pluralisme et information alternative"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Pluralisme et désaccords dans l'équipe"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Vérification des données et subjectivité des sources"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Autonomie éditoriale avec France Télévisions"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Réactions de Frontex et limites des données"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Charge documentaire et effets psychologiques du travail"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Terrain, sociologie et questionnement de l'humain"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Non-recours sociaux et récits politiques"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Revenu de base et complexité des choix publics"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Pessimisme face aux logiques économiques"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Lutte des idées et éducation populaire"
+    },
+    {
+      "startSeconds": 2835,
+      "title": "Émancipation et action démocratique locale"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Autocensure et contraintes du journalisme quotidien"
+    },
+    {
+      "startSeconds": 3195,
+      "title": "Conseils pour penser ensemble et agir"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Origines de l'émission et entretiens sans montage"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Avenir de l'Internet et réseaux collaboratifs"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Fact-checking final et aléas du direct"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "videoId": "TeOlL_hVF6g",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T18:49:55Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Propagande nucléaire et naissance du projet de livre"
+    },
+    {
+      "startSeconds": 135,
+      "title": "La CRIIRAD et les analyses de radioactivité"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Vulgariser les risques et le fonctionnement nucléaire"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Accidents nucléaires, corium et barrières de sécurité"
+    },
+    {
+      "startSeconds": 585,
+      "title": "Risques sanitaires et évacuation des grandes villes"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Centrales proches des villes et évacuations difficiles"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Récits officiels et conséquences de Tchernobyl"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Vulnérabilités des centrales face au terrorisme"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Tempête de 1999 et risque de perte électrique"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Maintenance d’EDF et sous-traitance des risques"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Retraitement du plutonium et déchets nucléaires"
+    },
+    {
+      "startSeconds": 1755,
+      "title": "Thorium, sûreté et risque de prolifération"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Charbon, soleil et alternatives énergétiques"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Le nucléaire comme outil géostratégique français"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Transition énergétique, uranium et limites de la croissance"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Conseils aux jeunes et inquiétudes des voisins"
+    }
+  ]
+}

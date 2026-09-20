@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "videoId": "Is-svrzmXRs",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T08:44:22Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et enjeux de la surveillance numérique"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Origines de Qwant et neutralité du réseau"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Big data et exploitation des données personnelles"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Disparition des secrets face à la surveillance"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Mesures de Qwant contre le pistage"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Protection européenne des données et serveurs"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Histoire de Bull et outils de surveillance"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Conflits numériques et surveillance des manifestants"
+    },
+    {
+      "startSeconds": 1305,
+      "title": "Responsabilité politique et absence de garde-fous"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Contrôle des utilisateurs et bulles de recherche"
+    },
+    {
+      "startSeconds": 1665,
+      "title": "Parallèle entre la finance et la dérive d’Internet"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Personnalisation des résultats et défiance informationnelle"
+    },
+    {
+      "startSeconds": 2115,
+      "title": "Conseils pour la vie privée et la neutralité du réseau"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Le code comme nouvelle alphabétisation"
+    }
+  ]
+}

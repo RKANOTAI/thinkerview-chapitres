@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "videoId": "IDe84N2l5_M",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T07:45:38Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation du syndicaliste et du renseignement"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Réforme des RG et manque de moyens"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Renseignement humain et chiffres manipulés"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Perte de sens et politique du chiffre"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Souffrance au travail et suicides policiers"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Syndicats policiers et gestion des carrières"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Proximité politique et rémunération policière"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Corruption et contrôles de sécurité"
+    },
+    {
+      "startSeconds": 1485,
+      "title": "Loi de renseignement et libertés publiques"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Flou juridique et limites déontologiques"
+    },
+    {
+      "startSeconds": 1755,
+      "title": "Police nationale et contrôle social"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Formation, discipline et surveillance interne"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Automatisation et surveillance de masse"
+    },
+    {
+      "startSeconds": 2205,
+      "title": "Transparence et information sur la loi"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Devoir d'information et lien avec la population"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Légalisation du contrôle de masse"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Contrôle généralisé et risques des fichiers"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "videoId": "laDOwa1gGF0",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T17:05:09Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Protection et discrétion des journalistes d'investigation"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Le travail collectif de l'ICIJ et LuxLeaks"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Pressions exercées contre un lanceur d'alerte"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Le secret des affaires et la censure"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Lobbying des multinationales contre les lanceurs d'alerte"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "L'ICIJ comme réponse collective aux pressions"
+    },
+    {
+      "startSeconds": 1305,
+      "title": "Le débat sur la divulgation des documents"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Démocratisation de l'information et intérêt du public"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Sécurité des journalistes et évolution des menaces"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Le journalisme d'investigation face aux institutions"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Les 28 pages et les enjeux financiers du 11 septembre"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Revenir sur les enquêtes anciennes"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Soutien du public et rôle démocratique de l'enquête"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Le Comité Orwell et le journalisme d'opinion"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Le journalisme factuel fondé sur les preuves"
+    },
+    {
+      "startSeconds": 2610,
+      "title": "Indépendance journalistique face aux cercles du pouvoir"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Conseils pour les jeunes générations"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Ambition et prise de risques pour les jeunes"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Conclusion en paroles de rap"
+    }
+  ]
+}

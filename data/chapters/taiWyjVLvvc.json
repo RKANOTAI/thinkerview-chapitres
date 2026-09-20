@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "videoId": "taiWyjVLvvc",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T01:09:13Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Clearstream et la crise de la presse"
+    },
+    {
+      "startSeconds": 225,
+      "title": "Protection des sources et avenir du journalisme"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Réformer les procès en diffamation"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Dépendance de la presse financière"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Définition du statut de journaliste"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Défense de Snowden et des lanceurs d’alerte"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Financement public d’une chaîne documentaire"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Plateforme documentaire et esprit critique"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Financer les documentaires sur des sujets sensibles"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Affaire Cahuzac et journalisme d’enquête"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Marginalité et éthique du journaliste"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Formation des journalistes et culture économique"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Modèle économique d’un journalisme de qualité"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Conseils pour développer l’esprit critique"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Avenir du journalisme et du web"
+    }
+  ]
+}

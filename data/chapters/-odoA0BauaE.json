@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "videoId": "-odoA0BauaE",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T14:11:44Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Jugement Kerviel et responsabilité de Société Générale"
+    },
+    {
+      "startSeconds": 225,
+      "title": "Argent public et demande de remboursement"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Condamnation de Kerviel et dossier contesté"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Plainte de la procureure et dossier à Lille"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Jérôme Kerviel face aux responsables politiques"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Éligibilité des candidats et détournement des fonds publics"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Crises géopolitiques et flux de migrants"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Écologie, justice et choix de consommation"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Peurs, convictions et satisfaction professionnelle"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Fonction de ministre et état des prisons"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Familles politiques et indépendance de la justice"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Plateformes participatives et démocratie numérique"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Effondrement financier et responsabilité citoyenne"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Presse, publicité et indépendance de l'information"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Conseils aux jeunes et grève du vote"
+    }
+  ]
+}

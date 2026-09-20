@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "FhxVwUdq6ls",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-19T22:28:16Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Accélération technologique et bouleversement social"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Situation inédite et aggravation des pénuries"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Emballement de la machine technologique"
+    }
+  ]
+}

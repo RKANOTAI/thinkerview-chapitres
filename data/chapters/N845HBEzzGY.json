@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "videoId": "N845HBEzzGY",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T13:09:45Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et instabilité de la situation mondiale"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Crises au Proche-Moyen-Orient"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Djihadistes étrangers et conflit syrien"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Intervention russe en Syrie contre l'État islamique"
+    },
+    {
+      "startSeconds": 765,
+      "title": "Tensions entre la Russie et les États-Unis"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Maintien des contacts militaires en Syrie"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Bombardement de l'ambassade russe en Syrie"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Défense aérienne russe et avertissements en Syrie"
+    },
+    {
+      "startSeconds": 1305,
+      "title": "Dialogue franco-russe et avenir de la Syrie"
+    },
+    {
+      "startSeconds": 1485,
+      "title": "Situation à Alep et séparation des groupes armés"
+    },
+    {
+      "startSeconds": 1665,
+      "title": "Frappes aériennes russes et risque de bavures"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Yémen, Libye et traitement médiatique des conflits"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Élargissement de l'OTAN vers les frontières russes"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Système antimissiles et préoccupations russes"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Vols de bombardiers russes près des côtes occidentales"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Déconfliction des vols militaires en mer Baltique"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Dialogue franco-russe et échanges entre sociétés civiles"
+    },
+    {
+      "startSeconds": 2835,
+      "title": "Responsabilité des jeunes générations et bilan"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "videoId": "i4dcmJALM8k",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T01:59:41Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Politiques américaines et économie du trafic de drogue"
+    },
+    {
+      "startSeconds": 495,
+      "title": "La légalisation de la drogue reste interdite à Washington"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Le supramonde et l'influence du pouvoir privé"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Pétrole, élections et tournant politique des années 1980"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Wall Street et la création de la CIA"
+    },
+    {
+      "startSeconds": 1755,
+      "title": "Interventions américaines et pétrole en Asie"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Guerre froide et intérêts privés des compagnies pétrolières"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "La Syrie entre diplomatie, guerre et ressources gazières"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Afghanistan, gazoducs et divisions européennes"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Conseils à la jeunesse et engagement démocratique"
+    },
+    {
+      "startSeconds": 3195,
+      "title": "Surveillance et continuité du gouvernement après le 11 septembre"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "État secret, libertés publiques et espoir de changement"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "videoId": "uYzCK_RPzx8",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T06:34:26Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Surveillance de masse et dérive sécuritaire"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Blocage administratif et contournement technique"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Préconisations pour reprendre le contrôle numérique"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Technologies libres contre technologies de contrôle"
+    },
+    {
+      "startSeconds": 2115,
+      "title": "Surveillance de masse et contrôle social"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Résilience informatique et partage des connaissances"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Promesses commerciales autour de la vie privée"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Logiciel libre comme politique industrielle"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Éducation et logiciels libres accessibles"
+    },
+    {
+      "startSeconds": 3510,
+      "title": "Développement du logiciel libre et sécurité"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Conseils pour comprendre et maîtriser la technologie"
+    }
+  ]
+}

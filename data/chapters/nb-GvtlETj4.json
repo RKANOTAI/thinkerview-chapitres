@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "videoId": "nb-GvtlETj4",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T07:45:38Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Ouverture et constat sur la situation française"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Loi sur le renseignement et confiance dans l'État"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Politique étrangère française et crises internationales"
+    },
+    {
+      "startSeconds": 1305,
+      "title": "Emploi et désindustrialisation en France"
+    },
+    {
+      "startSeconds": 1485,
+      "title": "Agriculture, Monsanto et accords transatlantiques"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Guerre économique et marchés financiers"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Reconstruire la politique et la citoyenneté"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Europe, euro et décision par référendum"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Démocratie participative et mandat politique"
+    },
+    {
+      "startSeconds": 2205,
+      "title": "Dirigeants internationaux et organisations secrètes"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Aveuglement collectif et rôle des médias"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Parallèles historiques et déséquilibres financiers"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Mondialisation, communication et risques de conflit"
+    },
+    {
+      "startSeconds": 2610,
+      "title": "Conseil aux jeunes générations"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Seniors, transmission et nouveaux médias"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Engagement politique et espoir pour la France"
+    }
+  ]
+}

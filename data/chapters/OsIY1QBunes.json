@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "videoId": "OsIY1QBunes",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-19T23:18:47Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Déni collectif face aux mauvaises nouvelles"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Création monétaire et décalage avec la croissance"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Politiques monétaires et hausse des matières premières"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Retraites et fragilité du financement par répartition"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Dette publique, austérité et risque de récession"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Agences de notation et évaluation des risques"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Responsabilité des banquiers et absence de sanctions"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Paradis fiscaux et faux débats politiques"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Vérifier les chiffres économiques par corrélation"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Chômage américain et récits de réindustrialisation"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Inflation mesurée et bon sens économique"
+    }
+  ]
+}

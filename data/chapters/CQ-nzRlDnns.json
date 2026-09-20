@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "videoId": "CQ-nzRlDnns",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T15:59:52Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Guillaume Meurice et de son parcours"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Censure et liberté à France Inter"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Le métier d’humoriste comme média"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Menaces et réception des chroniques"
+    },
+    {
+      "startSeconds": 720,
+      "title": "L’humour comme vecteur de débat"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Pédagogie face aux tensions sociales"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Dieudonné et l’écriture personnelle"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Sélection des journalistes et indépendance médiatique"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Sources d’information et confiance dans les citoyens"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Vote abstention et ligne éditoriale des médias"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Ligne éditoriale Mélenchon et Décodex"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Sécurité informatique et culture des hackers"
+    },
+    {
+      "startSeconds": 2205,
+      "title": "Gouvernement et réforme de la démocratie"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Micro-trottoir et construction de la réalité"
+    },
+    {
+      "startSeconds": 2610,
+      "title": "Lanceurs d’alerte et responsabilité politique"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Accueil des migrants et cause animale"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Méthodes de chronique et sélection des témoignages"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Temps médiatique et ascension de Macron"
+    },
+    {
+      "startSeconds": 3510,
+      "title": "Réseaux d’influence et exigence de transparence"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Critique des médias et recherche d’un terrain d’entente"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Fonctionnement collectif et avenir médiatique"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Colère et engagement sur Internet"
+    },
+    {
+      "startSeconds": 4185,
+      "title": "Conseil final sur l’authenticité"
+    }
+  ]
+}

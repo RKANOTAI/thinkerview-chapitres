@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "videoId": "db26_acAeF4",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T09:43:44Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Le journalisme et le comité Orwell"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Réseaux de pouvoir et indépendance journalistique"
+    },
+    {
+      "startSeconds": 585,
+      "title": "Culture générale et formation des journalistes"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Sujets interdits et police de la pensée"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Journalisme numérique et recul du temps long"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "La hiérarchie et les limites du journalisme politique"
+    },
+    {
+      "startSeconds": 1755,
+      "title": "Politique étrangère et société de consommation"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Migrations, radicalisations et risques de violence"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Snowden et la protection des sources"
+    },
+    {
+      "startSeconds": 2565,
+      "title": "Rapport de force entre médias et pouvoirs"
+    },
+    {
+      "startSeconds": 2835,
+      "title": "L'avenir de la presse et du journalisme"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Modèle économique et qualité de l'information"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "Indépendance des médias et intervention en Libye"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Débat public et sélection d'une équipe"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Protection des journalistes et survivalisme"
+    }
+  ]
+}

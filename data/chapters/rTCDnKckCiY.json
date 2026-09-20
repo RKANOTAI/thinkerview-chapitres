@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "videoId": "rTCDnKckCiY",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T15:03:34Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Ouverture et parcours de François Asselineau"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Création de l'UPR sans soutien politique ni médiatique"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Réponse aux accusations de secte et de gourou"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Objectifs de l'UPR et critique des partis politiques"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Sortie de l'Union européenne par l'article 50"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Positions européennes, adhésions et parrainages de l'UPR"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Présence numérique et diffusion des analyses politiques"
+    },
+    {
+      "startSeconds": 1665,
+      "title": "Débat politique et engagement électoral"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Traités européens et reprise du pouvoir national"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Réformes constitutionnelles et démocratie citoyenne"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Indépendance des médias et protection des lanceurs d'alerte"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Donald Trump et les relations internationales"
+    },
+    {
+      "startSeconds": 2745,
+      "title": "Vladimir Poutine et le redressement de la Russie"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Liberté de la presse et développement de l'UPR"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Écologie et priorités énergétiques du programme"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Référendums présidentiels et décision populaire"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Dette publique et simplification administrative"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Préservation de la France face au projet européen"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Contrôle des capitaux après la sortie de l'Union européenne"
+    },
+    {
+      "startSeconds": 4275,
+      "title": "Histoire nationale et débat sur l'immigration"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Déstabilisation internationale et causes des migrations"
+    },
+    {
+      "startSeconds": 4680,
+      "title": "Assimilation républicaine et libertés publiques"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Mouvements citoyens et exigences démocratiques"
+    },
+    {
+      "startSeconds": 4995,
+      "title": "Écologie et critique du modèle productiviste"
+    },
+    {
+      "startSeconds": 5130,
+      "title": "Lobbies, OGM et obligations européennes"
+    },
+    {
+      "startSeconds": 5310,
+      "title": "Mondialisation, consommation et malaise social"
+    },
+    {
+      "startSeconds": 5490,
+      "title": "Cannabis et approche de la politique antidrogue"
+    },
+    {
+      "startSeconds": 5670,
+      "title": "Conseils aux jeunes, culture et Internet"
+    },
+    {
+      "startSeconds": 5850,
+      "title": "Loyauté journalistique et conclusion de l'entretien"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "videoId": "sIaLxUiR9BQ",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T17:56:59Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Le siège de Sarajevo et le mandat de l’ONU"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Les équipes au sol guidant les frappes aériennes"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Les frappes annulées malgré les cibles identifiées"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Retour d’expérience et culture du silence"
+    },
+    {
+      "startSeconds": 1485,
+      "title": "La mission française au Rwanda"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Enquêtes et archives sur le Rwanda"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "La menace terroriste et les libertés démocratiques"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Interventions françaises en Afrique et transparence"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Livraisons d’armes et coopération européenne"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Le rôle de l’armée dans les décisions politiques"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Professionnalisation de l’armée et réponse au terrorisme"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Bilan des frappes et exigence démocratique"
+    }
+  ]
+}

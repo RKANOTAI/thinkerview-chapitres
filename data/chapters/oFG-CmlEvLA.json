@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "videoId": "oFG-CmlEvLA",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T02:00:23.839Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Parcours et influence de Michel Elefteriades"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Crise syrienne et revirement des puissances"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Bernard-Henri Lévy et l’unipolarité américaine"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Deux axes géopolitiques au Moyen-Orient"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Culture et éducation avant le vote"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Guerre syrienne et négociations de reconstruction"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Réfugiés syriens et fragilité du Liban"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Armée libanaise et coup d’État gardien"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Nouristan, projet culturel et politique"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Changement politique et limites des alternances"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Origines personnelles du projet Nouristan"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Refonder la politique française et mondiale"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Éducation, discipline et méthodes anciennes"
+    },
+    {
+      "startSeconds": 2565,
+      "title": "Drogues, procédures bâillon et surveillance"
+    }
+  ]
+}

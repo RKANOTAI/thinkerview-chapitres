@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "videoId": "zyB1eQFskf4",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T18:49:55Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Ouverture sur le livre et les hackers"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Politisation des communautés et outils numériques"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Engagement humanitaire pendant les révolutions arabes"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Origines du projet et contraintes des financements"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Compromis et conflits dans les communautés"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Bitcoin, éther et usages des contrats autonomes"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Deep web, 4chan et mythes de l’Internet"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Régulation d’Internet et guerre du chiffrement"
+    },
+    {
+      "startSeconds": 1665,
+      "title": "Surveillance et normalisation des comportements"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Anonymat, chiffrement et visibilité numérique"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Pouvoir des algorithmes et données personnelles"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Modèles de menace et protection personnelle"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Activisme numérique et financement associatif"
+    },
+    {
+      "startSeconds": 2835,
+      "title": "Journalisme, propagande et difficulté de vérifier les faits"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "Vote électronique et exigences d’audit"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Objets connectés, intimité et sécurité"
+    },
+    {
+      "startSeconds": 3645,
+      "title": "Biais des véhicules autonomes et responsabilité"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Intelligence artificielle et concentration du pouvoir"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Conseils de sécurité face à la vulnérabilité numérique"
+    }
+  ]
+}

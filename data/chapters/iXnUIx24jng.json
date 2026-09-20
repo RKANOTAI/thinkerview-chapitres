@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "videoId": "iXnUIx24jng",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T09:34:36Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Pourquoi écrire le livre Mohican"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Cavanna et les origines de la presse libre"
+    },
+    {
+      "startSeconds": 450,
+      "title": "La renaissance de Charlie Hebdo"
+    },
+    {
+      "startSeconds": 675,
+      "title": "La transformation politique du journal"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Les conflits internes après les attentats"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "La captation du titre et les rémunérations"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Les réactions de Charlie face au livre"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Pressions juridiques et sortie du livre"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Désinvitation médiatique et influence des communicants"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Responsabilité des journalistes et liberté de la presse"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Traitement des attentats et information libre"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Sécurité, renseignement et libertés publiques"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Conseils aux jeunes face aux risques"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Éducation, dialogue et information en ligne"
+    },
+    {
+      "startSeconds": 3195,
+      "title": "Responsabilité de l’État et radicalisation religieuse"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Rester une conscience éveillée"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Lanceurs d’alerte et devoir d’informer"
+    },
+    {
+      "startSeconds": 3825,
+      "title": "Lectures et formation du journaliste"
+    },
+    {
+      "startSeconds": 4005,
+      "title": "Contrôle démocratique du renseignement"
+    }
+  ]
+}

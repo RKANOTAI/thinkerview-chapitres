@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "videoId": "uBaAvHxdShw",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T15:59:52Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Information et concentration du pouvoir"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Responsabilité politique face aux massacres"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Puissance et instrumentalisation des États du Golfe"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "État d'urgence et verticalité du pouvoir"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Décalage entre discours et action de l'État"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Facteurs de tension et structures de pouvoir"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Enquête en Centrafrique et protection personnelle"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Wikileaks et radicalité face au pouvoir"
+    },
+    {
+      "startSeconds": 3465,
+      "title": "Asile français et reconnaissance d'Assange"
+    },
+    {
+      "startSeconds": 3735,
+      "title": "Prix de la liberté et risques personnels"
+    },
+    {
+      "startSeconds": 4005,
+      "title": "Responsabilité politique autour de la détention d'Assange"
+    },
+    {
+      "startSeconds": 4185,
+      "title": "Indifférence politique et responsabilité collective"
+    }
+  ]
+}

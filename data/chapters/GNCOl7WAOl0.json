@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "videoId": "GNCOl7WAOl0",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-18T07:48:21Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Ressources et choix énergétiques de la France"
+    },
+    {
+      "startSeconds": 45,
+      "title": "Difficultés industrielles et réglementation électrique européenne"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Politiques européennes appliquées en France"
+    }
+  ]
+}

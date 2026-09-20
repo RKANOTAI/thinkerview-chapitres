@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "videoId": "byA8gKMazs4",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-18T07:48:21Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et parcours de l’ambassadeur iranien"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Rôle régional et stabilité selon l’Iran"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Syrie, sanctions et prisons sous Assad"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "L’Iran face à l’axe du mal"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Position iranienne sur les attaques du 7 octobre"
+    },
+    {
+      "startSeconds": 1755,
+      "title": "Prisons iraniennes et ressortissants français détenus"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Programme nucléaire et stratégie défensive iranienne"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Sanctions, défense nationale et tensions régionales"
+    },
+    {
+      "startSeconds": 3555,
+      "title": "Femmes, lois et contestation en Iran"
+    },
+    {
+      "startSeconds": 4185,
+      "title": "Exactions policières et sanctions en Iran"
+    },
+    {
+      "startSeconds": 4545,
+      "title": "Mariage et homosexualité dans le droit iranien"
+    },
+    {
+      "startSeconds": 4815,
+      "title": "Éducation des femmes et pression sociale"
+    },
+    {
+      "startSeconds": 4950,
+      "title": "Peine de mort et lutte contre les stupéfiants"
+    },
+    {
+      "startSeconds": 5445,
+      "title": "Voile, liberté individuelle et normes sociales"
+    },
+    {
+      "startSeconds": 5850,
+      "title": "Enquêtes au Liban et non-ingérence iranienne"
+    },
+    {
+      "startSeconds": 5985,
+      "title": "Prise de l’ambassade américaine à Téhéran"
+    },
+    {
+      "startSeconds": 6210,
+      "title": "Plan iranien pour la paix mondiale"
+    },
+    {
+      "startSeconds": 6390,
+      "title": "Conflit israélo-iranien et non-reconnaissance d’Israël"
+    },
+    {
+      "startSeconds": 6615,
+      "title": "Coexistence religieuse et paix régionale"
+    },
+    {
+      "startSeconds": 6795,
+      "title": "Palestiniens, visas et liberté de reportage"
+    },
+    {
+      "startSeconds": 7020,
+      "title": "Accès aux prisons et infrastructures défensives"
+    },
+    {
+      "startSeconds": 7155,
+      "title": "Prisonniers français et contournement du dollar"
+    },
+    {
+      "startSeconds": 7245,
+      "title": "Poésie persane et questions religieuses"
+    },
+    {
+      "startSeconds": 7425,
+      "title": "Trump, multilatéralisme et justice internationale"
+    },
+    {
+      "startSeconds": 7695,
+      "title": "Relations avec l’Arménie et l’Azerbaïdjan"
+    },
+    {
+      "startSeconds": 7830,
+      "title": "Qualités des Français et des Iraniens"
+    },
+    {
+      "startSeconds": 8010,
+      "title": "Médias, culture et liberté d’information"
+    },
+    {
+      "startSeconds": 8505,
+      "title": "Relations régionales et avenir de l’Iran"
+    },
+    {
+      "startSeconds": 8595,
+      "title": "Livres conseillés et conseils aux jeunes"
+    }
+  ]
+}

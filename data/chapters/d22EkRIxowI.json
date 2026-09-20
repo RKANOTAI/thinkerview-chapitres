@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "videoId": "d22EkRIxowI",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T07:45:38Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Parcours de Pierre Conesa et sujet saoudien"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Famille Ben Laden et exfiltration après le 11 septembre"
+    },
+    {
+      "startSeconds": 270,
+      "title": "L’Arabie saoudite épargnée dans la stratégie américaine"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Diplomatie religieuse et expansion du wahhabisme"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Salafisme, légitimité politique et guerre civile"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Double standard occidental dans la lutte contre Daesh"
+    },
+    {
+      "startSeconds": 1035,
+      "title": "Apocalypse et théorie du complot salafiste"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "La violence terroriste vise d’abord les musulmans"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Dépendance commerciale et risques technologiques français"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Divisions européennes et relations avec Riyad"
+    },
+    {
+      "startSeconds": 1755,
+      "title": "Intégration et enseignement critique de l’islam"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "videoId": "tyy3v-jpe34",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T16:54:53Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et enjeux des marchés financiers"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Risques liés aux banques trop grandes"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Dette chinoise et risques de crise"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Fragilités européennes et dettes pétrolières"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Shadow banking et régulation financière"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Taux négatifs et frénésie monétaire"
+    },
+    {
+      "startSeconds": 1035,
+      "title": "La France et la régulation financière"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Trois priorités pour réguler les banques"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "L'influence bancaire sur les gouvernements"
+    },
+    {
+      "startSeconds": 1665,
+      "title": "Banques centrales et pouvoir des marchés"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Réversibilité des positions et inertie politique"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Dette renouvelée et limites de la croissance"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Risque de liquidité et fragilité bancaire"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Prélèvements et garantie des dépôts bancaires"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Banques de dépôts et protection de l'épargne"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Fraude et optimisation fiscales"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Montages fiscaux en Europe"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "État d'urgence et mesures sécuritaires"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Big data et décisions algorithmiques en assurance"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Contrôle et confidentialité des données personnelles"
+    },
+    {
+      "startSeconds": 4095,
+      "title": "Conseils de lecture pour l'esprit critique"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "videoId": "6VUpicNBMzg",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-19T23:18:26Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "La loi de Moore et l’accélération technique"
+    },
+    {
+      "startSeconds": 225,
+      "title": "Connexion mondiale et inégalités de consommation"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Épuisement des ressources et promesses technologiques"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Progrès automobile et rebond de consommation"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Pétrole, engrais et production agricole"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Consommation de viande et objectif chinois"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Science et technologie aggravent les pénuries"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Motivations religieuses et changement des comportements"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Emballement technologique, démographie et besoins croissants"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Pénuries d’eau et conflits à venir"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Frustrations, armes nucléaires et biologiques"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Ouvrages sur les menaces et l’action"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Méchanceté humaine et traitement des animaux"
+    },
+    {
+      "startSeconds": 2205,
+      "title": "Rêves, exploration spatiale et action"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Passer du rêve à la réalité"
+    }
+  ]
+}

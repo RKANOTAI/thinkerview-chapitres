@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "videoId": "uRawWLYX8K0",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T13:09:45Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Parcours de journaliste et choix de l'investigation"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Raconter Daesh à travers les témoins irakiens"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Origines de l'invasion américaine de l'Irak"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Conflit confessionnel et naissance de Daesh"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Bagdad entre vie quotidienne et lignes brisées"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Risques et contraintes du journalisme en Irak"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Images contrôlées et enquête sur l'État islamique"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Profils des jeunes attirés par le djihadisme"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Surveillance et prévention des attentats en France"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Discrimination, intégration et lutte contre les réseaux"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Anticommunisme américain et groupes islamistes"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Massacre d'Odessa et construction des perceptions"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Milices ukrainiennes et lecture du conflit"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Intérêts russes et zone tampon dans le Donbass"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Réception du film sur le conflit ukrainien"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Pensée de groupe dans le journalisme"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Conseils aux jeunes journalistes"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Bilan de l'entretien et vérification des idées"
+    }
+  ]
+}

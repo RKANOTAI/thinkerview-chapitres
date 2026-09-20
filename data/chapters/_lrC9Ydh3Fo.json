@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "videoId": "_lrC9Ydh3Fo",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T04:47:59Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "CSA et régulation des contenus"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Labellisation et risques totalitaires"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Liberté d’expression et plateformes"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Neutralité du net et péage"
+    },
+    {
+      "startSeconds": 585,
+      "title": "Données personnelles et portabilité"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Prise de conscience des traces numériques"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Éducation à la société du réseau"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Internet ouvert et circulation du pouvoir"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "S’informer par les réseaux et gouvernance"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Noms de domaine et racines multiples"
+    },
+    {
+      "startSeconds": 1485,
+      "title": "IPv4, IPv6 et asymétrie du réseau"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Solutions techniques pour maintenir un réseau ouvert"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Surveillance et contrôle social"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Crise économique et montée des totalitarismes"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Collecte de données et réciprocité"
+    }
+  ]
+}

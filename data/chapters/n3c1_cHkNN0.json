@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "videoId": "n3c1_cHkNN0",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T05:41:02Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation du débat sur les inégalités"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Fiscalité des multinationales de la Silicon Valley"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Pauvreté américaine et endettement étudiant"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Régulation bancaire américaine et dépôts à vue"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Luxembourg Leaks et responsabilités européennes"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Sanctions contre les banques et responsabilité politique"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Lobbying européen et opacité fiscale"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Liberté économique et solidarité fiscale"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Dérégulation bancaire et explosion des produits dérivés"
+    },
+    {
+      "startSeconds": 3105,
+      "title": "Traitement médiatique des risques financiers"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Commission trilatérale et rapports de force internationaux"
+    },
+    {
+      "startSeconds": 3645,
+      "title": "Journalisme financier face à l’opacité bancaire"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Propriété des médias et représentation démocratique"
+    },
+    {
+      "startSeconds": 4230,
+      "title": "Investissement américain et création monétaire européenne"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Dette grecque et limites du financement européen"
+    },
+    {
+      "startSeconds": 4815,
+      "title": "Solidarité des grandes fortunes et sécurité privée"
+    },
+    {
+      "startSeconds": 5040,
+      "title": "Harmonisation fiscale et investissement des entreprises"
+    },
+    {
+      "startSeconds": 5490,
+      "title": "Solutions françaises pour les entrepreneurs et la solidarité"
+    },
+    {
+      "startSeconds": 5760,
+      "title": "Risques de krach financier et protection de l’épargne"
+    },
+    {
+      "startSeconds": 6075,
+      "title": "Produits dérivés, faillites bancaires et gestion des risques"
+    },
+    {
+      "startSeconds": 6210,
+      "title": "Prudence française face à une nouvelle crise"
+    }
+  ]
+}

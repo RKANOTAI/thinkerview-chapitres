@@ -8067,9 +8067,22 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "David Guiraud : Député LFI de la 8ème circonscription du Nord\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Ressources et choix énergétiques de la France"
+        },
+        {
+          "startSeconds": 45,
+          "title": "Difficultés industrielles et réglementation électrique européenne"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Politiques européennes appliquées en France"
+        }
+      ]
     },
     {
       "id": "mSjNXeBNr58",
@@ -9379,9 +9392,130 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Philippe Pujol : journaliste et écrivain spécialiste des trafics de stupéfiants, prix Albert Londres pour \"Quartier Shit\".\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et définition du monstre"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Chaîne internationale et transport du trafic"
+        },
+        {
+          "startSeconds": 1035,
+          "title": "Dépotage et distribution locale"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Économie des semi-grossistes marseillais"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Histoire de la French Connection"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Guerres de territoires et trahisons internes"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Identité et tissu social marseillais"
+        },
+        {
+          "startSeconds": 3105,
+          "title": "Paupérisation et rénovation urbaine"
+        },
+        {
+          "startSeconds": 3555,
+          "title": "Le trafic comme symptôme d’une crise sociale"
+        },
+        {
+          "startSeconds": 4005,
+          "title": "Les émeutes et le retour de la vie locale"
+        },
+        {
+          "startSeconds": 4635,
+          "title": "Diffusion nationale et récupération politique"
+        },
+        {
+          "startSeconds": 5130,
+          "title": "Le football comme espace politique"
+        },
+        {
+          "startSeconds": 5310,
+          "title": "Financement politique et blanchiment local"
+        },
+        {
+          "startSeconds": 5940,
+          "title": "Risques sanitaires et prévention des consommations"
+        },
+        {
+          "startSeconds": 6390,
+          "title": "Drogues et performance dans les métiers concurrentiels"
+        },
+        {
+          "startSeconds": 6660,
+          "title": "Avenir du narcotrafic sous contraintes"
+        },
+        {
+          "startSeconds": 6930,
+          "title": "Endettement et recrutement des jeunes"
+        },
+        {
+          "startSeconds": 7335,
+          "title": "Vulnérabilité et violence chez les jeunes"
+        },
+        {
+          "startSeconds": 7875,
+          "title": "Vulnérabilités psychiatriques et neurologiques"
+        },
+        {
+          "startSeconds": 8100,
+          "title": "La police comme infirmière du problème social"
+        },
+        {
+          "startSeconds": 8640,
+          "title": "Effectifs et formation des policiers"
+        },
+        {
+          "startSeconds": 8910,
+          "title": "Police et règles du trafic de stupéfiants"
+        },
+        {
+          "startSeconds": 9315,
+          "title": "Coopération avec le Maroc sur le cannabis"
+        },
+        {
+          "startSeconds": 9450,
+          "title": "Trois axes pour réduire les trafics"
+        },
+        {
+          "startSeconds": 10170,
+          "title": "Décriminalisation et parcours de soin"
+        },
+        {
+          "startSeconds": 10485,
+          "title": "Laxisme social et communication des réseaux"
+        },
+        {
+          "startSeconds": 10755,
+          "title": "Applications et recrutement numérique"
+        },
+        {
+          "startSeconds": 11340,
+          "title": "Protoxyde d’azote et prostitution des mineures"
+        },
+        {
+          "startSeconds": 11880,
+          "title": "Dangers sanitaires et recommandations finales"
+        },
+        {
+          "startSeconds": 12105,
+          "title": "Conseils aux jeunes contre le mirage criminel"
+        }
+      ]
     },
     {
       "id": "byA8gKMazs4",
@@ -9393,9 +9527,126 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Mohammad Amin Nejad : Ambassadeur d'Iran en France\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et parcours de l’ambassadeur iranien"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Rôle régional et stabilité selon l’Iran"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Syrie, sanctions et prisons sous Assad"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "L’Iran face à l’axe du mal"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Position iranienne sur les attaques du 7 octobre"
+        },
+        {
+          "startSeconds": 1755,
+          "title": "Prisons iraniennes et ressortissants français détenus"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Programme nucléaire et stratégie défensive iranienne"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Sanctions, défense nationale et tensions régionales"
+        },
+        {
+          "startSeconds": 3555,
+          "title": "Femmes, lois et contestation en Iran"
+        },
+        {
+          "startSeconds": 4185,
+          "title": "Exactions policières et sanctions en Iran"
+        },
+        {
+          "startSeconds": 4545,
+          "title": "Mariage et homosexualité dans le droit iranien"
+        },
+        {
+          "startSeconds": 4815,
+          "title": "Éducation des femmes et pression sociale"
+        },
+        {
+          "startSeconds": 4950,
+          "title": "Peine de mort et lutte contre les stupéfiants"
+        },
+        {
+          "startSeconds": 5445,
+          "title": "Voile, liberté individuelle et normes sociales"
+        },
+        {
+          "startSeconds": 5850,
+          "title": "Enquêtes au Liban et non-ingérence iranienne"
+        },
+        {
+          "startSeconds": 5985,
+          "title": "Prise de l’ambassade américaine à Téhéran"
+        },
+        {
+          "startSeconds": 6210,
+          "title": "Plan iranien pour la paix mondiale"
+        },
+        {
+          "startSeconds": 6390,
+          "title": "Conflit israélo-iranien et non-reconnaissance d’Israël"
+        },
+        {
+          "startSeconds": 6615,
+          "title": "Coexistence religieuse et paix régionale"
+        },
+        {
+          "startSeconds": 6795,
+          "title": "Palestiniens, visas et liberté de reportage"
+        },
+        {
+          "startSeconds": 7020,
+          "title": "Accès aux prisons et infrastructures défensives"
+        },
+        {
+          "startSeconds": 7155,
+          "title": "Prisonniers français et contournement du dollar"
+        },
+        {
+          "startSeconds": 7245,
+          "title": "Poésie persane et questions religieuses"
+        },
+        {
+          "startSeconds": 7425,
+          "title": "Trump, multilatéralisme et justice internationale"
+        },
+        {
+          "startSeconds": 7695,
+          "title": "Relations avec l’Arménie et l’Azerbaïdjan"
+        },
+        {
+          "startSeconds": 7830,
+          "title": "Qualités des Français et des Iraniens"
+        },
+        {
+          "startSeconds": 8010,
+          "title": "Médias, culture et liberté d’information"
+        },
+        {
+          "startSeconds": 8505,
+          "title": "Relations régionales et avenir de l’Iran"
+        },
+        {
+          "startSeconds": 8595,
+          "title": "Livres conseillés et conseils aux jeunes"
+        }
+      ]
     },
     {
       "id": "Oo8-m8K_foY",
@@ -9407,9 +9658,118 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "David Guiraud : Député LFI de la 8ème circonscription du Nord\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et parcours politique de David Guiraud"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Début de l’analyse des finances publiques françaises"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Réforme fiscale et financement des collectivités locales"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Gestion de la sécurité sociale et rôle de l’État"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Transferts de TVA et hausse du déficit public"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Idéologie du marché et financement des entreprises"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Marchés financiers et priorité aux dépenses sociales"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Départements et protection de l’enfance à Roubaix"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Contrôle social et modèles de société"
+        },
+        {
+          "startSeconds": 3645,
+          "title": "Incertitude géopolitique et formation des blocs"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Énergie et dépendance des politiques françaises"
+        },
+        {
+          "startSeconds": 4185,
+          "title": "Relations avec l’Algérie et présence en Afrique"
+        },
+        {
+          "startSeconds": 4455,
+          "title": "Politique africaine et recul de la diplomatie française"
+        },
+        {
+          "startSeconds": 4635,
+          "title": "Immigration OQTF et politiques d’intégration"
+        },
+        {
+          "startSeconds": 4950,
+          "title": "Délinquance locale et limites de la réponse pénale"
+        },
+        {
+          "startSeconds": 5130,
+          "title": "Radicalisation et rôle des liens sociaux"
+        },
+        {
+          "startSeconds": 5355,
+          "title": "Hypothèses budgétaires et financement des retraites"
+        },
+        {
+          "startSeconds": 5625,
+          "title": "Avenir industriel et règles énergétiques européennes"
+        },
+        {
+          "startSeconds": 6030,
+          "title": "Effets des choix de Trump sur l’Europe"
+        },
+        {
+          "startSeconds": 6255,
+          "title": "Transition énergétique et choix technologiques"
+        },
+        {
+          "startSeconds": 6435,
+          "title": "Rapport de force européen et Frexit"
+        },
+        {
+          "startSeconds": 6570,
+          "title": "OTAN Ukraine et stratégie américaine"
+        },
+        {
+          "startSeconds": 6885,
+          "title": "Non-alignement et partenariats internationaux de la France"
+        },
+        {
+          "startSeconds": 7110,
+          "title": "Sanctions américaines et autonomie européenne"
+        },
+        {
+          "startSeconds": 7380,
+          "title": "Écologie concrète eau et réemploi textile"
+        },
+        {
+          "startSeconds": 7740,
+          "title": "Mobilité électrique et rendement énergétique"
+        },
+        {
+          "startSeconds": 7875,
+          "title": "Lectures conseillées et réflexion sur le bonheur"
+        }
+      ]
     },
     {
       "id": "n0CQPKMyauw",
@@ -13621,9 +13981,86 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "SOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview\nPOSEZ VOS QUESTIONS EN DIRECT : ▶️ https://discord.gg/Ey3pBWV",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Ouverture sur le livre et les hackers"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Politisation des communautés et outils numériques"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Engagement humanitaire pendant les révolutions arabes"
+        },
+        {
+          "startSeconds": 495,
+          "title": "Origines du projet et contraintes des financements"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Compromis et conflits dans les communautés"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Bitcoin, éther et usages des contrats autonomes"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Deep web, 4chan et mythes de l’Internet"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Régulation d’Internet et guerre du chiffrement"
+        },
+        {
+          "startSeconds": 1665,
+          "title": "Surveillance et normalisation des comportements"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Anonymat, chiffrement et visibilité numérique"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Pouvoir des algorithmes et données personnelles"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Modèles de menace et protection personnelle"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Activisme numérique et financement associatif"
+        },
+        {
+          "startSeconds": 2835,
+          "title": "Journalisme, propagande et difficulté de vérifier les faits"
+        },
+        {
+          "startSeconds": 3015,
+          "title": "Vote électronique et exigences d’audit"
+        },
+        {
+          "startSeconds": 3375,
+          "title": "Objets connectés, intimité et sécurité"
+        },
+        {
+          "startSeconds": 3645,
+          "title": "Biais des véhicules autonomes et responsabilité"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Intelligence artificielle et concentration du pouvoir"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Conseils de sécurité face à la vulnérabilité numérique"
+        }
+      ]
     },
     {
       "id": "TeOlL_hVF6g",
@@ -13635,9 +14072,74 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de José Pluki en direct.\nSon site : http://du-goudron-et-des-plumes.fr/",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Propagande nucléaire et naissance du projet de livre"
+        },
+        {
+          "startSeconds": 135,
+          "title": "La CRIIRAD et les analyses de radioactivité"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Vulgariser les risques et le fonctionnement nucléaire"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Accidents nucléaires, corium et barrières de sécurité"
+        },
+        {
+          "startSeconds": 585,
+          "title": "Risques sanitaires et évacuation des grandes villes"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Centrales proches des villes et évacuations difficiles"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Récits officiels et conséquences de Tchernobyl"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Vulnérabilités des centrales face au terrorisme"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Tempête de 1999 et risque de perte électrique"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Maintenance d’EDF et sous-traitance des risques"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Retraitement du plutonium et déchets nucléaires"
+        },
+        {
+          "startSeconds": 1755,
+          "title": "Thorium, sûreté et risque de prolifération"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Charbon, soleil et alternatives énergétiques"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Le nucléaire comme outil géostratégique français"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Transition énergétique, uranium et limites de la croissance"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Conseils aux jeunes et inquiétudes des voisins"
+        }
+      ]
     },
     {
       "id": "9eBBIYWeUxs",
@@ -13649,9 +14151,82 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Pierre-Emmanuel Valentin, Président du directoire de la Nef.\nVidéo enregistrée le 31 mars 2017.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et histoire de la Nef"
+        },
+        {
+          "startSeconds": 225,
+          "title": "Valeurs spirituelles et racines de la Nef"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Accusations sectaires et réponse judiciaire"
+        },
+        {
+          "startSeconds": 585,
+          "title": "Épargne, financement des projets et transparence"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Salaires et choix professionnel du dirigeant"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Moralisation du capitalisme et bien commun"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Patrimoine personnel et regard sur les banques"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Marchés financiers et autonomie de la Nef"
+        },
+        {
+          "startSeconds": 1485,
+          "title": "Ratio de solvabilité et qualité des financements"
+        },
+        {
+          "startSeconds": 1665,
+          "title": "Garantie des dépôts et séparation bancaire"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Fonds spéculatifs, paradis fiscaux et régulation"
+        },
+        {
+          "startSeconds": 2115,
+          "title": "Accès aux comptes et épargne à la Nef"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Marchés des taux et manipulation de l’Euribor"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "Euro, circulation européenne et économie responsable"
+        },
+        {
+          "startSeconds": 2610,
+          "title": "Création monétaire et financement par les dépôts"
+        },
+        {
+          "startSeconds": 2835,
+          "title": "Banques coopératives et reterritorialisation du crédit"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Microcrédit professionnel et équilibre économique"
+        },
+        {
+          "startSeconds": 3105,
+          "title": "Conseil aux jeunes et clôture de l’entretien"
+        }
+      ]
     },
     {
       "id": "VBsLSfPs2PE",
@@ -13663,9 +14238,90 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "SOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview\nPOSEZ VOS QUESTIONS EN DIRECT : ▶️ https://discord.gg/Ey3pBWV",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation du parcours militant et des libertés numériques"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Misère sociale et montée de l'extrême droite"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Répartition des richesses et financement de la dette"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Radicalisation en ligne et évolution du terrorisme"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Crypto-monnaies et réseaux associatifs"
+        },
+        {
+          "startSeconds": 1035,
+          "title": "Déploiement public de la fibre optique"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Boîtes noires et limites de la surveillance"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Vie privée et profilage publicitaire en ligne"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Sécurité informatique et défense du chiffrement"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Surveillance et transformation de la société par Internet"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Données publiques et rigidités institutionnelles"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Limites opérationnelles de la surveillance antiterroriste"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Big data et intelligence artificielle"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Prédiction statistique et responsabilité pénale"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Décentralisation d'Internet et recours juridiques"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Failles de sécurité et responsabilité des agences"
+        },
+        {
+          "startSeconds": 3285,
+          "title": "Chiffrement généralisé et pensée autonome"
+        },
+        {
+          "startSeconds": 3555,
+          "title": "Propriété des données personnelles"
+        },
+        {
+          "startSeconds": 3645,
+          "title": "Réseau social décentralisé Mastodon"
+        },
+        {
+          "startSeconds": 3825,
+          "title": "Conseils aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "sIaLxUiR9BQ",
@@ -13677,9 +14333,58 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "SOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview\nPOSEZ VOS QUESTIONS EN DIRECT : ▶️ https://discord.gg/Ey3pBWV",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Le siège de Sarajevo et le mandat de l’ONU"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Les équipes au sol guidant les frappes aériennes"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Les frappes annulées malgré les cibles identifiées"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Retour d’expérience et culture du silence"
+        },
+        {
+          "startSeconds": 1485,
+          "title": "La mission française au Rwanda"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Enquêtes et archives sur le Rwanda"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "La menace terroriste et les libertés démocratiques"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Interventions françaises en Afrique et transparence"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Livraisons d’armes et coopération européenne"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Le rôle de l’armée dans les décisions politiques"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Professionnalisation de l’armée et réponse au terrorisme"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Bilan des frappes et exigence démocratique"
+        }
+      ]
     },
     {
       "id": "SH69-qP_saE",
@@ -13705,9 +14410,58 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "SOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview\nPOSEZ VOS QUESTIONS EN DIRECT : ▶️ https://discord.gg/Ey3pBWV",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Information et concentration du pouvoir"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Responsabilité politique face aux massacres"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Puissance et instrumentalisation des États du Golfe"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "État d'urgence et verticalité du pouvoir"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Décalage entre discours et action de l'État"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Facteurs de tension et structures de pouvoir"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Enquête en Centrafrique et protection personnelle"
+        },
+        {
+          "startSeconds": 3375,
+          "title": "Wikileaks et radicalité face au pouvoir"
+        },
+        {
+          "startSeconds": 3465,
+          "title": "Asile français et reconnaissance d'Assange"
+        },
+        {
+          "startSeconds": 3735,
+          "title": "Prix de la liberté et risques personnels"
+        },
+        {
+          "startSeconds": 4005,
+          "title": "Responsabilité politique autour de la détention d'Assange"
+        },
+        {
+          "startSeconds": 4185,
+          "title": "Indifférence politique et responsabilité collective"
+        }
+      ]
     },
     {
       "id": "0BV-6_kXYSg",
@@ -13719,9 +14473,66 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Lilian Thuram.\nVidéo diffusée le 01 juin 2017 à 16h30 en direct.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Diaspora africaine et déséquilibres mondiaux"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Franc CFA et héritage colonial"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Débat autour de la non-mixité militante"
+        },
+        {
+          "startSeconds": 765,
+          "title": "Banlieues françaises et communautarisation"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Quotas et lutte contre les discriminations"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Éducation et représentation de l’histoire coloniale"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Afrique, matières premières et domination mondiale"
+        },
+        {
+          "startSeconds": 2205,
+          "title": "Évolution des mouvements antiracistes"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Technologies de surveillance et pouvoir politique"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Fichage des populations et surveillance"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Football, spectacle et mondialisation économique"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Représentation noire dans le football"
+        },
+        {
+          "startSeconds": 3375,
+          "title": "Solidarité des joueurs face au racisme"
+        },
+        {
+          "startSeconds": 3645,
+          "title": "Valeurs, estime de soi et connaissance de l’histoire"
+        }
+      ]
     },
     {
       "id": "CQ-nzRlDnns",
@@ -13733,9 +14544,102 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Nous recevons Guillaume Meurice.\nVidéo diffusée le 19 mai 2017 à 16h30 en direct.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Guillaume Meurice et de son parcours"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Censure et liberté à France Inter"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Le métier d’humoriste comme média"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Menaces et réception des chroniques"
+        },
+        {
+          "startSeconds": 720,
+          "title": "L’humour comme vecteur de débat"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Pédagogie face aux tensions sociales"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Dieudonné et l’écriture personnelle"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Sélection des journalistes et indépendance médiatique"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Sources d’information et confiance dans les citoyens"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Vote abstention et ligne éditoriale des médias"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Ligne éditoriale Mélenchon et Décodex"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Sécurité informatique et culture des hackers"
+        },
+        {
+          "startSeconds": 2205,
+          "title": "Gouvernement et réforme de la démocratie"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "Micro-trottoir et construction de la réalité"
+        },
+        {
+          "startSeconds": 2610,
+          "title": "Lanceurs d’alerte et responsabilité politique"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Accueil des migrants et cause animale"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Méthodes de chronique et sélection des témoignages"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Temps médiatique et ascension de Macron"
+        },
+        {
+          "startSeconds": 3510,
+          "title": "Réseaux d’influence et exigence de transparence"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Critique des médias et recherche d’un terrain d’entente"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Fonctionnement collectif et avenir médiatique"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Colère et engagement sur Internet"
+        },
+        {
+          "startSeconds": 4185,
+          "title": "Conseil final sur l’authenticité"
+        }
+      ]
     },
     {
       "id": "rTCDnKckCiY",
@@ -13747,9 +14651,126 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Dans le cadre de la présidentielle 2017 en France, la communauté Thinkerview a souhaité exceptionnellement recevoir les candidats. Tous n'ont pas accepté l'exercice.\nVidéo enregistrée le 12 décembre 2016.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Ouverture et parcours de François Asselineau"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Création de l'UPR sans soutien politique ni médiatique"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Réponse aux accusations de secte et de gourou"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Objectifs de l'UPR et critique des partis politiques"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Sortie de l'Union européenne par l'article 50"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Positions européennes, adhésions et parrainages de l'UPR"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Présence numérique et diffusion des analyses politiques"
+        },
+        {
+          "startSeconds": 1665,
+          "title": "Débat politique et engagement électoral"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Traités européens et reprise du pouvoir national"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Réformes constitutionnelles et démocratie citoyenne"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Indépendance des médias et protection des lanceurs d'alerte"
+        },
+        {
+          "startSeconds": 2385,
+          "title": "Donald Trump et les relations internationales"
+        },
+        {
+          "startSeconds": 2745,
+          "title": "Vladimir Poutine et le redressement de la Russie"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Liberté de la presse et développement de l'UPR"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Écologie et priorités énergétiques du programme"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Référendums présidentiels et décision populaire"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Dette publique et simplification administrative"
+        },
+        {
+          "startSeconds": 3960,
+          "title": "Préservation de la France face au projet européen"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Contrôle des capitaux après la sortie de l'Union européenne"
+        },
+        {
+          "startSeconds": 4275,
+          "title": "Histoire nationale et débat sur l'immigration"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Déstabilisation internationale et causes des migrations"
+        },
+        {
+          "startSeconds": 4680,
+          "title": "Assimilation républicaine et libertés publiques"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Mouvements citoyens et exigences démocratiques"
+        },
+        {
+          "startSeconds": 4995,
+          "title": "Écologie et critique du modèle productiviste"
+        },
+        {
+          "startSeconds": 5130,
+          "title": "Lobbies, OGM et obligations européennes"
+        },
+        {
+          "startSeconds": 5310,
+          "title": "Mondialisation, consommation et malaise social"
+        },
+        {
+          "startSeconds": 5490,
+          "title": "Cannabis et approche de la politique antidrogue"
+        },
+        {
+          "startSeconds": 5670,
+          "title": "Conseils aux jeunes, culture et Internet"
+        },
+        {
+          "startSeconds": 5850,
+          "title": "Loyauté journalistique et conclusion de l'entretien"
+        }
+      ]
     },
     {
       "id": "fr9xtFz78dg",
@@ -13761,9 +14782,62 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview d'Ivan Erhel\nJournaliste porte parole de Sputnik France",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation du porte-parole et de son parcours"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Statuts professionnels et carte de presse"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Indépendance éditoriale et autocensure chez Spoutnik"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Qualités et défauts attribués à la Russie"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Développement francophone et enquêtes de Spoutnik"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Enquête sur les subventions et méthodes de vérification"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Soft power et guerre de l'information"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Audience et progression de Spoutnik"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Succès éditorial et erreur de publication"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Origine et propagation des fausses informations"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "Indépendance et méritocratie dans la presse"
+        },
+        {
+          "startSeconds": 3645,
+          "title": "Relations avec les médias russes et travail de terrain"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Conseils pour diversifier les sources d'information"
+        }
+      ]
     },
     {
       "id": "507HStKtw-I",
@@ -13775,9 +14849,82 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de l'équipe de DataGueule avec :\nHenri Poulain : Co-concepteur & réalisateur",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de DataGueule et de son équipe"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Complosphère, pluralisme et information alternative"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Pluralisme et désaccords dans l'équipe"
+        },
+        {
+          "startSeconds": 495,
+          "title": "Vérification des données et subjectivité des sources"
+        },
+        {
+          "startSeconds": 855,
+          "title": "Autonomie éditoriale avec France Télévisions"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Réactions de Frontex et limites des données"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Charge documentaire et effets psychologiques du travail"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Terrain, sociologie et questionnement de l'humain"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Non-recours sociaux et récits politiques"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Revenu de base et complexité des choix publics"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "Pessimisme face aux logiques économiques"
+        },
+        {
+          "startSeconds": 2655,
+          "title": "Lutte des idées et éducation populaire"
+        },
+        {
+          "startSeconds": 2835,
+          "title": "Émancipation et action démocratique locale"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Autocensure et contraintes du journalisme quotidien"
+        },
+        {
+          "startSeconds": 3195,
+          "title": "Conseils pour penser ensemble et agir"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Origines de l'émission et entretiens sans montage"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Avenir de l'Internet et réseaux collaboratifs"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Fact-checking final et aléas du direct"
+        }
+      ]
     },
     {
       "id": "-odoA0BauaE",
@@ -13789,9 +14936,70 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de David Koubbi, avocat chargé de la défense de Jérôme Kerviel.\nVidéo enregistrée le 7 octobre 2016.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Jugement Kerviel et responsabilité de Société Générale"
+        },
+        {
+          "startSeconds": 225,
+          "title": "Argent public et demande de remboursement"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Condamnation de Kerviel et dossier contesté"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Plainte de la procureure et dossier à Lille"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Jérôme Kerviel face aux responsables politiques"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Éligibilité des candidats et détournement des fonds publics"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Crises géopolitiques et flux de migrants"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Écologie, justice et choix de consommation"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Peurs, convictions et satisfaction professionnelle"
+        },
+        {
+          "startSeconds": 2025,
+          "title": "Fonction de ministre et état des prisons"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Familles politiques et indépendance de la justice"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "Plateformes participatives et démocratie numérique"
+        },
+        {
+          "startSeconds": 2655,
+          "title": "Effondrement financier et responsabilité citoyenne"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Presse, publicité et indépendance de l'information"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Conseils aux jeunes et grève du vote"
+        }
+      ]
     },
     {
       "id": "AQN8AYVzXqs",
@@ -13803,9 +15011,82 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Pierre Conesa, ancien haut fonctionnaire du Ministère de la Défense.\nVidéo enregistrée le 7 octobre 2016.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "La France face à ses moyens diplomatiques"
+        },
+        {
+          "startSeconds": 450,
+          "title": "La diplomatie religieuse de l’Arabie saoudite"
+        },
+        {
+          "startSeconds": 720,
+          "title": "La contestation de la légitimité saoudienne par Daesh"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Les interventions occidentales et l’éclatement des États"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Les ambiguïtés occidentales face au régime syrien"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "La révolution technologique dans les affaires militaires"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Les limites de la stratégie du zéro mort"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "La pénétration salafiste et le renseignement en France"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "La Ligue islamique mondiale et le communautarisme"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "La formation des imams et les limites de la laïcité"
+        },
+        {
+          "startSeconds": 2745,
+          "title": "Les doubles standards de la politique extérieure"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Les différences entre salafisme et wahhabisme"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "La montée des radicalismes en miroir"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "La crise démocratique et le rejet du système"
+        },
+        {
+          "startSeconds": 3465,
+          "title": "Les valeurs occidentales confrontées aux autres sociétés"
+        },
+        {
+          "startSeconds": 3735,
+          "title": "Le droit administratif face aux réalités contemporaines"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Droits de l’homme, surveillance et dangerosité"
+        },
+        {
+          "startSeconds": 4095,
+          "title": "Le besoin d’un temps politique et d’hommes d’État"
+        }
+      ]
     },
     {
       "id": "N845HBEzzGY",
@@ -13817,9 +15098,82 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Entretien avec Artem Studennikov (Ministre Conseiller de l'Ambassade de Russie).\nVidéo enregistrée le 7 octobre 2016.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et instabilité de la situation mondiale"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Crises au Proche-Moyen-Orient"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Djihadistes étrangers et conflit syrien"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Intervention russe en Syrie contre l'État islamique"
+        },
+        {
+          "startSeconds": 765,
+          "title": "Tensions entre la Russie et les États-Unis"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Maintien des contacts militaires en Syrie"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Bombardement de l'ambassade russe en Syrie"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Défense aérienne russe et avertissements en Syrie"
+        },
+        {
+          "startSeconds": 1305,
+          "title": "Dialogue franco-russe et avenir de la Syrie"
+        },
+        {
+          "startSeconds": 1485,
+          "title": "Situation à Alep et séparation des groupes armés"
+        },
+        {
+          "startSeconds": 1665,
+          "title": "Frappes aériennes russes et risque de bavures"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Yémen, Libye et traitement médiatique des conflits"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Élargissement de l'OTAN vers les frontières russes"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Système antimissiles et préoccupations russes"
+        },
+        {
+          "startSeconds": 2385,
+          "title": "Vols de bombardiers russes près des côtes occidentales"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Déconfliction des vols militaires en mer Baltique"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Dialogue franco-russe et échanges entre sociétés civiles"
+        },
+        {
+          "startSeconds": 2835,
+          "title": "Responsabilité des jeunes générations et bilan"
+        }
+      ]
     },
     {
       "id": "yh26_9b7IJI",
@@ -13831,9 +15185,102 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Paul Watson : militant écologiste et antispéciste canadien. Il a fondé la Sea Shepherd Conservation Society, un groupe activiste dont la préoccupation majeure est la protection active des océans.\nEnregistrée le 22 juin 2016.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Ouverture et non-violence agressive"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Déclin de la biodiversité marine"
+        },
+        {
+          "startSeconds": 270,
+          "title": "COP21 et solutions contre le changement climatique"
+        },
+        {
+          "startSeconds": 405,
+          "title": "France et lutte contre la pêche illégale"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Opérations contre la pêche illégale"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Requins et programmes d’abattage"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Greenpeace et stratégies militantes"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Jeunes générations et engagement environnemental"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Engagement individuel pour les causes écologiques"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Élection américaine et contrôle des corporations"
+        },
+        {
+          "startSeconds": 1305,
+          "title": "Stratégie médiatique et célébrités militantes"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Lois écologiques et risque d’effondrement"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Équipe Cousteau et sensibilisation marine"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Projet Vortex et alternatives au plastique"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Fukushima et les risques du nucléaire"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Nucléaire français et consommation énergétique"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Guerres des ressources et dépendance aux hydrocarbures"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Réchauffement climatique et blocage des alternatives"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Arabie saoudite et critique des religions"
+        },
+        {
+          "startSeconds": 2205,
+          "title": "Boycott comme arme économique"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Alimentation végétale et protection des océans"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Delphinariums et captivité des mammifères marins"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Dialogue et divisions entre les peuples"
+        }
+      ]
     },
     {
       "id": "Ed9GTZSL3zU",
@@ -13845,9 +15292,82 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Table ronde avec Jean-Marc Manach (Journaliste d'investigation), Marc Rees (Journalide, Rédacteur en chef de PC Inpact) et Yassir Kazer (PDG de Yogosha Hacker).\nEnregistrée le 4 mai 2016.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation des intervenants et de leurs parcours"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Surveillance numérique et guerre contre le terrorisme"
+        },
+        {
+          "startSeconds": 495,
+          "title": "IMSI catchers et surveillance mobile"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Sécurité des entreprises et rôle des hackers"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Chiffrement des communications"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Portes dérobées et logiciels espions"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Loi renseignement et intérêts économiques"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Cyberespace, guerre et Internet des objets"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Armes informatiques et logiciels offensifs"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Contrôle démocratique des techniques de renseignement"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Boîtes noires et surveillance algorithmique"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Failles non corrigées et outils de surveillance"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Lanceurs d’alerte et alliances de renseignement"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Statut juridique des lanceurs d’alerte"
+        },
+        {
+          "startSeconds": 3375,
+          "title": "Bug bounty et divulgation des failles"
+        },
+        {
+          "startSeconds": 3555,
+          "title": "Lanceurs d’alerte et ventes de logiciels espions"
+        },
+        {
+          "startSeconds": 3690,
+          "title": "Conseils pour suivre les débats et vérifier les sources"
+        },
+        {
+          "startSeconds": 3825,
+          "title": "Technologie, risques et responsabilité humaine"
+        }
+      ]
     },
     {
       "id": "exhl1rpAUiA",
@@ -13859,9 +15379,78 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Table ronde avec Nicolas Meilhan, Francis Perrin et Philippe Sébille-Lopez autour de l'énergie.\nEnregistrée le 4 mai 2016.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation des enjeux énergétiques et géopolitiques"
+        },
+        {
+          "startSeconds": 135,
+          "title": "La stratégie saoudienne face à l'Iran"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Vision 2030 et diversification saoudienne"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Compétition russo-saoudienne sur les marchés pétroliers"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Transition énergétique et exportations saoudiennes"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Union énergétique européenne et dépendance au gaz russe"
+        },
+        {
+          "startSeconds": 1305,
+          "title": "Les gazoducs et la crise syrienne"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Le gaz qatari et les projets de transit"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Les limites de l'explication énergétique en Syrie"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Le collier de perles et la mer de Chine"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Transformation économique et contrôle politique en Chine"
+        },
+        {
+          "startSeconds": 2655,
+          "title": "Dépendance chinoise aux importations pétrolières"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Diversification énergétique et poids du charbon chinois"
+        },
+        {
+          "startSeconds": 3195,
+          "title": "Prêts chinois et exportations vénézuéliennes"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Révolution américaine des hydrocarbures non conventionnels"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Exploration pétrolière et gazière de l'Arctique"
+        },
+        {
+          "startSeconds": 3960,
+          "title": "Conseils pour s'informer sur l'énergie et la géopolitique"
+        }
+      ]
     },
     {
       "id": "krKi0RNMxgU",
@@ -13873,9 +15462,94 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Entretien avec Henri Maler, fondateur de ACRIMED (Action Critique Médias) et professeur en science politique à l'Université Paris VIII.\nEnregistré le 4 mai 2016.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation d'Acrimed et du débat"
+        },
+        {
+          "startSeconds": 90,
+          "title": "Le journalisme de commentaires domine l'information"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Les conséquences de la carence informationnelle"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Les médias ne sont pas tout-puissants"
+        },
+        {
+          "startSeconds": 405,
+          "title": "L'expérience sociale informe les citoyens"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Composition du conseil national des médias"
+        },
+        {
+          "startSeconds": 720,
+          "title": "La propriété économique des médias"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Les effets du pouvoir économique"
+        },
+        {
+          "startSeconds": 1035,
+          "title": "Le milieu social des journalistes"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "La protection des sources journalistiques"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Enquêter sur les conditions de travail"
+        },
+        {
+          "startSeconds": 1665,
+          "title": "Le secret des affaires et la guerre économique"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Secret industriel et secret des affaires"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Le traitement médiatique des manifestations"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "La tension et les violences dans les manifestations"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Les limites du journalisme d'investigation"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Le pluralisme et le comité Orwell"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "La présence d'Acrimed dans les grands médias"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "La fragmentation des sources d'information"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "Des médias riches et des médias pauvres"
+        },
+        {
+          "startSeconds": 3465,
+          "title": "Conseil aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "uRawWLYX8K0",
@@ -13887,9 +15561,82 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Paul Moreira, journaliste \"d'investigation\", reporter de guerre. Enregistrée le 22 juin 2016.\nSUJETS :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Parcours de journaliste et choix de l'investigation"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Raconter Daesh à travers les témoins irakiens"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Origines de l'invasion américaine de l'Irak"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Conflit confessionnel et naissance de Daesh"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Bagdad entre vie quotidienne et lignes brisées"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Risques et contraintes du journalisme en Irak"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Images contrôlées et enquête sur l'État islamique"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Profils des jeunes attirés par le djihadisme"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Surveillance et prévention des attentats en France"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Discrimination, intégration et lutte contre les réseaux"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Anticommunisme américain et groupes islamistes"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Massacre d'Odessa et construction des perceptions"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Milices ukrainiennes et lecture du conflit"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Intérêts russes et zone tampon dans le Donbass"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Réception du film sur le conflit ukrainien"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Pensée de groupe dans le journalisme"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Conseils aux jeunes journalistes"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Bilan de l'entretien et vérification des idées"
+        }
+      ]
     },
     {
       "id": "jiMv-YIifTI",
@@ -13901,9 +15648,78 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de David Koubbi à propos de Jérôme Kerviel et de la Société Générale.\nSUJETS :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Ouverture sur la justice et l’affaire Kerviel"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Réseaux et influences dans la justice"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Lanceurs d’alerte dans l’enquête Kerviel"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Pressions institutionnelles contre une lanceuse d’alerte"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Anarchisme et indépendance de la justice"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Financement public et responsabilités de Société Générale"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Serment d’avocat et engagement dans le combat"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Épuisement et reconstruction de Jérôme Kerviel"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Procédures restantes contre Société Générale"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Soutien de magistrats et suivi citoyen"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "État d’urgence et droits de la défense"
+        },
+        {
+          "startSeconds": 3465,
+          "title": "Soulèvement citoyen et risque de récupération politique"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Application de la loi aux banques et à la finance"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Risque systémique des grandes banques françaises"
+        },
+        {
+          "startSeconds": 4230,
+          "title": "Politisation du dossier et stratégie de communication"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Scénarios pour la France et responsabilités politiques"
+        },
+        {
+          "startSeconds": 4590,
+          "title": "Mouvements citoyens et solutions locales"
+        }
+      ]
     },
     {
       "id": "laDOwa1gGF0",
@@ -13915,9 +15731,86 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Elise Lucet faite le 4 mai 2016.\nSUJETS :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Protection et discrétion des journalistes d'investigation"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Le travail collectif de l'ICIJ et LuxLeaks"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Pressions exercées contre un lanceur d'alerte"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Le secret des affaires et la censure"
+        },
+        {
+          "startSeconds": 855,
+          "title": "Lobbying des multinationales contre les lanceurs d'alerte"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "L'ICIJ comme réponse collective aux pressions"
+        },
+        {
+          "startSeconds": 1305,
+          "title": "Le débat sur la divulgation des documents"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Démocratisation de l'information et intérêt du public"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Sécurité des journalistes et évolution des menaces"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Le journalisme d'investigation face aux institutions"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Les 28 pages et les enjeux financiers du 11 septembre"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Revenir sur les enquêtes anciennes"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Soutien du public et rôle démocratique de l'enquête"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "Le Comité Orwell et le journalisme d'opinion"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Le journalisme factuel fondé sur les preuves"
+        },
+        {
+          "startSeconds": 2610,
+          "title": "Indépendance journalistique face aux cercles du pouvoir"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Conseils pour les jeunes générations"
+        },
+        {
+          "startSeconds": 2745,
+          "title": "Ambition et prise de risques pour les jeunes"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Conclusion en paroles de rap"
+        }
+      ]
     },
     {
       "id": "_jSPkz_0UZw",
@@ -13929,9 +15822,78 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Michel Collon : Écrivain Journaliste indépendant, Belge.\nhttp://www.investigaction.net/",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de Michel Collon et de son travail"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Les guerres de Yougoslavie et la recolonisation"
+        },
+        {
+          "startSeconds": 405,
+          "title": "La propagande de guerre et les médias mensonges"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Les médias mensonges de la guerre en Libye"
+        },
+        {
+          "startSeconds": 855,
+          "title": "Les récits médiatiques du conflit syrien"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Intérêts sociaux et économiques des populations"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Les orientations françaises face aux États-Unis"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Propriété des médias et filtres de l'information"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Terrorisme en Syrie et attentats de Paris"
+        },
+        {
+          "startSeconds": 2025,
+          "title": "Le terrorisme comme arme par procuration"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Les réseaux Gladio et la stratégie de déstabilisation"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Complots politiques et critique du complotisme"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Wesley Clark et les plans de guerre américains"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Rivalité stratégique autour de l'océan Indien"
+        },
+        {
+          "startSeconds": 3105,
+          "title": "Courants américains et risque d'escalade mondiale"
+        },
+        {
+          "startSeconds": 3285,
+          "title": "L'absence actuelle d'un mouvement antiguerre"
+        },
+        {
+          "startSeconds": 3375,
+          "title": "Former l'esprit critique et vérifier l'information"
+        }
+      ]
     },
     {
       "id": "PwHlxMfCnKg",
@@ -13943,9 +15905,70 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de MARINA E. HENKE.\nPh.D. Diplômée de Princeton, Sciences Po, professeure a l’université de Northwestern à Chicago en relations internationales, Allemande.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Parcours et interventions militaires"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Financement des interventions militaires"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Financement européen des opérations africaines"
+        },
+        {
+          "startSeconds": 405,
+          "title": "OTAN et opération en Libye"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Intérêts divergents des interventions"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Objectifs américains de la guerre en Irak"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Hypothèses sur la stratégie américaine"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Unipolarité bipolarité et multipolarité"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Europe de la défense face à la Chine"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Choix européen entre les ordres mondiaux"
+        },
+        {
+          "startSeconds": 1305,
+          "title": "Scénario de crise pour l’Europe"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Choix européens et autonomie de pensée"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Allemagne NSA et Brexit"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Femmes universitaires et discrimination professionnelle"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Conseil aux nouvelles générations"
+        }
+      ]
     },
     {
       "id": "tyy3v-jpe34",
@@ -13957,9 +15980,94 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Philippe Bechade (Président des Econoclastes) et Jérôme Cazes (Président de MyCercle, Ancien directeur général de la Coface, Ancien membre du comité de Direction générale de Na**xis)\nRisques, Saisies sur vos comptes, Principe de précaution, Chine, Japon, Europe, Fran",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et enjeux des marchés financiers"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Risques liés aux banques trop grandes"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Dette chinoise et risques de crise"
+        },
+        {
+          "startSeconds": 495,
+          "title": "Fragilités européennes et dettes pétrolières"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Shadow banking et régulation financière"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Taux négatifs et frénésie monétaire"
+        },
+        {
+          "startSeconds": 1035,
+          "title": "La France et la régulation financière"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Trois priorités pour réguler les banques"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "L'influence bancaire sur les gouvernements"
+        },
+        {
+          "startSeconds": 1665,
+          "title": "Banques centrales et pouvoir des marchés"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Réversibilité des positions et inertie politique"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Dette renouvelée et limites de la croissance"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Risque de liquidité et fragilité bancaire"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "Prélèvements et garantie des dépôts bancaires"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Banques de dépôts et protection de l'épargne"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Fraude et optimisation fiscales"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Montages fiscaux en Europe"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "État d'urgence et mesures sécuritaires"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Big data et décisions algorithmiques en assurance"
+        },
+        {
+          "startSeconds": 3870,
+          "title": "Contrôle et confidentialité des données personnelles"
+        },
+        {
+          "startSeconds": 4095,
+          "title": "Conseils de lecture pour l'esprit critique"
+        }
+      ]
     },
     {
       "id": "db26_acAeF4",
@@ -13971,9 +16079,70 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Natacha Polony.\nTrahison, chien de garde, luttes des classes, cercle de pouvoir, Bilderberg, Trilatérale, Comité Orwell, mouvement violent, propagande, Etat d'urgence, Patriot act, Police de la pensée, Politique étrangère, Terrorisme, mouvements migratoires, Guerre d",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Le journalisme et le comité Orwell"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Réseaux de pouvoir et indépendance journalistique"
+        },
+        {
+          "startSeconds": 585,
+          "title": "Culture générale et formation des journalistes"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Sujets interdits et police de la pensée"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Journalisme numérique et recul du temps long"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "La hiérarchie et les limites du journalisme politique"
+        },
+        {
+          "startSeconds": 1755,
+          "title": "Politique étrangère et société de consommation"
+        },
+        {
+          "startSeconds": 2025,
+          "title": "Migrations, radicalisations et risques de violence"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Snowden et la protection des sources"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Rapport de force entre médias et pouvoirs"
+        },
+        {
+          "startSeconds": 2835,
+          "title": "L'avenir de la presse et du journalisme"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Modèle économique et qualité de l'information"
+        },
+        {
+          "startSeconds": 3330,
+          "title": "Indépendance des médias et intervention en Libye"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Débat public et sélection d'une équipe"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Protection des journalistes et survivalisme"
+        }
+      ]
     },
     {
       "id": "iXnUIx24jng",
@@ -13985,9 +16154,86 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Denis Robert.\nThèmes abordés :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Pourquoi écrire le livre Mohican"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Cavanna et les origines de la presse libre"
+        },
+        {
+          "startSeconds": 450,
+          "title": "La renaissance de Charlie Hebdo"
+        },
+        {
+          "startSeconds": 675,
+          "title": "La transformation politique du journal"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Les conflits internes après les attentats"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "La captation du titre et les rémunérations"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Les réactions de Charlie face au livre"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Pressions juridiques et sortie du livre"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Désinvitation médiatique et influence des communicants"
+        },
+        {
+          "startSeconds": 2025,
+          "title": "Responsabilité des journalistes et liberté de la presse"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Traitement des attentats et information libre"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "Sécurité, renseignement et libertés publiques"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Conseils aux jeunes face aux risques"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Éducation, dialogue et information en ligne"
+        },
+        {
+          "startSeconds": 3195,
+          "title": "Responsabilité de l’État et radicalisation religieuse"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Rester une conscience éveillée"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Lanceurs d’alerte et devoir d’informer"
+        },
+        {
+          "startSeconds": 3825,
+          "title": "Lectures et formation du journaliste"
+        },
+        {
+          "startSeconds": 4005,
+          "title": "Contrôle démocratique du renseignement"
+        }
+      ]
     },
     {
       "id": "TR9IG4Ysuv0",
@@ -13999,9 +16245,78 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Alexandre Orlov, Ambassadeur de Russie.\nThèmes abordés :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Ouverture géopolitique et perception de la Russie"
+        },
+        {
+          "startSeconds": 765,
+          "title": "Islam radical et coopération contre le terrorisme"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Daesh, ses soutiens et le rôle de la Turquie"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Place de l’Iran dans la politique régionale"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Coopération spatiale franco-russe et ambitions orbitales"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Voie maritime du Nord et protection de l’Arctique"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Incident aérien russo-turc et tensions diplomatiques"
+        },
+        {
+          "startSeconds": 2205,
+          "title": "Puissance militaire russe et diplomatie française"
+        },
+        {
+          "startSeconds": 2655,
+          "title": "Nucléaire civil et diversification énergétique"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Culture russe et échanges artistiques avec la France"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Processus politique en Syrie et coordination internationale"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Relations entre les États-Unis, l’Europe et la Russie"
+        },
+        {
+          "startSeconds": 3735,
+          "title": "Frontières russes et craintes dans les pays baltes"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Question kurde et conférence régionale au Proche-Orient"
+        },
+        {
+          "startSeconds": 4185,
+          "title": "Navires Mistral et confiance industrielle franco-russe"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Pensée unique, islamisme et enjeux éducatifs"
+        },
+        {
+          "startSeconds": 4635,
+          "title": "Contacts entre les peuples et conseil aux jeunes"
+        }
+      ]
     },
     {
       "id": "fmgxfvbAMK8",
@@ -14013,9 +16328,70 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "SOUTENEZ-NOUS :\nhttps://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation des invités et contexte géopolitique"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Manipulation de l'information et responsabilité politique"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Enquête journalistique et perte de confiance"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Journalisme et nouvelles formes de démocratie"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Hackers comme lanceurs d'alerte technologiques"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Filtres médiatiques et sélection des conflits"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Laboratoires P4 et risques biologiques"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Vérification des sources et propagande historique"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Culture du spectateur et fabrication des représentations"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "État d'urgence et protection des libertés"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Surveillance Internet et influence américaine"
+        },
+        {
+          "startSeconds": 4005,
+          "title": "Extrait de film sur surveillance et propagande"
+        },
+        {
+          "startSeconds": 4410,
+          "title": "Double standard démocratique et droits des détenus"
+        },
+        {
+          "startSeconds": 4590,
+          "title": "Éducation pour l'esprit critique et la démocratie"
+        },
+        {
+          "startSeconds": 4815,
+          "title": "Conseils civiques pour les jeunes générations"
+        }
+      ]
     },
     {
       "id": "fzF7mPpsFQI",
@@ -14027,9 +16403,86 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Nous recevons Charles Gave (Economiste, entrepreneur français), Artem Studennikov (Ministre Conseiller de l'Ambassade de Russie), Hervé de Carmoy (Ancien vice président de la commission Trilatéral Europe) et Olivier Berruyer (Actuaire / Les-crises.fr).\nSOUTENEZ-NOUS :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation des invités et parcours financiers"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Liquidités mondiales et faible investissement"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Réforme monétaire et diversification des devises"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Hyperfinanciarisation et risques systémiques"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Ploutocratie américaine et contrôle financier"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Pressions financières et extraterritorialité du dollar"
+        },
+        {
+          "startSeconds": 1665,
+          "title": "Alternatives monétaires et surveillance numérique"
+        },
+        {
+          "startSeconds": 1755,
+          "title": "Asile de Snowden et dissidence politique"
+        },
+        {
+          "startSeconds": 2025,
+          "title": "Crise syrienne et position diplomatique russe"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Révolutions arabes et ingérences étrangères"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Guerre civile syrienne et rivalités régionales"
+        },
+        {
+          "startSeconds": 3015,
+          "title": "Retrait américain et chaos moyen-oriental"
+        },
+        {
+          "startSeconds": 3285,
+          "title": "Coopération internationale et risque de guerre mondiale"
+        },
+        {
+          "startSeconds": 3465,
+          "title": "Tensions sino-américaines et voies diplomatiques"
+        },
+        {
+          "startSeconds": 3555,
+          "title": "Débat sur une guerre mondiale déjà engagée"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Diversité du monde musulman et prudence politique"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Migration syrienne et fragilités européennes"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Russie, Europe et tensions géopolitiques"
+        },
+        {
+          "startSeconds": 4455,
+          "title": "Conseils aux jeunes générations"
+        }
+      ]
     },
     {
       "id": "mp3VZ-k2mhA",
@@ -14041,9 +16494,98 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Jean-Pierre Canet et Nicolas Vescovacci, ils sont rédacteur en chef / journaliste du documentaire sur le Crédit mutuel dont la diffusion sur Canal+ a été censurée par Vincent Bolloré.\nSOUTENEZ-NOUS :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Enquête collective sur la banque et le Crédit Mutuel"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Versements suspects et homme de paille"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Multinationales et pouvoir politique des États"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Preuves et responsabilité dans l’enquête"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Subventions publiques et concentration des médias"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Pression financière sur les jeunes journalistes"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Demande du public pour les enquêtes approfondies"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Coopération internationale des journalistes"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Récupération fiscale et priorité aux intérêts économiques"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Puissance supranationale des grandes entreprises"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Produits dérivés et dette étudiante"
+        },
+        {
+          "startSeconds": 2385,
+          "title": "Internet et nouveaux outils d’enquête"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Bolloré informé de la diffusion du documentaire"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Proposition du documentaire à France Télévisions"
+        },
+        {
+          "startSeconds": 3015,
+          "title": "Preuves et pouvoirs du CSA"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Soutien du producteur face aux pressions"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Autocensure et pression des annonceurs"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Budget du Grand Journal et pertes d’emplois"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Journalisme d’enquête et intérêt général"
+        },
+        {
+          "startSeconds": 3960,
+          "title": "Responsabilité des médias et droit à l’information"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Mediapart et le financement du journalisme"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Information d’intérêt général et esprit critique"
+        }
+      ]
     },
     {
       "id": "d22EkRIxowI",
@@ -14055,9 +16597,54 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Djihad, Croisade, Terrorisme, Israël, Syrie, Daesh, Guerre, Poutine, Arabie Saoudite, Ben Laden, 11 septembre, Diplomatie religieuse, Stratégie planétaire, DGSE, GSPC, 1500 Mosquées, Attitude occidentale passive , Veto politique sur le renseignement Saoudien , lâcheté géostratégi",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Parcours de Pierre Conesa et sujet saoudien"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Famille Ben Laden et exfiltration après le 11 septembre"
+        },
+        {
+          "startSeconds": 270,
+          "title": "L’Arabie saoudite épargnée dans la stratégie américaine"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Diplomatie religieuse et expansion du wahhabisme"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Salafisme, légitimité politique et guerre civile"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Double standard occidental dans la lutte contre Daesh"
+        },
+        {
+          "startSeconds": 1035,
+          "title": "Apocalypse et théorie du complot salafiste"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "La violence terroriste vise d’abord les musulmans"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Dépendance commerciale et risques technologiques français"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Divisions européennes et relations avec Riyad"
+        },
+        {
+          "startSeconds": 1755,
+          "title": "Intégration et enseignement critique de l’islam"
+        }
+      ]
     },
     {
       "id": "nb-GvtlETj4",
@@ -14069,9 +16656,74 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Que reste t'il de la politique ? Entretien sans langue de bois avec un député français . Entre finance, Europe et politique étrangère en passant par nos institutions, il nous dresse son constat avec franc parler.\nRéalisé sur le toit de l'assemblée nationale.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Ouverture et constat sur la situation française"
+        },
+        {
+          "startSeconds": 495,
+          "title": "Loi sur le renseignement et confiance dans l'État"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Politique étrangère française et crises internationales"
+        },
+        {
+          "startSeconds": 1305,
+          "title": "Emploi et désindustrialisation en France"
+        },
+        {
+          "startSeconds": 1485,
+          "title": "Agriculture, Monsanto et accords transatlantiques"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Guerre économique et marchés financiers"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Reconstruire la politique et la citoyenneté"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Europe, euro et décision par référendum"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Démocratie participative et mandat politique"
+        },
+        {
+          "startSeconds": 2205,
+          "title": "Dirigeants internationaux et organisations secrètes"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Aveuglement collectif et rôle des médias"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Parallèles historiques et déséquilibres financiers"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Mondialisation, communication et risques de conflit"
+        },
+        {
+          "startSeconds": 2610,
+          "title": "Conseil aux jeunes générations"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Seniors, transmission et nouveaux médias"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Engagement politique et espoir pour la France"
+        }
+      ]
     },
     {
       "id": "IDe84N2l5_M",
@@ -14083,9 +16735,78 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Police Vs Terrorisme Vs Population. Entretien sans langue de bois avec le secrétaire général CGT Police, Renseignement territorial anciennement Renseignements généraux.\nSOUTENEZ-NOUS :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation du syndicaliste et du renseignement"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Réforme des RG et manque de moyens"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Renseignement humain et chiffres manipulés"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Perte de sens et politique du chiffre"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Souffrance au travail et suicides policiers"
+        },
+        {
+          "startSeconds": 855,
+          "title": "Syndicats policiers et gestion des carrières"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Proximité politique et rémunération policière"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Corruption et contrôles de sécurité"
+        },
+        {
+          "startSeconds": 1485,
+          "title": "Loi de renseignement et libertés publiques"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Flou juridique et limites déontologiques"
+        },
+        {
+          "startSeconds": 1755,
+          "title": "Police nationale et contrôle social"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Formation, discipline et surveillance interne"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Automatisation et surveillance de masse"
+        },
+        {
+          "startSeconds": 2205,
+          "title": "Transparence et information sur la loi"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Devoir d'information et lien avec la population"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Légalisation du contrôle de masse"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Contrôle généralisé et risques des fichiers"
+        }
+      ]
     },
     {
       "id": "qAncsrRsUss",
@@ -14097,9 +16818,90 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Nous avons convié 3 experts pour nous livrer leurs visions de l'évolution du marché de l'énergie et ses conséquences pour l'économie ainsi que pour l'écologie. Comme à notre habitude cet entretien à été réalisé sans langue de bois.\nSOUTENEZ-NOUS :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation des experts et marché pétrolier"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Géopolitique du pétrole et excédent d'offre"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Catégories de pétrole non conventionnel"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Géopolitique régionale et réserves du Moyen-Orient"
+        },
+        {
+          "startSeconds": 1035,
+          "title": "Industrialisation des technologies de schiste"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Coûts de production et impact écologique"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Gaz associé, torchères et responsabilité publique"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Eau et techniques alternatives de fracturation"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Transport routier et dépendance au pétrole"
+        },
+        {
+          "startSeconds": 2205,
+          "title": "Efficacité des véhicules et carburants alternatifs"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "Progrès technique et plafonnement de la demande pétrolière"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Covoiturage et optimisation du réseau routier"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Voitures autonomes et transformation des taxis"
+        },
+        {
+          "startSeconds": 3150,
+          "title": "Voiture thermique et réalisme économique"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Données, assurance et véhicules autonomes"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Pic pétrolier, Cuba et sobriété énergétique"
+        },
+        {
+          "startSeconds": 3870,
+          "title": "Conseils aux jeunes et intérêt pour l'énergie"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Tesla, silence et consommation d'énergie"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Voiture électrique, autonomie et subventions"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Autonomie énergétique et transport de marchandises"
+        }
+      ]
     },
     {
       "id": "01gGuXRKH5I",
@@ -14111,9 +16913,54 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview d'Axelle Lemaire (secrétaire d'Etat chargée du numérique) sur la Loi Renseignement, la stratégie européenne, la neutralité du net, la surveillance de masse, etc. au côté de Gilles Babinet, Benjamin Bayart, Eric Scherer et Eric Leandri. En bonus une question de notre gue",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de la loi numérique et du débat"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Données électorales et protection de la vie privée"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Anonymisation des données et risques de réidentification"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Profilage comportemental et limites du droit existant"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Surveillance américaine et avantage européen sur les données"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Loi sur le renseignement et équilibre des libertés"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Contrôle des services et sanctions en cas d'abus"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Algorithmes de détection et prévention des faux positifs"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Chiffrement et position du gouvernement français"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Neutralité du net et définition des services spécialisés"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Conclusion sur la loi et les enjeux du numérique"
+        }
+      ]
     },
     {
       "id": "uYzCK_RPzx8",
@@ -14125,9 +16972,54 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Nos gouvernements réagissent de façon symptomatique et contre productive ? Nous avons donc convié 3 experts pour en discuter calmement. Avec Jérémie Zimmermann, Korben, Tristant Nitot. Générique fait par Systaime.\nSOUTENEZ-NOUS :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Surveillance de masse et dérive sécuritaire"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Blocage administratif et contournement technique"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Préconisations pour reprendre le contrôle numérique"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Technologies libres contre technologies de contrôle"
+        },
+        {
+          "startSeconds": 2115,
+          "title": "Surveillance de masse et contrôle social"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Résilience informatique et partage des connaissances"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Promesses commerciales autour de la vie privée"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Logiciel libre comme politique industrielle"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Éducation et logiciels libres accessibles"
+        },
+        {
+          "startSeconds": 3510,
+          "title": "Développement du logiciel libre et sécurité"
+        },
+        {
+          "startSeconds": 3870,
+          "title": "Conseils pour comprendre et maîtriser la technologie"
+        }
+      ]
     },
     {
       "id": "13nQ0sqpHxU",
@@ -14139,9 +17031,58 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "SOUTENEZ-NOUS :\nhttps://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Ouverture et genèse du guide des paradis"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Comparaison des offres religieuses et sectaires"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Choix du paradis et lieux de départ"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Sexualité et cas particuliers dans les paradis"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Interprétation des textes et nouvelles sectes"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Internet et diffusion des offres religieuses"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Tolérance démocratique et limites des dérives sectaires"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Arabie Saoudite et modèle religieux radical"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Hypocrisie sociale et conflits entre courants musulmans"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Procédure en diffamation et conseils aux jeunes générations"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Représentations du paradis et récit d’attentat"
+        },
+        {
+          "startSeconds": 1755,
+          "title": "Conclusion satirique sur les croyances religieuses"
+        }
+      ]
     },
     {
       "id": "n3c1_cHkNN0",
@@ -14153,9 +17094,94 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "SOUTENEZ-NOUS :\nhttps://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation du débat sur les inégalités"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Fiscalité des multinationales de la Silicon Valley"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Pauvreté américaine et endettement étudiant"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Régulation bancaire américaine et dépôts à vue"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Luxembourg Leaks et responsabilités européennes"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Sanctions contre les banques et responsabilité politique"
+        },
+        {
+          "startSeconds": 2025,
+          "title": "Lobbying européen et opacité fiscale"
+        },
+        {
+          "startSeconds": 2385,
+          "title": "Liberté économique et solidarité fiscale"
+        },
+        {
+          "startSeconds": 2655,
+          "title": "Dérégulation bancaire et explosion des produits dérivés"
+        },
+        {
+          "startSeconds": 3105,
+          "title": "Traitement médiatique des risques financiers"
+        },
+        {
+          "startSeconds": 3375,
+          "title": "Commission trilatérale et rapports de force internationaux"
+        },
+        {
+          "startSeconds": 3645,
+          "title": "Journalisme financier face à l’opacité bancaire"
+        },
+        {
+          "startSeconds": 3915,
+          "title": "Propriété des médias et représentation démocratique"
+        },
+        {
+          "startSeconds": 4230,
+          "title": "Investissement américain et création monétaire européenne"
+        },
+        {
+          "startSeconds": 4500,
+          "title": "Dette grecque et limites du financement européen"
+        },
+        {
+          "startSeconds": 4815,
+          "title": "Solidarité des grandes fortunes et sécurité privée"
+        },
+        {
+          "startSeconds": 5040,
+          "title": "Harmonisation fiscale et investissement des entreprises"
+        },
+        {
+          "startSeconds": 5490,
+          "title": "Solutions françaises pour les entrepreneurs et la solidarité"
+        },
+        {
+          "startSeconds": 5760,
+          "title": "Risques de krach financier et protection de l’épargne"
+        },
+        {
+          "startSeconds": 6075,
+          "title": "Produits dérivés, faillites bancaires et gestion des risques"
+        },
+        {
+          "startSeconds": 6210,
+          "title": "Prudence française face à une nouvelle crise"
+        }
+      ]
     },
     {
       "id": "bxANdVGz2bA",
@@ -14167,9 +17193,78 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Apres les attentats de Charlie Hebdo/Porte de Vincennes prenons le temps de réfléchir et de poser les vraies questions avec Pierre Conesa spécialiste des questions stratégiques internationales en particulier militaires.\nSOUTENEZ-NOUS :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Parcours professionnel et réflexion stratégique"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Complexe militaro-intellectuel et fabrication de l'ennemi"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Crise yougoslave et choix européens"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Guerres contre les concepts et intervention en Afghanistan"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Intellectuels médiatiques et choix des conflits"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Somalie, structures tribales et intervention extérieure"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Attentats et réflexion sur la société française"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Politiques européennes de contre-radicalisation"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Soutiens extérieurs et diffusion du salafisme"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Sécurité intérieure et différences démocratiques"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Données personnelles et surveillance numérique"
+        },
+        {
+          "startSeconds": 2970,
+          "title": "Deux poids deux mesures dans les extraditions"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Renseignement de terrain et ruptures politiques"
+        },
+        {
+          "startSeconds": 3510,
+          "title": "Rwanda et limites des décisions administratives"
+        },
+        {
+          "startSeconds": 3780,
+          "title": "Opinion publique internationale et émotion médiatique"
+        },
+        {
+          "startSeconds": 4050,
+          "title": "Culture américaine de la guerre et cinéma"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "Conseils aux jeunes et défense intellectuelle"
+        }
+      ]
     },
     {
       "id": "_-N7_V5aK5M",
@@ -14181,9 +17276,58 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Les états ont jeté sans précautions des stocks énormes d'armes de destruction massive, Bob Coen reporter de guerre et Eric Nadler journaliste répondent à nos questions sans langue de bois sur ce scandale écologique et sanitaire ainsi que sur le monde post 11 septembre et cette fa",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Ouverture sur les risques mondiaux"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Armes chimiques enfouies et risques maritimes"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Secret et méconnaissance du danger"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Anthrax militarisé et recherches biologiques"
+        },
+        {
+          "startSeconds": 585,
+          "title": "Anthrax au Zimbabwe et aux États-Unis"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Parcours commun des deux documentaristes"
+        },
+        {
+          "startSeconds": 855,
+          "title": "Armes de destruction massive et guerre en Irak"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "David Kelly et le scandale britannique"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Guerre contre le terrorisme et surveillance"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Ennemis désignés et militarisation des États"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Conseils aux jeunes pour vérifier les informations"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Technologie et changement social"
+        }
+      ]
     },
     {
       "id": "0SUtedD8Kt8",
@@ -14209,9 +17353,70 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Benjamin Bayart se penche sur la neutralité du net et les conséquences d'une régulation par des institutions qui semblent de plus en plus déconnectées des réalités \" numériques \".\nSOUTENEZ-NOUS :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "CSA et régulation des contenus"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Labellisation et risques totalitaires"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Liberté d’expression et plateformes"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Neutralité du net et péage"
+        },
+        {
+          "startSeconds": 585,
+          "title": "Données personnelles et portabilité"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Prise de conscience des traces numériques"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Éducation à la société du réseau"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Internet ouvert et circulation du pouvoir"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "S’informer par les réseaux et gouvernance"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Noms de domaine et racines multiples"
+        },
+        {
+          "startSeconds": 1485,
+          "title": "IPv4, IPv6 et asymétrie du réseau"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Solutions techniques pour maintenir un réseau ouvert"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Surveillance et contrôle social"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Crise économique et montée des totalitarismes"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Collecte de données et réciprocité"
+        }
+      ]
     },
     {
       "id": "m0ha0aN1cSU",
@@ -14223,9 +17428,50 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Interview de Gilles Babinet sur le Big Data\nEnregistré à Paris le 05/04/14",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Big Data, santé et confiance institutionnelle"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Optimisation des transports par les données"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Surveillance numérique et séparation des pouvoirs"
+        },
+        {
+          "startSeconds": 540,
+          "title": "La troisième révolution industrielle des données"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Conseil national du numérique et débat public"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Le rôle de la CNIL dans le débat"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Confiance publique et démocratie directe"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Intelligence collaborative et société numérique"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Conseils aux jeunes et pensée alternative"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Captation des données et risques autoritaires"
+        }
+      ]
     },
     {
       "id": "OYm6r6aKD98",
@@ -14237,9 +17483,46 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Entretien avec Maître Olivier Iteanu, l'avocat de Olivier Laurelli, alias Bluetouff,Condamné pour avoir téléchargé des documents accessibles sur Googlesur ( l'ANSES Agence Nationale de Sécurité Sanitaire de l'Alimentation) en 2012. Aussi abordé : La loi de programmation militaire",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de l'avocat et du dossier Bluetooth"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Google et l'enquête dans le dossier"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Épreuve judiciaire et écrits sur des affaires sensibles"
+        },
+        {
+          "startSeconds": 585,
+          "title": "Loi de programmation militaire et surveillance administrative"
+        },
+        {
+          "startSeconds": 765,
+          "title": "Garanties des citoyens face à la surveillance"
+        },
+        {
+          "startSeconds": 945,
+          "title": "Modèle économique et surveillance des populations"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Confiance économique après le programme Prism"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Conséquences sociales de la défiance numérique"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Identité numérique et outils alternatifs"
+        }
+      ]
     },
     {
       "id": "TxVyRoJTG94",
@@ -14251,9 +17534,114 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Où va le monde financier ?\nAvec Jean-Manuel Rozan & Hervé de Carmoy",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation des invités et crise financière"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Cycles économiques et dette américaine"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Croissance mondiale et accès à la classe moyenne"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Métier de trader et décisions de marché"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Rôle des banques et complexité financière"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Manipulation des taux et éthique bancaire"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Contrôles de marché et risques systémiques"
+        },
+        {
+          "startSeconds": 1170,
+          "title": "Matières premières et consommation mondiale"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Taxe sur la spéculation des matières premières"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Élites et banques centrales face à la taxe"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Origines et fonctionnement de la commission trilatérale"
+        },
+        {
+          "startSeconds": 1665,
+          "title": "Intégrité et fonctionnement de la commission"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Bonus et création de valeur dans les banques"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Renouvellement générationnel et sagesse"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Solutions politiques et point de basculement"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Communication publique et journalisme"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Crise de confiance et autorité morale"
+        },
+        {
+          "startSeconds": 2610,
+          "title": "Désaccords sur la transition énergétique"
+        },
+        {
+          "startSeconds": 2700,
+          "title": "Gestion de fortune et financement des entreprises"
+        },
+        {
+          "startSeconds": 2880,
+          "title": "Investissement dans les PME et perception du risque"
+        },
+        {
+          "startSeconds": 3060,
+          "title": "Marché transatlantique et responsabilité des entreprises"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Vie privée sur Internet et apprentissage du code"
+        },
+        {
+          "startSeconds": 3420,
+          "title": "Rapport français à la richesse et à la différence"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Confiance dans l'avenir et croissance française"
+        },
+        {
+          "startSeconds": 3645,
+          "title": "Surveillance de masse et libertés individuelles"
+        },
+        {
+          "startSeconds": 3690,
+          "title": "Transparence des banques et risques cachés"
+        }
+      ]
     },
     {
       "id": "TEbv3qJ5_Yk",
@@ -14279,9 +17667,34 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Jeremie Zimmermann et Éric Filiol donnent leur point de vue sur la surveillance abusive à travers internet. Allons-nous vers une cyber dictature ?\nSOUTENEZ-NOUS :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de la cyberguerre et de la cyberpaix"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Cyberguerre marginale et montée des cyberdictatures"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Surveillance de masse et protection des particuliers"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Étudiants journalistes et protection des communications"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Souveraineté technologique et choix du chiffrement"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Vie privée et contrôle démocratique des technologies"
+        }
+      ]
     },
     {
       "id": "Is-svrzmXRs",
@@ -14293,9 +17706,66 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Nous avons réuni sur le même plateau : Hacker, développeur et chef d'entreprise pour qu'ils nous livrent leurs perceptions croisées concernant vos données privées et de la façon dont les états, les entreprises, les services de renseignements peuvent les utiliser... Les avantages,",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation et enjeux de la surveillance numérique"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Origines de Qwant et neutralité du réseau"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Big data et exploitation des données personnelles"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Disparition des secrets face à la surveillance"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Mesures de Qwant contre le pistage"
+        },
+        {
+          "startSeconds": 855,
+          "title": "Protection européenne des données et serveurs"
+        },
+        {
+          "startSeconds": 990,
+          "title": "Histoire de Bull et outils de surveillance"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Conflits numériques et surveillance des manifestants"
+        },
+        {
+          "startSeconds": 1305,
+          "title": "Responsabilité politique et absence de garde-fous"
+        },
+        {
+          "startSeconds": 1530,
+          "title": "Contrôle des utilisateurs et bulles de recherche"
+        },
+        {
+          "startSeconds": 1665,
+          "title": "Parallèle entre la finance et la dérive d’Internet"
+        },
+        {
+          "startSeconds": 1935,
+          "title": "Personnalisation des résultats et défiance informationnelle"
+        },
+        {
+          "startSeconds": 2115,
+          "title": "Conseils pour la vie privée et la neutralité du réseau"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Le code comme nouvelle alphabétisation"
+        }
+      ]
     },
     {
       "id": "WyTQlf2rijs",
@@ -14307,9 +17777,130 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Nos intervenants proposent une analyse très intéressante sur la situation économique actuelle suivie d'une analyse approfondie du système politique et économique, en croisant leurs expériences.\nSOUTENEZ-NOUS :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Économie américaine et trois pôles de puissance"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Relance monétaire et production de gaz de schiste"
+        },
+        {
+          "startSeconds": 225,
+          "title": "Dette publique et croissance sans emplois"
+        },
+        {
+          "startSeconds": 315,
+          "title": "Quantitative easing et concentration des revenus"
+        },
+        {
+          "startSeconds": 495,
+          "title": "Mesure du chômage et sorties de la population active"
+        },
+        {
+          "startSeconds": 765,
+          "title": "Dette étudiante et marché du travail bloqué"
+        },
+        {
+          "startSeconds": 855,
+          "title": "Faillites municipales et spirale fiscale"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Relocalisation économique et marchés fermiers"
+        },
+        {
+          "startSeconds": 1305,
+          "title": "Emploi américain et détenteurs de la dette"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Obamacare et stratégie énergétique américaine"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Déclin rapide du gaz de schiste"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Produits dérivés et risques systémiques"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Effet de levier et fragilité bancaire"
+        },
+        {
+          "startSeconds": 2340,
+          "title": "Des instruments d'assurance devenus des paris"
+        },
+        {
+          "startSeconds": 2475,
+          "title": "Nouvelles bulles de crédit et dérivés"
+        },
+        {
+          "startSeconds": 2790,
+          "title": "Contournement de la règle Volcker"
+        },
+        {
+          "startSeconds": 3015,
+          "title": "Opacité du risque et spéculation mondiale"
+        },
+        {
+          "startSeconds": 3240,
+          "title": "Surveillance américaine des flux financiers"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "Surveillance, vie privée et risques démocratiques"
+        },
+        {
+          "startSeconds": 3960,
+          "title": "Projet européen et influences politiques"
+        },
+        {
+          "startSeconds": 4140,
+          "title": "Dérives néolibérales et avenir du projet européen"
+        },
+        {
+          "startSeconds": 4320,
+          "title": "État, banques et liberté des capitaux"
+        },
+        {
+          "startSeconds": 4545,
+          "title": "Régulation bancaire et reprise en main publique"
+        },
+        {
+          "startSeconds": 4860,
+          "title": "Contrôle des opérateurs et risques financiers"
+        },
+        {
+          "startSeconds": 5040,
+          "title": "Réformer les banques et conduire le changement"
+        },
+        {
+          "startSeconds": 5265,
+          "title": "Échec de la réforme après la crise"
+        },
+        {
+          "startSeconds": 5490,
+          "title": "Taux fixes et soutien des banques centrales"
+        },
+        {
+          "startSeconds": 5670,
+          "title": "Consanguinité entre banques et pouvoirs publics"
+        },
+        {
+          "startSeconds": 5850,
+          "title": "Séparer les activités bancaires"
+        },
+        {
+          "startSeconds": 5940,
+          "title": "Réorienter la finance vers l'économie réelle"
+        }
+      ]
     },
     {
       "id": "oFG-CmlEvLA",
@@ -14321,9 +17912,66 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Homme d'affaires Libanais hors normes, homme de réseaux, proche de l'armée libanaise, torturé à l'âge de 15 ans par les milices Libanaises chrétiennes d'extrême droite, victime de deux tentatives d'assassinat manquées dont une par voiture piégée, à connu l'exile politique.\nIl dem",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Parcours et influence de Michel Elefteriades"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Crise syrienne et revirement des puissances"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Bernard-Henri Lévy et l’unipolarité américaine"
+        },
+        {
+          "startSeconds": 630,
+          "title": "Deux axes géopolitiques au Moyen-Orient"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Culture et éducation avant le vote"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Guerre syrienne et négociations de reconstruction"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Réfugiés syriens et fragilité du Liban"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Armée libanaise et coup d’État gardien"
+        },
+        {
+          "startSeconds": 1620,
+          "title": "Nouristan, projet culturel et politique"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Changement politique et limites des alternances"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Origines personnelles du projet Nouristan"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Refonder la politique française et mondiale"
+        },
+        {
+          "startSeconds": 2520,
+          "title": "Éducation, discipline et méthodes anciennes"
+        },
+        {
+          "startSeconds": 2565,
+          "title": "Drogues, procédures bâillon et surveillance"
+        }
+      ]
     },
     {
       "id": "i4dcmJALM8k",
@@ -14335,9 +17983,58 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Peter Dale Scott, professeur émérite de Littérature anglaise à l'Université de Berkeley, Californie. Il a travaillé durant quatre ans (1957-1961) pour le service diplomatique canadien. Expert dans les domaines des opérations secrètes et du trafic de drogue international. Il est c",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Politiques américaines et économie du trafic de drogue"
+        },
+        {
+          "startSeconds": 495,
+          "title": "La légalisation de la drogue reste interdite à Washington"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Le supramonde et l'influence du pouvoir privé"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Pétrole, élections et tournant politique des années 1980"
+        },
+        {
+          "startSeconds": 1350,
+          "title": "Wall Street et la création de la CIA"
+        },
+        {
+          "startSeconds": 1755,
+          "title": "Interventions américaines et pétrole en Asie"
+        },
+        {
+          "startSeconds": 2025,
+          "title": "Guerre froide et intérêts privés des compagnies pétrolières"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "La Syrie entre diplomatie, guerre et ressources gazières"
+        },
+        {
+          "startSeconds": 2745,
+          "title": "Afghanistan, gazoducs et divisions européennes"
+        },
+        {
+          "startSeconds": 2925,
+          "title": "Conseils à la jeunesse et engagement démocratique"
+        },
+        {
+          "startSeconds": 3195,
+          "title": "Surveillance et continuité du gouvernement après le 11 septembre"
+        },
+        {
+          "startSeconds": 3600,
+          "title": "État secret, libertés publiques et espoir de changement"
+        }
+      ]
     },
     {
       "id": "taiWyjVLvvc",
@@ -14349,9 +18046,70 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Vous avez un problème avec l'information ? Nous aussi. Nous avons cherché pour notre interview un journaliste remplissant au moins deux qualités :\nI - Respecter la vérité, quelles qu'en soient les conséquences pour lui-même, et ce, en raison du droit que le public a de connaitre ",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Clearstream et la crise de la presse"
+        },
+        {
+          "startSeconds": 225,
+          "title": "Protection des sources et avenir du journalisme"
+        },
+        {
+          "startSeconds": 450,
+          "title": "Réformer les procès en diffamation"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Dépendance de la presse financière"
+        },
+        {
+          "startSeconds": 900,
+          "title": "Définition du statut de journaliste"
+        },
+        {
+          "startSeconds": 1125,
+          "title": "Défense de Snowden et des lanceurs d’alerte"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Financement public d’une chaîne documentaire"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Plateforme documentaire et esprit critique"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Financer les documentaires sur des sujets sensibles"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Affaire Cahuzac et journalisme d’enquête"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Marginalité et éthique du journaliste"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Formation des journalistes et culture économique"
+        },
+        {
+          "startSeconds": 2250,
+          "title": "Modèle économique d’un journalisme de qualité"
+        },
+        {
+          "startSeconds": 2295,
+          "title": "Conseils pour développer l’esprit critique"
+        },
+        {
+          "startSeconds": 2430,
+          "title": "Avenir du journalisme et du web"
+        }
+      ]
     },
     {
       "id": "Xx1mt_BVuqo",
@@ -14363,9 +18121,26 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Vous avez un problème avec l'information ? Nous aussi. Nous avons cherché pour notre interview un journaliste remplissant au moins deux qualités :\nI - Respecter la vérité, quelles qu'en soient les conséquences pour lui-même, et ce, en raison du droit que le public a de connaitre ",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Présentation de l'affaire Clearstream"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Crise de la presse et journalisme financier"
+        },
+        {
+          "startSeconds": 225,
+          "title": "Affaire Snowden et asile politique français"
+        },
+        {
+          "startSeconds": 270,
+          "title": "PRISM et le programme Échelon"
+        }
+      ]
     },
     {
       "id": "-ND0YsCZga4",
@@ -14405,9 +18180,46 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "Les médias,les experts auto-proclamés parlent beaucoup de la Syrie en ce moment. Nous avons souhaité avoir l'avis de quelqu'un qui comprend mieux la situation, quelqu'un de terrain, de plus crédible que des journalistes qui répètent sans vérifier ce que l'AFP, l'AP et Reuters leu",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Services spéciaux et renseignement extérieur"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Financement et armement de la rébellion syrienne"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Issues possibles de la guerre civile syrienne"
+        },
+        {
+          "startSeconds": 360,
+          "title": "Russie, Chine et ordre international"
+        },
+        {
+          "startSeconds": 405,
+          "title": "Évolution de la position américaine en Syrie"
+        },
+        {
+          "startSeconds": 540,
+          "title": "L’affaire Mera comme cas individuel"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Traitement médiatique et esprit critique"
+        },
+        {
+          "startSeconds": 720,
+          "title": "Crédibilité de la politique extérieure française"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Apprendre l’histoire pour comprendre le présent"
+        }
+      ]
     },
     {
       "id": "pKTK8zx5VQA",
@@ -14433,9 +18245,54 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "ThinkerView est un groupe indépendant issu de l'internet, très diffèrent de la plupart des think-tanks qui sont inféodés à des partis politiques ou des intérêts privés.\nNous vous proposons donc de réfléchir ensemble avec : Olivier Delamarche",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Déni collectif face aux mauvaises nouvelles"
+        },
+        {
+          "startSeconds": 270,
+          "title": "Création monétaire et décalage avec la croissance"
+        },
+        {
+          "startSeconds": 540,
+          "title": "Politiques monétaires et hausse des matières premières"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Retraites et fragilité du financement par répartition"
+        },
+        {
+          "startSeconds": 855,
+          "title": "Dette publique, austérité et risque de récession"
+        },
+        {
+          "startSeconds": 1215,
+          "title": "Agences de notation et évaluation des risques"
+        },
+        {
+          "startSeconds": 1395,
+          "title": "Responsabilité des banquiers et absence de sanctions"
+        },
+        {
+          "startSeconds": 1710,
+          "title": "Paradis fiscaux et faux débats politiques"
+        },
+        {
+          "startSeconds": 1845,
+          "title": "Vérifier les chiffres économiques par corrélation"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Chômage américain et récits de réindustrialisation"
+        },
+        {
+          "startSeconds": 2160,
+          "title": "Inflation mesurée et bon sens économique"
+        }
+      ]
     },
     {
       "id": "6VUpicNBMzg",
@@ -14447,9 +18304,70 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "ThinkerView est un groupe indépendant issu d'internet, très diffèrent de la plupart des think-tanks qui sont inféodés à des partis politiques ou des intérêts privés.\nNous vous proposons donc de réfléchir ensemble avec : Jacques Blamont",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "La loi de Moore et l’accélération technique"
+        },
+        {
+          "startSeconds": 225,
+          "title": "Connexion mondiale et inégalités de consommation"
+        },
+        {
+          "startSeconds": 495,
+          "title": "Épuisement des ressources et promesses technologiques"
+        },
+        {
+          "startSeconds": 675,
+          "title": "Progrès automobile et rebond de consommation"
+        },
+        {
+          "startSeconds": 810,
+          "title": "Pétrole, engrais et production agricole"
+        },
+        {
+          "startSeconds": 1080,
+          "title": "Consommation de viande et objectif chinois"
+        },
+        {
+          "startSeconds": 1260,
+          "title": "Science et technologie aggravent les pénuries"
+        },
+        {
+          "startSeconds": 1440,
+          "title": "Motivations religieuses et changement des comportements"
+        },
+        {
+          "startSeconds": 1575,
+          "title": "Emballement technologique, démographie et besoins croissants"
+        },
+        {
+          "startSeconds": 1800,
+          "title": "Pénuries d’eau et conflits à venir"
+        },
+        {
+          "startSeconds": 1890,
+          "title": "Frustrations, armes nucléaires et biologiques"
+        },
+        {
+          "startSeconds": 1980,
+          "title": "Ouvrages sur les menaces et l’action"
+        },
+        {
+          "startSeconds": 2070,
+          "title": "Méchanceté humaine et traitement des animaux"
+        },
+        {
+          "startSeconds": 2205,
+          "title": "Rêves, exploration spatiale et action"
+        },
+        {
+          "startSeconds": 2385,
+          "title": "Passer du rêve à la réalité"
+        }
+      ]
     },
     {
       "id": "FhxVwUdq6ls",
@@ -14461,9 +18379,22 @@
       "kind": "video",
       "liveStatus": "none",
       "descriptionExcerpt": "ThinkerView est un groupe indépendant issu d'internet, très diffèrent de la plupart des think-tanks qui sont inféodés à des partis politiques ou des intérêts privés.\nNous vous proposons donc de réfléchir ensemble avec : Jacques Blamont",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
+      "chapterStatus": "ready",
+      "chapterSource": "ai-transcript",
+      "chapters": [
+        {
+          "startSeconds": 0,
+          "title": "Accélération technologique et bouleversement social"
+        },
+        {
+          "startSeconds": 135,
+          "title": "Situation inédite et aggravation des pénuries"
+        },
+        {
+          "startSeconds": 180,
+          "title": "Emballement de la machine technologique"
+        }
+      ]
     }
   ]
 }

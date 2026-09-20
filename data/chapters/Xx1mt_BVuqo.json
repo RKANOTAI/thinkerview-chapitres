@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "videoId": "Xx1mt_BVuqo",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T00:57:37Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de l'affaire Clearstream"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Crise de la presse et journalisme financier"
+    },
+    {
+      "startSeconds": 225,
+      "title": "Affaire Snowden et asile politique français"
+    },
+    {
+      "startSeconds": 270,
+      "title": "PRISM et le programme Échelon"
+    }
+  ]
+}

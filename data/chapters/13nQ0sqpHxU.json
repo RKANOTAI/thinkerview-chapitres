@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "videoId": "13nQ0sqpHxU",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T05:41:24Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Ouverture et genèse du guide des paradis"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Comparaison des offres religieuses et sectaires"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Choix du paradis et lieux de départ"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Sexualité et cas particuliers dans les paradis"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Interprétation des textes et nouvelles sectes"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Internet et diffusion des offres religieuses"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Tolérance démocratique et limites des dérives sectaires"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Arabie Saoudite et modèle religieux radical"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Hypocrisie sociale et conflits entre courants musulmans"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Procédure en diffamation et conseils aux jeunes générations"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Représentations du paradis et récit d’attentat"
+    },
+    {
+      "startSeconds": 1755,
+      "title": "Conclusion satirique sur les croyances religieuses"
+    }
+  ]
+}

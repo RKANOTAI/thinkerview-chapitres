@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "videoId": "0PbXQ97FTHc",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T00:07:32Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Services spéciaux et renseignement extérieur"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Financement et armement de la rébellion syrienne"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Issues possibles de la guerre civile syrienne"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Russie, Chine et ordre international"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Évolution de la position américaine en Syrie"
+    },
+    {
+      "startSeconds": 540,
+      "title": "L’affaire Mera comme cas individuel"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Traitement médiatique et esprit critique"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Crédibilité de la politique extérieure française"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Apprendre l’histoire pour comprendre le présent"
+    }
+  ]
+}

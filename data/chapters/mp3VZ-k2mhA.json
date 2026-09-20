@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "videoId": "mp3VZ-k2mhA",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T07:45:38Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Enquête collective sur la banque et le Crédit Mutuel"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Versements suspects et homme de paille"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Multinationales et pouvoir politique des États"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Preuves et responsabilité dans l’enquête"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Subventions publiques et concentration des médias"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Pression financière sur les jeunes journalistes"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Demande du public pour les enquêtes approfondies"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Coopération internationale des journalistes"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Récupération fiscale et priorité aux intérêts économiques"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Puissance supranationale des grandes entreprises"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Produits dérivés et dette étudiante"
+    },
+    {
+      "startSeconds": 2385,
+      "title": "Internet et nouveaux outils d’enquête"
+    },
+    {
+      "startSeconds": 2565,
+      "title": "Bolloré informé de la diffusion du documentaire"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Proposition du documentaire à France Télévisions"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "Preuves et pouvoirs du CSA"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Soutien du producteur face aux pressions"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Autocensure et pression des annonceurs"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Budget du Grand Journal et pertes d’emplois"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Journalisme d’enquête et intérêt général"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Responsabilité des médias et droit à l’information"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Mediapart et le financement du journalisme"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Information d’intérêt général et esprit critique"
+    }
+  ]
+}

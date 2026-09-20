@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "videoId": "bxANdVGz2bA",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T04:47:59Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Parcours professionnel et réflexion stratégique"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Complexe militaro-intellectuel et fabrication de l'ennemi"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Crise yougoslave et choix européens"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Guerres contre les concepts et intervention en Afghanistan"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Intellectuels médiatiques et choix des conflits"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Somalie, structures tribales et intervention extérieure"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Attentats et réflexion sur la société française"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Politiques européennes de contre-radicalisation"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Soutiens extérieurs et diffusion du salafisme"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Sécurité intérieure et différences démocratiques"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Données personnelles et surveillance numérique"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Deux poids deux mesures dans les extraditions"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Renseignement de terrain et ruptures politiques"
+    },
+    {
+      "startSeconds": 3510,
+      "title": "Rwanda et limites des décisions administratives"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Opinion publique internationale et émotion médiatique"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Culture américaine de la guerre et cinéma"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Conseils aux jeunes et défense intellectuelle"
+    }
+  ]
+}

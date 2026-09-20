@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "videoId": "krKi0RNMxgU",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T13:09:45Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation d'Acrimed et du débat"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Le journalisme de commentaires domine l'information"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Les conséquences de la carence informationnelle"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Les médias ne sont pas tout-puissants"
+    },
+    {
+      "startSeconds": 405,
+      "title": "L'expérience sociale informe les citoyens"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Composition du conseil national des médias"
+    },
+    {
+      "startSeconds": 720,
+      "title": "La propriété économique des médias"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Les effets du pouvoir économique"
+    },
+    {
+      "startSeconds": 1035,
+      "title": "Le milieu social des journalistes"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "La protection des sources journalistiques"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Enquêter sur les conditions de travail"
+    },
+    {
+      "startSeconds": 1665,
+      "title": "Le secret des affaires et la guerre économique"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Secret industriel et secret des affaires"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Le traitement médiatique des manifestations"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "La tension et les violences dans les manifestations"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Les limites du journalisme d'investigation"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Le pluralisme et le comité Orwell"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "La présence d'Acrimed dans les grands médias"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "La fragmentation des sources d'information"
+    },
+    {
+      "startSeconds": 3330,
+      "title": "Des médias riches et des médias pauvres"
+    },
+    {
+      "startSeconds": 3465,
+      "title": "Conseil aux jeunes générations"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "videoId": "m0ha0aN1cSU",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T03:37:31.970411+00:00",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Big Data, santé et confiance institutionnelle"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Optimisation des transports par les données"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Surveillance numérique et séparation des pouvoirs"
+    },
+    {
+      "startSeconds": 540,
+      "title": "La troisième révolution industrielle des données"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Conseil national du numérique et débat public"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Le rôle de la CNIL dans le débat"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Confiance publique et démocratie directe"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Intelligence collaborative et société numérique"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Conseils aux jeunes et pensée alternative"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Captation des données et risques autoritaires"
+    }
+  ]
+}

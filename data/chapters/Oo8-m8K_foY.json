@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "videoId": "Oo8-m8K_foY",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-18T07:48:21Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et parcours politique de David Guiraud"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Début de l’analyse des finances publiques françaises"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Réforme fiscale et financement des collectivités locales"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Gestion de la sécurité sociale et rôle de l’État"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Transferts de TVA et hausse du déficit public"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Idéologie du marché et financement des entreprises"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Marchés financiers et priorité aux dépenses sociales"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Départements et protection de l’enfance à Roubaix"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Contrôle social et modèles de société"
+    },
+    {
+      "startSeconds": 3645,
+      "title": "Incertitude géopolitique et formation des blocs"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Énergie et dépendance des politiques françaises"
+    },
+    {
+      "startSeconds": 4185,
+      "title": "Relations avec l’Algérie et présence en Afrique"
+    },
+    {
+      "startSeconds": 4455,
+      "title": "Politique africaine et recul de la diplomatie française"
+    },
+    {
+      "startSeconds": 4635,
+      "title": "Immigration OQTF et politiques d’intégration"
+    },
+    {
+      "startSeconds": 4950,
+      "title": "Délinquance locale et limites de la réponse pénale"
+    },
+    {
+      "startSeconds": 5130,
+      "title": "Radicalisation et rôle des liens sociaux"
+    },
+    {
+      "startSeconds": 5355,
+      "title": "Hypothèses budgétaires et financement des retraites"
+    },
+    {
+      "startSeconds": 5625,
+      "title": "Avenir industriel et règles énergétiques européennes"
+    },
+    {
+      "startSeconds": 6030,
+      "title": "Effets des choix de Trump sur l’Europe"
+    },
+    {
+      "startSeconds": 6255,
+      "title": "Transition énergétique et choix technologiques"
+    },
+    {
+      "startSeconds": 6435,
+      "title": "Rapport de force européen et Frexit"
+    },
+    {
+      "startSeconds": 6570,
+      "title": "OTAN Ukraine et stratégie américaine"
+    },
+    {
+      "startSeconds": 6885,
+      "title": "Non-alignement et partenariats internationaux de la France"
+    },
+    {
+      "startSeconds": 7110,
+      "title": "Sanctions américaines et autonomie européenne"
+    },
+    {
+      "startSeconds": 7380,
+      "title": "Écologie concrète eau et réemploi textile"
+    },
+    {
+      "startSeconds": 7740,
+      "title": "Mobilité électrique et rendement énergétique"
+    },
+    {
+      "startSeconds": 7875,
+      "title": "Lectures conseillées et réflexion sur le bonheur"
+    }
+  ]
+}

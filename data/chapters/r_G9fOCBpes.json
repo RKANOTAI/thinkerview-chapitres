@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "videoId": "r_G9fOCBpes",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T02:52:27Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de la cyberguerre et de la cyberpaix"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Cyberguerre marginale et montée des cyberdictatures"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Surveillance de masse et protection des particuliers"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Étudiants journalistes et protection des communications"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Souveraineté technologique et choix du chiffrement"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Vie privée et contrôle démocratique des technologies"
+    }
+  ]
+}

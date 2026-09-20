@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "videoId": "TR9IG4Ysuv0",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T09:34:36Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Ouverture géopolitique et perception de la Russie"
+    },
+    {
+      "startSeconds": 765,
+      "title": "Islam radical et coopération contre le terrorisme"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Daesh, ses soutiens et le rôle de la Turquie"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Place de l’Iran dans la politique régionale"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Coopération spatiale franco-russe et ambitions orbitales"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Voie maritime du Nord et protection de l’Arctique"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Incident aérien russo-turc et tensions diplomatiques"
+    },
+    {
+      "startSeconds": 2205,
+      "title": "Puissance militaire russe et diplomatie française"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Nucléaire civil et diversification énergétique"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Culture russe et échanges artistiques avec la France"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Processus politique en Syrie et coordination internationale"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Relations entre les États-Unis, l’Europe et la Russie"
+    },
+    {
+      "startSeconds": 3735,
+      "title": "Frontières russes et craintes dans les pays baltes"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Question kurde et conférence régionale au Proche-Orient"
+    },
+    {
+      "startSeconds": 4185,
+      "title": "Navires Mistral et confiance industrielle franco-russe"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Pensée unique, islamisme et enjeux éducatifs"
+    },
+    {
+      "startSeconds": 4635,
+      "title": "Contacts entre les peuples et conseil aux jeunes"
+    }
+  ]
+}

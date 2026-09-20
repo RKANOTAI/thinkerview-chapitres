@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "videoId": "01gGuXRKH5I",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T06:35:03Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de la loi numérique et du débat"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Données électorales et protection de la vie privée"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Anonymisation des données et risques de réidentification"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Profilage comportemental et limites du droit existant"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Surveillance américaine et avantage européen sur les données"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Loi sur le renseignement et équilibre des libertés"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Contrôle des services et sanctions en cas d'abus"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Algorithmes de détection et prévention des faux positifs"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Chiffrement et position du gouvernement français"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Neutralité du net et définition des services spécialisés"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Conclusion sur la loi et les enjeux du numérique"
+    }
+  ]
+}

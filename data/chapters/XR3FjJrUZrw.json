@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "XR3FjJrUZrw",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-18T07:48:21Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et définition du monstre"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Chaîne internationale et transport du trafic"
+    },
+    {
+      "startSeconds": 1035,
+      "title": "Dépotage et distribution locale"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Économie des semi-grossistes marseillais"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Histoire de la French Connection"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Guerres de territoires et trahisons internes"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Identité et tissu social marseillais"
+    },
+    {
+      "startSeconds": 3105,
+      "title": "Paupérisation et rénovation urbaine"
+    },
+    {
+      "startSeconds": 3555,
+      "title": "Le trafic comme symptôme d’une crise sociale"
+    },
+    {
+      "startSeconds": 4005,
+      "title": "Les émeutes et le retour de la vie locale"
+    },
+    {
+      "startSeconds": 4635,
+      "title": "Diffusion nationale et récupération politique"
+    },
+    {
+      "startSeconds": 5130,
+      "title": "Le football comme espace politique"
+    },
+    {
+      "startSeconds": 5310,
+      "title": "Financement politique et blanchiment local"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "Risques sanitaires et prévention des consommations"
+    },
+    {
+      "startSeconds": 6390,
+      "title": "Drogues et performance dans les métiers concurrentiels"
+    },
+    {
+      "startSeconds": 6660,
+      "title": "Avenir du narcotrafic sous contraintes"
+    },
+    {
+      "startSeconds": 6930,
+      "title": "Endettement et recrutement des jeunes"
+    },
+    {
+      "startSeconds": 7335,
+      "title": "Vulnérabilité et violence chez les jeunes"
+    },
+    {
+      "startSeconds": 7875,
+      "title": "Vulnérabilités psychiatriques et neurologiques"
+    },
+    {
+      "startSeconds": 8100,
+      "title": "La police comme infirmière du problème social"
+    },
+    {
+      "startSeconds": 8640,
+      "title": "Effectifs et formation des policiers"
+    },
+    {
+      "startSeconds": 8910,
+      "title": "Police et règles du trafic de stupéfiants"
+    },
+    {
+      "startSeconds": 9315,
+      "title": "Coopération avec le Maroc sur le cannabis"
+    },
+    {
+      "startSeconds": 9450,
+      "title": "Trois axes pour réduire les trafics"
+    },
+    {
+      "startSeconds": 10170,
+      "title": "Décriminalisation et parcours de soin"
+    },
+    {
+      "startSeconds": 10485,
+      "title": "Laxisme social et communication des réseaux"
+    },
+    {
+      "startSeconds": 10755,
+      "title": "Applications et recrutement numérique"
+    },
+    {
+      "startSeconds": 11340,
+      "title": "Protoxyde d’azote et prostitution des mineures"
+    },
+    {
+      "startSeconds": 11880,
+      "title": "Dangers sanitaires et recommandations finales"
+    },
+    {
+      "startSeconds": 12105,
+      "title": "Conseils aux jeunes contre le mirage criminel"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "videoId": "VBsLSfPs2PE",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T17:56:27Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation du parcours militant et des libertés numériques"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Misère sociale et montée de l'extrême droite"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Répartition des richesses et financement de la dette"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Radicalisation en ligne et évolution du terrorisme"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Crypto-monnaies et réseaux associatifs"
+    },
+    {
+      "startSeconds": 1035,
+      "title": "Déploiement public de la fibre optique"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Boîtes noires et limites de la surveillance"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Vie privée et profilage publicitaire en ligne"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Sécurité informatique et défense du chiffrement"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Surveillance et transformation de la société par Internet"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Données publiques et rigidités institutionnelles"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Limites opérationnelles de la surveillance antiterroriste"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Big data et intelligence artificielle"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Prédiction statistique et responsabilité pénale"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Décentralisation d'Internet et recours juridiques"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Failles de sécurité et responsabilité des agences"
+    },
+    {
+      "startSeconds": 3285,
+      "title": "Chiffrement généralisé et pensée autonome"
+    },
+    {
+      "startSeconds": 3555,
+      "title": "Propriété des données personnelles"
+    },
+    {
+      "startSeconds": 3645,
+      "title": "Réseau social décentralisé Mastodon"
+    },
+    {
+      "startSeconds": 3825,
+      "title": "Conseils aux jeunes générations"
+    }
+  ]
+}

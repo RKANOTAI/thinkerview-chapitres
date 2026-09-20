@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "videoId": "9eBBIYWeUxs",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T18:49:55Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation et histoire de la Nef"
+    },
+    {
+      "startSeconds": 225,
+      "title": "Valeurs spirituelles et racines de la Nef"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Accusations sectaires et réponse judiciaire"
+    },
+    {
+      "startSeconds": 585,
+      "title": "Épargne, financement des projets et transparence"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Salaires et choix professionnel du dirigeant"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Moralisation du capitalisme et bien commun"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Patrimoine personnel et regard sur les banques"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Marchés financiers et autonomie de la Nef"
+    },
+    {
+      "startSeconds": 1485,
+      "title": "Ratio de solvabilité et qualité des financements"
+    },
+    {
+      "startSeconds": 1665,
+      "title": "Garantie des dépôts et séparation bancaire"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Fonds spéculatifs, paradis fiscaux et régulation"
+    },
+    {
+      "startSeconds": 2115,
+      "title": "Accès aux comptes et épargne à la Nef"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Marchés des taux et manipulation de l’Euribor"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Euro, circulation européenne et économie responsable"
+    },
+    {
+      "startSeconds": 2610,
+      "title": "Création monétaire et financement par les dépôts"
+    },
+    {
+      "startSeconds": 2835,
+      "title": "Banques coopératives et reterritorialisation du crédit"
+    },
+    {
+      "startSeconds": 2970,
+      "title": "Microcrédit professionnel et équilibre économique"
+    },
+    {
+      "startSeconds": 3105,
+      "title": "Conseil aux jeunes et clôture de l’entretien"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "videoId": "fmgxfvbAMK8",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T08:44:22Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et contexte géopolitique"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Manipulation de l'information et responsabilité politique"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Enquête journalistique et perte de confiance"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Journalisme et nouvelles formes de démocratie"
+    },
+    {
+      "startSeconds": 2295,
+      "title": "Hackers comme lanceurs d'alerte technologiques"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Filtres médiatiques et sélection des conflits"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Laboratoires P4 et risques biologiques"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Vérification des sources et propagande historique"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Culture du spectateur et fabrication des représentations"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "État d'urgence et protection des libertés"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Surveillance Internet et influence américaine"
+    },
+    {
+      "startSeconds": 4005,
+      "title": "Extrait de film sur surveillance et propagande"
+    },
+    {
+      "startSeconds": 4410,
+      "title": "Double standard démocratique et droits des détenus"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Éducation pour l'esprit critique et la démocratie"
+    },
+    {
+      "startSeconds": 4815,
+      "title": "Conseils civiques pour les jeunes générations"
+    }
+  ]
+}

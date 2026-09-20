@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "videoId": "exhl1rpAUiA",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T13:09:45Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des enjeux énergétiques et géopolitiques"
+    },
+    {
+      "startSeconds": 135,
+      "title": "La stratégie saoudienne face à l'Iran"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Vision 2030 et diversification saoudienne"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Compétition russo-saoudienne sur les marchés pétroliers"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Transition énergétique et exportations saoudiennes"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Union énergétique européenne et dépendance au gaz russe"
+    },
+    {
+      "startSeconds": 1305,
+      "title": "Les gazoducs et la crise syrienne"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Le gaz qatari et les projets de transit"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Les limites de l'explication énergétique en Syrie"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Le collier de perles et la mer de Chine"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Transformation économique et contrôle politique en Chine"
+    },
+    {
+      "startSeconds": 2655,
+      "title": "Dépendance chinoise aux importations pétrolières"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Diversification énergétique et poids du charbon chinois"
+    },
+    {
+      "startSeconds": 3195,
+      "title": "Prêts chinois et exportations vénézuéliennes"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Révolution américaine des hydrocarbures non conventionnels"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Exploration pétrolière et gazière de l'Arctique"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Conseils pour s'informer sur l'énergie et la géopolitique"
+    }
+  ]
+}

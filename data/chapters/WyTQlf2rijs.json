@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "videoId": "WyTQlf2rijs",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T02:52:27Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Économie américaine et trois pôles de puissance"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Relance monétaire et production de gaz de schiste"
+    },
+    {
+      "startSeconds": 225,
+      "title": "Dette publique et croissance sans emplois"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Quantitative easing et concentration des revenus"
+    },
+    {
+      "startSeconds": 495,
+      "title": "Mesure du chômage et sorties de la population active"
+    },
+    {
+      "startSeconds": 765,
+      "title": "Dette étudiante et marché du travail bloqué"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Faillites municipales et spirale fiscale"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Relocalisation économique et marchés fermiers"
+    },
+    {
+      "startSeconds": 1305,
+      "title": "Emploi américain et détenteurs de la dette"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Obamacare et stratégie énergétique américaine"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Déclin rapide du gaz de schiste"
+    },
+    {
+      "startSeconds": 1845,
+      "title": "Produits dérivés et risques systémiques"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Effet de levier et fragilité bancaire"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Des instruments d'assurance devenus des paris"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Nouvelles bulles de crédit et dérivés"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Contournement de la règle Volcker"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "Opacité du risque et spéculation mondiale"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Surveillance américaine des flux financiers"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Surveillance, vie privée et risques démocratiques"
+    },
+    {
+      "startSeconds": 3960,
+      "title": "Projet européen et influences politiques"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Dérives néolibérales et avenir du projet européen"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "État, banques et liberté des capitaux"
+    },
+    {
+      "startSeconds": 4545,
+      "title": "Régulation bancaire et reprise en main publique"
+    },
+    {
+      "startSeconds": 4860,
+      "title": "Contrôle des opérateurs et risques financiers"
+    },
+    {
+      "startSeconds": 5040,
+      "title": "Réformer les banques et conduire le changement"
+    },
+    {
+      "startSeconds": 5265,
+      "title": "Échec de la réforme après la crise"
+    },
+    {
+      "startSeconds": 5490,
+      "title": "Taux fixes et soutien des banques centrales"
+    },
+    {
+      "startSeconds": 5670,
+      "title": "Consanguinité entre banques et pouvoirs publics"
+    },
+    {
+      "startSeconds": 5850,
+      "title": "Séparer les activités bancaires"
+    },
+    {
+      "startSeconds": 5940,
+      "title": "Réorienter la finance vers l'économie réelle"
+    }
+  ]
+}

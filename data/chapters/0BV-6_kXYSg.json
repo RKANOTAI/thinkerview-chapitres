@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "videoId": "0BV-6_kXYSg",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T15:59:52Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Diaspora africaine et déséquilibres mondiaux"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Franc CFA et héritage colonial"
+    },
+    {
+      "startSeconds": 360,
+      "title": "Débat autour de la non-mixité militante"
+    },
+    {
+      "startSeconds": 765,
+      "title": "Banlieues françaises et communautarisation"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Quotas et lutte contre les discriminations"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Éducation et représentation de l’histoire coloniale"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Afrique, matières premières et domination mondiale"
+    },
+    {
+      "startSeconds": 2205,
+      "title": "Évolution des mouvements antiracistes"
+    },
+    {
+      "startSeconds": 2340,
+      "title": "Technologies de surveillance et pouvoir politique"
+    },
+    {
+      "startSeconds": 2565,
+      "title": "Fichage des populations et surveillance"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Football, spectacle et mondialisation économique"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Représentation noire dans le football"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Solidarité des joueurs face au racisme"
+    },
+    {
+      "startSeconds": 3645,
+      "title": "Valeurs, estime de soi et connaissance de l’histoire"
+    }
+  ]
+}

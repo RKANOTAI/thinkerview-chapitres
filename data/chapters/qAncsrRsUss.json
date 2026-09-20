@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "videoId": "qAncsrRsUss",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T06:34:57Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des experts et marché pétrolier"
+    },
+    {
+      "startSeconds": 315,
+      "title": "Géopolitique du pétrole et excédent d'offre"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Catégories de pétrole non conventionnel"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Géopolitique régionale et réserves du Moyen-Orient"
+    },
+    {
+      "startSeconds": 1035,
+      "title": "Industrialisation des technologies de schiste"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Coûts de production et impact écologique"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Gaz associé, torchères et responsabilité publique"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Eau et techniques alternatives de fracturation"
+    },
+    {
+      "startSeconds": 1935,
+      "title": "Transport routier et dépendance au pétrole"
+    },
+    {
+      "startSeconds": 2205,
+      "title": "Efficacité des véhicules et carburants alternatifs"
+    },
+    {
+      "startSeconds": 2475,
+      "title": "Progrès technique et plafonnement de la demande pétrolière"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Covoiturage et optimisation du réseau routier"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Voitures autonomes et transformation des taxis"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Voiture thermique et réalisme économique"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Données, assurance et véhicules autonomes"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Pic pétrolier, Cuba et sobriété énergétique"
+    },
+    {
+      "startSeconds": 3870,
+      "title": "Conseils aux jeunes et intérêt pour l'énergie"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Tesla, silence et consommation d'énergie"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Voiture électrique, autonomie et subventions"
+    },
+    {
+      "startSeconds": 4500,
+      "title": "Autonomie énergétique et transport de marchandises"
+    }
+  ]
+}

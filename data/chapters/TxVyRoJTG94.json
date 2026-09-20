@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "videoId": "TxVyRoJTG94",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T02:52:27Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et crise financière"
+    },
+    {
+      "startSeconds": 135,
+      "title": "Cycles économiques et dette américaine"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Croissance mondiale et accès à la classe moyenne"
+    },
+    {
+      "startSeconds": 450,
+      "title": "Métier de trader et décisions de marché"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Rôle des banques et complexité financière"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Manipulation des taux et éthique bancaire"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Contrôles de marché et risques systémiques"
+    },
+    {
+      "startSeconds": 1170,
+      "title": "Matières premières et consommation mondiale"
+    },
+    {
+      "startSeconds": 1215,
+      "title": "Taxe sur la spéculation des matières premières"
+    },
+    {
+      "startSeconds": 1440,
+      "title": "Élites et banques centrales face à la taxe"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Origines et fonctionnement de la commission trilatérale"
+    },
+    {
+      "startSeconds": 1665,
+      "title": "Intégrité et fonctionnement de la commission"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Bonus et création de valeur dans les banques"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Renouvellement générationnel et sagesse"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Solutions politiques et point de basculement"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Communication publique et journalisme"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Crise de confiance et autorité morale"
+    },
+    {
+      "startSeconds": 2610,
+      "title": "Désaccords sur la transition énergétique"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Gestion de fortune et financement des entreprises"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Investissement dans les PME et perception du risque"
+    },
+    {
+      "startSeconds": 3060,
+      "title": "Marché transatlantique et responsabilité des entreprises"
+    },
+    {
+      "startSeconds": 3240,
+      "title": "Vie privée sur Internet et apprentissage du code"
+    },
+    {
+      "startSeconds": 3420,
+      "title": "Rapport français à la richesse et à la différence"
+    },
+    {
+      "startSeconds": 3600,
+      "title": "Confiance dans l'avenir et croissance française"
+    },
+    {
+      "startSeconds": 3645,
+      "title": "Surveillance de masse et libertés individuelles"
+    },
+    {
+      "startSeconds": 3690,
+      "title": "Transparence des banques et risques cachés"
+    }
+  ]
+}

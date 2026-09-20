@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "videoId": "_jSPkz_0UZw",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T11:30:30+00:00",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation de Michel Collon et de son travail"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Les guerres de Yougoslavie et la recolonisation"
+    },
+    {
+      "startSeconds": 405,
+      "title": "La propagande de guerre et les médias mensonges"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Les médias mensonges de la guerre en Libye"
+    },
+    {
+      "startSeconds": 855,
+      "title": "Les récits médiatiques du conflit syrien"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Intérêts sociaux et économiques des populations"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Les orientations françaises face aux États-Unis"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Propriété des médias et filtres de l'information"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Terrorisme en Syrie et attentats de Paris"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Le terrorisme comme arme par procuration"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Les réseaux Gladio et la stratégie de déstabilisation"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Complots politiques et critique du complotisme"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Wesley Clark et les plans de guerre américains"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Rivalité stratégique autour de l'océan Indien"
+    },
+    {
+      "startSeconds": 3105,
+      "title": "Courants américains et risque d'escalade mondiale"
+    },
+    {
+      "startSeconds": 3285,
+      "title": "L'absence actuelle d'un mouvement antiguerre"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Former l'esprit critique et vérifier l'information"
+    }
+  ]
+}

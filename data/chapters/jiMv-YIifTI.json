@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "videoId": "jiMv-YIifTI",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T11:30:30+00:00",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Ouverture sur la justice et l’affaire Kerviel"
+    },
+    {
+      "startSeconds": 270,
+      "title": "Réseaux et influences dans la justice"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Lanceurs d’alerte dans l’enquête Kerviel"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Pressions institutionnelles contre une lanceuse d’alerte"
+    },
+    {
+      "startSeconds": 1350,
+      "title": "Anarchisme et indépendance de la justice"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Financement public et responsabilités de Société Générale"
+    },
+    {
+      "startSeconds": 2160,
+      "title": "Serment d’avocat et engagement dans le combat"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Épuisement et reconstruction de Jérôme Kerviel"
+    },
+    {
+      "startSeconds": 2700,
+      "title": "Procédures restantes contre Société Générale"
+    },
+    {
+      "startSeconds": 2880,
+      "title": "Soutien de magistrats et suivi citoyen"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "État d’urgence et droits de la défense"
+    },
+    {
+      "startSeconds": 3465,
+      "title": "Soulèvement citoyen et risque de récupération politique"
+    },
+    {
+      "startSeconds": 3780,
+      "title": "Application de la loi aux banques et à la finance"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Risque systémique des grandes banques françaises"
+    },
+    {
+      "startSeconds": 4230,
+      "title": "Politisation du dossier et stratégie de communication"
+    },
+    {
+      "startSeconds": 4320,
+      "title": "Scénarios pour la France et responsabilités politiques"
+    },
+    {
+      "startSeconds": 4590,
+      "title": "Mouvements citoyens et solutions locales"
+    }
+  ]
+}

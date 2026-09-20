@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "videoId": "yh26_9b7IJI",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T13:09:45Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Ouverture et non-violence agressive"
+    },
+    {
+      "startSeconds": 90,
+      "title": "Déclin de la biodiversité marine"
+    },
+    {
+      "startSeconds": 270,
+      "title": "COP21 et solutions contre le changement climatique"
+    },
+    {
+      "startSeconds": 405,
+      "title": "France et lutte contre la pêche illégale"
+    },
+    {
+      "startSeconds": 540,
+      "title": "Opérations contre la pêche illégale"
+    },
+    {
+      "startSeconds": 630,
+      "title": "Requins et programmes d’abattage"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Greenpeace et stratégies militantes"
+    },
+    {
+      "startSeconds": 810,
+      "title": "Jeunes générations et engagement environnemental"
+    },
+    {
+      "startSeconds": 990,
+      "title": "Engagement individuel pour les causes écologiques"
+    },
+    {
+      "startSeconds": 1080,
+      "title": "Élection américaine et contrôle des corporations"
+    },
+    {
+      "startSeconds": 1305,
+      "title": "Stratégie médiatique et célébrités militantes"
+    },
+    {
+      "startSeconds": 1395,
+      "title": "Lois écologiques et risque d’effondrement"
+    },
+    {
+      "startSeconds": 1530,
+      "title": "Équipe Cousteau et sensibilisation marine"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Projet Vortex et alternatives au plastique"
+    },
+    {
+      "startSeconds": 1620,
+      "title": "Fukushima et les risques du nucléaire"
+    },
+    {
+      "startSeconds": 1710,
+      "title": "Nucléaire français et consommation énergétique"
+    },
+    {
+      "startSeconds": 1890,
+      "title": "Guerres des ressources et dépendance aux hydrocarbures"
+    },
+    {
+      "startSeconds": 1980,
+      "title": "Réchauffement climatique et blocage des alternatives"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Arabie saoudite et critique des religions"
+    },
+    {
+      "startSeconds": 2205,
+      "title": "Boycott comme arme économique"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Alimentation végétale et protection des océans"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Delphinariums et captivité des mammifères marins"
+    },
+    {
+      "startSeconds": 2520,
+      "title": "Dialogue et divisions entre les peuples"
+    }
+  ]
+}

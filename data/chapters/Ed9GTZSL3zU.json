@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "videoId": "Ed9GTZSL3zU",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T13:09:45Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des intervenants et de leurs parcours"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Surveillance numérique et guerre contre le terrorisme"
+    },
+    {
+      "startSeconds": 495,
+      "title": "IMSI catchers et surveillance mobile"
+    },
+    {
+      "startSeconds": 720,
+      "title": "Sécurité des entreprises et rôle des hackers"
+    },
+    {
+      "startSeconds": 945,
+      "title": "Chiffrement des communications"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Portes dérobées et logiciels espions"
+    },
+    {
+      "startSeconds": 1260,
+      "title": "Loi renseignement et intérêts économiques"
+    },
+    {
+      "startSeconds": 1575,
+      "title": "Cyberespace, guerre et Internet des objets"
+    },
+    {
+      "startSeconds": 1800,
+      "title": "Armes informatiques et logiciels offensifs"
+    },
+    {
+      "startSeconds": 2070,
+      "title": "Contrôle démocratique des techniques de renseignement"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Boîtes noires et surveillance algorithmique"
+    },
+    {
+      "startSeconds": 2790,
+      "title": "Failles non corrigées et outils de surveillance"
+    },
+    {
+      "startSeconds": 2925,
+      "title": "Lanceurs d’alerte et alliances de renseignement"
+    },
+    {
+      "startSeconds": 3150,
+      "title": "Statut juridique des lanceurs d’alerte"
+    },
+    {
+      "startSeconds": 3375,
+      "title": "Bug bounty et divulgation des failles"
+    },
+    {
+      "startSeconds": 3555,
+      "title": "Lanceurs d’alerte et ventes de logiciels espions"
+    },
+    {
+      "startSeconds": 3690,
+      "title": "Conseils pour suivre les débats et vérifier les sources"
+    },
+    {
+      "startSeconds": 3825,
+      "title": "Technologie, risques et responsabilité humaine"
+    }
+  ]
+}

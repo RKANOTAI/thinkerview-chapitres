@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "videoId": "fzF7mPpsFQI",
+  "source": "ai-transcript",
+  "generatedAt": "2026-09-20T08:44:22Z",
+  "generator": {
+    "provider": "openai-codex",
+    "model": "gpt-5.6-luna",
+    "promptVersion": 1
+  },
+  "transcriptLanguage": "fr",
+  "chapters": [
+    {
+      "startSeconds": 0,
+      "title": "Présentation des invités et parcours financiers"
+    },
+    {
+      "startSeconds": 180,
+      "title": "Liquidités mondiales et faible investissement"
+    },
+    {
+      "startSeconds": 405,
+      "title": "Réforme monétaire et diversification des devises"
+    },
+    {
+      "startSeconds": 675,
+      "title": "Hyperfinanciarisation et risques systémiques"
+    },
+    {
+      "startSeconds": 900,
+      "title": "Ploutocratie américaine et contrôle financier"
+    },
+    {
+      "startSeconds": 1125,
+      "title": "Pressions financières et extraterritorialité du dollar"
+    },
+    {
+      "startSeconds": 1665,
+      "title": "Alternatives monétaires et surveillance numérique"
+    },
+    {
+      "startSeconds": 1755,
+      "title": "Asile de Snowden et dissidence politique"
+    },
+    {
+      "startSeconds": 2025,
+      "title": "Crise syrienne et position diplomatique russe"
+    },
+    {
+      "startSeconds": 2250,
+      "title": "Révolutions arabes et ingérences étrangères"
+    },
+    {
+      "startSeconds": 2430,
+      "title": "Guerre civile syrienne et rivalités régionales"
+    },
+    {
+      "startSeconds": 3015,
+      "title": "Retrait américain et chaos moyen-oriental"
+    },
+    {
+      "startSeconds": 3285,
+      "title": "Coopération internationale et risque de guerre mondiale"
+    },
+    {
+      "startSeconds": 3465,
+      "title": "Tensions sino-américaines et voies diplomatiques"
+    },
+    {
+      "startSeconds": 3555,
+      "title": "Débat sur une guerre mondiale déjà engagée"
+    },
+    {
+      "startSeconds": 3915,
+      "title": "Diversité du monde musulman et prudence politique"
+    },
+    {
+      "startSeconds": 4050,
+      "title": "Migration syrienne et fragilités européennes"
+    },
+    {
+      "startSeconds": 4140,
+      "title": "Russie, Europe et tensions géopolitiques"
+    },
+    {
+      "startSeconds": 4455,
+      "title": "Conseils aux jeunes générations"
+    }
+  ]
+}
