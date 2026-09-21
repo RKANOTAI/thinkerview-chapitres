@@ -18047,67 +18047,71 @@
       "liveStatus": "none",
       "descriptionExcerpt": "Vous avez un problème avec l'information ? Nous aussi. Nous avons cherché pour notre interview un journaliste remplissant au moins deux qualités :\nI - Respecter la vérité, quelles qu'en soient les conséquences pour lui-même, et ce, en raison du droit que le public a de connaitre ",
       "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
+      "chapterSource": "youtube-description",
       "chapters": [
         {
           "startSeconds": 0,
-          "title": "Clearstream et la crise de la presse"
+          "title": "Début"
         },
         {
-          "startSeconds": 225,
-          "title": "Protection des sources et avenir du journalisme"
+          "startSeconds": 86,
+          "title": "La presse papier"
         },
         {
-          "startSeconds": 450,
-          "title": "Réformer les procès en diffamation"
+          "startSeconds": 135,
+          "title": "L'affaissement de la presse"
         },
         {
-          "startSeconds": 675,
-          "title": "Dépendance de la presse financière"
+          "startSeconds": 228,
+          "title": "La protection des sources"
         },
         {
-          "startSeconds": 900,
-          "title": "Définition du statut de journaliste"
+          "startSeconds": 380,
+          "title": "Les procédures Bayonnes"
         },
         {
-          "startSeconds": 1125,
-          "title": "Défense de Snowden et des lanceurs d’alerte"
+          "startSeconds": 620,
+          "title": "La presse financière"
         },
         {
-          "startSeconds": 1215,
-          "title": "Financement public d’une chaîne documentaire"
+          "startSeconds": 737,
+          "title": "La diffamation"
         },
         {
-          "startSeconds": 1440,
-          "title": "Plateforme documentaire et esprit critique"
+          "startSeconds": 772,
+          "title": "Les règles de l'internet"
         },
         {
-          "startSeconds": 1575,
-          "title": "Financer les documentaires sur des sujets sensibles"
+          "startSeconds": 920,
+          "title": "La carte de presse"
         },
         {
-          "startSeconds": 1710,
-          "title": "Affaire Cahuzac et journalisme d’enquête"
+          "startSeconds": 1110,
+          "title": "La géopolitique"
         },
         {
-          "startSeconds": 1980,
-          "title": "Marginalité et éthique du journaliste"
+          "startSeconds": 1230,
+          "title": "La chaîne documentaire"
         },
         {
-          "startSeconds": 2070,
-          "title": "Formation des journalistes et culture économique"
+          "startSeconds": 1350,
+          "title": "L'argent public"
         },
         {
-          "startSeconds": 2250,
-          "title": "Modèle économique d’un journalisme de qualité"
+          "startSeconds": 1670,
+          "title": "Le déterminant de l'affaire Kousaki"
         },
         {
-          "startSeconds": 2295,
-          "title": "Conseils pour développer l’esprit critique"
+          "startSeconds": 1975,
+          "title": "Le rôle des journalistes"
         },
         {
-          "startSeconds": 2430,
-          "title": "Avenir du journalisme et du web"
+          "startSeconds": 2065,
+          "title": "Le cursus littéraire"
+        },
+        {
+          "startSeconds": 2310,
+          "title": "Conclusion"
         }
       ]
     },
