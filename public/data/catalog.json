@@ -7,7 +7,7 @@
     "url": "https://www.youtube.com/@thinkerview"
   },
   "syncedAt": "2026-09-17T09:24:16.860Z",
-  "playlistItemCount": 456,
+  "playlistItemCount": 433,
   "unavailableVideoIds": [],
   "videos": [
     {
@@ -64,20 +64,6 @@
           "title": "Retrouver un projet d'avenir en Europe"
         }
       ]
-    },
-    {
-      "id": "ALIPF5lqIpw",
-      "title": "I.A. : L'humanité va-t-elle survivre ? Gilles Babinet [EN DIRECT]",
-      "publishedAt": "2026-09-14T17:12:39Z",
-      "durationSeconds": 0,
-      "thumbnailUrl": "https://i.ytimg.com/vi/ALIPF5lqIpw/maxresdefault_live.jpg",
-      "embeddable": true,
-      "kind": "live",
-      "liveStatus": "upcoming",
-      "descriptionExcerpt": "Gilles Babinet, ex-président du Conseil de l'intelligence artificielle et du numérique, entrepreneur.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "upcoming",
-      "chapterSource": null,
-      "chapters": []
     },
     {
       "id": "mDfQkS_1SfU",
@@ -7647,60 +7633,6 @@
       ]
     },
     {
-      "id": "2-J9d2VbA6o",
-      "title": "9 milliards de subventions agricoles et des agriculteurs pauvres ?  #interview #agriculture",
-      "publishedAt": "2025-04-13T16:00:04Z",
-      "durationSeconds": 154,
-      "thumbnailUrl": "https://i.ytimg.com/vi/2-J9d2VbA6o/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Ulysse Thevenon: Journaliste et réalisateur.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Dignité et précarité des exploitants agricoles"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Les subventions absorbées par l’amont et l’aval"
-        },
-        {
-          "startSeconds": 135,
-          "title": "Les aides publiques ne restent pas aux agriculteurs"
-        }
-      ]
-    },
-    {
-      "id": "kdHR9M97tL4",
-      "title": "Sans les agriculteurs : rien à manger ! Pourtant ils sont dans la misère.  #interview #agriculture",
-      "publishedAt": "2025-04-11T14:09:14Z",
-      "durationSeconds": 152,
-      "thumbnailUrl": "https://i.ytimg.com/vi/kdHR9M97tL4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Ulysse Thevenon: Journaliste et réalisateur.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Détresse et pressions sur les agriculteurs"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Acteurs de la filière et prix imposés aux éleveurs"
-        },
-        {
-          "startSeconds": 90,
-          "title": "Prix du lait, ventes à perte et veaux dévalorisés"
-        }
-      ]
-    },
-    {
       "id": "5zlUi58u3ek",
       "title": "La mort est dans le pré : Les dessous de l'élevage selon Ulysse Thevenon ? [EN DIRECT]",
       "publishedAt": "2025-04-10T19:23:15Z",
@@ -7816,356 +7748,6 @@
         {
           "startSeconds": 7515,
           "title": "Réflexion finale sur les clivages"
-        }
-      ]
-    },
-    {
-      "id": "68Won8CaQwI",
-      "title": "L'arnaque du CO2 ? Olivier Hamant",
-      "publishedAt": "2025-04-09T15:30:03Z",
-      "durationSeconds": 139,
-      "thumbnailUrl": "https://i.ytimg.com/vi/68Won8CaQwI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Olivier Hamant : chercheur en biologie et biophysique.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Conservatisme de la recherche et enseignement"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Capture directe du CO2 et crédits carbone"
-        },
-        {
-          "startSeconds": 90,
-          "title": "Biodiversité comme levier systémique de l’action"
-        }
-      ]
-    },
-    {
-      "id": "50tL21792kw",
-      "title": "Le populisme c'est Macron ? Alexandre Jardin",
-      "publishedAt": "2025-04-08T16:00:07Z",
-      "durationSeconds": 160,
-      "thumbnailUrl": "https://i.ytimg.com/vi/50tL21792kw/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "SOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview\nPOSEZ VOS QUESTIONS EN DIRECT : ▶️ https://discord.gg/Ey3pBWV",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Populisme, Macron et État profond"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Nominations entre institutions publiques"
-        },
-        {
-          "startSeconds": 135,
-          "title": "La technocratie française comme problème systémique"
-        }
-      ]
-    },
-    {
-      "id": "UBItQuEGldk",
-      "title": "Idéologie de la finance ? David Guiraud",
-      "publishedAt": "2025-04-07T16:00:47Z",
-      "durationSeconds": 142,
-      "thumbnailUrl": "https://i.ytimg.com/vi/UBItQuEGldk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "David Guiraud : Député LFI de la 8ème circonscription du Nord\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Idéologie du marché chez les dirigeants européens"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Liens entre les dirigeants et le grand patronat"
-        },
-        {
-          "startSeconds": 90,
-          "title": "Idéologie et pression sur le projet de loi de finances"
-        }
-      ]
-    },
-    {
-      "id": "MIFwjHO2ZZ0",
-      "title": "La fin de l'Europe  ? Nicolas Dupont-Aignan",
-      "publishedAt": "2025-04-06T16:00:29Z",
-      "durationSeconds": 140,
-      "thumbnailUrl": "https://i.ytimg.com/vi/MIFwjHO2ZZ0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Nicolas Dupont-Aignan : président de Debout la France, ex-Député de l'Essonne.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Conflit en Ukraine et séparation de l’Europe et de la Russie"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Alliance russe et combat pour l’avenir de la France"
-        },
-        {
-          "startSeconds": 90,
-          "title": "La France face au projet européen et à Emmanuel Macron"
-        }
-      ]
-    },
-    {
-      "id": "vq-3IVnohx0",
-      "title": "De l'abondance matérielle à l'abondance relationnelle ? Olivier Hamant",
-      "publishedAt": "2025-04-06T10:01:09Z",
-      "durationSeconds": 85,
-      "thumbnailUrl": "https://i.ytimg.com/vi/vq-3IVnohx0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Olivier Hamant : chercheur en biologie et biophysique.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
-    },
-    {
-      "id": "V0J7mObM3R8",
-      "title": "La France a des ressources extraordinaires ! Alexandre Jardin",
-      "publishedAt": "2025-04-05T19:30:03Z",
-      "durationSeconds": 165,
-      "thumbnailUrl": "https://i.ytimg.com/vi/V0J7mObM3R8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "SOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview\nPOSEZ VOS QUESTIONS EN DIRECT : ▶️ https://discord.gg/Ey3pBWV",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Démocratie, mouvements et solutions aux fractures sociales"
-        },
-        {
-          "startSeconds": 90,
-          "title": "Créativité française et blocages bureaucratiques"
-        },
-        {
-          "startSeconds": 135,
-          "title": "Question sur la sortie de la France de l'Europe"
-        }
-      ]
-    },
-    {
-      "id": "CdXy78uzHr4",
-      "title": "L'UE, corrompue ? Virginie Joron",
-      "publishedAt": "2025-04-05T17:30:02Z",
-      "durationSeconds": 136,
-      "thumbnailUrl": "https://i.ytimg.com/vi/CdXy78uzHr4/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Virginie Joron : Députée européenne, Rassemblement national.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Chèque de 80 millions d’euros au laboratoire"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Questions sur l’usage des 80 millions d’euros"
-        },
-        {
-          "startSeconds": 90,
-          "title": "Partenaires du laboratoire et récupération des fonds"
-        }
-      ]
-    },
-    {
-      "id": "woMP81uEtiE",
-      "title": "Coopérer ou disparaitre ? Olivier Hamant",
-      "publishedAt": "2025-04-05T16:01:11Z",
-      "durationSeconds": 180,
-      "thumbnailUrl": "https://i.ytimg.com/vi/woMP81uEtiE/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Olivier Hamant : chercheur en biologie et biophysique.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Dialogue contradictoire et limites de la compétition"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Formation à la coopération entre humains et non humains"
-        },
-        {
-          "startSeconds": 90,
-          "title": "Besoins, ressources et nature partenaire"
-        },
-        {
-          "startSeconds": 135,
-          "title": "Robustesse du vivant et stratégie du parasite"
-        }
-      ]
-    },
-    {
-      "id": "BlYVf_omk9I",
-      "title": "Comment préparer une guillotine ? Juan Branco",
-      "publishedAt": "2025-04-04T18:18:10Z",
-      "durationSeconds": 176,
-      "thumbnailUrl": "https://i.ytimg.com/vi/BlYVf_omk9I/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Juan Branco, avocat.\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Manuel sur les guillotines et expérience des gilets jaunes"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Ouverture symbolique d’une porte ministérielle"
-        },
-        {
-          "startSeconds": 90,
-          "title": "Gaz lacrymogène, LBD et revendication de dignité"
-        },
-        {
-          "startSeconds": 135,
-          "title": "Errance et découverte d’un Fenwick dans le quartier ministériel"
-        }
-      ]
-    },
-    {
-      "id": "GNCOl7WAOl0",
-      "title": "Où va la France ? David Guiraud",
-      "publishedAt": "2025-04-04T18:00:46Z",
-      "durationSeconds": 96,
-      "thumbnailUrl": "https://i.ytimg.com/vi/GNCOl7WAOl0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "David Guiraud : Député LFI de la 8ème circonscription du Nord\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Ressources et choix énergétiques de la France"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Difficultés industrielles et réglementation électrique européenne"
-        },
-        {
-          "startSeconds": 90,
-          "title": "Politiques européennes appliquées en France"
-        }
-      ]
-    },
-    {
-      "id": "mSjNXeBNr58",
-      "title": "Ils se rêvent dealers, ils finissent esclaves ! Philippe Pujol",
-      "publishedAt": "2025-04-04T00:14:12Z",
-      "durationSeconds": 131,
-      "thumbnailUrl": "https://i.ytimg.com/vi/mSjNXeBNr58/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Philippe Pujol : Journaliste et écrivain, Prix Albert Londres pour \"Quartiers Shit\"\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Rêve de Marseille et recrutement de jeunes endettés"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Tortures et violences infligées aux personnes endettées"
-        },
-        {
-          "startSeconds": 90,
-          "title": "Jambisation et recours aux personnes vulnérables"
-        }
-      ]
-    },
-    {
-      "id": "ET4Cs9nB4Bg",
-      "title": "Les ZFE, 12 millions de véhicules au rebus ? Alexandre Jardin",
-      "publishedAt": "2025-04-04T00:09:40Z",
-      "durationSeconds": 180,
-      "thumbnailUrl": "https://i.ytimg.com/vi/ET4Cs9nB4Bg/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "SOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview\nPOSEZ VOS QUESTIONS EN DIRECT : ▶️ https://discord.gg/Ey3pBWV",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Perte de valeur des véhicules et enjeu social"
-        },
-        {
-          "startSeconds": 90,
-          "title": "Véhicules invendables et fin des reprises automobiles"
-        },
-        {
-          "startSeconds": 135,
-          "title": "Destination des véhicules en Europe et en Afrique"
-        }
-      ]
-    },
-    {
-      "id": "zS6Wb83C7vY",
-      "title": "ZFE, l'exclusion de 20 millions de pauvres ? Alexandre Jardin #interview #automobile",
-      "publishedAt": "2025-04-03T16:32:09Z",
-      "durationSeconds": 172,
-      "thumbnailUrl": "https://i.ytimg.com/vi/zS6Wb83C7vY/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "SOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview\nPOSEZ VOS QUESTIONS EN DIRECT : ▶️ https://discord.gg/Ey3pBWV",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Accès annuel encadré à Paris"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Critère d’année plutôt que de pollution"
-        },
-        {
-          "startSeconds": 90,
-          "title": "Parkings avec bus et difficultés de sécurité"
-        },
-        {
-          "startSeconds": 135,
-          "title": "Blocage des activités et multiplication des dérogations"
         }
       ]
     },
@@ -9071,33 +8653,6 @@
       ]
     },
     {
-      "id": "vbM_QE_l0PU",
-      "title": "Mythe de l'argent facile : trafic de drogues, de dettes et d'esclaves. #mafia #podcast #interview",
-      "publishedAt": "2025-03-01T16:30:33Z",
-      "durationSeconds": 180,
-      "thumbnailUrl": "https://i.ytimg.com/vi/vbM_QE_l0PU/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Philippe Pujol : Journaliste et écrivain, Prix Albert Londres pour \"Quartiers Shit\"\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Illusion de l'argent facile et promotion du collecteur"
-        },
-        {
-          "startSeconds": 45,
-          "title": "Dette imposée, violence et cavalerie entre réseaux"
-        },
-        {
-          "startSeconds": 135,
-          "title": "Expansion territoriale par l'avance de stupéfiants"
-        }
-      ]
-    },
-    {
       "id": "ewt9Gml0IPU",
       "title": "Xavier Fontanet, Des Stratèges ou des Amateurs à la tête de l’État ? [EN DIRECT]",
       "publishedAt": "2025-02-24T19:45:07Z",
@@ -9352,33 +8907,6 @@
         {
           "startSeconds": 9810,
           "title": "Livres conseillés et appel à l’esprit critique"
-        }
-      ]
-    },
-    {
-      "id": "QgpvhUMaGUI",
-      "title": "Kalachnikov Dream, à la fin tu meurt ! #interview #mafia",
-      "publishedAt": "2025-02-14T18:26:42Z",
-      "durationSeconds": 154,
-      "thumbnailUrl": "https://i.ytimg.com/vi/QgpvhUMaGUI/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Philippe Pujol : Journaliste et écrivain, Prix Albert Londres pour \"Quartiers Shit\"\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "ready",
-      "chapterSource": "ai-transcript",
-      "chapters": [
-        {
-          "startSeconds": 0,
-          "title": "Vie en prison et conséquences du grand banditisme"
-        },
-        {
-          "startSeconds": 90,
-          "title": "Violence persistante et fantasme de l’argent facile"
-        },
-        {
-          "startSeconds": 135,
-          "title": "Mythe de Scarface et coût humain du banditisme"
         }
       ]
     },
@@ -9912,20 +9440,6 @@
       "chapters": []
     },
     {
-      "id": "fnWu020B57k",
-      "title": "\"L'histoire Européenne ne fonctionne plus\" Pierre Lellouche sur Thinkerview #interview",
-      "publishedAt": "2024-10-23T10:30:34Z",
-      "durationSeconds": 60,
-      "thumbnailUrl": "https://i.ytimg.com/vi/fnWu020B57k/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Interview complète : https://www.youtube.com/watch?v=TpoO-RnOEmI\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
-    },
-    {
       "id": "TpoO-RnOEmI",
       "title": "Engrenage du chaos mondial à l'apocalypse ?  Pierre Lellouche [EN DIRECT]",
       "publishedAt": "2024-10-22T18:39:21Z",
@@ -10220,20 +9734,6 @@
       "chapters": []
     },
     {
-      "id": "x_IMU3qyl_0",
-      "title": "Agriculture Bio et Gouvernement.  #Shorts",
-      "publishedAt": "2024-02-14T00:46:25Z",
-      "durationSeconds": 60,
-      "thumbnailUrl": "https://i.ytimg.com/vi/x_IMU3qyl_0/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Extrait de notre interview sur l'agriculture à voir ici ▶️ https://youtube.com/live/f1xWvIaj-WE\nSOUTENEZ-NOUS : ▶️ https://tipeee.com/thinkerview",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
-    },
-    {
       "id": "f1xWvIaj-WE",
       "title": "La mort de l'agriculture française ? Pierrick Horel et Quentin Le Guillous [EN DIRECT]",
       "publishedAt": "2024-02-13T21:22:58Z",
@@ -10243,20 +9743,6 @@
       "kind": "live",
       "liveStatus": "none",
       "descriptionExcerpt": "Pierrick Horel, éleveur et cultivateur dans les Alpes, secrétaire général des Jeunes Agriculteurs.\nQuentin Le Guillous, cultivateur et maraicher, secrétaire général adjoint des Jeunes Agriculteurs.",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
-    },
-    {
-      "id": "cHRYAOP6e2E",
-      "title": "\"Plus rien de m'étonne\" par Tiken Jah Fakoly.  #Shorts",
-      "publishedAt": "2024-02-07T11:12:00Z",
-      "durationSeconds": 59,
-      "thumbnailUrl": "https://i.ytimg.com/vi/cHRYAOP6e2E/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "On vous partage un petit extrait musical qui a conclu notre interview de Tiken Jah Fakoli, disponible en entier ici : https://www.youtube.com/watch?v=NNt4_lEbT8U\nSOUTENEZ THINKERVIEW : ▶️ https://tipeee.com/thinkerview",
       "chapterStatus": "pending",
       "chapterSource": null,
       "chapters": []
@@ -17330,20 +16816,6 @@
       ]
     },
     {
-      "id": "0SUtedD8Kt8",
-      "title": "Les Econoclastes",
-      "publishedAt": "2014-06-16T08:54:24Z",
-      "durationSeconds": 178,
-      "thumbnailUrl": "https://i.ytimg.com/vi/0SUtedD8Kt8/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Philippe Béchade,\nPierre Sabatier, Nicolas Chéron, Olivier Delamarche, Olivier Berruyer, Thomas Veillet, Rodolphe Steffan, Loic Schmid, Stéphane Dubois et THINKERVIEW sont réunis dans un même groupe ÉCOUTER EN PODCAST AUDIO :",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
-    },
-    {
       "id": "_lrC9Ydh3Fo",
       "title": "Benjamin Bayart - Neutralité du net",
       "publishedAt": "2014-04-28T09:54:48Z",
@@ -17642,20 +17114,6 @@
           "title": "Transparence des banques et risques cachés"
         }
       ]
-    },
-    {
-      "id": "TEbv3qJ5_Yk",
-      "title": "Réalité bancaire camouflée, imposture des journalistes ?",
-      "publishedAt": "2014-02-24T18:09:00Z",
-      "durationSeconds": 101,
-      "thumbnailUrl": "https://i.ytimg.com/vi/TEbv3qJ5_Yk/maxresdefault.jpg",
-      "embeddable": true,
-      "kind": "video",
-      "liveStatus": "none",
-      "descriptionExcerpt": "Dans les semaines à venir, la presse économique va être amenée\nà parler de nouveaux stress tests des banques. Plutôt que d'ouvrir",
-      "chapterStatus": "pending",
-      "chapterSource": null,
-      "chapters": []
     },
     {
       "id": "r_G9fOCBpes",
